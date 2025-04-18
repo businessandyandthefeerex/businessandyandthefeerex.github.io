@@ -18,7 +18,11 @@ All our restaurant reviews listed by region.
 <ul>
   {% for region in custom_order %}
     {% if nz_regions contains region %}
-      <li>{{ region }}</li>
+      <li>
+        <a href="/locations/new-zealand/{{ region | downcase | replace: ' ', '-' }}/">
+            {{ region }}
+        </a>
+      </li>
     {% endif %}
   {% endfor %}
 </ul>
