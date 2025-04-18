@@ -10,7 +10,7 @@ If you make a post that is in a new region or country, new countries and regions
 You will need to run the generate_region_pages ruby script locally to make the folders and pages before pushing to the remote repo.
 Or you can create the folders and pages manually if you prefer, but to save some time and a headache, run the script.
 
-to do
-search
-map
-test if multiple categories can dynamically create folders for blog posts
+to do  
+search  
+map  
+test if multiple categories can dynamically create folders for blog posts  
