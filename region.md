@@ -4,11 +4,21 @@ permalink: /region/
 ---
 All our restaurant reviews listed by region.
 
-<h1>Regions</h1>
+{% assign nz_posts = site.categories.reviews | where: "country", "New Zealand" %}
+{% assign nz_regions = "" | split: "" %}
+
+{% for post in nz_posts %}
+  {% unless nz_regions contains post.region %}
+    {% assign nz_regions = nz_regions | push: post.region %}
+  {% endunless %}
+{% endfor %}
+
+{% assign custom_order = "Northland,Auckland,Waikato,Bay of Plenty,Gisborne,Hawke's Bay,Taranaki,Manawatū-Whanganui,Wellington,Tasman,Nelson,Marlborough,West Coast,Canterbury,Otago,Southland" | split: "," %}
+
 <ul>
-  {% assign posts = site.categories.reviews %}
-  {% assign regions = posts | map: 'region' | uniq | sort %}
-  {% for region in regions %}
-    <li><a href="/region/{{ region | downcase | replace: ' ', '-' }}/">{{ region }}</a></li>
+  {% for region in custom_order %}
+    {% if nz_regions contains region %}
+      <li>{{ region }}</li>
+    {% endif %}
   {% endfor %}
 </ul>
