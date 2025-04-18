@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Reviews
 permalink: /reviews/
 ---
