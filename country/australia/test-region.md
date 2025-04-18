@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Northland, New Zealand
-region: Northland
-country: New Zealand
-permalink: /country/new-zealand/northland/
+title: test region, Australia
+region: test region
+country: Australia
+permalink: /country/australia/test-region/
 ---
-[↑ Go to New Zealand regions](/country/new-zealand/)
+[↑ Go to Australia regions](/country/australia/)
 <ul>
-  {% assign posts = site.posts | where: "region", "Northland" | where: "country", "New Zealand" %}
+  {% assign posts = site.posts | where: "region", "test region" | where: "country", "Australia" %}
   {% assign grouped_posts = posts | group_by: "suburb" %}
 
   {% for group in grouped_posts %}

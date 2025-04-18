@@ -2,7 +2,7 @@
 title: Countries
 permalink: /country/
 ---
-[⬅ Go back to the Browse by Region page](/region/)
+[⬅ Go to the Browse by Region page](/region/)
 
 {% assign reviews = site.categories.reviews %}
 {% assign countries = "" | split: "" %}

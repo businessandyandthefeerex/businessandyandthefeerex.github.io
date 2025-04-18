@@ -65,7 +65,7 @@ countries.each do |country|
       country: #{country}
       permalink: /country/#{country_slug}/
       ---
-      [⬅ Go up one level](/country/)
+      [↑ Go to the list of all countries](/country/)
       <ul>
     MARKDOWN
 
@@ -101,7 +101,7 @@ countries.each do |country|
           country: #{country}
           permalink: /country/#{country_slug}/#{region_slug}/
           ---
-          [⬅ Go up one level](/country/#{country_slug}/)
+          [↑ Go to #{country} regions](/country/#{country_slug}/)
           <ul>
             {% assign posts = site.posts | where: "region", "#{region}" | where: "country", "#{country}" %}
             {% assign grouped_posts = posts | group_by: "suburb" %}

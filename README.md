@@ -8,4 +8,9 @@ This ensures that posts are automatically put into the right lists that filter t
 You don't need to manually shuffle these pages each time you make a new post, it's all automatic as long as you put the country, region, suburb, and rating in the front matter of each post.
 If you make a post that is in a new region or country, new countries and regions aren't added automatically.
 You will need to run the generate_region_pages ruby script locally to make the folders and pages before pushing to the remote repo.
-Or you can create the manually if you prefer, but to save some time and a headache, run the script.
+Or you can create the folders and pages manually if you prefer, but to save some time and a headache, run the script.
+
+to do
+search
+map
+test if multiple categories can dynamically create folders for blog posts

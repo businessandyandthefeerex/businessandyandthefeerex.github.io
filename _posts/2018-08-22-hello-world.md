@@ -5,9 +5,9 @@ title: Madly Indian
 date: 2023-12-08
 rating: 3
 address: 342 Kerikeri Road, Kerikeri 0230
-country: New Zealand
-region: Northland
-suburb: Kerikeri
+country: Australia
+region: test region
+suburb: test city
 website: https://madlyindian.co.nz/
 ---
 
