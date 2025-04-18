@@ -2,10 +2,10 @@
 title: Reviews
 permalink: /reviews/
 ---
-All our reviews, with the latest on top.
+All our restaurant reviews, with the latest on top.
 
 <ul>
-  {% for post in site.categories.reviews %}
+  {% for post in site.reviews %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
