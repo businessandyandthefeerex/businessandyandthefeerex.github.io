@@ -4,7 +4,7 @@ layout: post
 title: Stratosfare Restaurant & Bar
 date: 2024-02-22
 rating: 1
-address: 342 Kerikeri Road, Kerikeri 0230
+address: 178 Fairy Springs Road, Fairy Springs, Rotorua 3015
 country: New Zealand
 region: Bay of Plenty
 suburb: Rotorua

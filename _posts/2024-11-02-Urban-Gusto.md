@@ -10,14 +10,14 @@ region: Bay of Plenty
 suburb: Rotorua
 website: https://urbangusto.co.nz/
 ---
-Rating : 3 
+Rating: 3 
 
 We ate dinner here in November 2024 
 
-Pear, gongonzola, rocket and pine nut pizza
-Roasted cauliflower with parmesan and cherry tomatoes
-Biscoff tiramisu
-White chocolate blueberry arancini
+Pear, gongonzola, rocket and pine nut pizza  
+Roasted cauliflower with parmesan and cherry tomatoes  
+Biscoff tiramisu  
+White chocolate blueberry arancini  
 
 Something very unusual happened at Urban Gusto this evening. We were asked for genuine feedback. We're not talking about the perfunctory "how was your meal" either. When dropping off the tiramisu, the waiter said "we've had this on the specials menu for a couple of weeks, would love your feedback." We subsequently didn't see that waiter again, but hopefully he gets to read this review. So here goes - the flavours were yummy, we liked the crumbled up biscoff on the top, but that was not a tiramisu. It had no coffee. Also it was very sweet, especially with the caramel in the bottom so it became cloying after a while. Also, the glass you served it in was too tall. We recommend you try soaking the biscoff in coffee, the way you would for ladyfingers in a traditional tiramisu. 
 
