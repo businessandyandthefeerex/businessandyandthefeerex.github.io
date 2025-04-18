@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Reviews by Region
 permalink: /region/
 ---
@@ -19,8 +20,22 @@ All our restaurant reviews listed by region.
   {% for region in custom_order %}
     {% if nz_regions contains region %}
       <li>
-        <a href="/locations/new-zealand/{{ region | downcase | replace: ' ', '-' }}/">
+        <a href="/country/new-zealand/{{ region | downcase | replace: ' ', '-' }}/">
             {{ region }}
+        </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<ul>
+  {% assign countries = site.categories.reviews | map: 'country' | uniq %}
+  
+  {% for country in countries %}
+    {% if country != "New Zealand" %}
+      <li>
+        <a href="/country/{{ country | downcase | replace: ' ', '-' }}/">
+            {{ country }}
         </a>
       </li>
     {% endif %}

@@ -19,7 +19,6 @@ plugins:
 - jekyll-include-cache
 - jemoji
 - jekyll-remote-theme
-- jekyll-datapage_gen
 
 # Site settings
 url: 'https://mydomain.com'

@@ -1,9 +1,9 @@
-# Starter kit for [Alembic](https://alembic.darn.es/)
+Add new reviews to the _posts folder in the root of this repository.
+Name them with a date at the start in yyyy-mm-dd format for clarity and to avoid duplicates.
+It's important to get the front matter right, that's the stuff between the two lines of --- at the start of the file.
+If in doubt, just copy a file and then overwrite what's there with the new values for the new post.
 
-This is a very simple starting point if you wish to use Alembic [as a Jekyll theme gem](https://alembic.darn.es/#as-a-jekyll-theme) or as a [GitHub Pages remote theme](https://github.com/daviddarnes/alembic-kit/tree/remote-theme) (see `remote-theme` branch).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit)
-
-or
-
-**[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
+Posts are organised by date by default, but they have a secondary organisation, by country/region/suburb/rating.
+This ensures that posts are automatically put into the right lists that filter through to the Browse by Region pages.
+You don't need to manually shuffle these pages each time you make a new post, it's all automatic.
+However if there is a new region or country you will need to run the generate_region_pages ruby script locally to make the folders and pages.
