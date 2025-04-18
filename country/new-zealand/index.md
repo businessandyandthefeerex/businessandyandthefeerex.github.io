@@ -4,7 +4,7 @@ title: New Zealand
 country: New Zealand
 permalink: /country/new-zealand/
 ---
-[⬅ Go up one level](/country/)
+[↑ Go to the list of all countries](/country/)
 <ul>
 <li>
   <a href="/country/new-zealand/northland/">Northland</a>

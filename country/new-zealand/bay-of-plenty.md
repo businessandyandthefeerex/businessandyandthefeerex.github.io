@@ -5,7 +5,7 @@ region: Bay of Plenty
 country: New Zealand
 permalink: /country/new-zealand/bay-of-plenty/
 ---
-[⬅ Go up one level](/country/new-zealand/)
+[↑ Go to New Zealand regions](/country/new-zealand/)
 <ul>
   {% assign posts = site.posts | where: "region", "Bay of Plenty" | where: "country", "New Zealand" %}
   {% assign grouped_posts = posts | group_by: "suburb" %}
