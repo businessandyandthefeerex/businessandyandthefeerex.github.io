@@ -4,6 +4,7 @@ layout: post
 title: Stratosfare Restaurant & Bar
 date: 2024-02-22
 rating: 1
+meal: lunch
 address: 178 Fairy Springs Road, Fairy Springs, Rotorua 3015
 country: New Zealand
 region: Bay of Plenty

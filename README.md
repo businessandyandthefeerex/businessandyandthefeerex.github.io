@@ -11,6 +11,6 @@ You will need to run the generate_region_pages ruby script locally to make the f
 Or you can create the folders and pages manually if you prefer, but to save some time and a headache, run the script.
 
 to do  
-search  
+search - make serach work with front matter as well as just the text of a post  
 map  
 test if multiple categories can dynamically create folders for blog posts  
