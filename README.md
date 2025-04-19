@@ -12,5 +12,6 @@ Or you can create the folders and pages manually if you prefer, but to save some
 
 to do  
 search - make serach work with front matter as well as just the text of a post  
-map  
+will likely need to actually fork this as boilerplate and start over so that it's not a remote theme if i want to be able to edit how search works  
+map automation if possible  
 test if multiple categories can dynamically create folders for blog posts  
