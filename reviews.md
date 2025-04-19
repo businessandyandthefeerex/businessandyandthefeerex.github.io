@@ -4,10 +4,6 @@ permalink: /reviews/
 ---
 All our restaurant reviews, with the latest on top. If you are looking for them listed in a more orderly fashion, try browsing by region instead.
 
-{% include site-search.html %}
-
----
-
 <h3>All our reviews</h3>
 
 <ul>

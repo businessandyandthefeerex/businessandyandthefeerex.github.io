@@ -1,24 +1,14 @@
 ---
-title: Restaurant Reviews
+title: About Us
 ---
 <br>
-<div style="text-align: center;">
-The Restaurant Rating System  
-</div>
+<h3>The Restaurant Rating System</h3>
 <br>
-<div style="text-align: center;">
 4 - Great  <br>
 3 - Good  <br>
 2 - Meh  <br>
-1 - Bad  
-</div>
+1 - Bad  <br>
 <br>
-
-<div style="text-align: center;">
-The Restaurant Selection System 
-</div>
+<h3>The Restaurant Selection System</h3>
 <br> 
-
-<div style="text-align: center;">
 Restaurants are usually selected either using a random number generator or on an eat-at-the-first-place-we-see basis  
-</div>
