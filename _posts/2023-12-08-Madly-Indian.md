@@ -1,9 +1,10 @@
 ---
 category: reviews
 layout: post
-title: Hello, World
+title: Madly Indian
 date: 2023-12-08
 rating: 3
+meal: dinner
 address: 342 Kerikeri Road, Kerikeri 0230
 country: New Zealand
 region: Northland

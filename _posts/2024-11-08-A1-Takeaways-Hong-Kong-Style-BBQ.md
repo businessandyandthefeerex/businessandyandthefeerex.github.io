@@ -4,6 +4,7 @@ layout: post
 title: A1 Takeaways Hong Kong Style BBQ
 date: 2024-11-08
 rating: 2
+meal: dinner
 address: 36 Rongotai Road, Kilbirnie, Wellington 6022
 country: New Zealand
 region: Wellington

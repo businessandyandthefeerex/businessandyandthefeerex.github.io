@@ -4,6 +4,7 @@ layout: post
 title: The Rusty Bros
 date: 2024-11-03
 rating: 2
+meal: lunch
 address: 1263 Amohia Street, Rotorua 3010
 country: New Zealand
 region: Bay of Plenty

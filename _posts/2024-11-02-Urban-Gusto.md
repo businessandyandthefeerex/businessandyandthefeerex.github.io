@@ -4,6 +4,7 @@ layout: post
 title: Urban Gusto
 date: 2024-11-02
 rating: 3
+meal: dinner
 address: 1122 Tutanekai Street, Rotorua 3010
 country: New Zealand
 region: Bay of Plenty
