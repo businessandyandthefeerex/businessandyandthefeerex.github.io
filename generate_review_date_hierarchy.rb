@@ -150,7 +150,7 @@ unless File.exist?(reviews_index_file)
 
     {% for post in sorted_posts %}
     {% assign post_category = post.category %}
-    {% if post_category == "reviews" %}
+    {% if post_category == "Reviews" %}
     {% assign post_year = post.date | date: "%Y" %}
     {% assign post_month = post.date | date: "%B" %}
 

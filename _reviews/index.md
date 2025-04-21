@@ -12,7 +12,7 @@ All our reviews, with the latest on top. If you are looking for them listed in a
 
 {% for post in sorted_posts %}
 {% assign post_category = post.category %}
-{% if post_category == "reviews" %}
+{% if post_category == "Reviews" %}
 {% assign post_year = post.date | date: "%Y" %}
 {% assign post_month = post.date | date: "%B" %}
 

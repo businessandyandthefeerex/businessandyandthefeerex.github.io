@@ -1,5 +1,5 @@
 ---
-category: reviews
+category: Reviews
 layout: post
 title: Madly Indian
 date: 2023-12-08

@@ -1,5 +1,5 @@
 ---
-category: reviews
+category: Reviews
 layout: post
 title: Urban Gusto
 date: 2024-11-02

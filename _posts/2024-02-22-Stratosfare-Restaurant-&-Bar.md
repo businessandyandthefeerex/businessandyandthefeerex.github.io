@@ -1,5 +1,5 @@
 ---
-category: reviews
+category: Reviews
 layout: post
 title: Stratosfare Restaurant & Bar
 date: 2024-02-22
