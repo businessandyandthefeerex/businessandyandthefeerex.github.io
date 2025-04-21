@@ -18,7 +18,5 @@ categories/collections pages
 map automation if possible  
 test if multiple categories can dynamically create folders for blog posts  
 categories page for filtering by arbitrary category labels  
-metadata on each blog post/categories  
-print location, rating, and meal + date on each blog page  
 add rest of reviews  
 stats on ratings and also ratings by regions maybe  
