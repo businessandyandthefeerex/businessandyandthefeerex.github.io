@@ -1,8 +1,8 @@
-const version = '20250419120135';
+const version = '20250421054951';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/reviews/2024/11/08/A1-Takeaways-Hong-Kong-Style-BBQ/","/reviews/2024/11/03/The-Rusty-Bros/","/reviews/2024/11/02/Urban-Gusto/","/reviews/2024/02/22/Stratosfare-Restaurant-&-Bar/","/reviews/2023/12/08/Zane-Grey's-Restaurant-&-Bar/","/reviews/2023/12/08/Madly-Indian/","/reviews/2023/12/08/hello-world/","/general/2016/08/29/example-post-three/","/history/external%20sources/2016/08/28/example-post-two/","/general/external%20sources/2016/08/27/example-post-one/","/about/","/country/new-zealand/bay-of-plenty/","/categories/","/country/","/elements/","/blog/","/country/new-zealand/","/","/country/australia/","/manifest.json","/map/","/country/new-zealand/northland/","/offline/","/region/","/reviews/","/assets/search.json","/search/","/assets/styles.css","/country/australia/test-region/","/thanks/","/country/new-zealand/wellington/","/redirects.json","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/feed.xml","/sitemap.xml","/robots.txt","/assets/styles.css.map","/assets/logos/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/reviews/2024/11/08/A1-Takeaways-Hong-Kong-Style-BBQ/","/reviews/2024/11/03/The-Rusty-Bros/","/reviews/2024/11/02/Urban-Gusto/","/reviews/2024/02/22/Stratosfare-Restaurant-&-Bar/","/reviews/2023/12/08/Zane-Grey's-Restaurant-&-Bar/","/reviews/2023/12/08/Madly-Indian/","/reviews/2023/12/08/hello-world/","/general/2016/08/29/example-post-three/","/history/external%20sources/2016/08/28/example-post-two/","/general/external%20sources/2016/08/27/example-post-one/","/about/","/browse-region/","/browse-reviews/","/categories/","/country2/","/elements/","/blog/","/","/manifest.json","/browse-map/","/offline/","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/feed.xml","/sitemap.xml","/robots.txt","/assets/styles.css.map","/assets/logos/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: All Countries
-permalink: /country/
+permalink: /country2/
 ---
 [⬅ Go to the Browse by Region page](/region/)
 

@@ -1,6 +1,6 @@
 ---
 title: Reviews
-permalink: /reviews/
+permalink: /browse-reviews/
 ---
 All our restaurant reviews, with the latest on top. If you are looking for them listed in a more orderly fashion, try browsing by region instead.
 

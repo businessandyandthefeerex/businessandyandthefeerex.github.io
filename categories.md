@@ -1,7 +1,7 @@
 ---
 title: Categories
-layout: page #categories
+layout: categories
 excerpt: "Category index"
-# aside: true
+aside: true
 ---
 This page is under construction.
