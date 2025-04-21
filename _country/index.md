@@ -1,16 +1,15 @@
 ---
 layout: page
-title: "Country Index"
+title: All Countries
 permalink: /country/
 ---
-
-This is the index page for the `country` collection.
+[⬅ Go to the Browse by Region page](/browse-region/)
 
 <ul>
-    {% assign all_values = site.country | sort: "title" %}
-    {% for item in all_values %}
-        {% unless item.url == page.url %}
-            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-        {% endunless %}
-    {% endfor %}
+<li>
+  <a href="/country/australia/">Australia</a>
+</li>
+<li>
+  <a href="/country/new-zealand/">New Zealand</a>
+</li>
 </ul>

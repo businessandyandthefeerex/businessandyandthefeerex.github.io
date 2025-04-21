@@ -5,6 +5,8 @@ permalink: /browse-region/
 ---
 All our restaurant reviews listed by region.
 
+<h4>New Zealand</h4>
+
 {% assign nz_posts = site.categories.reviews | where: "country", "New Zealand" %}
 {% assign nz_regions = "" | split: "" %}
 
@@ -27,6 +29,9 @@ All our restaurant reviews listed by region.
     {% endif %}
   {% endfor %}
 </ul>
+
+
+<h4>Other Countries</h4>
 
 <ul>
   {% assign countries = site.categories.reviews | map: 'country' | uniq %}

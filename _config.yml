@@ -73,14 +73,19 @@ collections:
     output: true
   country:
     output: true
+    permalink: /country/:name/
   meal:
     output: true
+    permalink: /meal/:name/
   rating:
     output: true
+    permalink: /rating/:name/
   region:
     output: true
+    permalink: /region/:name/
   suburb:
     output: true
+    permalink: /suburb/:name/
   reviews:
     output: true
 
@@ -140,7 +145,7 @@ navigation_header:
 - title: About
   url: /about/
 - title: Reviews
-  url: /browse-reviews/
+  url: /reviews/
 - title: Browse by Region
   url: /browse-region/
 - title: Browse a Map
@@ -177,5 +182,5 @@ fonts:
     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
 
 # 10. Hooks
-hooks:
-  after_build: "ruby post_build.rb"
+# hooks:
+#   after_build: "ruby post_build.rb"
