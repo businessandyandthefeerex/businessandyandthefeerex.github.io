@@ -1,13 +1,13 @@
 ---
 layout: page
-title: test region, Australia
-region: test region
-country: Australia
-permalink: /country/australia/test-region/
+title: Auckland, New Zealand
+region: Auckland
+country: New Zealand
+permalink: /country/new-zealand/auckland/
 ---
-[↑ Go to Australia regions](/country/australia/)
+[↑ Go to New Zealand regions](/country/new-zealand/)
 <ul>
-  {% assign posts = site.posts | where: "region", "test region" | where: "country", "Australia" %}
+  {% assign posts = site.posts | where: "region", "Auckland" | where: "country", "New Zealand" %}
   {% assign grouped_posts = posts | group_by: "suburb" %}
 
   {% for group in grouped_posts %}
