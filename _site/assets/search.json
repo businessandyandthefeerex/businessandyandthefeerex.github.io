@@ -7,8 +7,8 @@
     
       {
         "title": "Category Index",
-        "excerpt": "This is the index page for the category collection.\n\n\n    \n    \n        \n    \n        \n            reviews\n        \n    \n\n",
-        "content": "This is the index page for the category collection.\n\n\n    \n    \n        \n    \n        \n            reviews\n        \n    \n\n",
+        "excerpt": "Every value used for the category collection.\n\n\n  \n  \n    \n  \n    \n      \n      \n        \n          \n            \n              Reviews\n            \n          \n        \n      \n    \n  \n\n",
+        "content": "Every value used for the category collection.\n\n\n  \n  \n    \n  \n    \n      \n      \n        \n          \n            \n              Reviews\n            \n          \n        \n      \n    \n  \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -17,9 +17,9 @@
       },
     
       {
-        "title": "reviews",
-        "excerpt": "This is an index page for reviews in the category collection.\n\n\n    \n    \n\n    \n        \n            A1 Takeaways Hong Kong Style BBQ\n        \n    \n        \n            The Rusty Bros\n        \n    \n        \n            Urban Gusto\n        \n    \n        \n            Stratosfare Restaurant &amp; Bar\n        \n    \n        \n            Zane Grey's Restaurant &amp; Bar\n        \n    \n        \n            Madly Indian\n        \n    \n        \n            Hello, World\n        \n    \n        \n    \n        \n    \n        \n    \n\n",
-        "content": "This is an index page for reviews in the category collection.\n\n\n    \n    \n\n    \n        \n            A1 Takeaways Hong Kong Style BBQ\n        \n    \n        \n            The Rusty Bros\n        \n    \n        \n            Urban Gusto\n        \n    \n        \n            Stratosfare Restaurant &amp; Bar\n        \n    \n        \n            Zane Grey's Restaurant &amp; Bar\n        \n    \n        \n            Madly Indian\n        \n    \n        \n            Hello, World\n        \n    \n        \n    \n        \n    \n        \n    \n\n",
+        "title": "Reviews",
+        "excerpt": "↑ Go to the Category index\n\nEvery post with a Reviews for its category.\n\n\n  \n  \n\n  \n      \n      \n          A1 Takeaways Hong Kong Style BBQ\n      \n  \n      \n      \n          The Rusty Bros\n      \n  \n      \n      \n          Urban Gusto\n      \n  \n      \n      \n          Stratosfare Restaurant &amp; Bar\n      \n  \n      \n      \n          Zane Grey's Restaurant &amp; Bar\n      \n  \n      \n      \n          Madly Indian\n      \n  \n      \n      \n          Hello, World\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
+        "content": "↑ Go to the Category index\n\nEvery post with a Reviews for its category.\n\n\n  \n  \n\n  \n      \n      \n          A1 Takeaways Hong Kong Style BBQ\n      \n  \n      \n      \n          The Rusty Bros\n      \n  \n      \n      \n          Urban Gusto\n      \n  \n      \n      \n          Stratosfare Restaurant &amp; Bar\n      \n  \n      \n      \n          Zane Grey's Restaurant &amp; Bar\n      \n  \n      \n      \n          Madly Indian\n      \n  \n      \n      \n          Hello, World\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -112,8 +112,8 @@
     
       {
         "title": "dinner",
-        "excerpt": "This is an index page for dinner in the meal collection.\n\n\n    \n    \n\n    \n        \n            A1 Takeaways Hong Kong Style BBQ\n        \n    \n        \n    \n        \n            Urban Gusto\n        \n    \n        \n    \n        \n            Zane Grey's Restaurant &amp; Bar\n        \n    \n        \n            Madly Indian\n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n\n",
-        "content": "This is an index page for dinner in the meal collection.\n\n\n    \n    \n\n    \n        \n            A1 Takeaways Hong Kong Style BBQ\n        \n    \n        \n    \n        \n            Urban Gusto\n        \n    \n        \n    \n        \n            Zane Grey's Restaurant &amp; Bar\n        \n    \n        \n            Madly Indian\n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n\n",
+        "excerpt": "↑ Go to the Meal index\n\nEvery post with a dinner for its meal.\n\n\n  \n  \n\n  \n      \n      \n          A1 Takeaways Hong Kong Style BBQ\n      \n  \n      \n      \n  \n      \n      \n          Urban Gusto\n      \n  \n      \n      \n  \n      \n      \n          Zane Grey's Restaurant &amp; Bar\n      \n  \n      \n      \n          Madly Indian\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
+        "content": "↑ Go to the Meal index\n\nEvery post with a dinner for its meal.\n\n\n  \n  \n\n  \n      \n      \n          A1 Takeaways Hong Kong Style BBQ\n      \n  \n      \n      \n  \n      \n      \n          Urban Gusto\n      \n  \n      \n      \n  \n      \n      \n          Zane Grey's Restaurant &amp; Bar\n      \n  \n      \n      \n          Madly Indian\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -123,8 +123,8 @@
     
       {
         "title": "Meal Index",
-        "excerpt": "This is the index page for the meal collection.\n\n\n    \n    \n        \n    \n        \n            dinner\n        \n    \n        \n            lunch\n        \n    \n\n",
-        "content": "This is the index page for the meal collection.\n\n\n    \n    \n        \n    \n        \n            dinner\n        \n    \n        \n            lunch\n        \n    \n\n",
+        "excerpt": "Every value used for the meal collection.\n\n\n  \n  \n    \n  \n    \n      \n      \n        \n          \n            \n              Dinner\n            \n          \n        \n      \n    \n  \n    \n      \n      \n        \n          \n            \n              Lunch\n            \n          \n        \n      \n    \n  \n\n",
+        "content": "Every value used for the meal collection.\n\n\n  \n  \n    \n  \n    \n      \n      \n        \n          \n            \n              Dinner\n            \n          \n        \n      \n    \n  \n    \n      \n      \n        \n          \n            \n              Lunch\n            \n          \n        \n      \n    \n  \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -134,8 +134,8 @@
     
       {
         "title": "lunch",
-        "excerpt": "This is an index page for lunch in the meal collection.\n\n\n    \n    \n\n    \n        \n    \n        \n            The Rusty Bros\n        \n    \n        \n    \n        \n            Stratosfare Restaurant &amp; Bar\n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n\n",
-        "content": "This is an index page for lunch in the meal collection.\n\n\n    \n    \n\n    \n        \n    \n        \n            The Rusty Bros\n        \n    \n        \n    \n        \n            Stratosfare Restaurant &amp; Bar\n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n\n",
+        "excerpt": "↑ Go to the Meal index\n\nEvery post with a lunch for its meal.\n\n\n  \n  \n\n  \n      \n      \n  \n      \n      \n          The Rusty Bros\n      \n  \n      \n      \n  \n      \n      \n          Stratosfare Restaurant &amp; Bar\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
+        "content": "↑ Go to the Meal index\n\nEvery post with a lunch for its meal.\n\n\n  \n  \n\n  \n      \n      \n  \n      \n      \n          The Rusty Bros\n      \n  \n      \n      \n  \n      \n      \n          Stratosfare Restaurant &amp; Bar\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -261,8 +261,8 @@
     
       {
         "title": "1",
-        "excerpt": "This is an index page for 1 in the rating collection.\n\n\n    \n    \n\n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n\n",
-        "content": "This is an index page for 1 in the rating collection.\n\n\n    \n    \n\n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n\n",
+        "excerpt": "↑ Go to the Rating index\n\nEvery post with a 1 for its rating.\n\n\n  \n  \n\n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Stratosfare Restaurant &amp; Bar\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
+        "content": "↑ Go to the Rating index\n\nEvery post with a 1 for its rating.\n\n\n  \n  \n\n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Stratosfare Restaurant &amp; Bar\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -272,8 +272,8 @@
     
       {
         "title": "2",
-        "excerpt": "This is an index page for 2 in the rating collection.\n\n\n    \n    \n\n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n\n",
-        "content": "This is an index page for 2 in the rating collection.\n\n\n    \n    \n\n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n\n",
+        "excerpt": "↑ Go to the Rating index\n\nEvery post with a 2 for its rating.\n\n\n  \n  \n\n  \n      \n      \n          A1 Takeaways Hong Kong Style BBQ\n      \n  \n      \n      \n          The Rusty Bros\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Zane Grey's Restaurant &amp; Bar\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
+        "content": "↑ Go to the Rating index\n\nEvery post with a 2 for its rating.\n\n\n  \n  \n\n  \n      \n      \n          A1 Takeaways Hong Kong Style BBQ\n      \n  \n      \n      \n          The Rusty Bros\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Zane Grey's Restaurant &amp; Bar\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -283,8 +283,8 @@
     
       {
         "title": "3",
-        "excerpt": "This is an index page for 3 in the rating collection.\n\n\n    \n    \n\n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n\n",
-        "content": "This is an index page for 3 in the rating collection.\n\n\n    \n    \n\n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n\n",
+        "excerpt": "↑ Go to the Rating index\n\nEvery post with a 3 for its rating.\n\n\n  \n  \n\n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Urban Gusto\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Madly Indian\n      \n  \n      \n      \n          Hello, World\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
+        "content": "↑ Go to the Rating index\n\nEvery post with a 3 for its rating.\n\n\n  \n  \n\n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Urban Gusto\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Madly Indian\n      \n  \n      \n      \n          Hello, World\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -294,8 +294,8 @@
     
       {
         "title": "Rating Index",
-        "excerpt": "This is the index page for the rating collection.\n\n\n    \n    \n        \n            1\n        \n    \n        \n            2\n        \n    \n        \n            3\n        \n    \n        \n    \n\n",
-        "content": "This is the index page for the rating collection.\n\n\n    \n    \n        \n            1\n        \n    \n        \n            2\n        \n    \n        \n            3\n        \n    \n        \n    \n\n",
+        "excerpt": "Every value used for the rating collection.\n\n\n  \n  \n    \n      \n      \n        \n          \n            \n              1\n            \n          \n        \n      \n    \n  \n    \n      \n      \n        \n          \n            \n              2\n            \n          \n        \n      \n    \n  \n    \n      \n      \n        \n          \n            \n              3\n            \n          \n        \n      \n    \n  \n    \n  \n\n",
+        "content": "Every value used for the rating collection.\n\n\n  \n  \n    \n      \n      \n        \n          \n            \n              1\n            \n          \n        \n      \n    \n  \n    \n      \n      \n        \n          \n            \n              2\n            \n          \n        \n      \n    \n  \n    \n      \n      \n        \n          \n            \n              3\n            \n          \n        \n      \n    \n  \n    \n  \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -448,13 +448,6 @@
     "excerpt": "\n",
     "content": "All our restaurant reviews listed by region.\n\nNew Zealand\n\n\n  \n    \n      \n        \n            Northland\n        \n      \n    \n  \n    \n  \n    \n  \n    \n      \n        \n            Bay of Plenty\n        \n      \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n      \n        \n            Wellington\n        \n      \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n\n\nOther Countries\n\n\n  \n  \n  \n    \n  \n    \n      \n        \n            Australia\n        \n      \n    \n  \n\n",
     "url": "/browse-region/"
-  },
-  
-  {
-    "title": "Reviews",
-    "excerpt": "\n",
-    "content": "All our restaurant reviews, with the latest on top. If you are looking for them listed in a more orderly fashion, try browsing by region instead.\n\nAll our reviews\n\n\n  \n    A1 Takeaways Hong Kong Style BBQ\n  \n    The Rusty Bros\n  \n    Urban Gusto\n  \n    Stratosfare Restaurant &amp; Bar\n  \n    Zane Grey's Restaurant &amp; Bar\n  \n    Madly Indian\n  \n    Hello, World\n  \n\n",
-    "url": "/browse-reviews/"
   },
   
   {

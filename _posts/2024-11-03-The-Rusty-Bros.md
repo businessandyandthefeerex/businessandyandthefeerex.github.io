@@ -1,5 +1,5 @@
 ---
-category: reviews
+category: Reviews
 layout: post
 title: The Rusty Bros
 date: 2024-11-03

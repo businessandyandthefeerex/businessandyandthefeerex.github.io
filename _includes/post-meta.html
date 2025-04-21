@@ -1,16 +1,54 @@
 {% if page.categories %}
   {% capture categories %}
     {% for category in page.categories %}
-      <span class="label  label--category"><a href="{{ site.baseurl }}/categories/#{{ category | downcase | slugify }}">{{ category }}</a></span>{% if forloop.last == false %},{% endif %}
+      <span class="label  label--category">
+        <a href="{{ site.baseurl }}/categories/#{{ category | downcase | slugify }}">{{ category }}</a>
+      </span>{% if forloop.last == false %},{% endif %}
     {% endfor %}
   {% endcapture %}
 {% elsif page.category %}
   {% capture categories %}
-    <span class="label  label--category"><a href="{{ site.baseurl }}/categories/#{{ page.category | downcase | slugify }}">{{ page.category }}</a></span>
+    <span class="label  label--category">
+      <a href="{{ site.baseurl }}/categories/#{{ page.category | downcase | slugify }}">{{ page.category }}</a>
+    </span>
   {% endcapture %}
 {% endif %}
 
 <small class="small  post-meta">
-  {% assign date_format = site.date_format | default: "%d %b %Y" %}
-  {{ categories | append: "&nbsp;&middot;&nbsp;" }}<time datetime="{{ page.date | date_to_xmlschema }}" class="time">{{ page.date | date: date_format }}</time>
+  {% assign day = page.date | date: "%d" %}
+  {% assign month_num = page.date | date: "%m" %}
+  {% assign month_name = page.date | date: "%B" %}
+  {% assign year = page.date | date: "%Y" %}
+  
+  {{ categories | append: "&nbsp;&middot;&nbsp;" }}
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="time">
+    <a href="{{ site.baseurl }}/reviews/{{ year }}/{{ month_num }}/{{ day }}/">{{ day }}</a>
+    <a href="{{ site.baseurl }}/reviews/{{ year }}/{{ month_num }}/">{{ month_name }}</a>
+    <a href="{{ site.baseurl }}/reviews/{{ year }}/">{{ year }}</a>
+  </time>
+  
+  
+
+  {% if page.rating %}
+    &nbsp;&middot;&nbsp;
+    <span class="meta-field">
+      <a href="{{ site.baseurl }}/rating/{{ page.rating | downcase | slugify }}">Rating: {{ page.rating }}</a>
+    </span>
+  {% endif %}
+
+  <!-- {% if page.meal %}
+    &nbsp;&middot;&nbsp;
+    <span class="meta-field">
+      <a href="{{ site.baseurl }}/meal/{{ page.meal | downcase | slugify }}">Meal: {{ page.meal }}</a>
+    </span>
+  {% endif %} -->
+
+  {% if page.country and page.region %}
+    &nbsp;&middot;&nbsp;
+    <span class="meta-field">
+      <a href="{{ site.baseurl }}/country/{{ page.country | downcase | slugify }}/{{ page.region | downcase | slugify }}/">
+        {{ page.region }}, {{ page.country }}
+      </a>
+    </span>
+  {% endif %}
 </small>

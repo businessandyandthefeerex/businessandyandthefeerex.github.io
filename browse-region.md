@@ -7,7 +7,7 @@ All our restaurant reviews listed by region.
 
 <h4>New Zealand</h4>
 
-{% assign nz_posts = site.categories.reviews | where: "country", "New Zealand" %}
+{% assign nz_posts = site.categories.Reviews | where: "country", "New Zealand" %}
 {% assign nz_regions = "" | split: "" %}
 
 {% for post in nz_posts %}
@@ -34,7 +34,7 @@ All our restaurant reviews listed by region.
 <h4>Other Countries</h4>
 
 <ul>
-  {% assign countries = site.categories.reviews | map: 'country' | uniq %}
+  {% assign countries = site.categories.Reviews | map: 'country' | uniq %}
   
   {% for country in countries %}
     {% if country != "New Zealand" %}

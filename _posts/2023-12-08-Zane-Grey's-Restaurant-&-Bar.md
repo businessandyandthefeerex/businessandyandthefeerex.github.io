@@ -1,5 +1,5 @@
 ---
-category: reviews
+category: Reviews
 layout: post
 title: Zane Grey's Restaurant & Bar
 date: 2023-12-08
