@@ -11,10 +11,6 @@ region: Bay of Plenty
 suburb: Rotorua
 website: https://therustybros.nz/
 ---
-Rating: 2 
-
-We ate lunch here in November 2024 
-
 Strawberry milkshake  
 Jackfruit sliders  
 Polenta chips  

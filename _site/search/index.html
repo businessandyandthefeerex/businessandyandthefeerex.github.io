@@ -260,10 +260,15 @@
       return (
         item.title.match(regex) ||
         item.content.match(regex) ||
+        (item.country && item.country.match(regex)) ||
         (item.region && item.region.match(regex)) ||
         (item.suburb && item.suburb.match(regex)) ||
-        (item.country && item.country.match(regex)) ||
-        (item.address && item.address.match(regex)) 
+        (item.address && item.address.match(regex)) ||
+        (item.rating && item.rating.match(regex)) ||
+        (item.meal && item.meal.match(regex)) ||
+        (item.month && item.month.match(regex)) ||
+        (item.year && item.year.match(regex)) ||
+        (item.month_year && item.month_year.match(regex)) 
       );
     });
   }
@@ -274,9 +279,9 @@
       return `
         <li class="item  item--result">
           <article class="article  typeset">
-            <h4><a href="${item.url}">${item.title}</a></h4>
+            <a href="${item.url}">${item.title}</a>
           </article>
-        </li><br>`;
+        </li>`;
     }).join('');
     if ((resultsArray.length == 0) || (this.value == '')) {
       resultsList.innerHTML = `<p>Sorry, nothing was found</p>`;

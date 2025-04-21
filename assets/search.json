@@ -7,7 +7,7 @@ sitemap: false
 [
   {% assign collections = site.collections | where_exp:'collection','collection.output != false' %}
   {% for collection in collections %}
-    {% assign docs = collection.docs | where_exp:'doc','doc.sitemap != false' %}
+    {% assign docs = collection.docs | where_exp:'doc','doc.sitemap != false' % | where: 'category', 'Reviews' | where: 'layout', 'post' %}
     {% for doc in docs %}
       {
         "title": {{ doc.title | jsonify }},
@@ -17,18 +17,23 @@ sitemap: false
         "region": {{ doc.region | jsonify }},
         "suburb": {{ doc.suburb | jsonify }},
         "address": {{ doc.address | jsonify }},
-        "url": {{ site.baseurl | append: doc.url | jsonify }}
-      },
+        "rating": {{ "rating: " | append: doc.rating | jsonify }},
+        "meal": {{ "meal: " | append: doc.meal | jsonify }},
+        "month": {{ doc.date | date: "%B" | downcase | markdownify | jsonify }},
+        "year": {{ doc.date | date: "%Y" | jsonify }},
+        "month_year": {{ doc.date | date: "%B %Y" | jsonify }},
+        "url": {{ site.baseurl | append: doc.url | jsonify }} 
+      }{% unless forloop.last %},{% endunless %}
     {% endfor %}
   {% endfor %}
-  {% assign pages = site.html_pages | where_exp:'doc','doc.sitemap != false' | where_exp:'doc','doc.title != null' %}
+  {% assign pages = site.html_pages | where_exp:'doc','doc.sitemap != false' | where_exp:'doc','doc.title != null' % | where: 'category', 'Reviews' | where: 'layout', 'post' %}
   {% for page in pages %}
-  {
-    "title": {{ page.title | jsonify }},
-    "excerpt": {{ page.excerpt | markdownify | strip_html | jsonify }},
-    "content": {{ page.content | markdownify | strip_html | jsonify }},
-    "url": {{ site.baseurl | append: page.url | jsonify }}
-  }{% unless forloop.last %},{% endunless %}
+    {
+      "title": {{ page.title | jsonify }},
+      "excerpt": {{ page.excerpt | markdownify | strip_html | jsonify }},
+      "content": {{ page.content | markdownify | strip_html | jsonify }},
+      "url": {{ site.baseurl | append: doc.url | jsonify }} 
+    }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
 {% endcapture %}

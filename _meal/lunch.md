@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "lunch"
+title: "Meal: Lunch"
 meal: "lunch"
 ---
-[↑ Go to the Meal index](/meal/)
+[↑ Go to the Meal collection](/meal/)
 
-Every post with a lunch for its meal.
+Every post with the value lunch for the meal collection.
 
 <ul>
   {% assign current_key = "meal" %}

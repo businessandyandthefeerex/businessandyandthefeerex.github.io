@@ -11,10 +11,6 @@ region: Bay of Plenty
 suburb: Rotorua
 website: https://urbangusto.co.nz/
 ---
-Rating: 3 
-
-We ate dinner here in November 2024 
-
 Pear, gongonzola, rocket and pine nut pizza  
 Roasted cauliflower with parmesan and cherry tomatoes  
 Biscoff tiramisu  

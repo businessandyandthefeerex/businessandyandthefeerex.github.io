@@ -39,35 +39,33 @@ collection_data.each do |key, values|
   # Create index.md for the collection itself
   index_file = File.join(dir, "index.md")
   File.write(index_file, <<~MARKDOWN)
-    ---
-    layout: page
-    title: "#{key.capitalize} Index"
-    permalink: /#{key}/
-    ---
+  ---
+  layout: page
+  title: "#{key.capitalize} Collection"
+  permalink: /#{key}/
+  ---
 
-    Every value used for the #{key} collection.
+  Every value used for the #{key} collection.
 
-    <ul>
-      {% assign all_values = site.#{key} | sort: "title" %}
-      {% for item in all_values %}
-        {% unless item.url == page.url %}
-          {% assign title_str = item.title | append: "" %}
-          <li>
-            <a href="{{ item.url }}">
-              {% if title_str != "" %}
-                {% if title_str contains ' ' %}
-                  {{ title_str | split: ' ' | map: 'capitalize' | join: ' ' }}
-                {% else %}
-                  {{ title_str | capitalize }}
-                {% endif %}
-              {% else %}
-                (No title)
-              {% endif %}
-            </a>
-          </li>
-        {% endunless %}
-      {% endfor %}
-    </ul>
+  <ul>
+    {% assign current_key = "#{key}" %}
+    {% assign is_numeric = current_key == "rating" %}
+    {% assign all_values = site.posts | map: current_key | uniq %}
+    {% if is_numeric %}
+      {% assign all_values = all_values | sort | reverse %}
+    {% else %}
+      {% assign all_values = all_values | sort %}
+    {% endif %}
+
+    {% for value in all_values %}
+      {% assign slug = value | append: "" | slugify %}
+      <li>
+        <a href="/#{key}/{{ slug }}/">
+          {{ current_key | capitalize }}: {{ value | capitalize }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
   MARKDOWN
 
   puts "Created index: #{index_file}"
@@ -85,12 +83,12 @@ values.each do |value|
   File.write(file_path, <<~MARKDOWN)
   ---
   layout: page
-  title: "#{value}"
+  title: "#{key.capitalize}: #{value.capitalize}"
   #{key}: "#{value}"
   ---
-  [↑ Go to the #{key.capitalize} index](/#{key}/)
+  [↑ Go to the #{key.capitalize} collection](/#{key}/)
 
-  Every post with a #{value} for its #{key}.
+  Every post with the value #{value} for the #{key} collection.
 
   <ul>
     {% assign current_key = "#{key}" %}

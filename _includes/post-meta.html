@@ -2,17 +2,26 @@
   {% capture categories %}
     {% for category in page.categories %}
       <span class="label  label--category">
-        <a href="{{ site.baseurl }}/categories/#{{ category | downcase | slugify }}">{{ category }}</a>
+        {% if category == "Reviews" %}
+          <a href="{{ site.baseurl }}/reviews">Reviews</a>
+        {% else %}
+          <a href="{{ site.baseurl }}/categories/#{{ category | downcase | slugify }}">{{ category }}</a>
+        {% endif %}
       </span>{% if forloop.last == false %},{% endif %}
     {% endfor %}
   {% endcapture %}
 {% elsif page.category %}
   {% capture categories %}
     <span class="label  label--category">
-      <a href="{{ site.baseurl }}/categories/#{{ page.category | downcase | slugify }}">{{ page.category }}</a>
+      {% if page.category == "Reviews" %}
+        <a href="{{ site.baseurl }}/reviews">Reviews</a>
+      {% else %}
+        <a href="{{ site.baseurl }}/categories/#{{ page.category | downcase | slugify }}">{{ page.category }}</a>
+      {% endif %}
     </span>
   {% endcapture %}
 {% endif %}
+
 
 <small class="small  post-meta">
   {% assign day = page.date | date: "%d" %}
@@ -36,12 +45,12 @@
     </span>
   {% endif %}
 
-  <!-- {% if page.meal %}
+  {% if page.meal %}
     &nbsp;&middot;&nbsp;
     <span class="meta-field">
       <a href="{{ site.baseurl }}/meal/{{ page.meal | downcase | slugify }}">Meal: {{ page.meal }}</a>
     </span>
-  {% endif %} -->
+  {% endif %}
 
   {% if page.country and page.region %}
     &nbsp;&middot;&nbsp;
