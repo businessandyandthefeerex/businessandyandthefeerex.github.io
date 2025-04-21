@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Reviews"
+title: "Category: Reviews"
 category: "Reviews"
 ---
-[↑ Go to the Category index](/category/)
+[↑ Go to the Category collection](/category/)
 
-Every post with a Reviews for its category.
+Every post with the value Reviews for the category collection.
 
 <ul>
   {% assign current_key = "category" %}

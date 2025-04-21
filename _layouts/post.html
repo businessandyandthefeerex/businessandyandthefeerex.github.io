@@ -10,22 +10,36 @@ layout: default
 
     <h1>{{ page.title }}</h1>
     {% include post-meta.html %}
+
+    <!-- if the page has a rating, date, and meal, and print them to the page -->
+    {% if page.rating %}
+      <p>Rating: {{ page.rating }}</p>
+    {% endif %}
+
+    {% assign has_meal = page.meal %}
+    {% assign has_date = page.date %}
+    {% assign date_obj = page.date | date: "%B %Y" %}
+
+    {% if has_meal and has_date %}
+      <p>We ate {{ page.meal }} here in {{ date_obj | downcase }}.</p>
+    {% elsif has_meal %}
+      <p>We ate {{ page.meal }} here.</p>
+    {% elsif has_date %}
+      <p>We ate here in {{ date_obj | downcase }}.</p>
+    {% endif %}
+    
     {{ content }}
 
-    <!-- {% include nav-share.html %} -->
-
-    <!-- {% include post-comments.html %} -->
-
-    <!-- Check if the website value is valid -->
+    <!-- if the page has a valid website then print it to the page -->
     {% assign website = page.website | downcase %}
 
     {% if website != "" and website != "n/a" and website != "na" and website | match: "^(http|https)://[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)+(/.*)?$" %}
       <footer class="post-footer">
-        <p>Visit their <a href="{{ page.website }}" target="_blank" rel="noopener noreferrer">website</a>.</p>
+        <p>Their <a href="{{ page.website }}" target="_blank" rel="noopener noreferrer">website</a>.</p>
       </footer>
     {% else %}
       <footer class="post-footer">
-        <p>{{ page.title }} has no valid website.</p>
+        <p>{{ page.title }} has no website.</p>
       </footer>
     {% endif %}
 

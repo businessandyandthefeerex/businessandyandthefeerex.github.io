@@ -11,10 +11,6 @@ region: Perth
 suburb: Kensington
 website: http://www.ayhanscafe.com.au/
 ---
-Rating: 3 
-
-We ate dinner here in July 2024 
-
 Spinach and feta gozleme  
 Lamb pide  
 

@@ -11,10 +11,6 @@ region: Northland
 suburb: Paihia
 website: N/A
 ---
-Rating: 1
-
-We ate dinner here in November 2023 
-
 Fish chips and salad  
 Cheese burger with chips
 

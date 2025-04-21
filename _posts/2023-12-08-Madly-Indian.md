@@ -11,10 +11,6 @@ region: Northland
 suburb: Kerikeri
 website: https://madlyindian.co.nz/
 ---
-Rating: 3
-
-We ate dinner here in November 2023
-
 Lamb do pyaza  
 Paneer chettinaud  
 Butter naan  

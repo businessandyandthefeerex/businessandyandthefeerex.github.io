@@ -11,10 +11,6 @@ region: Wellington
 suburb: Kilbirnie
 website: N/A
 ---
-Rating: 2
-
-We ate dinner here in November 2024
-
 Shredded duck with plum sauce on rice  
 Tofu with vegetables and spicy sauce on rice  
 

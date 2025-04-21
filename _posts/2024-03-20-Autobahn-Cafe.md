@@ -11,10 +11,6 @@ region: Auckland
 suburb: Rosehill
 website: http://www.autobahncafe.co.nz/
 ---
-Rating: 1 
-
-We ate lunch here in March 2024 
-
 Beef nachos  
 Lamb burger with chips  
 Banana smoothie  
