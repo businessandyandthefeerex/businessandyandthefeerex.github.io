@@ -6,7 +6,7 @@ If in doubt, just copy a file and then overwrite what's there with the new value
 Posts are organised by date by default, but they have a secondary organisation, by country/region/suburb/rating.
 This ensures that posts are automatically put into the right lists that filter through to the Browse by Region pages.
 
-You don't need to manually shuffle these pages each time you make a new post, it's all automatic as long as you put the country, region, suburb, and rating in the front matter of each post.
+You don't need to manually shuffle these pages each time you make a new post, it's all automatic as long as you put the correct front matter at the start of each post.
 If you make a post that is in a new region or country, new countries and regions aren't added automatically.
 You will need to run the generate_ ruby scripts locally to make the folders and pages before pushing to the remote repo.
 Or you can create the folders and pages manually if you prefer, but to save some time and a headache, run the script.
