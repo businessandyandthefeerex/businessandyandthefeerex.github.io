@@ -65,10 +65,29 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "Our sick blog" # The post list page content
     feature_text: |
-      Welcome to the blog
+      Restaurant reviews
     feature_image: "https://picsum.photos/2560/600?image=866"
+  category:
+    output: true
+  country:
+    output: true
+    permalink: /country/:name/
+  meal:
+    output: true
+    permalink: /meal/:name/
+  rating:
+    output: true
+    permalink: /rating/:name/
+  region:
+    output: true
+    permalink: /region/:name/
+  suburb:
+    output: true
+    permalink: /suburb/:name/
+  reviews:
+    output: true
 
 # 6. Jekyll collections settings
 defaults:
@@ -95,11 +114,11 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Alembic" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+description: "Restaurant reviews" # Site description and default description, also used in jekyll-seo-tag
+url: "https://www.buisinessandyandthefeerex.co.nz" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+repo: "https://github.com/businessandyandthefeerex/businessandyandthefeerex.github.io"
+email: "businessandyandthefeerex@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -128,28 +147,28 @@ navigation_header:
 - title: Reviews
   url: /reviews/
 - title: Browse by Region
-  url: /region/
+  url: /browse-region/
 - title: Browse a Map
-  url: /map/
+  url: /browse-map/
 - title: Categories
   url: /categories/
 - title: Search
   url: /search/
 
 navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
+- title: Business Andy & The Fee-Rex
+  url: https://www.businessandyandthefeerex.co.nz
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  # Twitter: https://twitter.com/DavidDarnes
+  # LinkedIn: https://www.linkedin.com/in/daviddarnes
+  GitHub: https://github.com/businessandyandthefeerex
+  # link: https://darn.es
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
+  # Twitter: "#0d94e7"
+  # facebook: "#3B5998"
   Email: true
 
 # Load custom fonts from fonts.google.com etc
@@ -161,3 +180,7 @@ fonts:
     - https://fonts.gstatic.com
   font_urls:
     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+
+# 10. Hooks
+# hooks:
+#   after_build: "ruby post_build.rb"
