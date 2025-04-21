@@ -12,9 +12,22 @@ layout: default
     {% include post-meta.html %}
     {{ content }}
 
-    {% include nav-share.html %}
+    <!-- {% include nav-share.html %} -->
 
-    {% include post-comments.html %}
+    <!-- {% include post-comments.html %} -->
+
+    <!-- Check if the website value is valid -->
+    {% assign website = page.website | downcase %}
+
+    {% if website != "" and website != "n/a" and website != "na" and website | match: "^(http|https)://[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)+(/.*)?$" %}
+      <footer class="post-footer">
+        <p>Visit their <a href="{{ page.website }}" target="_blank" rel="noopener noreferrer">website</a>.</p>
+      </footer>
+    {% else %}
+      <footer class="post-footer">
+        <p>{{ page.title }} has no valid website.</p>
+      </footer>
+    {% endif %}
 
   </article>
 

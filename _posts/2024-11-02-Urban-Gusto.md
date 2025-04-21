@@ -24,6 +24,4 @@ Something very unusual happened at Urban Gusto this evening. We were asked for g
 
 That's an unfortunate way to start this review, as actually we really liked eating here. The pizza was extremely good. Thin, crispy base. Cheesy but not too much. All the flavours worked really well together. And the rocket was carefully distributed and of an appropriate amount. We'd eat that again any day of the week. We were excited to see the dessert arancini, which was a first for us. The balls contained rice, like a fried rice pudding, with plenty of cinnamon, tonnes of blueberries, the right amount of white chocolate, the whole thing was top tier. 
 
-The cauliflower was very controversial. The Fee-Rex found it bland, didn't appreciate the cherry tomatoes, and was looking around on the table like is there some salt here I can apply. Business Andy thought it was marvellous. He could really taste the parmesan and thought the cherry tomatoes were a perfect accompaniment. We could at least both agree that the crispy roast bits on the edges were very pleasant. 
-
-Website https://urbangusto.co.nz/
+The cauliflower was very controversial. The Fee-Rex found it bland, didn't appreciate the cherry tomatoes, and was looking around on the table like is there some salt here I can apply. Business Andy thought it was marvellous. He could really taste the parmesan and thought the cherry tomatoes were a perfect accompaniment. We could at least both agree that the crispy roast bits on the edges were very pleasant.
