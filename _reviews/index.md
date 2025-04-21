@@ -3,7 +3,7 @@ layout: page
 title: "All Reviews"
 permalink: /reviews/
 ---
-All our reviews, with the latest on top. If you are looking for them listed in a more orderly fashion, try browsing by region instead.
+All our reviews, with the latest on top.
 
 {% assign sorted_posts = site.posts | sort: "date" | reverse %}
 {% assign current_year = "" %}

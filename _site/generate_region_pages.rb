@@ -125,7 +125,7 @@ File.open("_country/index.md", "w") do |file|
     title: All Countries
     permalink: /country/
     ---
-    [⬅ Go to the Browse by Region page](/browse-region/)
+    [↑ Go to the Browse by Region page](/browse-region/)
 
     <ul>
   MARKDOWN

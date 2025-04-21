@@ -30,6 +30,4 @@ That’s where the compliments end. Here are their food crimes in no particular 
  - Bad chips. We had difficulty pinpointing what exactly made them bad, they were not cold or soggy or anything obvious, they just didn’t taste good and were a labour to get through
  - Terrible distribution of bacon in the burger. It was literally all in one corner, meaning that Business Andy never even knew there was bacon in the burger at all as his half contained zero bacon. 
 
-We won't stand for it, Zane. 
-
-Website https://www.zanegreys.co.nz/
+We won't stand for it, Zane.

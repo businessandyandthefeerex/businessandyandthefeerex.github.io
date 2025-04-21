@@ -21,6 +21,7 @@ exclude:
 - Gemfile.lock
 - alembic-jekyll-theme.gemspec
 - .jekyll-cache
+- categories.md
 
 # 2. Installed Gems
 plugins:
@@ -150,8 +151,8 @@ navigation_header:
   url: /browse-region/
 - title: Browse a Map
   url: /browse-map/
-- title: Categories
-  url: /categories/
+# - title: Categories
+#   url: /categories/
 - title: Search
   url: /search/
 
