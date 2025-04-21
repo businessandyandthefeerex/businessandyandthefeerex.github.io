@@ -13,6 +13,9 @@ permalink: /country/new-zealand/
   <a href="/country/new-zealand/bay-of-plenty/">Bay of Plenty</a>
 </li>
 <li>
+  <a href="/country/new-zealand/auckland/">Auckland</a>
+</li>
+<li>
   <a href="/country/new-zealand/wellington/">Wellington</a>
 </li>
 </ul>

@@ -1,3 +1,17 @@
+---
+category: Reviews
+layout: post
+title: Autobahn Cafe
+date: 2024-03-20
+rating: 1
+meal: lunch
+address: State Highway 1, Rosehill, Auckland 2113
+country: New Zealand
+region: Auckland
+suburb: Rosehill
+website: http://www.autobahncafe.co.nz/
+---
+
 1 Willis Street, Wellington Central, Wellington 6011
 Rating: 2
 We ate dinner here in February 2024

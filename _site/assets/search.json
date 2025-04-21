@@ -18,8 +18,8 @@
     
       {
         "title": "Reviews",
-        "excerpt": "↑ Go to the Category index\n\nEvery post with a Reviews for its category.\n\n\n  \n  \n\n  \n      \n      \n          A1 Takeaways Hong Kong Style BBQ\n      \n  \n      \n      \n          The Rusty Bros\n      \n  \n      \n      \n          Urban Gusto\n      \n  \n      \n      \n          Stratosfare Restaurant &amp; Bar\n      \n  \n      \n      \n          Zane Grey's Restaurant &amp; Bar\n      \n  \n      \n      \n          Madly Indian\n      \n  \n      \n      \n          Hello, World\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
-        "content": "↑ Go to the Category index\n\nEvery post with a Reviews for its category.\n\n\n  \n  \n\n  \n      \n      \n          A1 Takeaways Hong Kong Style BBQ\n      \n  \n      \n      \n          The Rusty Bros\n      \n  \n      \n      \n          Urban Gusto\n      \n  \n      \n      \n          Stratosfare Restaurant &amp; Bar\n      \n  \n      \n      \n          Zane Grey's Restaurant &amp; Bar\n      \n  \n      \n      \n          Madly Indian\n      \n  \n      \n      \n          Hello, World\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
+        "excerpt": "↑ Go to the Category index\n\nEvery post with a Reviews for its category.\n\n\n  \n  \n\n  \n      \n      \n          A1 Takeaways Hong Kong Style BBQ\n      \n  \n      \n      \n          The Rusty Bros\n      \n  \n      \n      \n          Urban Gusto\n      \n  \n      \n      \n          Ayhan’s Turkish Cafe\n      \n  \n      \n      \n          Autobahn Cafe\n      \n  \n      \n      \n          Stratosfare Restaurant &amp; Bar\n      \n  \n      \n      \n          Zane Grey's Restaurant &amp; Bar\n      \n  \n      \n      \n          Madly Indian\n      \n  \n\n",
+        "content": "↑ Go to the Category index\n\nEvery post with a Reviews for its category.\n\n\n  \n  \n\n  \n      \n      \n          A1 Takeaways Hong Kong Style BBQ\n      \n  \n      \n      \n          The Rusty Bros\n      \n  \n      \n      \n          Urban Gusto\n      \n  \n      \n      \n          Ayhan’s Turkish Cafe\n      \n  \n      \n      \n          Autobahn Cafe\n      \n  \n      \n      \n          Stratosfare Restaurant &amp; Bar\n      \n  \n      \n      \n          Zane Grey's Restaurant &amp; Bar\n      \n  \n      \n      \n          Madly Indian\n      \n  \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -32,8 +32,8 @@
     
       {
         "title": "Australia",
-        "excerpt": "↑ Go to the list of all countries\n\n\n  test region\n\n\n",
-        "content": "↑ Go to the list of all countries\n\n\n  test region\n\n\n",
+        "excerpt": "↑ Go to the list of all countries\n\n\n  Perth\n\n\n",
+        "content": "↑ Go to the list of all countries\n\n\n  Perth\n\n\n",
         "country": "Australia",
         "region": null,
         "suburb": null,
@@ -42,25 +42,36 @@
       },
     
       {
-        "title": "test region, Australia",
-        "excerpt": "↑ Go to Australia regions\n\n  \n  \n\n  \n    test city\n\n    \n    \n\n    \n      rating: 3\n      \n        \n          \n            Hello, World\n          \n        \n      \n    \n  \n\n",
-        "content": "↑ Go to Australia regions\n\n  \n  \n\n  \n    test city\n\n    \n    \n\n    \n      rating: 3\n      \n        \n          \n            Hello, World\n          \n        \n      \n    \n  \n\n",
+        "title": "Perth, Australia",
+        "excerpt": "↑ Go to Australia regions\n\n  \n  \n\n  \n    Kensington\n\n    \n    \n\n    \n      rating: 3\n      \n        \n          \n            Ayhan’s Turkish Cafe\n          \n        \n      \n    \n  \n\n",
+        "content": "↑ Go to Australia regions\n\n  \n  \n\n  \n    Kensington\n\n    \n    \n\n    \n      rating: 3\n      \n        \n          \n            Ayhan’s Turkish Cafe\n          \n        \n      \n    \n  \n\n",
         "country": "Australia",
-        "region": "test region",
+        "region": "Perth",
         "suburb": null,
         "address": null,
-        "url": "/country/australia/test-region/"
+        "url": "/country/australia/perth/"
       },
     
       {
         "title": "All Countries",
-        "excerpt": "↑ Go to the Browse by Region page\n\n\n\n  Australia\n\n\n  New Zealand\n\n\n",
-        "content": "↑ Go to the Browse by Region page\n\n\n\n  Australia\n\n\n  New Zealand\n\n\n",
+        "excerpt": "↑ Go to the Browse by Region page\n\n\n\n  New Zealand\n\n\n  Australia\n\n\n",
+        "content": "↑ Go to the Browse by Region page\n\n\n\n  New Zealand\n\n\n  Australia\n\n\n",
         "country": null,
         "region": null,
         "suburb": null,
         "address": null,
         "url": "/country/"
+      },
+    
+      {
+        "title": "Auckland, New Zealand",
+        "excerpt": "↑ Go to New Zealand regions\n\n  \n  \n\n  \n    Rosehill\n\n    \n    \n\n    \n      rating: 1\n      \n        \n          \n            Autobahn Cafe\n          \n        \n      \n    \n  \n\n",
+        "content": "↑ Go to New Zealand regions\n\n  \n  \n\n  \n    Rosehill\n\n    \n    \n\n    \n      rating: 1\n      \n        \n          \n            Autobahn Cafe\n          \n        \n      \n    \n  \n\n",
+        "country": "New Zealand",
+        "region": "Auckland",
+        "suburb": null,
+        "address": null,
+        "url": "/country/new-zealand/auckland/"
       },
     
       {
@@ -76,8 +87,8 @@
     
       {
         "title": "New Zealand",
-        "excerpt": "↑ Go to the list of all countries\n\n\n  Northland\n\n\n  Bay of Plenty\n\n\n  Wellington\n\n\n",
-        "content": "↑ Go to the list of all countries\n\n\n  Northland\n\n\n  Bay of Plenty\n\n\n  Wellington\n\n\n",
+        "excerpt": "↑ Go to the list of all countries\n\n\n  Northland\n\n\n  Bay of Plenty\n\n\n  Auckland\n\n\n  Wellington\n\n\n",
+        "content": "↑ Go to the list of all countries\n\n\n  Northland\n\n\n  Bay of Plenty\n\n\n  Auckland\n\n\n  Wellington\n\n\n",
         "country": "New Zealand",
         "region": null,
         "suburb": null,
@@ -112,8 +123,8 @@
     
       {
         "title": "dinner",
-        "excerpt": "↑ Go to the Meal index\n\nEvery post with a dinner for its meal.\n\n\n  \n  \n\n  \n      \n      \n          A1 Takeaways Hong Kong Style BBQ\n      \n  \n      \n      \n  \n      \n      \n          Urban Gusto\n      \n  \n      \n      \n  \n      \n      \n          Zane Grey's Restaurant &amp; Bar\n      \n  \n      \n      \n          Madly Indian\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
-        "content": "↑ Go to the Meal index\n\nEvery post with a dinner for its meal.\n\n\n  \n  \n\n  \n      \n      \n          A1 Takeaways Hong Kong Style BBQ\n      \n  \n      \n      \n  \n      \n      \n          Urban Gusto\n      \n  \n      \n      \n  \n      \n      \n          Zane Grey's Restaurant &amp; Bar\n      \n  \n      \n      \n          Madly Indian\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
+        "excerpt": "↑ Go to the Meal index\n\nEvery post with a dinner for its meal.\n\n\n  \n  \n\n  \n      \n      \n          A1 Takeaways Hong Kong Style BBQ\n      \n  \n      \n      \n  \n      \n      \n          Urban Gusto\n      \n  \n      \n      \n          Ayhan’s Turkish Cafe\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Zane Grey's Restaurant &amp; Bar\n      \n  \n      \n      \n          Madly Indian\n      \n  \n\n",
+        "content": "↑ Go to the Meal index\n\nEvery post with a dinner for its meal.\n\n\n  \n  \n\n  \n      \n      \n          A1 Takeaways Hong Kong Style BBQ\n      \n  \n      \n      \n  \n      \n      \n          Urban Gusto\n      \n  \n      \n      \n          Ayhan’s Turkish Cafe\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Zane Grey's Restaurant &amp; Bar\n      \n  \n      \n      \n          Madly Indian\n      \n  \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -134,8 +145,8 @@
     
       {
         "title": "lunch",
-        "excerpt": "↑ Go to the Meal index\n\nEvery post with a lunch for its meal.\n\n\n  \n  \n\n  \n      \n      \n  \n      \n      \n          The Rusty Bros\n      \n  \n      \n      \n  \n      \n      \n          Stratosfare Restaurant &amp; Bar\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
-        "content": "↑ Go to the Meal index\n\nEvery post with a lunch for its meal.\n\n\n  \n  \n\n  \n      \n      \n  \n      \n      \n          The Rusty Bros\n      \n  \n      \n      \n  \n      \n      \n          Stratosfare Restaurant &amp; Bar\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
+        "excerpt": "↑ Go to the Meal index\n\nEvery post with a lunch for its meal.\n\n\n  \n  \n\n  \n      \n      \n  \n      \n      \n          The Rusty Bros\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Autobahn Cafe\n      \n  \n      \n      \n          Stratosfare Restaurant &amp; Bar\n      \n  \n      \n      \n  \n      \n      \n  \n\n",
+        "content": "↑ Go to the Meal index\n\nEvery post with a lunch for its meal.\n\n\n  \n  \n\n  \n      \n      \n  \n      \n      \n          The Rusty Bros\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Autobahn Cafe\n      \n  \n      \n      \n          Stratosfare Restaurant &amp; Bar\n      \n  \n      \n      \n  \n      \n      \n  \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -145,50 +156,6 @@
     
   
     
-    
-      {
-        "title": "Description of an Alembic",
-        "excerpt": "The complete distilling apparatus consists of three parts: the “cucurbit” (Arabic ḳarʿa, Greek βίκος), the still pot containing the liquid to be distilled, which is heated by a flame; the “head” or “cap” (Arabic anbiḳ, Greek ἄμβιξ) which fits over the mouth of the cucurbit to receive the vapors, with an attached downward-sloping “tube” (Greek σωλήν), leading to the “receiver” (Arabic ḳābila, Greek ἄγγος or φιάλη) container.\n\n",
-        "content": "The complete distilling apparatus consists of three parts: the “cucurbit” (Arabic ḳarʿa, Greek βίκος), the still pot containing the liquid to be distilled, which is heated by a flame; the “head” or “cap” (Arabic anbiḳ, Greek ἄμβιξ) which fits over the mouth of the cucurbit to receive the vapors, with an attached downward-sloping “tube” (Greek σωλήν), leading to the “receiver” (Arabic ḳābila, Greek ἄγγος or φιάλη) container.\n\n\n\nRetorts have the “cap” and the “cucurbit” made into one. The anbik is also called the raʾs (head) of the cucurbit. The liquid in the cucurbit is heated or boiled; the vapour rises into the anbik, where it cools by contact with the walls and condenses, running down the spout into the receiver. A modern descendant of the alembic is the pot still, used to produce distilled beverages.\n\nOriginally from Alembic - Wikipedia\n",
-        "country": null,
-        "region": null,
-        "suburb": null,
-        "address": null,
-        "url": "/general/external%20sources/2016/08/27/example-post-one/"
-      },
-    
-      {
-        "title": "History of the Alembic",
-        "excerpt": "Dioscorides’ ambix (described in his De materia medica) is a helmet-shaped lid for gathering condensed mercury. For Athenaeus (~ 225 C.E.) it is a bottle or flask. For later chemists it denotes various parts of crude distillation devices.\n\n",
-        "content": "Dioscorides’ ambix (described in his De materia medica) is a helmet-shaped lid for gathering condensed mercury. For Athenaeus (~ 225 C.E.) it is a bottle or flask. For later chemists it denotes various parts of crude distillation devices.\n\n\n\nAlembic drawings appear in works of Cleopatra the Alchemist, Synesius, and Zosimos of Panopolis. There were alembics with two (dibikos) and three (tribikos) receivers.[4] According to Zosimos of Panopolis, the alembic was invented by Mary the Jewess.[5]\n\nThe anbik is described by Ibn al-Awwam in his Kitab al-Filaha (Book of Agriculture), where he explains how rose-water is distilled. Amongst others, it is mentioned in the Mafatih al-Ulum (Key of Sciences) of Khwarizmi and the Kitab al-Asrar (Book of Secrets) of Al-Razi. Some illustrations occur in the Latin translations of works which are attributed to Geber.[2]\n\nOriginally from Alembic - Wikipedia\n",
-        "country": null,
-        "region": null,
-        "suburb": null,
-        "address": null,
-        "url": "/history/external%20sources/2016/08/28/example-post-two/"
-      },
-    
-      {
-        "title": "Description of a Pot Still",
-        "excerpt": "A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).\n",
-        "content": "A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy). This is called a batch distillation (as opposed to a continuous distillation).\n\nAt standard atmospheric pressure, alcohol boils at 78 °C (172 °F), while water boils at 100 °C (212 °F). During distillation, the vapour contains more alcohol than the liquid. When the vapours are condensed, the resulting liquid contains a higher concentration of alcohol. In the pot still, the alcohol and water vapour combine with esters and flow from the still through the condensing coil. There they condense into the first distillation liquid, the so-called “low wines”. The low wines have a strength of about 25–35% alcohol by volume, and flow into a second still. It is then distilled a second time to produce the colourless spirit, collected at about 70% alcohol by volume. Colour is added through maturation in an oak aging barrel, and develops over time.\n\nThe modern pot still is a descendant of the alembic, an earlier distillation device.\n",
-        "country": null,
-        "region": null,
-        "suburb": null,
-        "address": null,
-        "url": "/general/2016/08/29/example-post-three/"
-      },
-    
-      {
-        "title": "Hello, World",
-        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
-        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
-        "country": "Australia",
-        "region": "test region",
-        "suburb": "test city",
-        "address": "342 Kerikeri Road, Kerikeri 0230",
-        "url": "/reviews/2023/12/08/hello-world/"
-      },
     
       {
         "title": "Madly Indian",
@@ -221,6 +188,28 @@
         "suburb": "Rotorua",
         "address": "178 Fairy Springs Road, Fairy Springs, Rotorua 3015",
         "url": "/reviews/2024/02/22/Stratosfare-Restaurant-&-Bar/"
+      },
+    
+      {
+        "title": "Autobahn Cafe",
+        "excerpt": "Rating: 1\n\nWe ate lunch here in March 2024\n\nBeef nachos\nLamb burger with chips\nBanana smoothie\n\nIt’s a bad sign if your establishment reminds us of Burger King. Both eateries were happy to spend big bucks on making the air conditioning freezing cold if it meant that punters would be in and out as fast as they could. And neither establishment had spared a dime to make the food any good.\n\nThe nachos were dreadful. The chips were extremely bland, thin and weak and almost all already broken when they arrived. The mince was flavoured, but not in a tasty way. Thank god there was enough sour cream, which is not a given in our experience.\n\nThe burger, proudly touted as gourmet, was anything but. Cheap greasy lamb patty, bog standard bun, and not a lot of care put into the cooking e.g. underdone floppy onion. The chips were hot and fresh with plenty of them, but where was the salt? They had provided salt on the table, although the shaker was 60% rice. But who wants to eat an unsalted chip? They also came with no aioli or sauce, although we were able to scavenge a bottle from the counter.\n\nThe smoothie was the best of the bunch, but a bit yoghurty and the presence of real banana was questionable. Also, this meal was bloody expensive for what it was. The sad fact is that the Autobahn has been around for many years, The Fee-Rex remembers coming here 25 years ago, and as long as people with low standards are driving in and out of Auckland, it will be here for many years to come.\n",
+        "content": "Rating: 1\n\nWe ate lunch here in March 2024\n\nBeef nachos\nLamb burger with chips\nBanana smoothie\n\nIt’s a bad sign if your establishment reminds us of Burger King. Both eateries were happy to spend big bucks on making the air conditioning freezing cold if it meant that punters would be in and out as fast as they could. And neither establishment had spared a dime to make the food any good.\n\nThe nachos were dreadful. The chips were extremely bland, thin and weak and almost all already broken when they arrived. The mince was flavoured, but not in a tasty way. Thank god there was enough sour cream, which is not a given in our experience.\n\nThe burger, proudly touted as gourmet, was anything but. Cheap greasy lamb patty, bog standard bun, and not a lot of care put into the cooking e.g. underdone floppy onion. The chips were hot and fresh with plenty of them, but where was the salt? They had provided salt on the table, although the shaker was 60% rice. But who wants to eat an unsalted chip? They also came with no aioli or sauce, although we were able to scavenge a bottle from the counter.\n\nThe smoothie was the best of the bunch, but a bit yoghurty and the presence of real banana was questionable. Also, this meal was bloody expensive for what it was. The sad fact is that the Autobahn has been around for many years, The Fee-Rex remembers coming here 25 years ago, and as long as people with low standards are driving in and out of Auckland, it will be here for many years to come.\n",
+        "country": "New Zealand",
+        "region": "Auckland",
+        "suburb": "Rosehill",
+        "address": "State Highway 1, Rosehill, Auckland 2113",
+        "url": "/reviews/2024/03/20/Autobahn-Cafe/"
+      },
+    
+      {
+        "title": "Ayhan’s Turkish Cafe",
+        "excerpt": "Rating: 3\n\nWe ate dinner here in July 2024\n\nSpinach and feta gozleme\nLamb pide\n\nYears ago, The Fee-Rex used to live in Perth where she discovered gozleme. It made up of a filling, often spinach and feta, sandwiched in a bready dough and cut into pieces. And it’s bloody delicious. Two years ago, we went to Perth and on our first night excitedly went searching for gozleme. What we got was a soggy disaster, an abomination not worthy of the name gozleme. And it was an awful introduction for Business Andy, who had never had the dish before and was very disappointed after literally years worth of hype.\n\nFast forward to today, it is again our first night on a Perth holiday, and we are again chasing the gozleme dragon. But this time, we slayed it. Hot, fresh, squishy but not too squishy and absolutely zero sogginess. The pide dough was yum, but the filling was a bit light on flavour and tasted too much like just lamb mince.\n\nShout out to Ayhan and his service. He was friendly, served us on proper plates/wooden boards with proper cutlery (not a given, the soggy gozleme place served us in takeaway boxes), gave us a bowl of accompanying sauce AND three after-dinner mentos. We appreciate the details.\n",
+        "content": "Rating: 3\n\nWe ate dinner here in July 2024\n\nSpinach and feta gozleme\nLamb pide\n\nYears ago, The Fee-Rex used to live in Perth where she discovered gozleme. It made up of a filling, often spinach and feta, sandwiched in a bready dough and cut into pieces. And it’s bloody delicious. Two years ago, we went to Perth and on our first night excitedly went searching for gozleme. What we got was a soggy disaster, an abomination not worthy of the name gozleme. And it was an awful introduction for Business Andy, who had never had the dish before and was very disappointed after literally years worth of hype.\n\nFast forward to today, it is again our first night on a Perth holiday, and we are again chasing the gozleme dragon. But this time, we slayed it. Hot, fresh, squishy but not too squishy and absolutely zero sogginess. The pide dough was yum, but the filling was a bit light on flavour and tasted too much like just lamb mince.\n\nShout out to Ayhan and his service. He was friendly, served us on proper plates/wooden boards with proper cutlery (not a given, the soggy gozleme place served us in takeaway boxes), gave us a bowl of accompanying sauce AND three after-dinner mentos. We appreciate the details.\n",
+        "country": "Australia",
+        "region": "Perth",
+        "suburb": "Kensington",
+        "address": "51 George St, Kensington WA 6151",
+        "url": "/reviews/2024/07/19/Ayhan-s-Turkish-Cafe/"
       },
     
       {
@@ -261,8 +250,8 @@
     
       {
         "title": "1",
-        "excerpt": "↑ Go to the Rating index\n\nEvery post with a 1 for its rating.\n\n\n  \n  \n\n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Stratosfare Restaurant &amp; Bar\n      \n  \n      \n      \n          Zane Grey's Restaurant &amp; Bar\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
-        "content": "↑ Go to the Rating index\n\nEvery post with a 1 for its rating.\n\n\n  \n  \n\n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Stratosfare Restaurant &amp; Bar\n      \n  \n      \n      \n          Zane Grey's Restaurant &amp; Bar\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
+        "excerpt": "↑ Go to the Rating index\n\nEvery post with a 1 for its rating.\n\n\n  \n  \n\n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Autobahn Cafe\n      \n  \n      \n      \n          Stratosfare Restaurant &amp; Bar\n      \n  \n      \n      \n          Zane Grey's Restaurant &amp; Bar\n      \n  \n      \n      \n  \n\n",
+        "content": "↑ Go to the Rating index\n\nEvery post with a 1 for its rating.\n\n\n  \n  \n\n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Autobahn Cafe\n      \n  \n      \n      \n          Stratosfare Restaurant &amp; Bar\n      \n  \n      \n      \n          Zane Grey's Restaurant &amp; Bar\n      \n  \n      \n      \n  \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -272,8 +261,8 @@
     
       {
         "title": "2",
-        "excerpt": "↑ Go to the Rating index\n\nEvery post with a 2 for its rating.\n\n\n  \n  \n\n  \n      \n      \n          A1 Takeaways Hong Kong Style BBQ\n      \n  \n      \n      \n          The Rusty Bros\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
-        "content": "↑ Go to the Rating index\n\nEvery post with a 2 for its rating.\n\n\n  \n  \n\n  \n      \n      \n          A1 Takeaways Hong Kong Style BBQ\n      \n  \n      \n      \n          The Rusty Bros\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
+        "excerpt": "↑ Go to the Rating index\n\nEvery post with a 2 for its rating.\n\n\n  \n  \n\n  \n      \n      \n          A1 Takeaways Hong Kong Style BBQ\n      \n  \n      \n      \n          The Rusty Bros\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
+        "content": "↑ Go to the Rating index\n\nEvery post with a 2 for its rating.\n\n\n  \n  \n\n  \n      \n      \n          A1 Takeaways Hong Kong Style BBQ\n      \n  \n      \n      \n          The Rusty Bros\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -283,8 +272,8 @@
     
       {
         "title": "3",
-        "excerpt": "↑ Go to the Rating index\n\nEvery post with a 3 for its rating.\n\n\n  \n  \n\n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Urban Gusto\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Madly Indian\n      \n  \n      \n      \n          Hello, World\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
-        "content": "↑ Go to the Rating index\n\nEvery post with a 3 for its rating.\n\n\n  \n  \n\n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Urban Gusto\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Madly Indian\n      \n  \n      \n      \n          Hello, World\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n\n",
+        "excerpt": "↑ Go to the Rating index\n\nEvery post with a 3 for its rating.\n\n\n  \n  \n\n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Urban Gusto\n      \n  \n      \n      \n          Ayhan’s Turkish Cafe\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Madly Indian\n      \n  \n\n",
+        "content": "↑ Go to the Rating index\n\nEvery post with a 3 for its rating.\n\n\n  \n  \n\n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Urban Gusto\n      \n  \n      \n      \n          Ayhan’s Turkish Cafe\n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n  \n      \n      \n          Madly Indian\n      \n  \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -311,8 +300,8 @@
     
       {
         "title": "Reviews from 08 December 2023",
-        "excerpt": "↑ Go to December 2023\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            Zane Grey's Restaurant &amp; Bar\n        \n    \n        \n        \n        \n        \n            Madly Indian\n        \n    \n        \n        \n        \n        \n            Hello, World\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
-        "content": "↑ Go to December 2023\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            Zane Grey's Restaurant &amp; Bar\n        \n    \n        \n        \n        \n        \n            Madly Indian\n        \n    \n        \n        \n        \n        \n            Hello, World\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
+        "excerpt": "↑ Go to December 2023\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            Zane Grey's Restaurant &amp; Bar\n        \n    \n        \n        \n        \n        \n            Madly Indian\n        \n    \n\n",
+        "content": "↑ Go to December 2023\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            Zane Grey's Restaurant &amp; Bar\n        \n    \n        \n        \n        \n        \n            Madly Indian\n        \n    \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -322,8 +311,8 @@
     
       {
         "title": "Reviews from December 2023",
-        "excerpt": "↑ Go to 2023\n\n\n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n            Zane Grey's Restaurant &amp; Bar\n        \n    \n        \n        \n        \n            Madly Indian\n        \n    \n        \n        \n        \n            Hello, World\n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n\n",
-        "content": "↑ Go to 2023\n\n\n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n            Zane Grey's Restaurant &amp; Bar\n        \n    \n        \n        \n        \n            Madly Indian\n        \n    \n        \n        \n        \n            Hello, World\n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n\n",
+        "excerpt": "↑ Go to 2023\n\n\n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n            Zane Grey's Restaurant &amp; Bar\n        \n    \n        \n        \n        \n            Madly Indian\n        \n    \n\n",
+        "content": "↑ Go to 2023\n\n\n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n            Zane Grey's Restaurant &amp; Bar\n        \n    \n        \n        \n        \n            Madly Indian\n        \n    \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -333,8 +322,8 @@
     
       {
         "title": "Reviews from 2023",
-        "excerpt": "↑ Go to all reviews\n\nDecember\n\n\n\n\nMadly Indian\n\n\n\n\n\n\nZane Grey's Restaurant &amp; Bar\n\n\n\n\n\n\nHello, World\n\n\n\n\n\n\n\n\n\n\n\n\n",
-        "content": "↑ Go to all reviews\n\nDecember\n\n\n\n\nMadly Indian\n\n\n\n\n\n\nZane Grey's Restaurant &amp; Bar\n\n\n\n\n\n\nHello, World\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "excerpt": "↑ Go to all reviews\n\nDecember\n\n\n\n\nMadly Indian\n\n\n\n\n\n\nZane Grey's Restaurant &amp; Bar\n\n\n\n",
+        "content": "↑ Go to all reviews\n\nDecember\n\n\n\n\nMadly Indian\n\n\n\n\n\n\nZane Grey's Restaurant &amp; Bar\n\n\n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -344,8 +333,8 @@
     
       {
         "title": "Reviews from 22 February 2024",
-        "excerpt": "↑ Go to February 2024\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            Stratosfare Restaurant &amp; Bar\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
-        "content": "↑ Go to February 2024\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            Stratosfare Restaurant &amp; Bar\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
+        "excerpt": "↑ Go to February 2024\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            Stratosfare Restaurant &amp; Bar\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
+        "content": "↑ Go to February 2024\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            Stratosfare Restaurant &amp; Bar\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -355,8 +344,8 @@
     
       {
         "title": "Reviews from February 2024",
-        "excerpt": "↑ Go to 2024\n\n\n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n            Stratosfare Restaurant &amp; Bar\n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n\n",
-        "content": "↑ Go to 2024\n\n\n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n            Stratosfare Restaurant &amp; Bar\n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n\n",
+        "excerpt": "↑ Go to 2024\n\n\n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n            Stratosfare Restaurant &amp; Bar\n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n\n",
+        "content": "↑ Go to 2024\n\n\n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n            Stratosfare Restaurant &amp; Bar\n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -365,9 +354,53 @@
       },
     
       {
+        "title": "Reviews from 20 March 2024",
+        "excerpt": "↑ Go to March 2024\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            Autobahn Cafe\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
+        "content": "↑ Go to March 2024\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            Autobahn Cafe\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
+        "country": null,
+        "region": null,
+        "suburb": null,
+        "address": null,
+        "url": "/reviews/2024/03/20/"
+      },
+    
+      {
+        "title": "Reviews from March 2024",
+        "excerpt": "↑ Go to 2024\n\n\n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n            Autobahn Cafe\n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n\n",
+        "content": "↑ Go to 2024\n\n\n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n            Autobahn Cafe\n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n\n",
+        "country": null,
+        "region": null,
+        "suburb": null,
+        "address": null,
+        "url": "/reviews/2024/03/"
+      },
+    
+      {
+        "title": "Reviews from 19 July 2024",
+        "excerpt": "↑ Go to July 2024\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            Ayhan’s Turkish Cafe\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
+        "content": "↑ Go to July 2024\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            Ayhan’s Turkish Cafe\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
+        "country": null,
+        "region": null,
+        "suburb": null,
+        "address": null,
+        "url": "/reviews/2024/07/19/"
+      },
+    
+      {
+        "title": "Reviews from July 2024",
+        "excerpt": "↑ Go to 2024\n\n\n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n            Ayhan’s Turkish Cafe\n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n\n",
+        "content": "↑ Go to 2024\n\n\n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n            Ayhan’s Turkish Cafe\n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n\n",
+        "country": null,
+        "region": null,
+        "suburb": null,
+        "address": null,
+        "url": "/reviews/2024/07/"
+      },
+    
+      {
         "title": "Reviews from 02 November 2024",
-        "excerpt": "↑ Go to November 2024\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            Urban Gusto\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
-        "content": "↑ Go to November 2024\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            Urban Gusto\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
+        "excerpt": "↑ Go to November 2024\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            Urban Gusto\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
+        "content": "↑ Go to November 2024\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            Urban Gusto\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -377,8 +410,8 @@
     
       {
         "title": "Reviews from 03 November 2024",
-        "excerpt": "↑ Go to November 2024\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            The Rusty Bros\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
-        "content": "↑ Go to November 2024\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            The Rusty Bros\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
+        "excerpt": "↑ Go to November 2024\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            The Rusty Bros\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
+        "content": "↑ Go to November 2024\n\n\n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n            The Rusty Bros\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -388,8 +421,8 @@
     
       {
         "title": "Reviews from 08 November 2024",
-        "excerpt": "↑ Go to November 2024\n\n\n    \n        \n        \n        \n        \n            A1 Takeaways Hong Kong Style BBQ\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
-        "content": "↑ Go to November 2024\n\n\n    \n        \n        \n        \n        \n            A1 Takeaways Hong Kong Style BBQ\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
+        "excerpt": "↑ Go to November 2024\n\n\n    \n        \n        \n        \n        \n            A1 Takeaways Hong Kong Style BBQ\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
+        "content": "↑ Go to November 2024\n\n\n    \n        \n        \n        \n        \n            A1 Takeaways Hong Kong Style BBQ\n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n        \n        \n        \n        \n    \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -399,8 +432,8 @@
     
       {
         "title": "Reviews from November 2024",
-        "excerpt": "↑ Go to 2024\n\n\n    \n        \n        \n        \n            A1 Takeaways Hong Kong Style BBQ\n        \n    \n        \n        \n        \n            The Rusty Bros\n        \n    \n        \n        \n        \n            Urban Gusto\n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n\n",
-        "content": "↑ Go to 2024\n\n\n    \n        \n        \n        \n            A1 Takeaways Hong Kong Style BBQ\n        \n    \n        \n        \n        \n            The Rusty Bros\n        \n    \n        \n        \n        \n            Urban Gusto\n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n\n",
+        "excerpt": "↑ Go to 2024\n\n\n    \n        \n        \n        \n            A1 Takeaways Hong Kong Style BBQ\n        \n    \n        \n        \n        \n            The Rusty Bros\n        \n    \n        \n        \n        \n            Urban Gusto\n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n\n",
+        "content": "↑ Go to 2024\n\n\n    \n        \n        \n        \n            A1 Takeaways Hong Kong Style BBQ\n        \n    \n        \n        \n        \n            The Rusty Bros\n        \n    \n        \n        \n        \n            Urban Gusto\n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n        \n        \n        \n    \n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -410,8 +443,8 @@
     
       {
         "title": "Reviews from 2024",
-        "excerpt": "↑ Go to all reviews\n\nNovember\n\n\n\n\nA1 Takeaways Hong Kong Style BBQ\n\n\n\n\n\n\nThe Rusty Bros\n\n\n\n\n\n\nUrban Gusto\n\n\n\n\n\n\n\n\n\nFebruary\n\n\n\n\nStratosfare Restaurant &amp; Bar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-        "content": "↑ Go to all reviews\n\nNovember\n\n\n\n\nA1 Takeaways Hong Kong Style BBQ\n\n\n\n\n\n\nThe Rusty Bros\n\n\n\n\n\n\nUrban Gusto\n\n\n\n\n\n\n\n\n\nFebruary\n\n\n\n\nStratosfare Restaurant &amp; Bar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "excerpt": "↑ Go to all reviews\n\nNovember\n\n\n\n\nA1 Takeaways Hong Kong Style BBQ\n\n\n\n\n\n\nThe Rusty Bros\n\n\n\n\n\n\nUrban Gusto\n\n\n\n\n\n\n\n\n\nJuly\n\n\n\n\nAyhan’s Turkish Cafe\n\n\n\n\n\n\n\n\n\nMarch\n\n\n\n\nAutobahn Cafe\n\n\n\n\n\n\n\n\n\nFebruary\n\n\n\n\nStratosfare Restaurant &amp; Bar\n\n\n\n\n\n\n\n\n\n",
+        "content": "↑ Go to all reviews\n\nNovember\n\n\n\n\nA1 Takeaways Hong Kong Style BBQ\n\n\n\n\n\n\nThe Rusty Bros\n\n\n\n\n\n\nUrban Gusto\n\n\n\n\n\n\n\n\n\nJuly\n\n\n\n\nAyhan’s Turkish Cafe\n\n\n\n\n\n\n\n\n\nMarch\n\n\n\n\nAutobahn Cafe\n\n\n\n\n\n\n\n\n\nFebruary\n\n\n\n\nStratosfare Restaurant &amp; Bar\n\n\n\n\n\n\n\n\n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -421,8 +454,8 @@
     
       {
         "title": "All Reviews",
-        "excerpt": "All our reviews, with the latest on top.\n\n2024\n\nNovember\n\n\n\n\nA1 Takeaways Hong Kong Style BBQ\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Rusty Bros\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUrban Gusto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFebruary\n\n\n\n\nStratosfare Restaurant &amp; Bar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2023\n\nDecember\n\n\n\n\nMadly Indian\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZane Grey's Restaurant &amp; Bar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello, World\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-        "content": "All our reviews, with the latest on top.\n\n2024\n\nNovember\n\n\n\n\nA1 Takeaways Hong Kong Style BBQ\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Rusty Bros\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUrban Gusto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFebruary\n\n\n\n\nStratosfare Restaurant &amp; Bar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2023\n\nDecember\n\n\n\n\nMadly Indian\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZane Grey's Restaurant &amp; Bar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello, World\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "excerpt": "All our reviews, with the latest on top.\n\n2024\n\nNovember\n\n\n\n\nA1 Takeaways Hong Kong Style BBQ\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Rusty Bros\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUrban Gusto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuly\n\n\n\n\nAyhan’s Turkish Cafe\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarch\n\n\n\n\nAutobahn Cafe\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFebruary\n\n\n\n\nStratosfare Restaurant &amp; Bar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2023\n\nDecember\n\n\n\n\nMadly Indian\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZane Grey's Restaurant &amp; Bar\n\n\n\n\n\n",
+        "content": "All our reviews, with the latest on top.\n\n2024\n\nNovember\n\n\n\n\nA1 Takeaways Hong Kong Style BBQ\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Rusty Bros\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUrban Gusto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuly\n\n\n\n\nAyhan’s Turkish Cafe\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarch\n\n\n\n\nAutobahn Cafe\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFebruary\n\n\n\n\nStratosfare Restaurant &amp; Bar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2023\n\nDecember\n\n\n\n\nMadly Indian\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZane Grey's Restaurant &amp; Bar\n\n\n\n\n\n",
         "country": null,
         "region": null,
         "suburb": null,
@@ -437,6 +470,615 @@
   
   
   {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Baked With Love Cafe &amp; Cakery\n\nbusinessandyandthe\nOct 21, 2023\n1 min read\n\nTaupo, Waikato\n\nRating: 3\n\nWe ate lunch here in October 2023\n\nPumpkin tart\n\nPork belly bao buns\n\nLemon curd cheesecake\n\nPassionfruit, mango, pineapple, and banana smoothie\n\nBerry, banana, and date smoothie\n\nIt’s hard to follow the excellent pork bao buns of Hare and Copper just twelve hours later, it’s a bit like walking on the stage after Elton John has absolutely lit a crowd on fire. But these were still good. Unfortunately, the pumpkin tart was a bit more Sad Songs, and a bit less Rocket Man. The base was definitely too dry, and the filling was a bit bland to make up for it.\n\nThe lemon curd cheesecake Crocodile Rocked. But this is really more their specialty. The cakery part of Baked With Love kind of stands out. Their specialty cakes look absolutely amazing, and the small cakes and slices in the cabinet, while not quite as impressive, look delectable. We wouldn’t say smoothies were their strong suit, the smoothies we tried were average to good.\n\nWebsite https://bakedwithlove.co.nz/\n",
+    "url": "/posts_to_transition/Baked%20With%20Love%20Cafe%20&%20Cakery/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "1 Willis Street, Wellington Central, Wellington 6011\nRating: 2\nWe ate dinner here in February 2024\nItalian sausage and hot honey pizza\nShoestring fries with aioli\n\n\n\nWhile we were having a great night, the staff at Bambina Pizzeria were plagued by problems. It was impossible not to eavesdrop on them as they went on about needing Steve to come and take a look at the docket printer, which was apparently just churning out a zillion wrong dockets every few minutes. They tried to encourage us to dine elsewhere with that old trick “it’ll be at least a 25 minute wait” which it wasn’t. They obviously didn’t know who they were dealing with, so we settled in to wait in their rather comfortable but wonky booth.\n\nThe fries weren’t great. Not only were they overly salted, they were very short like the dregs of the bag, and the aioli was a detractant rather than an addition to the dish. However, the aioli did pair well as a dipping sauce for the crust. This was fortunate as the crust needed all the help it could get due to the disasterous toppings distribution. There was a core area of heavy sausage topping in the centre, a transition zone of just cheese around this, then a fairly broad crust. This led to an uneven dining experience to say the last. This wasn’t aided by the fact that the pizza was cut into 4, not 8, slices. Strap in for your first, sausagey, flavourful mouthful. Then let your senses dull in the cheese portion, before slogging through the largest area which was the crust.\n\nWebsite\n",
+    "url": "/posts_to_transition/Bambina%20Pizzeria/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Bay of Many Coves\nbusinessandyandthe\nJan 28, 2022\n2 min read\n\nMarlborough Sounds\n\nRating 4\n\nWe ate dinner here in January 2022\n\nGrazing platter\n\nDuck liver parfait\n\nTomato and mozzarella\n\nEye fillet with roast kumara and seasonal vegetables\n\nPan fried chicken with mashed potato and seasonal vegetables\n\nDark chocolate tart with pop rocks\n\nMille-feuille\n\nBay of Many Coves is a luxury resort in the Marlborough sounds. While we will confine our review to their meals, we will say that our high rating of their food reflects our opinion of the resort as a whole - absolutely fantastic. Note that we are reviewing their guest menus, available exclusively to guests of the resort. There is also a cafe on site where non-guests can visit to dine, but we didn’t eat there because we are too good to mix with that sort of riff-raff. There is no fixed menu at Bay of Many Coves, the meals change based on availability and the chef’s preference.\n\nThe charcuterie board we had for lunch was intense, best we’ve ever had. There was so much variety, generally four or five different types of everything eg there was a blue cheese, Camembert, some cheese with wax and some other hard cheese, then four different crackers, for meats there were two different salamis, plus ham and some kind of hot pork, there were apricots, figs, apple, grapes, dates, plus tomatoes, hummus, beetroot dip, macadamias, cashews. It was great fun trying all the different combinations and somehow everything seemed to work together pretty well. It was also beautifully presented on fern fronds.\n\nThe tomato and mozzarella was beautifully presented and flavourful. The parfait was tasty but way too much, could have used about half of that. The eye fillet was perfectly cooked and succulent. Some kind of marmite-esque blobs were on the plate and they were a flavour explosion. The mash with the chicken was a standout, don’t know what was in it but it was really good, perhaps the only thing that wasn’t pretty much perfect was the chicken which was slightly dry.\n\nThe mille-feuille was perfection, deconstructed and imaginative, every bite was heaven. The dark chocolate tart was one of the best desserts that The Fee-Rex has ever had, the tart filling was molten chocolate with golden pop rocks, and it was perfectly paired with fresh berries, crushed meringue and ice cream.\n\nWebsite https://www.bayofmanycoves.co.nz/the-cuisine/cuisine-overview/\n",
+    "url": "/posts_to_transition/Bay%20of%20Many%20Coves/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Better Choice Cafe\nbusinessandyandthe\nJul 24 2024\n2 min read\n\nMargaret River\n\nRating: 1\n\nWe ate lunch here in July 2024\n\nChicken and cheese crumbed sausage\n\nHash brown\n\nItalian panini\n\nBetter Choice Cafe very proudly, and very clearly describes itself as a dine-in cafe. Those exact words are written in large yellow lettering right across the top of the building. They aren’t willing to let their location (in a petrol station) slow them down in the slightest. But when you’re sitting betwixt the bagged ice, gas bottle swap, and the emergency spill kit, it really feels like you’re just sitting in a petrol station.\n\nThere was just no need for them to be so unwelcoming. If you are dine in, how about a plate? How about a fork? When you throw our order altogether a paper bag, you are saying “go away”. A couple of haphazardly placed chairs and tables does not a dine-in cafe make.\n\nThe hash browns were calamitous. We’re not sure how long ago they were cooked, but it should be measured in hours, perhaps days, not in minutes. They were very thin and very dry, like they’d been pressed beneath a hash brown mountain and left for dead.\n\nThe sausage was a surprise. None of the fried goods in the warmer were labelled, but that ain’t stopping us. There was a pyramid of identical tubular crumbed… things, some of which were dripping cheese. We rolled the dice and were shocked to bite in and find a white nondescript meat with uneven cheese pockets. We have made the assumption that this was chicken, but frankly who knows. It could have been made of old serviettes.\n\nThe panini was the best of a very bad bunch. The bread itself was good, it was well toasted, and they’d cut it in half for us, although perhaps this was another subliminal hint that they wanted us to get in our car and drive away. There was ham and salami and some ‘antipasto’ which was just jarred mushroom, but at least these are a tiny bit Italian. They’d swapped out the roasted red pepper for tomato. They’re both red, we suppose, but that doesn’t make them substitutable, especially when we both happen to hate hot sliced tomato. The mayo was plentiful to the point of dripping in some areas (terrible if you’re driving!) and didn’t particularly remind us of Rome.\n\nWebsite https://www.facebook.com/BetterChoiceMargs/\n",
+    "url": "/posts_to_transition/Better%20Choice%20Cafe/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Botswana Butchery\nbusinessandyandthe\nAug 4, 2023\n1 min read\n\nQueenstown\n\nRating: 3\n\nWe ate lunch here in August 2023\n\nCrispy squid\n\nSaffron and osso buco risotto\n\nEmploying a eat-at-the-first-place-we-see system, we stumbled along Botswana Butchery. It’s a little bit fancy, with prices to match, but you could see and taste where the money had gone and that’s what counts.\n\nThe crispy squid was innovatively cut so there were rings but it was all still joined together as a single piece. This was fun but a little awkward to share. It was supposed to come with a kimchi mayo and while the mayo was visible, the kimchi was undetectable. The squid was far from chewy, but it was also not the best we’ve ever had. Overall, it was good, and in particular the batter was excellent.\n\nThe risotto was similar, good but not mind-blowing. However the osso buco was a bit too firm, which was a shame.\n\nWebsite http://www.botswanabutchery.co.nz/\n",
+    "url": "/posts_to_transition/Botswana%20Butchery/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Braaihut\nbusinessandyandthe\nDec 8, 2023\n2 min read\n\nWhangarei, Northland\n\nRating 3\n\nSwiss cheese and caramelised onion beef burger\n\nChicken tenders\n\nPeri peri chips\n\nSpicy rice\n\nWe eat a lot of burgers, and you just never know when something special is going to come along. It came along tonight. This place is a little South African hole in the wall which prides itself on offering a comprehensive spice range and describes its offerings as “lekker man”. According to Google, lekker is South African slang for good. We can confirm the burger was extremely lekker, man. Soft bun, crazy juicy pattie, top notch structural integrity, onions for days, the cheese all melty. It ticked every box. You can even pick the spice level of your beef pattie (we went lemon herb, can recommend).\n\nAlso in the lekker category were the fries which were outstanding. They were just plain crinkle cut but cooked perfectly in good oil with just the right amount of peri peri and a welcome tomato dipping sauce.\n\nAfter the burger and chips, Braaihut were looking down the barrel of a 4. Then things took a turn. The tenders were grilled and nothing special, the sauce (we went with mild for the chicken) was uninspired. Then even worse was the “spicy” rice. We had been concerned that ordering spicy rice in a place specialising in spice could blast our tastebuds. We couldn’t have been more wrong. There was nothing spicy about it. There was nothing tasty about it either. It was white rice covered with some kind of anaemic yellow spice and nothing little kernels of corn and peas. Tragic.\n\nDespite a couple of serious missteps, we were big fans of this place. Special shout out to the hostess who went out of her way to guide us in our selection and was truly delightful. Overall, this joint was lekker, man.\n\nWebsite https://www.braaihut.com/\n",
+    "url": "/posts_to_transition/Braaihut/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Cafe Huhu\nbusinessandyandthe\nNov 7, 2020\n1 min read\n\nUpdated: Dec 13, 2020\n\nRating: 4\n\nWe ate dinner here in October 2020.\n\nSpiced Lamb Rump, Curry-Roasted Cauliflower, Kumara, Chickpeas, Cashews, Kusundi (gf)\n\nMushroom Fettuccine, Basil Oil, Parmesan (v)\n\nApple &amp; Rhubarb Crumble, Vanilla Bean Ice Cream\n\nExcellent meal, diverse menu, the dessert menu stood out.\n\nWebsite http://www.huhucafe.co.nz/\n",
+    "url": "/posts_to_transition/Cafe%20Huhu/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Captain Andy’s Beach Bar &amp; Grill\nbusinessandyandthe\nMay 14, 2023\n3 min read\n\nUpdated: May 17, 2023\n\nRarotonga\n\nRating: 1\n\nWe ate dinner here again in May 2023\n\nHawaiian chicken burger with chips\n\nCoconut noodle salad\n\nCaptain Andy doesn’t seem to care much that such bad food is being served on his watch. We don’t even know why we keep coming back. Okay scratch that, we know exactly why we keep coming back. It’s because he’s the only food for miles in every direction, and it was raining, and we were without transport.\n\nThis seems to happen where there is a captive audience, where people don’t have other options, there is some force that depresses good food, good vibes, and good service, leaving only ashen disappointments. Airport cafes have wronged us similarly in the past.\n\nAt least the chips were hot this time, although it’s a bit unbelievable that it took them three tries to get it right. And the burger was the best burger of theirs that we have tried. It even matched its description this time, with no surprise ingredients. Can you believe that this is how low they have set the bar? Neither can we, and yet they still managed to limbo under it with the coconut noodle salad. It sounded really fun on the menu, but what they served ended up being very similar to a KFC coleslaw with some strips of sort-of-fresh coconut mixed through. Easily the worst thing they have served us, which is frankly impressive.\n\n\n\nRating: 1\n\nWe ate dinner here again in May 2023\n\nBacon cheeseburger with chips\n\nIsland fries\n\nCaptain Andy, you salty dog, you did it again. On a rainy night, we found ourselves out of other options and forced to dine once more at the Captains table. What a disaster. While the food was better, the overall experience was a red hot mess.\n\nHeaps of the menu was unavailable - we had to order six items before we found two that were in stock. The wait was well over an hour. When we went to get the food, there’s was tonnes sitting around on the pass and the vibe was frazzled.\n\nThat said, congratulations are in order here. The chips tonight were an improvement on their previous offering. That’s not saying much as last night’s chips were genuinely some of the worst we’ve ever had. Nonetheless, tonight they were warm (but still not hot), and were not floppy. They were even all shoestrings this time around; last night we were served a perplexing mix of shoestring and thick cut.\n\nThe burger suffered from the same structural integrity problems as last night, plus it lacked flavour. They’d also slipped in a slice of unwelcome tomato, which was not on the menu.\n\nThe island fries were enjoyable. A fun mix of tropical root vegetables served with a couple of nice sauces. The novelty factor was helping them out here, and we could have done with more sauce, but these were the best the Captain has served so far. Actually that’s not true, we highly recommend the “Coffee Me Baby” cocktail.\n\n————————————————————————————————————————\n\nRating: 1\n\nWe ate dinner here in May 2023\n\nThai vegetarian curry and rice\n\nThe works burger with chips\n\nCaptain Andy has taken us all hostage. If you can’t be bothered leaving the resort to eat somewhere else, and the Captain knows you can’t, you lazy sods, then you’re going to have to eat what the Captain makes. Under no other circumstances could you get away with serving a meal like this.\n\nA basket of cold, floppy, tiny chip dregs alongside a burger which would have slid apart on the plate if not for a heroic skewer keeping it all together. The extremely poor ingredient distribution wasn’t helping; pineapple on one side, egg somewhere inside covering about three quarters of the patty. The best thing we can say about this burger is that the patty wasn’t dry at least. The curry was a-whole-nother type of sad affair. It was extremely bland and just a real bummer to eat. Providing a roti would have helped an awful lot but that was clearly beyond them.\n\nSloppy work from the Captain - we’ll be organising a mutiny.\n\nWebsite https://www.therarotongan.com/dine/captain-andys-beach-bar-grill.html\n",
+    "url": "/posts_to_transition/Captain%20Andy's%20Beach%20Bar%20&%20Grill/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Catlins Inn\nbusinessandyandthe\nAug 2, 2021\n1 min read\n\nRating: 1\n\nWe ate dinner here in August 2021\n\nBeef nachos\n\nBBQ beef &amp; bacon cheeseburger with chips\n\nRolling into Owaka on a Monday night, we weren’t spoiled for dining choices. In fact, the Catlins Inn was the only place open, and was doing a roaring trade. Credit where credit was due, they had only one member of bar staff and she was running an extremely tight ship. Prompt, friendly, professional service, meals came out fast, and empty plates were cleared away quickly. Unfortunately, this can’t make up for the fact that the food just wasn’t very good. The nachos were passable – very cheap corn chips and bland mince, but not offensively bad. Unlike the burger, which committed a sin we are yet to report on businessandyandthefeerex.co.nz – the refrigerated bun. What self-respecting cook would pull a bun straight from the fridge and, without heating it, use it to sandwich hot burger ingredients? Between the frosty bun and the chilled salad, it was unsurprising that the two wafer-thin patties, which would have been average at the best of times, were dead cold. There’s no coming back from that.\n\nWebsite http://www.clt-trust.co.nz/catlins-inn—owaka.html\n",
+    "url": "/posts_to_transition/Catlins%20Inn/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Clearview Estate\n\nRating: 3\n\nWe ate lunch here in February 2025\n\nBread with butter and hummus\n\nProfiteroles with pumpkin hummus, feta, cucumber\n\nEye fillet with confit potato, brocollini, carrot, turnip and jus\n\nMushroom arancini in tomato sauce\n\nBaileys creme brûlée\n\nAffogato\n\nOn a warm, still Hawkes Bay day, Clearview is a bloody nice place to eat. As part of a large group we got a table under cover nestled amongst the vines with a gentle breeze coming through, pure perfection. Also as part of a large group, we were happy to drink and be merry with our own company. Which is a lucky thing, as we were in for a wait. To their credit, the waiter did let us know they were extremely busy and bring out some complimentary bread. Regardless, the wait was substantial. What was worse than the wait, however, was the dripping nature with which food came out. There shouldn’t be a fifteen minute gap between the first and last meal coming out, that’s just poor kitchen management.\n\nMuch of the food was worth the weight. We can wholeheartedly recommend the steak, arancini and particularly the profiteroles which were inventive and exciting. Unfortunately the bread and the dessert let the meal down a bit. The bread was perfectly fine, but wasn’t anything to write home about, as was the adffogato. The brûlée was the worst of the lot, with way too much baileys in it which frankly ruined the flavour.\n",
+    "url": "/posts_to_transition/Clearview%20Estate/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Coffee Culture\nbusinessandyandthe\nJun 19, 2023\n2 min read\n\nChristchurch\n\nRating: 2\n\nWe ate lunch here in June 2023\n\nHalloumi bagel\n\nSpinach and mushroom filo\n\nLemon syrup cake\n\nBanana smoothie\n\nCoffee Culture seems to exist solely to prove that books shouldn’t be judged by their covers. They have all the trappings of a nice cafe, bustling central city location, chic decor, a line of busy people collecting coffees, and a nice looking cabinet. But all of this was just fluff to distract you from what they really have going on, which isn’t much. We weren’t surprised to learn later that Coffee Culture is just another big cafe chain.\n\nWe’re often baffled by cafes that get simple things wrong, simple things that are easy to fix, and the halloumi bagel was an excellent example of this phenomenon. The halloumi was barely cooked and was still very firm, and instead of being a fun and squeaky centrepiece it was rubbery and bland. It’s like they have never tried their own bagel, or maybe they just hate food, take your pick. It would have cost them basically nothing to fix this one thing and elevate their bagel significantly. It just makes you think that they don’t care.\n\nAnd another thing that just reeks of “we don’t care” is the tomato relish with the filo. Do they just put a little bowl of the same relish with everything that comes out of the cabinet? There were some sausage rolls in there that probably would have enjoyed some tomato relish on the side, but it was just the wrong flavour to have with the spinach and mushroom filo. The filo was also over-cheesed but was otherwise okay.\n\nThe lemon syrup cake was disappointingly dry, relying entirely on its top blob of syrup for moisture instead of running the syrup through the cake like they should. The banana smoothie also failed to live up to its potential and was unfortunately bland and took far too long to arrive to boot.\n\nWebsite https://coffeeculture.co.nz/\n",
+    "url": "/posts_to_transition/Coffee%20Culture/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Crack Chicken\nAddress: 1 Willis Street, Wellington, New Zealand\nRating: 2\nWebsite: https://namugroup.co.nz/crackwellington/\nWe ate dinner here in February 2025\nClassic fried chicken bowl\nSingle beef burger\nWaffle fries with gochujang mayo\n\n\n\nBilled as an innovative, mouthwatering cross between Nashville-style and Korean-style fried chicken, the reality is that it’s just a middling fast food joint in an underground food court. While the chicken itself was actually quite good, everything else in the bowl was just a huge slog. And it was all made worse, or at least much harder to eat by the awful wooden fork.\n\nThe burger was okay overall, although the bun was far too dry, and the same for the patty. At least the sauces were pretty good.\n\nThe waffle fries were the complete opposite experience, good waffle fries, but awful sauce. It was supposed to be gochujang mayo, but that flavour was indiscernible, it may as well have just had a few drops of tabasco sauce in it for all we could taste.\n\nWebsite\n",
+    "url": "/posts_to_transition/Crack%20Chicken/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Creel Tackle House &amp; Cafe\nbusinessandyandthe\nDec 30, 2021\n1 min read\n\nTurangi\n\nRating: 3\n\nAlmond croissant\n\nChicken, leek &amp; mustard pie\n\nYes, you read the title correctly. This cafe is part of a tackle house. As in a place where fishing tackle is sold. Nestled amongst the fishing flies, rods and nets is this dinky and popular eatery. The food was pretty good. The croissant was fresh and flavourful, although perhaps a little under-heated. The pie wasn’t mustardy enough, but was homemade with decent pastry, no sog, and yummy filling.\n\nBookings recommended, not actually sure if they take bookings, but if they do we recommend it.\n\nWebsite https://creel-tackle-house-cafe.business.site/\n",
+    "url": "/posts_to_transition/Creel%20Tackle%20House%20&%20Cafe/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Curry Guru The Malabar Kitchen\nbusinessandyandthe\nAug 3, 2021\n1 min read\n\nRating: 2\n\nWe ate lunch here in August 2021\n\nPaneer butter masala and rice\n\nButter chicken and rice\n\nPlain naan\n\nCheese and garlic naan\n\nCurry Guru was a mixed bag. On one hand, their paneer was truly excellent; soft, delicious, great texture, and the accompanying sauce was pretty good. However, the butter chicken had a serious case of tomato soup-itis, although it did contain plenty of nice chicken. Surprisingly the naans were the weakest link. The plain naan was too thick and doughy, and the cheese and garlic naan was very heavy on the cheese, very light on the garlic. The menu advertised the naan would be filled with cottage cheese, but it clearly contained copious amounts of flavourless mozzerella. It’s not the first time we’ve fallen for this bait-and-switch and we just don’t understand. Why mozzerella? Cheddar, colby, edam, any of the hard cheeses would have been better. Or, crazy thought, put in cottage cheese like you said you would. Shout out to their $10 lunch special, which was nearly the same size as the full curry and great value for money.\n\nWebsite http://www.currygurumalabar.co.nz/\n",
+    "url": "/posts_to_transition/Curry%20Guru%20The%20Malabar%20Kitchen/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Der Metz\nbusinessandyandthe\nFeb 11, 2021\n1 min read\n\nRating: 3\n\nWe ate dinner here in February 2021\n\nDeutsche platte (big ol’ platter of meats)\n\nJägerschnitzel (beef schnitzel with mushroom gravy)\n\nThe decor at Der Metz, like the meat, was plentiful, overwhelming, and excellent. The walls were covered in all sorts, but dominated by a giant portrait of Kaiser Wilhelm. The waitresses wore dirndls, and the beer came in 1L steins, making it look very German in there. The key indicator of quality for a schnitzel is the gristle content, and this schnitzel had very little gristle. There was one gristly mouthful in a schnitzel the size of Nebraska. The mash was a great accompaniment, and the mushroom gravy was delicious. Staring down the meat mountain aka Deutche platter, was a daunting prospect. This meal was meat, lots of it, and two kinds of sauerkraut, less of it. Sausages, roast pork, pork belly, all of it good, and the sauerkraut was a pleasant surprise. But the best part was the dumplings. While there are three vegetarian options on the menu, this place is clearly all about the meat. Top tip: get an extra serve of gravy on the side.\n\nWebsite https://www.dermetz.co.nz/\n",
+    "url": "/posts_to_transition/Der%20Metz/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Dunedin Social Club\nbusinessandyandthe\nAug 1, 2021\n1 min read\n\nRating: 2\n\nWe ate lunch here in August 2021\n\nMushroom &amp; spring onion arancini\n\nPulled pork cheeseburger with chips\n\nDunedin Social Club is more a bar with a menu than a restaurant. Or rather, a raspberry and lemonade dispensary with a bar and menu attached; jug after jug of the house specialty was served while we were there. And there weren’t even many other people there with us. Although their menu is small, they’ve gone to some trouble to put some interesting items in there. That said, the results were only so-so. The arancini was bland and a bit claggy. The cheeseburger was better, but there was definitely no cheese in it and it could have used more sauce.\n\nWebsite https://www.dunedinsocialclub.co.nz/\n",
+    "url": "/posts_to_transition/Dunedin%20Social%20Club/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Embers Woodfired Pizza Restaurant\nbusinessandyandthe\nJul 21 2024\n1 min read\n\nKalamunda, Perth\n\nRating: 4\n\nWe ate dinner here in July 2024\n\nBlue cheese gnocchi\n\nMushroom risotto\n\nEmbers is an Italian restaurant who, according to local Facebook groups, is on the rise again after a severe dip in quality following two changes of ownership. Embers used to be a favourite haunt of The Fee-Rex’s friend group 6+ years ago, so it was with excitement tinged with trepidation that we returned.\n\nWe were not disappointed. The gnocchi was super flavourful, really cheesy, with good texture on the gnocchi itself. The risotto was delicious, came packed with loads of mushroom, and the servings of both were generous. If we’re nitpicking, the drinks came out quite unevenly. We were a table of 5 and there was a gap of over five minutes between the first and last drink arriving, which occurred in both rounds of drinks.  But the service in general, including delivery of the food, was otherwise quite prompt.\n\nWebsite https://www.emberswoodfired.com.au/\n",
+    "url": "/posts_to_transition/Embers%20Woodfired%20Pizza%20Restaurant/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Exhale Exmouth\nbusinessandyandthe\nJul 26 2024\n2 min read\n\nExmouth\n\nRating: 4\n\nWe ate dinner here in July 2024\n\nKaraage cauliflower\n\nCalamari and chorizo\n\nRoast pumpkin with labneh\n\nPork hock\n\nChocolate brownie\n\nWhat an outstanding meal. We both absolutely loved everything that came out. And in a surprise twist, perhaps the most impressive thing was the chocolate brownie. Desserts are so often an afterthought, even at fancy tapas restaurants, but not here. This thing was so rich that it was almost fudge, and the sauces and ice cream accompanying it were simply\n\nperfection. Add a little hint of berry and you have the best brownie we’ve had in years, possibly ever. Don’t let our gushing about the brownie outshine the other dishes either. The calamari was unlike any we’ve had before. It was flat strips of marinaded and grilled squid, soft like butter, this ain’t your usual bowl of chewy crumbed calamari rings. And the cauliflower, woo-eee, cooked but with just the right amount of bite, flavours balanced, heaps of yummy sauce, we could eat that all day. And the pork hock came on a bed of fennel, apple, coriander, chilli, star anise, and garlic. It’s not just that the meals were delicious, they were also full of creative touches, and fun textures. Literally every food item was a 4 in its own right.\n\nIt’s a real shame that the service was a bit pants. It started off well, we ordered our first round of drinks promptly and the food and drinks both came out in good time. Then we wanted to order dessert and more drinks. We waited. And waited. And waited. We suspect that they were training one of the wait staff, and that there had been some real breakdowns in communication between them all. Despite using all the international symbols for ‘we are ready for service now’ (empty cocktail glasses, empty water bottle and closed menu all lined up along the visible edge of the table), it took at least 15 minutes of the very green and frazzled waitress bussing empty tables near us before eventually she came over to ask if we wanted any more water. She promptly forgot to bring more water, and another waiter eventually took our dessert order. It took so long we had started a countdown, deciding if 10 more items came out of the kitchen before we got service that we were going to forego the dessert and second round of drinks. Thank god we didn’t, we can’t imagine a world without that brownie in it, still the service does need tightening up.\n\nBut, that food, chef’s kiss.\n\nWebsite https://www.exhalexmouth.com.au/\n",
+    "url": "/posts_to_transition/Exhale%20Exmouth/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Federal Delicatessen\nbusinessandyandthe\nFeb 11, 2021\n2 min read\n\nUpdated: Jul 19, 2023\n\nAuckland CBD, Auckland\n\nRating: 3\n\nWe ate breakfast here again in July 2023\n\nPoutine with pastrami\n\nAmerican hot dog\n\nNow that we’ve eaten at this cool diner twice, we have been accepted into the ranks of the Cool People™. Don’t even speak to us if you are one of those unacceptably lame losers who would call Federal Delicatessen by it’s full name, sheesh, we’ll be referring to it as the Fed Deli from now on.\n\nFed Deli put on another good meal this morning. The poutine would have been better with more cheese curd and gravy, but it was poutine, so although it wasn’t the best version of what it could have been, it was still a very enjoyable dish.\n\nIf they had put a more interesting sausage in the hot dog, they would have had an excellent dish on their hands. As it was, with a nicely toasted bun, a delicious onion chutney, and plenty of mustard, it was really nice, only just shy of greatness.\n\n\n\nRating: 3\n\nWe ate breakfast here in February 2021\n\nGriddle cake\n\nCinnamon scroll\n\nFederal Delicatessen is cool. A lot of effort has been made to make this place look like an old New York Deli, and we felt several degrees cooler just sitting there. Likewise, the menu is very American, you can order bottomless tea and filter coffee, there’s pastrami everywhere, you can get pie by the slice, and there’s even a Reuben available. The breakfast menu is atypical, but this is a good thing. Reader, you may have noticed these Business Andy and the Fee-Rex don’t review a lot of breakfasts. We’re sick of eggs Benedict, and we’re sick of knowing exactly what else is going to be on the menu before we arrive, it’s always so pedestrian. The cinnamon scroll was very good, but unevenly heated, which was a shame. The griddle cake was fantastic, it came with crunchy nutty stuff, floofy cinnamon butter, a small amount of syrup (just the right amount) and some blueberry compote. All in all, the griddle cake was stupendous.\n\nWebsite https://thefed.co.nz/\n",
+    "url": "/posts_to_transition/Federal%20Delicatessen/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Floating Rock Cafe\nbusinessandyandthe\nFeb 19, 2024\n1 min read\n\nKuratau, Waikato\n\nRating: 3\n\nWe ate dinner here in February 2024\n\nSpicy volcano pizza\n\nGarlic cheese and caramelised onion pizza\n\nMany pizza places try to do a crispy thin crust, but few succeed. Floating Rock Cafe has absolutely nailed it. Super thin, crispy across the entire base, toppings all the way to the edge and none of those unfortunate bubbles you sometimes get with a wood fired job.\n\nThe garlic cheese and caramelised onion pizza was also perfection. The garlic was present but not overwhelming, the cheese was just the right amount, and the onion was sweet and plentiful. The spicy volcano was good but not great. The jalapeños could have done with cutting up and we would have preferred a spicier sausage to the mild salami that was provided. Regardless, this is the best pizza we’ve had in a while. Buster, the morbidly obese resident dog, clearly agrees - he seems to eat at least two pizzas a night. We strongly recommend you come to Floating Rock Cafe, and strongly recommend you don’t feed Buster.\n\nWebsite https://www.facebook.com/p/Floating-Rock-Cafe-100063579282410/\n",
+    "url": "/posts_to_transition/Floating%20Rock%20Cafe/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Golden Crust Pizza\n\nbusinessandyandthe\nOct 25, 2024\n2 min read\n\nTurangi\n\nRating: 2\n\nWe ate dinner here in October 2024\n\nPeri-peri paneer pizza\n\nChicken tenders with chips and sweet chilli sauce\n\nCaramel thickshake\n\nWhat is it to ‘dine-in’? Business Andy and the Fee-Rex only review dine-establishments. Golden Crust Pizza’s signage states dine-in. And there are some tables and chairs, with salt and pepper at the tables. Sounds like dine-in so far. There was no table service, you had to order at the counter, but that’s fine. Failure to provide water (except purchased bottled water) is unpleasant, but certainly not unprecedented, plenty of dingy cafe’s do the same thing. The stickiness of the table was a clue that other patrons had also chosen to dine-in.\n\nWhen we ordered the server didn’t ask dine-in or takeaway, which is a red flag. To ensure they knew, we even went up after ordering to tell them we were intending to dine-in. They did not bring the order to the table, instead they yell your name and you have to go up and get it, the red flag waving was getting quite intense at this point. The order comes in takeaway packaging with no cutlery provided, a cascade of red flags with flashing lights. We’d describe Golden Crust more as dine-in tolerated than a dine-in restaurant. The South Asian news playing on the huge telly above our table showing images of dying elephants didn’t exactly stoke our appetite either.\n\nWhat did get our juices flowing was the pizza. Yum. It was spicy, but not too spicy, with great paneer, a good balance of other ingredients and the peri-peri sauce was ample but not excessive. The chicken tenders were also a pleasant surprise. They were sizeable and actually pretty tender, crumbed and served with a kinda-thin sweet chilli sauce.\n\nThe chips were not good; way under-salted and only just cooked. The thickshake was also a real shame. If you’re advertising a thickshake, that shake had better be thick. I’m talking hard-to-get-up-the-straw thick. This shake had been made with softserve ice cream and had a foamy texture, definitely not thick, and the caramel flavour was uninspired.\n\nWebsite https://goldencrust.co.nz/index.html\n",
+    "url": "/posts_to_transition/Golden%20Crust%20Pizza/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Golden Dragon Chinese Restaurant\nbusinessandyandthe\nJul 22 2024\n1 min read\n\nMargaret River\n\nRating: 3\n\nWe ate dinner here in July 2024\n\nChilli fried beef\n\nMongolian lamb\n\nGolden Dragon looks like your typical hole-in-the-wall Chinese joint. Sparsely populated with customers and absolutely heaving with red and gold tasselled decorations. Then, as if to say “you don’t know me”, the music was 100% ballads from the 50s. I’m talking ‘born free as free as the wind blows as free as the grass grows”, proper jams you might hear at your granddad’s wake.\n\nThe cuisine was more traditional than the soundtrack. We were big fans of the plentiful rice, which came in an extremely cute insulated plastic screw top container. It blows our minds how many places stinge out on the rice. It costs like a dollar per tonne, don’t just give us a little thimbleful.\n\nThe beef was freshly fried and pretty spicy, but not unmanageably so. The lamb had occasional gristle but was mostly decent and came sizzling hot with a tasty sauce. While this meal wasn’t “unforgettable” - a reference to the 1959 Nat King Cole banger we heard at dinner tonight, but it was pretty good.\n\nGolden Dragon Chinese Restaurant has no website\n",
+    "url": "/posts_to_transition/Golden%20Dragon%20Chinese%20Restaurant/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Hare &amp; Copper Eatery\n\nbusinessandyandthe\nOct 21, 2023\n2 min read\n\nTurangi, Waikato\n\nRating: 4\n\nWe ate dinner here in October 2023\n\nCheesy garlic bread\n\nPork bao buns\n\nTofu bao buns\n\nPopcorn chicken\n\nRoasted bone marrow with bacon marmalade\n\nJalapeno poppers\n\nApple &amp; rhubarb crumble with ice cream\n\nChurros with dulce de leche\n\nIt’s a risk to open up a high end sharing plates joint on the outskirts of Turangi. Where will the customers come from? We thought. We’re not sure where they had come from, but they were certainly there. The place was full, luckily we were able to get an outdoor table and it was a gorgeous still evening.\n\nThe service was on point. Super friendly and attentive, but not overbearing. They warned us of a 20 minute wait for food, which is nothing, and then the food arrived in 15 minutes anyway.\n\nThat’s not to say that everything was perfect, Hare &amp; Copper isn’t a cheap night out, perhaps we’d even say the food prices were steep, but it certainly is a good time. We were a bit disappointed by the drinks, and crumble was on the bad end of the scale. But everything else was, in fact, very good. We were blown away by the popcorn chicken, it was easily the best of its kind that we’ve ever had. The chicken itself was excellent, but it was everything else on the plate that elevated to greatness, especially the dry roasted peanuts.\n\nBoth the bao buns were really good, with a lovely spicy sauce. They described it as “out of this world” on the menu, and they did not disappoint. The jalapeno poppers did everything right. The bone marrow made you feel like a 15th century king and the bacon marmalade was to die for. The garlic bread was soft and tasty but the mozarella was a disappointing cheese choice. The churros were fabulous, they had such a soft centre yet a perfectly crispy outside, generously coated in sugar and cinnamon with a dulce de leche that was just the right amount of sweet.\n\nBookings recommended\n\nWebsite https://www.hareandcopper.co.nz/\n",
+    "url": "/posts_to_transition/Hare%20&%20Copper%20Eatery/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Hayz at the Anchorage\nbusinessandyandthe\nFeb 13, 2022\n2 min read\n\nBluff\n\nRating: 1\n\nWe ate dinner here in February 2022\n\nHalf roast mutton bird with stuffing, blueberry jus, seasonal vegetables, and mash\n\nRibs with salad and chips\n\nDining options are limited in Bluff. In fact, unless you want to eat a toastie and chips while being called a Covid Nazi at the local anti-vax hotspot, The Eagle, Hayz at the Anchorage is your only choice.\n\nThis restaurant embraces local delicacies. Along with the expected Bluff Oysters, there are also paua wontons, sweetbreads, whitebait, and mutton bird. Feeling adventurous, and keen on some local fare, the Fee-Rex decided to try mutton bird for the first time. It turns out that mutton bird, which is a sea bird in the shearwater family, is hella fishy. Even the smell is that of fish, and quite strong. It does look like mutton, which is perhaps where it gets the name, but it tastes like fish.\n\nThe flavour of the mutton bird has not been considered as part of the rating. We went out on a limb, and the restaurant can’t be penalised because we ordered something that just wasn’t us. That said, the rest of the meal was pretty bad. The stuffing was plain, and very dry. Other than a few (cold) blueberries on the plate, the jus was neither to be seen nor tasted. The mash was the best part, and the “seasonal” vegetables, the worst. We didn’t realise that boiled frozen vege mix had a season! For $40, in Bluff no less, we expect fresh vegetables.\n\nThe ribs were dry, although they did come with quite a nice sauce, and plenty of it, which did help some. The ribs were sitting in top of a big ol’ pile of chips, which ordinarily we are all for, but there were some problems with these chips. You know when you’re hung over on a Sunday morning, and your pour your McCain frozen chips into a roasting dish and slam them in the oven after finally falling out of bed just after 11am, and then you are ready for chips way before they are ready for you, so you get them out, half done, not crispy at all in fact a little soggy, those chips are full of sadness, and after eating them, so are you. That’s exactly what these chips were like, and frankly our disappointment is immeasurable. There was a little bit of salad on the side which was reasonable, but it was as much as afterthought as every salad that’s ever been on the side of a plate of ribs and chips has ever been.\n\nWebsite https://www.hayzattheanchorage.com/\n",
+    "url": "/posts_to_transition/Hayz%20at%20the%20Anchorage/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Homestead Brewery\nbusinessandyandthe\nJul 28, 20221 min read\n\nPerth\n\nRating: 2\n\nWe ate lunch here in July 2022\n\nChicken and veal burger with chips\n\nFish and chips\n\nWe would argue that fish and chips should come with a salad. We think it’s pretty normal, and having something to cut through the grease is valuable. Looks like Homestead Brewery doesn’t agree. That said, the chips were great, but the fish was very crisp. Too crisp.\n\nThe burger was divisive. We can both agree that the patty was unusual, it was made of a combination of chicken mince and veal mince, moulded into a patty and then deep fried. Business Andy felt that it was unusual and good, The Fee-Rex felt that it was unusual and bad. It doesn’t help that The Fee-Rex doesn’t like avocado when there is so much smeared over the bottom bun. Props to the overall construction and shape, Homestead Brewery has clearly read our recent review of Khandallah Trading Company and has gone wide not tall.\n\nWebsite https://mandoonestate.com.au/eat-drink/homestead-brewery\n",
+    "url": "/posts_to_transition/Homestead%20Brewery/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Hotties Beachfront Eatery\nbusinessandyandthe\nMar 20, 2024\n1 min read\n\nHot Water Beach\n\nRating: 3\n\nWe ate dinner here in March 2024\n\nSourdough with oil and balsamic\n\nFish tacos\n\nFish and chips\n\nHotties is a more upmarket establishment than its name would suggest and has a lovely location right by the beach. The sourdough was a triumph. While not baked on site, it is purchased from a local bread maker and was clearly very fresh, served in thick, perfectly toasted slices with quality oil. Yum.\n\nThe fish tacos put in a solid performance too. Unfortunately, the fish from the fish and chips suffered from batter-tastes-like-the-fryer-itis, which is a terminal condition. And don’t think the flavour could be masked by the tartare, as there wasn’t nearly enough of it. The chips were great though, fresh with a nice seasoning, but could have done with some sauce too.\n\nWebsite https://www.hottieseatery.co.nz/\n",
+    "url": "/posts_to_transition/Hotties%20Beachfront%20Eatery/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Hydro Eatery\nbusinessandyandthe\nOct 25, 2021\n1 min read\n\nRating: 2\n\nWe ate lunch here in October 2021\n\nBattered fish bite Turkish pocket with chips\n\nBeef burger with chips\n\nReal talk, Hydro Eatery, a pocket holds things. A Turkish bun cut in half, toasted and sandwiched with hot contents is a burger. Additionally, a fish bite can be eaten by a human in one or two bites. Your bites were so big that they were basically a whole fish. Furthermore, the stake that you put through a burger is intended to hold everything together. If that stake touches neither of the two giant pieces of fish so that when you pick up your pocket/burger the fish falls out either side, then that stake is pretty blood redundant isn’t it?!\n\nNow that’s done we can talk about the beef burger. It was merely okay, a bit dry, and was not quite hot enough to melt the cheese. But at least the whole thing didn’t fall to pieces when it was picked up.\n\nWebsite https://www.facebook.com/Hydroeatery/\n",
+    "url": "/posts_to_transition/Hydro%20Eatery/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Jumpstart Cafe\nJan 24, 2021\n1 min read\nTauranga, Bay of Plenty\n\nRating: 2\n\nWe ate lunch here in January 2021\n\nPulled pork burger\n\nFruit salad\n\nLemon bread\n\nLiver lover juice\n\nMixed berry smoothie\n\nThe Fee-Rex used to work at an Indian restaurant, now closed, where the Jumpstart Cafe currently stands. Give our experience, we don’t think this establishment will be around long either. While not ghastly, the meal was highly underwhelming. The highlight was the lemon bread, which was fresh and perfe`ctly toasted. The smoothie wasn’t bad either, being reminiscent of a real fruit ice cream. The fruit salad was boring, the burger forgettable. The lowlight was the liver lover juice. The menu board described the juice as “beetroot, carrot, apple, ginger”. We would suggest this description was replaced with “dirt, beetroot, far too much ginger”.\n\nWebsite Please note the online menu at the time of posting did not match the menu available in-house.\n",
+    "url": "/posts_to_transition/Jumpstart%20Cafe/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Kai &amp; Co\nbusinessandyandthe\nMay 16, 2023\n1 min read\n\nRarotonga\n\nRating: 3\n\nWe ate lunch here in May 2023\n\nFish burger and chips\n\nLasagne\n\nBanana smoothie\n\nBananas here are so much more flavourful than in NZ and it really showed in the smoothie, which also rated highly for texture and coldness. The lasagne was serviceable. It came with Watties tomato sauce on the side which was a weird pairing. Does the chef not have confidence in their lasagne? Because it shouldn’t need a sauce. The fish burger had plenty of fish in it, and it was lovely and fresh. Unfortunately it was yellowfin tuna which the Fee-Rex doesn’t care for, and the sauce distribution was uneven. But Business Andy thought it was top tier.\n\nWebsite https://www.facebook.com/kaiandcoraro/\n",
+    "url": "/posts_to_transition/Kai%20&%20Co/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Kai Whakapai\nbusinessandyandthe\nAug 5, 2023\n1 min read\n\nWanaka\n\nRating: 2\n\nWe ate lunch here in August 2023\n\nKatsu chicken burger with chips and aioli\n\nMushroom, onion jam and walnut pizza\n\nKai Whakapai, we need to talk. You’ve been on this busy corner for 25 years and you’ve gotten complacent. You were lucky to become an institution, we’ve seen better establishments than you come and go. Business Andy has fond memories of previous visits here, and we expected better.\n\nThe first three mouthfuls of the chicken burger were somehow all bread. Where’s the sauce? We could see the chicken, yet somehow none was in our mouth. There was just not enough sauce, not enough chicken, not even enough coleslaw. The chips were yummy but paired with an aioli that was way too mustardy.\n\nThe pizza sounded really yummy. The sauce base was a parmesan white sauce, rather than the traditional tomato. Something different, we’re always keen for that. Unfortunately, their white sauce tasted like nothing so when you had a mouthful that didn’t have mushroom, which was frequently, there really wasn’t a lot happening flavour wise. The onion jam pieces were rare (so rare the Fee-Rex questioned whether they were even present) and the walnut, while good, was more of a texture thing.\n\nWebsite https://kaiwhakapai.nz/\n",
+    "url": "/posts_to_transition/Kai%20Whakapai/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Kika\nbusinessandyandthe\nAug 8, 2021\n1 min read\n\nRating: 4\n\nDuck waffle with beet puree and goats feta crema\n\nFresh burrata, beetroot, truffle and honey, walnut, and rye bread\n\nJerusalem artichoke, goat’s curd, coffee, hazelnut, and parmesan\n\nPork belly with celeriac and persimmon\n\nPatate fritte with black garlic\n\nCos lettuce, garlic tahini dressing, and radish\n\nCrème fraîche cheesecake, pear sorbet, vanilla poached pears\n\nPerhaps the best thing about Kika is that you don’t even have to look at the menu. They have a “just feed me” option where they’ll pick you out three starters, a main with two sides, and a dessert. With matched wine or beer if you’d like. We opted for this and were extremely happy with everything that came our way. Don’t worry, you can specify “no seafood” or “no tomato” as needed. The fee-rex’s favourite dish was the duck waffle which was delightfully unusual. Business Andy preferred the artichokes. Bookings are highly recommended, we were very lucky to get a table without a booking, we were there ten minutes after they opened and while we were sitting there everyone else who didn’t have a booking was turned away.\n\nWebsite https://kika.nz/\n",
+    "url": "/posts_to_transition/Kika/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Latitude 37\nJan 26, 2023\n1 min read\n\nMt Maunganui, Bay of Plenty\n\nRating : 3\n\nWe ate dinner here in January 2023\n\nArancini balls\n\nPork belly\n\nFried cauliflower\n\nDuck liver pate\n\nChocolatete mousse dome\n\nCreme brûlée\n\nAt Latitude 37 everything was good, but nothing was excellent. Across the board there were no standouts in either direction, it was just universally enjoyable. They could do with turning the music down a few decibels as you definitely had to shout especially once the live music started. And shout to their cocktail menu, especially the clockwork orange.\n\nWebsite https://latitude37restaurant.co.nz/\n",
+    "url": "/posts_to_transition/Latitude%2037/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Licorice Cafe\nbusinessandyandthe\nDec 20, 2021\n1 min read\n\nMotuoapa, Waikato\n\nRating: 2\n\nWe ate lunch here in December 2021\n\nCreamy mushrooms on toast\n\nStuffed kumara\n\nLiquorice slice\n\nIf a place is named  Licorice Cafe, you’d expect a pretty great liquorice slice. As it turns out, the liquorice slice is not the main event here, liquorice is displayed on every wall for sale.\n\nThe slice itself was mostly just sugar, with coconut on the side, we couldn’t taste the liquorice at all. They used liquorice all sorts in this slice, and perhaps that was more for a bit of colour, but it would have been cool to have some actual liquorice in something, instead of only having it for sale in buckets.\n\nThe mushrooms on toast were pretty good. They were flavourful, the bacon on the side was crisp, and the bread was fresh. Unfortunately the bread was also a bit undertoasted, but that’s hardly a deal breaker for what was otherwise a really good dish.\n\nThe kumara looked great, and was a very healthy size. Unfortunately it just didn’t bring it. The contents were just mashed kumara, corn that you couldn’t taste, onion that you also couldn’t taste, and a small amount of some kind of herb that you also couldn’t taste. It was pretty much just a plate of mashed kumara. You know what, that’s a little unfair, there were a few sundried tomatoes on top, not enough, and there was a generous serving of sour cream on the side, it was nice that they weren’t stingy on that front.\n\nWebsite https://www.facebook.com/pages/category/Cafe/Licorice-CAFE-112651743763985/\n",
+    "url": "/posts_to_transition/Licorice%20Cafe/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Little Blue Kitchen\nbusinessandyandthe\nMar 20, 2024\n1 min read\n\nHahei, Waikato\n\nRating: 3\n\nWe ate lunch here in March 2024\n\nVegan burrito\n\nBanana, walnut, and peanut butter bagel\n\nPotato tots with aioli\n\nBanana smoothie\n\nWhoa, guys, check out this burrito. Oh my stars. This was the type of simple perfection which has us leaving asking why everybody isn’t serving this. There was nothing fancy going on - potatoes that had been boiled then lightly fried, beans, avocado, tomato, scrambled tofu, spinach. Well constructed in a burrito that wasn’t inclined to fall apart and then toasted to perfection. No cold spots here. No sauce, it doesn’t need it. This kind of dish just drives home, you don’t have to be fancy to get a 4. Anyone can do it, your food just has to be good.\n\nHowever, Little Blue Kitchen didn’t get a 4 as unfortunately their other dishes, while good, didn’t reach these heights. The smoothie had a yummy maple flavour but was a bit thin. The tots were dangerously over-salted. And the bagel was delectable if you got some with banana, but a total trudge for the half that was banana-less.\n\nBut hey, we’d come back time and time again for that burrito.\n\nWebsite https://littlebluehahei.co.nz/\n",
+    "url": "/posts_to_transition/Little%20Blue%20Kitchen/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Little Polynesian Resort\nbusinessandyandthe\nMay 17, 2023\n1 min read\n\nRarotonga\n\nRating: 3\n\nWe ate lunch here in May 2023\n\nPork belly wrap\n\nSizzling Mongolian beef\n\nThat’s more like it Raro! This was easily the best meal we’ve had on the island, and truly a delight. The pork belly was juicy and sweet with great cracking and a nice homemade pawpaw chutney. The Mongolian beef was exactly what you’d expect - boiling hot, sticky, sweet and saucy. It wasn’t reinventing the wheel, but it did the wheel very nicely.\n\nIt’s our last day in Raro, and we’re ready to comment on the service. All the advertising says that the people of Rarotonga are incredibly friendly and helpful. Nah bro. With a few notable exceptions (the barman at Captain Andy’s, the market pearl salesman, and Luther our dawn walk tour guide) the service has been actually pretty chilly. Lani, our server at Little Polynesia, was a good personification of this. Honestly, she seemed like she’d rather we weren’t there. Don’t get us wrong, the service wasn’t bad. She ticked the boxes that she had to tick. But she did the bare minimum and that was all. Even when we threw her some softballs, like asking about what fruit was in the chutney, we didn’t get much back.\n\nWebsite https://www.pacificresort.com/little-polynesian/dining/\n",
+    "url": "/posts_to_transition/Little%20Polynesian%20Resort/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "London Quay Cafe\nbusinessandyandthe\nJan 28, 2022\n1 min read\n\nPicton\n\nRating: 1\n\nWe ate breakfast here in January 2022\n\nFresh fruit salad with Greek yoghurt\n\nMocha\n\nThe problem with cafe breakfast is that it’s all the same, but nowhere is this more true than at London Quay Cafe. We’re sure that you could guess every single thing that was on the menu. Take a few wild guesses, we’ll wait.\n\nToasted muesli: check\n\nEggs Benedict: check\n\nBacon and eggs: check\n\nBig breakfast: check\n\nThe lunch menu had a couple of things that were a little more interesting, but this breakfast menu was just despairingly unimaginative. To make matters worse, there was no Greek yoghurt, or yoghurt of any nationality with our fruit salad, and the mocha wasn’t very nice either. We will say that the salad was fresh, and was a good mix of different fruit; it wasn’t just all rock melon.\n\nA note about music. We like Nelly feat. Kelly Rowland’s 2002 smash hit Dilemma as much as the next guy, nay, more than the next guy, but it was oppressively loud. Perhaps if they had turned the volume of the music down, and the volume of the menu up we would have had something nice to say.\n\nLondon Quay Cafe has no website.\n",
+    "url": "/posts_to_transition/London%20Quay%20Cafe/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Manapouri Cafe &amp; Dairy\nbusinessandyandthe\nFeb 13, 2022\n1 min read\n\nManapouri\n\nRating: 2\n\nFish and chips\n\nBeef burger and chips\n\nManapouri Cafe &amp; Dairy is the closest eatery to the popular Lake Manapouri jetty, so a certain amount of business is always going to come their way, and they know it. Consequently they haven’t put an awful lot of effort into their menu or cookery. The cook had a panicked vibe to her, bought us out another tables meals, and then when our meals arrived had forgotten the chips.\n\nThe highlight was the snapper which was fresh and well battered. It was served with mayo - why some places seem to think this is an acceptable substitute for tartare is beyond us. The burger wasn’t bad, just carelessly made, with a bland patty and the cheapest ingredients.\n\nManapouri Cafe &amp; Dairy has no website.\n",
+    "url": "/posts_to_transition/Manapouri%20Cafe%20&%20Dairy/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Miss Lucy’s\nbusinessandyandthe\nAug 6, 20231 min read\n\nQueenstown\n\nRating: 2\n\nWe ate dinner here in August 2023\n\nMargarita pizza\n\nLoaded tater tots\n\nMiss Lucy’s sits atop a backpackers in Queenstown and serves cocktails that are befitting of their station. The espresso martini was all foam and not sweet enough, and the dark &amp; stormy way too gingerey and also unmixed so the first mouthful was nothing but rum. Unfortunately Miss Lucy’s wasn’t saved by the food, none of which was anything to get too excited about.\n\nWebsite https://www.misslucys.co.nz/queenstown/\n",
+    "url": "/posts_to_transition/Miss%20Lucy's/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Mission Estate Winery\nbusinessandyandthe\nMar 15, 2021\n1 min read\n\nRating: 4\n\nWe ate dinner here in March 2021\n\nHouse made loaf with olive oil, balsamic, and dukkha\n\nSalt and pepper squid\n\nLeek and cauliflower croquette\n\nWagyu beef brisket, miso custard, soba noodle and squid ink crisp\n\nCreamed pumpkin tagliatelle\n\nDuck breast with beetroot gratin and cumquat marmalade\n\nRoast banana and caramel brûlée\n\nMission Estate is a beautiful historic venue, and as it was warm autumn evening we dined outside under the grapevines. We tried a lot of different dishes at The Mission, and they were almost all excellent. The weak links were the house made loaf, which was a bit dense and didn’t come with enough oil, and the tagliatelle which was just a tad bland. These were not bad dishes, it’s just that everything else was outstanding. Neither Business Andy nor the Fee-Rex is a big squid head, but we still knew good squid when we tried it. We are both big croquette heads however, and could appreciate that the leek and cauliflower croquette was top tier. It was delightfully creamy and crunchy, and had no stringy leek bits as can sometimes happen. The beef brisket was weird, but in the best way. The accompanying miso custard made us both reconsider our relationship with miso, which until now had been strained. The duck breast was so tender, so crispy, so flavourful, and so sweet, it might have been the best dish on the table the whole night. And the brûlée was a nice end to a special meal. We would be happy to return to The Mission any time.\n\nWebsite https://missionestate.co.nz/restaurant/\n",
+    "url": "/posts_to_transition/Mission%20Estate%20Winery/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Mr Glen’s Taphouse &amp; Tapas\nbusinessandyandthe\nAug 10 2024\n1 min read\n\nGlenorchy\n\nRating: 2\n\nWe ate dinner here in August 2024\n\nPork belly tacos\n\nTofu and mushroom bao buns\n\nDon’t let the name fool you, Mr Glen’s is a taphouse but not a tapas bar. Their ‘tapas’ were things like chips, garlic bread, wings. By that definition, Lone Star is a tapas bar.\n\nMr Glen’s menu was large, and we appreciated the funny names (our pork belly tacos were officially called “Damn That’s Hot”, even though they were mild at most). But the food was only so-so. The pork belly had good flavour, and the tacos were generously filled, but the belly itself was too dry. Similarly, the bao buns were generously stuffed, but the buns themselves were too thick and the dish lacked flavour.\n\nWebsite https://www.facebook.com/p/Mr-and-Mrs-Glens-GY-100091710540543/\n",
+    "url": "/posts_to_transition/Mr%20Glen's%20Taphouse%20&%20Tapas/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "NZ Kebab &amp; Pizza House\nbusinessandyandthe\nNov 12 min read\n\nRotorua, Bay of Plenty\n\nRating: 2\n\nWe ate dinner here in November 2024\n\nPaneer iskender\n\nButter paneer pizza\n\nNZ Kebab &amp; Pizza house does Turkish food and pizzas (surprise, surprise), but with an Indian twist. We’ve never seen paneer iskender before, and were keen to give it a go. Tell you what, it was pretty good. The paneer went well with the sauces, with the sticky rice and with the salads. Halloumi is usually the cheese associated with Turkish food, and we are all for halloumi, but having tried both we’d say the paneer is just as good.\n\nShame about the pizza though. The butter paneer pizza, which is just their butter chicken pizza but with paneer instead of chicken, had some serious issues. Firstly, the amount of cheese was ridiculous. We like cheese as much as the next guy, but when it’s compromising the integrity of the dish, when it’s so laden with cheese that the slices are falling to pieces under the immense weight, then you’ve gone too far. The Fee-Rex used a knife and fork for the whole thing, a tragic sight. The other toppings were no bueno. There were tiny little pieces of capsicum and tomato, plus some raw red onion. They bought nothing to the occasion. Then there was the butter chicken sauce. Sweet heavens was it salty. The flavour, while reminiscent of a curry, was not enjoyable and some patches had too much sauce.\n\nWe were also disappointed to be served in takeaway containers. This restaurant very clearly encourages dine in. They have a huge dining area, lots of tables, far too many chairs (seriously, the four person table next to us had seven chairs!), and even had menus on the tables. Yet our iskender came out in a cardboard container, the pizza in a box, and we got two wooden sporks and one plastic knife. The fact that these implements could easily cut through the pizza was a further indictment upon its structure. It’s not hard to slide a pizza onto a plate. We propose that NZ Kebab &amp; Pizza is costing itself more in disposable materials and paying to dispose of bulky pizza boxes than it would cost for some cheap plates and cutlery. And it would sure enhance the dining experience. Speaking of enhancing the dining experience, a shout out to our server who was truly delightful.\n\nWebsite https://www.nzkebabandpizzahouse.nz/\n",
+    "url": "/posts_to_transition/NZ%20Kebab%20&%20Pizza%20House/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Nanny’s Eatery\nbusinessandyandthe\nDec 8, 2023\n1 min read\n\nKingsland, Auckland\n\nRating: 3\n\nChicken empanadas\n\nJerk Pork belly\n\nChips\n\nMacaroni cheese\n\nWe love the vibe at Nanny’s, it was chill and fun, the staff made you feel like they really wanted you there and wanted to make sure you were having a good time. The food was average to good. The empanadas had a lovely crisp shell but were a bit of a nothing in the fillings department. The pork belly had an amazing sauce but was chopped into these huge pieces of which some were literally just fat, while others were, dare we say, a bit dry. The chips were strong but the macaroni cheese, while lovely and creamy, lacked flavour.\n\nWebsite https://nannyseatery.com/\n",
+    "url": "/posts_to_transition/Nanny's%20Eatery/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "New York Grill\nbusinessandyandthe\nFeb 11, 2021\n1 min read\n\nAuckland\n\nRating: 3\n\nBruschetta\n\nPear, parmesan, and rocket salad\n\nSpring vegetable rigatoni\n\nThis place looks a bit plush, vaulted tiled ceilings, green leather booths, cloth napkins, the whole shebang. The food is on the fancy side, but the prices weren’t that high considering. The bruschetta was a standout, and was made with three different varieties of cherry tomato, so it looked great too. The salad was overdressed, but came with plenty of parmesan, however you couldn’t taste much of anything but dressing. And the rigatoni was very nice, with the right ratio of pasta to spring vegetables.\n\nWebsite https://www.newyorkgrill.co.nz/\n",
+    "url": "/posts_to_transition/New%20York%20Grill/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Oakover Grounds\n\nbusinessandyandthe\nJul 21 2024\n1 min read\n\nSwan Valley, Perth\n\nRating: 2\n\nWe ate lunch here in July 2024\n\nFried chicken burger with chips\n\nPumpkin salad\n\nThis is some of the fastest food service we’ve ever had. We’re talking Thai House Express levels of speed. We could see our cocktails being made behind the bar straight after ordering, yet somehow our cooked meals still got there first. How, you might ask? By doing everything quite poorly.\n\nThe fries and the pumpkin were both warm, but not hot. Some pieces of pumpkin were also undercooked. The salad was crazy oily, and while there was a lot of flavours, they didn’t necessarily all meld together in a pleasant way. The salad was a bit oversized as well.\n\nThe burger wasn’t great. The chicken itself was okay, although a small piece of gristle was found. The bun disintegrated immediately, the bacon was too thick and the cheese could have done with some melting. Overall, we’d rather have waited a bit longer and got something worth eating.\n\nWebsite https://oakovergrounds.com.au/pages/cafe\n",
+    "url": "/posts_to_transition/Oakover%20Grounds/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Oreti Restaurant\n\nbusinessandyandthe\nOct 25, 2021\n1 min read\n\nOreti, Waikato\n\nRating: 3\n\nWe ate dinner here in October 2021\n\nDuck thigh, with roast carrot purée, roast potatoes, broccolini, and a port wine reduction\n\nPan fried snapper on roast potatoes with broccolini and salsa\n\nTwenty or thirty years ago, this place would have been very elegant, but it’s just starting to get a little tired. Speaking of things that are tired, we were exhausted after trying to order cocktails. Don’t offer a cocktail menu if three quarters of it is unavailable, and don’t reveal what’s unavailable in steps like you’re trying to hide something; we order cocktails, you tell us they are unavailable, we go away and regroup, order two different cocktails, you tell us that they are unavailable too. This literally happened three times until we were so broken that we just ordered an orange juice and a ginger beer.\n\nThe fish was pretty good, there was only one tiny bone left in the fillet, the potatoes were great, and the accompanying salsa and broccolini were fresh and tasty. The duck was really good, the port wine reduction that it came in was just fantastic. This was a good meal overall.\n\nWebsite https://www.oretivillage.com/restaurant/\n",
+    "url": "/posts_to_transition/Oreti%20Restaurant/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Pauly’s Diner\n\nbusinessandyandthe\nOct 25, 20212 min read\n\nTaupo, Waikato\n\nUpdated: Oct 24, 2022\n\nRating: 4\n\nWe ate lunch here again in October 2022\n\nSalt &amp; pepper squid salad\n\nKumara loaded fries\n\nChilli cheese burger\n\nStrawberry milkshake\n\nCaramel milkshake\n\nPauly’s Diner continues to impress. The chilli cheese burger was sumptuous and the loaded fries very tasty (thanks blue cheese sauce). However, when you’re at the top there’s only one way to go, and we do need to issue a couple of warnings. The shakes, while very good, were not as good as last time. They were less thick, particularly the strawberry one, and that really detracted from the experience. Also, the squid salad had made the cardinal sin of being severely overdressed, plus the squid was on the chewy side. You’ve held onto your 4 rating Pauly’s, but do be careful. We’ll be back.\n\n\n\nRating: 4\n\nWe ate lunch here in October 2021\n\nChicken burger\n\nHoney butter fried chicken basket\n\nBlue cheese &amp; hot sauce fried chicken basket\n\nPotato fries\n\nBanana shake\n\nNote that this meal was shared between four people.\n\nWowzers. What a meal. It was so good that we’re still buzzing about it days later. Everything was perfect. The shake was out of this world, how did they do it? Both the flavour and the texture were excellent, and we could both smash one right now. The fried chicken in the chicken burger was crispy and delicous, they didn’t try to stack too much other stuff in the burger, so even after passing it between The Fee-Rex and Business Andy multiple times the brioche bun held together.\n\nThe two fried chicken baskets were essentially the same perfectly cooked, succulent, crispy fried chicken with two different sauces. We can’t agree on which was better, but they were both fantastic. Even the fries stood out, everything that came out of that tiny kitchen was crispy, not greasy, and had been made with love. You can really tell when someone cares about what they are producing, and Pauly cares a lot.\n\nThere’s only four tables at Pauly’s Diner, so be prepared to take away if need be.\n\nWebsite https://www.paulysdiner.co.nz/\n",
+    "url": "/posts_to_transition/Pauly's%20Diner/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Pembroke Patisserie\nbusinessandyandthe\nAug 5, 2023\n1 min read\n\nAlbert Town, Wanaka\n\nRating: 4\n\nWe ate breakfast here in August 2023\n\nCaramel tart\n\nAlmond, ginger, and pear tart\n\nBerry Danish\n\nOrange and almond scroll\n\nMaple tea\n\nTucked away five minutes out of Wanaka, there is an excellent bakery. The locals all know, and the entrance is a cramped snake of expectant patrons. They only have about 8 tables so be prepared to sit outside or take away.\n\nThe food was from excellent to good, with the caramel tart perhaps being the best offering. And the novelty winter tea was also excellent. The Fee-Rex is not much of a hot drink drinker, but she made an exception for this.\n\nIt was the attention to detail which particularly impressed us. Everything is made lovingly on site, and you can watch them doing it through their viewing window. They even made a little meringue kiss to go on the side of every hot drink. Everything in the expansive cabinet looked delicious and changes day to day. Its the kind of place you could eat for a week and still have new things you wanted to try.\n\nWebsite https://www.pembrokepatisserie.co.nz/\n",
+    "url": "/posts_to_transition/Pembroke%20Patisserie/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Pinch of Spice\nbusinessandyandthe\nFeb 13, 2022\n1 min read\n\nInvercargill\n\nRating: 3\n\nOnion bhaji\n\nMethi paneer\n\nChicken nilgiri\n\nPlain naan\n\nCheese and garlic naan\n\nWe’ve only eaten out twice on Invercargill and by coincidence both have been Indian restaurants, for the record, Pinch of Spice is superior to Curry Guru the Malabar Kitchen in every way apart from the paneer.\n\nOur curries were exciting and inventive. On multiple occasions we have ordered a “different” curry only to be given what is clearly a korma or masala under another name. So both of these were a pleasant surprise. Also pleasant was the chicken which was all tender meat with no mystery gristle. As we said, the paneer was weak. It was dry and had an unfortunate texture. The bhaji was the other weak link as it was floury in the centre and didn’t have enough sauce. The naans and rice both performed admirably.\n\nWebsite https://pinchofspicetakeaway.co.nz/\n",
+    "url": "/posts_to_transition/Pinch%20of%20Spice/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Playlab Cafe\nbusinessandyandthe\nJul 19, 2023\n1 min read\n\nManukau City, Auckland\n\nRating: 2\n\nFeta and spinach roll\n\nKumara chips\n\nFish burger\n\nPlaylab Cafe is a more sophisticated dining establishment at rainbows end, which they describe as “our allergen and cultural friendly dining zone”. Ooh lah lah.\n\nThe feta and spinach roll exceeded expectations. The flavour was reasonable and the pastry was crispy. A dipping sauce wouldn’t have gone astray.\n\nKumara chips have a reputation for being soggy, so you could colour us pleasantly surprised when these ones were very crisp. If anything they were a little burnt. They even came with a reasonable aioli.\n\nThe fish in the burger was panko crumbed and generously sized, which was several steps better than what we were expecting. It was a bit fishy though and the rest of the burger was uninspired, and was notably missing any sauce.\n\nWebsite https://rainbowsend.co.nz/rainbow-playlab/cafe\n",
+    "url": "/posts_to_transition/Playlab%20Cafe/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Pukenui Pacific Restaurant &amp; Bar\nbusinessandyandthe\nDec 8, 2023\n1 min read\n\nPukenui, Northland\n\nRating 1\n\nWe ate dinner here in November 2023\n\nLasagne, salad and roast potato\n\nPumpkin carrot and leek soup\n\nCheesy garlic bread\n\nHey Pukenui Pacific, ever heard of salt? Or seasoning of any kind? I don’t know why we’re bothering asking, we’ve eaten your food. And it was incredibly bland. Even the roast potatoes, which looked very promising externally, tasted like nothing. Disappointing across the board sad head shake\n\nWebsite https://m.facebook.com/profile.php?id=100093796000232\n",
+    "url": "/posts_to_transition/Pukenui%20Pacific%20Restaurant%20&%20Bar/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Red Rooster\nbusinessandyandthe\nJul 24 2024\n2 min read\n\nKalamunda, Perth\n\nRating: 1\n\nWe ate dinner here in July 2024\n\nPickle bruger\n\nChicken tenders\n\nFried chicken\n\nPotato and gravy\n\nChips\n\nPineapple fritter\n\nDriving around Western Australia the last week, we have been marvelling at the apparent fascination this nation, or at least this state, has with fried chicken. While in New Zealand KFC rules the roost unopposed, here KFC faces stiff competition from Chicken Treat and Red Rooster. From our observations, Red Rooster is the most populous. Perhaps this is an indication that it’s the best? After our experience tonight, we feel sorry for the people of Western Australia if that’s the case.\n\nThere wasn’t a single item that we tried that we could recommend. The chips were the best thing but they were still only okay. They had chicken salt, which we appreciate, and perhaps if they had been hot they might have been onto something. That goes for the rest of the meal too actually. Not a single item seemed to be fresh out of the frier. The tenders were abysmally cool and rubbery as all hell, and the chicken on the bone wasn’t much better.\n\nThe potato and gravy was welcome, in the sense that it was a break from the dryness, but the flavour was very… industrial. Similarly the pineapple fritter made a nice change, but was really sweet and again, not hot. The burger, despite being proudly announced as one of their three best, was just plain bad. It contained lukewarm chicken and ice cold salads, a daring culinary combination that didn’t turn out well. And the tomato in the burger was very pale, pink at best, white at worst.\n\nEven though it’s hard to believe, we hated this even more than our abysmal experience at KFC. At least there the wings were good.\n\nWebsite https://www.redrooster.com.au/\n",
+    "url": "/posts_to_transition/Red%20Rooster/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Reflections\nbusinessandyandthe\nAug 6, 2023\n1 min read\n\nTekapo\n\nRating: 2\n\nWe ate dinner here in August 2023\n\nOxtail ragu with broccolini and parmesan gnocchi\n\nBreads and dips\n\nOkay first things first, that wasn’t a ragu. Second things second, that wasn’t broccolini. We weren’t born yesterday, you can’t sneak regular plain old broccoli past us, and you especially can’t if you’re also charging swanky place prices.\n\nWe were completely baffled by some of the choices the chef at Reflections had made. Why was the bread squished so flat? Why was it so oily? Why was such oily bread served with 3 different oil based dips? Also, if you were going to go to the effort of pulling the oxtail for us, why was all the gristle left in? Why even call it a ragu, when it is clearly just two piles of meat on a plate?\n\nIt’s not all bad news. The gnocchi was delicious, except the two individual pieces that were extremely salty. And while it was definitely overpriced, the meals themselves were very large, the “ragu” involved about twice the meat you’d expect.\n\nThis place very clearly cares about one thing only, bringing tourists in and taking their money. Also, shame on you for not offering a single vegetarian main course. Okay technically there was a vegan dahl advertised on the front counter, but nothing on the menu and no mention of a special from the wait staff, so unless vegetarians saw that piece of paper on the way in, they were screwed.\n\nWebsite https://www.reflectionsrestaurant.co.nz/\n",
+    "url": "/posts_to_transition/Reflections/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Riverside Bar &amp; Restaurant\n\nbusinessandyandthe\nDec 20, 2021\n1 min read\n\nTurangi, Waikato\n\nRating: 2\n\nScotch fillet with chips, carrots and asparagus\n\nCrumbed terakihi with new potatoes and salad\n\nYou don’t expect to find an elegant restaurant after driving past cabins, a trampoline, and a playground in a camp ground. It’s just so incongruous and unexpected, but that’s exactly what we found here. The restaurant is dressed up as a classy joint -  tablecloths, wine glasses on the tables and a dark colour palate. It was a nice setup, but just didn’t quite fit in with the swing sets and pool outside.\n\nWe liked the waiter, he was friendly and did a good job overall. He did forget to ask how Business Andy likes his steak, but they compensated by bringing out a steak that ranged across the piece of meat from rare to well done. Something for everyone! The meat itself was flavourful, but we wish they wouldn’t stack the steak on top of the chips, it makes them soggy with meat juice. The asparagus and carrot were top notch.\n\nThe fish was well crumbed but super fishy and the tartare was bringing no flavour. The salad was reasonable, while unfortunately some of the new potatoes were undercooked.\n\nWebsite https://parklandsmotorlodge.co.nz/restaurant\n",
+    "url": "/posts_to_transition/Riverside%20Bar%20&%20Restaurant/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Riverstone Kitchen\nbusinessandyandthe\nJun 19, 2023\n1 min read\n\nOamaru\n\nRating: 4\n\nWe ate lunch here in June 2023\n\nPumpkin soup\n\nLinguine with pork sausage\n\nBreads and hummus\n\nDeep fried Spanish custard with salted caramel ice cream\n\nWhen you taste a 4, you know it. While some 4s are fancy, they don’t have to be. Riverstone kitchens pumpkin soup was a great example of this. From the first sumptuous mouthful it was obvious we were dealing with greatness. But it wasn’t full of truffle oil or topped with gold leaf. Just simple well flavoured soup served piping hot with some fresh bread. It’s something that theoretically anywhere could do, and yet most don’t.\n\nThe bread was cooked in house and it showed. Super fresh, and there were two different kinds to load with the hummus and dukkah.\n\nThe pasta was similarly quite simple, and very nice. The pork sausage was really minced pork, and was packed with fennel, with a red wine sauce, and just enough parmesan.\n\nLess simple was the dessert. It was cubes of vanilla custard that had been crumbed and deep fried, served with a delicious salted caramel ice cream and sugared almonds. Unusual, but absolutely delicious, and such a refreshing mix of textures. Most desserts are so boring, but they brought something special to the table.\n\nWebsite https://www.riverstonekitchen.co.nz/\n",
+    "url": "/posts_to_transition/Riverstone%20Kitchen/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Rothko\nbusinessandyandthe\nDec 8, 2023\n1 min read\n\nMatakana, Auckland\n\nRating: 2\n\nWe ate lunch here in November 2023\n\nBread with whipped butter\n\nBuffalo mozzarella\n\nBeetroot ravioli\n\nPork loin\n\nSituated right next to a pretty fun art gallery, and the outdoor Sculptureum, one might expect to find a pretty nice restaurant. And while Rothko does indeed have all the trappings of a fancy restaurant, they really fell down where the actual food was concerned.\n\nIt wasn’t a disaster, and they started out quite strong with a very good bread full of tasty nuts, with a really flavoursome butter on the side. But from then on they were really coasting, perhaps hoping we would be distracted by the beautiful surroundings and wouldn’t look too hard at the food.\n\nRegular readers will already know that Business Andy doesn’t particularly like mozzarella, and Rothko did little to change his opinion. Rothko had made some effort, but there just wasn’t enough flavour to distract from the slog of all that cheese.\n\nThe beetroot ravioli was okay, although they’d almost drowned the whole dish in very average sauce. And the pork was very plain, but at least the meat itself was a nice cut, with no gristle or fat. Overall it felt like while what we were served was fancy, that didn’t make it enjoyable. Would we want to eat this same meal again? No we would not.\n\nWebsite https://www.sculptureum.nz/eat-and-drink/rothko-restaurant\n",
+    "url": "/posts_to_transition/Rothko/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Rust Licensed Gourmet Burger Bar\nbusinessandyandthe\nJan 26, 2023\n1 min read\n\nTurangi, Waikato\n\nRating: 2\n\nWe ate dinner here in January 2023\n\nSriracha fried chicken burger\n\nFish tacos\n\nIf you put the word “Gourmet” in your burger title, you’d better be ready to bring the heat. Unfortunately, Rust was not. The biggest problem was the chicken. The pieces were absolutely colossal, way too much for a burger. The coating was poorly adhered to the meat so when you bit into it the coating just slipped off and the meat flew out everywhere. On top of that, the melted cheese under the top bun had stuck to the coating, so it really stood zero chance of staying together. The sriracha was only in the coating, so most of the burger was pretty bland and sriracha-less. The tacos were a non-event. Super cheap battered fish that was a bit fishy, and not much flavour.\n\nAlso, please turn on some music, or a TV, or something. The silence in this place was deafening. No wonder there was nobody frequenting the bar, all you could hear was your own cutlery, glasses and disappointment.\n\nWebsite https://rust-licensed-gourmet-burger-bar.business.site/\n",
+    "url": "/posts_to_transition/Rust%20Licensed%20Gourmet%20Burger%20Bar/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Sal’s Authentic New York Pizza\nbusinessandyandthe\nAug 2, 2021\n1 min read\n\nRating: 2\n\nWe ate lunch here in August 2021\n\nNonna pizza (mozzerella, parmesan, garlic, basil) with chicken\n\nWe’re not experienced with New York style pizza, but Sal’s fare does meet the depiction we are familiar with from TV and movies; large (check), thin (check), floppy (check), had to fold it down the middle to eat it (check). The tomato sauce and general flavour was pretty nice, dough was a bit bready at the edges, but the real problem was that once again we were struck down by dry chicken. Given that we had paid extra as recommended in the menu to add chicken to this pizza, it was pretty disappointing when after one piece we’re thinking “wish I hadn’t forked out extra for a dry old bird to ruin this dish”.\n\nWebsite https://www.sals.co.nz/\n",
+    "url": "/posts_to_transition/Sal's%20Authentic%20New%20York%20Pizza/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Salt Bar &amp; Restaurant\nbusinessandyandthe\nAug 1, 2021\n1 min read\n\nRating: 2\n\nWe ate dinner here in August 2021\n\nKaraage chicken burger with chips\n\nRoast vege salad with slow cooked lamb shoulder\n\nIt’s not every day that you order an award winning burger, but that’s exactly what you get here. This burger won the Dunedin Burger Society People’s Choice award last year, and frankly we need to have a word. Either they didn’t serve the same burger last time the judges rolled around, or there’s something rotten at the Dunedin Burger Society. It’s a nice idea for a burger, with edamame beans, sesame sauce, and slaw, and the bun and structure were both excellent. But the chicken was drier than the Sahara, which ruined the whole thing. Speaking as people, it wouldn’t have been our choice. Onto the roast vege salad, and we feel the need to issue a warning. If you order a roast vege salad in the winter in the South Island, you will get snipped. Par-snipped. Bloody parsnip for Africa in that salad. The salad was already underwhelming - not enough dressing, an absurd amount of lamb, and lacking nuts or something that would give some texture, but to then have to wade through mountains of parsnip, it was just too much.\n\nWebsite https://saltbar.co.nz/\n",
+    "url": "/posts_to_transition/Salt%20Bar%20&%20Restaurant/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Sidekick Cafe\nbusinessandyandthe\nJul 221 min read\n\nMargaret River\n\nRating: 3\n\nWe ate lunch here in July 2024\n\nMozzarella and prosciutto toasted sandwich\n\nEverything bagel with jalapeno cream cheese\n\nOrange and almond cake\n\nPeanut butter banana smoothie\n\nSidekick cafe is keeping it simple with a small cabinet and no cooked menu. Sometimes this is a disaster, but when everything is good, you don’t need much to choose from.\n\nWe were particularly impressed by the bagel. Not only was it fresh, chewy, perfectly toasted and had a great mix of seeds, but they service it with cream cheese choc full of tiny chopped up pieces of jalapeño. That doesn’t sound that inventive, sounds like something that everyone should be doing, but this isn’t a dish we’ve found before and it was bloody nice.\n\nThe toasted sandwich was made with a very nice bread, and had moments of greatness when all the ingredients aligned. Unfortunately it also had some dead zones, areas with no prosciutto or mozzarella where you were just eating bread.\n\nThe cake was a little too dense, but super tasty, a real marmalade stickiness to it that was very pleasant. The smoothie was lovely. Sometimes the nut milk peanut butter smoothies can come out to be a really funky texture and are more concerned with being healthy than being yum, but this smoothie was straddling that line with ease.\n\nWebsite https://www.sidekickcafe.com.au/\n",
+    "url": "/posts_to_transition/Sidekick%20Cafe/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Sons of Naples \nbusinessandyandthe\nJul 23 2024\n2 min read\n\nMargaret River\n\nRating: 2\n\nWe ate dinner here in July 2024\n\nThree cheese, truffle and mushroom pizza\n\nEggplant ravioli\n\nSomething very rare happened at Sons of Naples tonight. The 4-1 split. This has only occurred a handful of times in BAATFR history, so it’s a pretty big deal.\n\nThe eggplant ravioli was a sensation. For starters, it was a reasonable sized meal, not like sometimes when you buy ravioli and there are just two offensive little flat pastas in a huge bowl. The eggplant flavour was sublime. Eggplant can be a real hit and miss flavour, but this was truly superb, and was well balanced with cheese and tomato sauces.\n\nThe pizza was a dumpster fire. It came with an entire 200g family packet of rocket deposited in the middle, covered in oil and bits of truffle. What the hell was that doing there? For one thing, it wasn’t a listed ingredient on the menu. For another thing, it was an insane volume of rocket. We had to eat some of it just straight as salad to try to contain it. The pizza had either no sauce, or a flavourless white sauce, it was hard to tell for reasons we will get to momentarily, but It was light on flavour to put it mildly. And yet there was clearly some kind of liquid at play. The entire centre was sodden, dripping, the texture of Weetbix that had been left in milk for an entire day, making it extremely difficult to eat. Not that you wanted to once you had tasted it, but that’s besides the point. You picked up a slice and the centre half of the triangle just slopped down into a soggy pile. We had to use forks to fold the waterlogged mess back in on itself, then stuff the whole unholy package into our mouths. Totally disgusting.\n\nSpeaking of totally disgusting, some gratis bread showed up at the table. We absolutely love gratis bread, who doesn’t? But we have to say, if the bread is hard enough to be used as a weapon, perhaps it isn’t suitable to serve. This bread, which was probably pretty nice at one stage, had been toasted within an inch of its life. It miraculously wasn’t burned, but it was hard as rock. We didn’t know that material science had progressed this far, usually when you temper bread like this there is at least a trace of soot. Anyway you feared for your life biting into it, the risk of a shard breaking off and impaling you through your palate all the way up into your brain was exhilaratingly real.\n\nWebsite https://www.facebook.com/SonsofNaplesmr/\n",
+    "url": "/posts_to_transition/Sons%20of%20Naples/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Soul Bar &amp; Bistro\nbusinessandyandthe\nFeb 11, 2021 \n1 min read\n\nRating: 4\n\nChicken breast with kale pesto and a walnut crumb\n\nBeef short rib ragu\n\nWe were very impressed by the chicken, anyone who can take kale and turn it into something that the Fee-Rex wants to scrape up every last morsel of is a genius in our books. The walnut provided an incredible texture contrast, and it wasn’t a miserable small meal, which can sometimes happen at places like this; this was an entire meal all by itself and no sides were required. The ragu was phenomenal, the little bit of chilli and the large amount of raclette in the dish left a lingering happiness in the mouth. Unconventionally, there was a live DJ at 6pm on a Sunday evening, but he was inoffensive. Props to the service and the view of the marina.\n\nWebsite https://www.soulbar.co.nz/\n",
+    "url": "/posts_to_transition/Soul%20Bar%20&%20Bistro/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "South Sea Hotel\nbusinessandyandthe\nAug 3, 2021\n2 min read\n\nUpdated: Aug 8, 2021\n\nRating: 3\n\nWe are lunch here in August 2021\n\nFish burger and chips\n\nPotato and celeriac soup with ciabatta\n\nHow can you serve us fish with no tartare sauce last night, then serve a fish burger replete with tartare sauce today? You clearly had some, so you can’t play the “it’s hard to get stuff delivered to Stewart Island” card. It was a nice tartare sauce too, and would have greatly improved last night’s meal. As it happens, the fish burger with tartare sauce was quite nice, it fell apart completely but that pretty much always happens with fish burgers. They assumed that we wanted the full portion of soup, we assumed the half portion would be standard for lunch. Future diners are recommended to request a half portion unless you are extremely hungry, because this soup was huge. The flavour was pretty good, maybe a little salty, and it could have done with a few more whizzes from the stick blender as there were frequent pieces of potato. Wouldn’t kill you to toast the ciabatta either. Still an improved showing on last night.\n\n\n\nRating: 2\n\nWe ate dinner here in August 2021\n\nMexican bean nachos\n\nBattered fish, chips and coleslaw\n\nDespite being a Tuesday night during the off-season amidst a pandemic which precludes all international tourism, the South Sea Hotel was pumping. The food and drink was flowing, and everybody seemed to be having a good time. They undoubtedly benefit from being the only restaurant on Stewart Island that’s open during winter, and frankly food-wise they had kind of phoned it in. Starting with the positives, the fish was fresh and tasty in a well-cooked batter that wasn’t too oily. The chips were fine, but the coleslaw was a real snore, just cabbage and onion with no real flavour. And where’s the tartare! The vegetarian nachos were pretty miserable. Completely flavourless bulk pack corn chips, under-seasoned bean mix and too much cheese. Points for the guacamole though.\n\nWebsite http://www.southseahotel.co.nz/restaurant–pub.html\n",
+    "url": "/posts_to_transition/South%20Sea%20Hotel/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Suncourt Indian\n\nbusinessandyandthe\nOct 261 min read\n\nTaupo, Waikato\n\nRating: 2\n\nWe ate lunch here in October 2024\n\nShahi paneer\n\nButter naan\n\nCheese naan\n\nSuncourt Indian isn’t part of a food court, but it has that vibe. There are bain-maries which is always concerning, however we were pleased to see that our food was made fresh. Why did they put a couple of bits of grated cheese on top of the curry? We’re not quite sure. The shahi paneer was way too sweet, and the paneer was cardboardy, but we appreciated the generous serving of rice and the friendly service.\n\nThe cheese naan was hot and fresh with a pleasant texture. As per usual, Business Andy was disappointed yet again by the presence of mozzarella, nobody knows why he continues to order cheese naans. The butter naan was a bit dry in some places and thick in others, it was only okay overall.\n\nWebsite https://suncourtindian.co.nz/\n",
+    "url": "/posts_to_transition/Suncourt%20Indian/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Taco Loco Cantina\nbusinessandyandthe\nJul 19, 2023\n1 min read\n\nMount Albert, Auckland\n\nRating: 3\n\nWe are dinner here in July 2023\n\nDeep fried halloumi balls\n\nJalapeno Popper\n\nCarnitas\n\nJackfruit quesidilla\n\nBanana empanadas\n\nWe dig on Mexican food and don’t get to have it very often so were excited to head to taco Loco. We were (mostly) not disappointed.\n\nThe cheesy balls were the best. Crispy, perfectly hot and cheesy as. Shout out to the jalapeno poppers too, especially for not exploding out all their cheese when bitten.\n\nThe jackfruit quesidilla was also top notch. Jackfruit is super hit and miss, it can come out as vegetarian-punishing mush, but this was delish.\n\nThe meat in the carnitas was unfortunately dry, and in the Fee-Rex’s opinion, too porky. Which is a shame as wrap and other fillings were great.\n\nThe banana empanadas disappointed. Why was the Banana on the inside cold? This has come out of the deep frier people, there’s no excuse.\n\nWebsite http://tacoloconz.co.nz/\n",
+    "url": "/posts_to_transition/Taco%20Loco%20Cantina/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Tarras Country Cafe\nbusinessandyandthe\nAug 6, 2023\n1 min read\n\nTarras\n\nRating: 2\n\nWe ate lunch here in August 2023\n\nCheese roll\n\nTomato and basil soup\n\nCarrot cake\n\nWe’ve made some pretty bad tomato soups over the years. Our Revive Kitchen cookbooks are primarily to blame, so imagine our surprise when we were served what seemed to be one of our own terrible soups. Surely they aren’t cooking the same sad recipes as us, we only cook a bad soup once then throw the recipe in the bin. And yet…..\n\nFinishing this soup was only made possible by a generous dollop of double cream sitting on top. It might have been easier if we’d been able to taste any basil, but that was not to be today. And the bread roll that appeared to be made by them, while a nice touch, wasn’t a very good example of a bread roll, and didn’t make things any easier.\n\nThe cheese roll, while usually a winner was merely okay. And by the time we were finally getting to the carrot cake we were ready to be disappointed, but were pleasantly surprised by a very nice slice of cake, which was served with lots of yoghurt on the side. Mad props for that, we only wish that the cake hadn’t been so cold. It really ruins a cake, nobody serves cold cake at home, why would you insist on it in your cafe?\n\nWebsite https://www.facebook.com/tarrascountrycafe/\n",
+    "url": "/posts_to_transition/Tarras%20Country%20Cafe/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "The BBQ Father &amp; Deli\nbusinessandyandthe\nJul 24 2024\n1 min read\n\nExmouth\n\nRating: 2\n\nWe ate dinner here in July 2024\n\nBeef brisket, chips and coleslaw\n\nChicken, salami, gorgonzola, and jalapeno pizza\n\nWhile we were impressed by how quickly our meals came out at the BBQ Father &amp; Deli, we were only so-so about the meals themselves. Some parts were really good, like the crisp and seasoned chips, the very thin pizza base, and the smoky sauce on the brisket. Others weren’t good at all, like the dry brisket itself, the supermarket-esque coleslaw on the side, and the eyewatering overabundance of jalapeno on the pizza.\n\nIt was a bit of a shame, really, to do so well on a few aspects, and then throw it all away by messing up some pretty basic stuff. Cut the jalapeno down by half, and then we’ll see about that pizza. Cook the brisket a bit closer to dinner time and double the sauce budget, and then we’ll see about that brisket. And just throw that particular coleslaw right in the bin.\n\nWebsite https://thebbqfather.com.au/\n",
+    "url": "/posts_to_transition/The%20BBQ%20Father%20&%20Deli/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "The Black Dog Kitchen &amp; Bar\nbusinessandyandthe\nJul 31, 2021\n1 min read\n\nRating: 3\n\nWe ate dinner here in July 2021\n\nBlack dog burger with chips\n\nGrilled fish with lemon pepper, cherry tomatoes, chips and salad\n\nThe Black Dog is making an effort, and it shows. Many places like this that have a number of drawcards - open breakfast til late, have a full bar, a gaming lounge and serve reasonably priced food, seem to think “a certain number of people are going to eat here no matter what, so let’s just do the minimum we need to get by.” Not The Black Dog. Delicious homemade beef pattie and incredible structural integrity in the burger. Genuinely fresh fish, which they’ve bothered to cook a way that isn’t battered plus pair with a very flavourful lemon seasoning. These touches show The Black Dog is really trying to make nice food, and succeeding. It wasn’t aces across the board - unusually the chips were a weak link, being a little overdone and perhaps it might be time to change the oil in the fryer. The grilled cherry tomatoes seemed more heated than grilled. And they were stingy with the sauce for the fish. But these were relatively minor complaints about an otherwise very enjoyable meal.\n\nWebsite https://blackdogdunedin.nz/\n",
+    "url": "/posts_to_transition/The%20Black%20Dog%20Kitchen%20&%20Bar/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "The Cheese Barn at Matatoki\nbusinessandyandthe\nMar 20, 2024\n1 min read\n\nRating: 2\n\nWe ate lunch here in March 2024\n\nCheese and relish toasted sandwich\n\nPepper steak pie\n\nThe Cheese Barn is a quaint little cheese producer out of Thames, the kind of place where the cheesemaker stops at your table to have a yarn. While they had a good looking selection of cheeses, their cafe menu wasn’t very exciting. The toasted sandwich had been made with a squished down bun rather than bread which is always a bit unpleasant. That said, the relish was tasty as was the cheese (as you’d expect). We were pleased to find the steak in the pie was noticeably peppered, but displeased to find it contained frozen mixed veg (sad cubes of carrot, peas and lone kernels of corn). Why would anybody add this to a pie? It brings nothing in terms of flavour and boy does it make your pie look cheap. Especially if you’re describing the pie as gourmet, as was the case here, it’s pure lunacy to add frozen veg.\n\nWebsite https://thecheesebarn.co.nz/\n",
+    "url": "/posts_to_transition/The%20Cheese%20Barn%20at%20Matatoki/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "The Coffee Club\nbusinessandyandthe\nJan 24, 2021\n1 min read\n\nRating: 2\n\nWe ate lunch here in January 2021\n\nBeef brisket burger with chips\n\nVegan chicken salad\n\nBanana and honey smoothie\n\nYou may be wondering why we are reviewing a chain such as The Coffee Club. In this particular instance, there are two reasons. Firstly, no one is safe from Business Andy and the Fee-Rex. We will review any establishment, as long as it is dine-in. Secondly, the site where this Coffee Club now stands used to house a different cafe from which the Fee-Rex was fired as a teenager, so this was a bit of a destination. Let’s start on a positive - the burger was actually very nice. While the brisket itself was slightly dry, this was more than masked by the ample sauce. On the meh side, the smoothie had unfortunately been made with an under-ripe banana, resulting in a stringy and dry aftertaste. Smoothie texture and coolness was good. The vegan chicken salad sucked. We know what you’re thinking, perhaps we brought this on ourselves for ordering a vegan chicken salad. After all, we’re not even vegan. However, we firmly believe that any diner, vegans included, should be able to have a tasty meal, which this salad was not. The “vegan chicken” was extraordinarily dry and liberally doused in a hot sauce from the underpants of satan himself. The rest of the salad was actually fine, but the sauce had pervaded all, and the “chicken” was too offensive to be redeemed.\n\nWebsite https://www.thecoffeeclub.co.nz/\n",
+    "url": "/posts_to_transition/The%20Coffee%20Club/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "The Courthouse Cafe\nbusinessandyandthe\nAug 8, 2021\n1 min read\n\nRating: 3\n\nPork belly and brie ciabatta\n\nCheese scone\n\nTan slice\n\nWe would eat cakes and slices at Courthouse Cafe all day long. The cabinet was huge and all looked delicious, the menu sounded pretty good too but it was not a large menu at all. The cheese scone tragically came with refrigerated butter, and not enough to boot but it was otherwise very nice. The pork belly ciabatta was, unsurprisingly as it came out of the cabinet, delicious, if perhaps a little bready. You may have had your grandmother’s tan slice in the past and think little of it, bless her she’s just trying to make you baked goods that won’t send you to an early grave. This tan slice was nothing like that - decadent AF with a huge midsection of caramel, nice biscuit base and crumbly topping. One thing to note about the Courthouse Cafe is that it is not open at the weekends, so if you are planning to visit, you’ll need to work around that.\n\nWebsite https://www.facebook.com/pages/category/Cafe/The-Courthouse-Cafe-144456498934437/\n",
+    "url": "/posts_to_transition/The%20Courthouse%20Cafe/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "The Dining Room at The Headwaters Eco Lodge\nbusinessandyandthe\nAug 9 2024\n2 min read\n\nGlenorchy\n\nRating: 4\n\nWe ate dinner here in August 2024\n\nCurry puff\n\nTomato and lentil soup with paratha and raita\n\nRoast chicken with pistachio, cranberry and sage stuffing and roast vegetables\n\nBanana souffle with chocolate and kahlua ice cream\n\nThe Dining Room is the restaurant of the very lovely Headwaters Eco Lodge. While diners tonight were exclusively guests at the accommodation, the restaurant is open to the general public. They serve a chefs choice menu, where you get what you’re given but they will work around dietary requirements. Because of this, bookings are essential.\n\nThree of the four dishes tonight were outstanding. The curry puff was so fluffy and flavourful, nothing like the hard little deep fried rocks you sometimes get at takeaway places. The soup was supremely well blended, not some lumpy lentil concoction but a creamy, rich bowl of happiness. The paratha and raita on the side were welcome, although their connection with the soup was unclear.\n\nThe Fee-Rex had never had a souffle before (evidently Business Andy is fancier than she is), and it did not disappoint. Crazily fluffy with a distinct but balanced banana flavour, we can see what the souffle fuss is about (the souffluss?). The homemade ice cream had strong, deep chocolate and coffee flavours and was the perfect accompaniment .\n\nThe only dish to miss the mark a little was the chicken. It was still good, but it wasn’t great. Some elements were tepid when they arrived, which didn’t help, and a bit more gravy wouldn’t have gone astray. The potatoes were sublime, and we appreciated the lack of parsnips (the devils veg).\n\nAll in all this was a great meal. If you’re going to visit, bring your appetite. This meal was large, and at $85 a head, was stunning value. That’s half to two-thirds what you’d expect to pay for a meal of this size and calibre at another restaurant. We suppose them making the same thing for everybody saves money, and they grow much of the produce on site. But still, it’s impressive, where can you get four good courses for $85!? Maybe at Empire Sports Bar &amp; Eatery but either way you’re going to be travelling a long way to find the same value for money.\n\nBookings essential\n\nWebsite https://theheadwatersecolodge.com/dining\n",
+    "url": "/posts_to_transition/The%20Dining%20Room%20at%20The%20Headwaters%20Eco%20Lo/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "The Gipsy Moth\nbusinessandyandthe\nAug 8, 2021\n1 min read\n\nAuckland\n\nRating: 2\n\nFish tacos\n\nButtermilk fried chicken with aioli\n\nExpectations aren’t high when you’re eating at an airport, especially when the last airport cafe you ate at crushed all hope for the future. Imagine our shock when we were served some really nice fried chicken at the Gypsy Moth. Juicy, not too greasy, crispy on the outside, hot, and fresh. The fish tacos really didn’t keep up. They were too big, you had to Sophie’s Choice between a mouthful of too fishy fish or extremely bland tortilla and slaw. There was some guac and hot sauce in there, but they were such a non-event that they might as well have not been there at all. It was impossible to get everything in your mouth at the same time anyway.\n\nWebsite https://joylab.co.nz/the-gipsy-moth\n",
+    "url": "/posts_to_transition/The%20Gipsy%20Moth/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "The Plaza\nbusinessandyandthe\nMay 27, 2023\n1 min read\n\nRarotonga\n\nRating: 2\n\nWe ate lunch here in May 2023\n\nRoast vegetables\n\nBrownie\n\nBanana smoothie\n\nIt takes balls to dump a plate of boiled vegetables in front of someone who ordered roast vegetables and pretend like nothing is wrong. It turns out that balls is what The Plaza has got.\n\nInexplicably, the “roast” vegetable dish that they proudly labelled as “vegetarian” on their menu came with a generous bowl of meaty gravy. The keen observer could plainly see that this was the same gravy that came with the chops, and probably came from the very tray that they were cooked in. And while we’re not usually the types to question the addition of gravy, it’s a bit much to serve it as part of a vegetarian meal.\n\nAlso inexplicably, the brownie was still Glad wrapped when it arrived without fanfare, without yoghurt or cream, without being heated, and even without a plate. It was a bit dry, but otherwise ticked the boxes that one might expect a brownie to tick.\n\nThe smoothie was actually pretty good, and hit the mark on flavour, texture and temperature. Easily the best thing that we tried here.\n\nThe Plaza has no website\n",
+    "url": "/posts_to_transition/The%20Plaza/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "The Quay Cafe\nbusinessandyandthe\nJan 26, 2023\n2 min read\n\nUpdated: Feb 19\n\nOhope Beach\n\nRating: 2\n\nWe ate brunch here again in February 2024\n\nBeef burger and chips\n\nChicken burger and chips\n\nIced mocha\n\nLast time we were here, quay cafe gave with one hand, and tooth away with the other. This time, things were on a much more even keel, and that keel was decidedly meh.\n\nTheir biggest crime was saying that they would put halloumi in their beef burger on the menu and then not delivering. The halloumi was the reason why we ordered that burger, and you’re a complete fool if you think you’re going to get away with that. It’s distinctive, and people love it, literally nobody is going to be fooled by that slice of melted cheese that you put in the burger. The beef burger was otherwise alright, although the beef patty was clearly not made in house.\n\nThere was nothing obviously wrong with the chicken burger, although the aioli that was apparently inside was a bit flavourless. There were three onion rings sat atop the thing which confused us at first, we had expected them to be waiting for us inside, but instead we ate them as they apparently intended us to, by themselves. The chicken inside was described on the menu as “fried southern style” but that turned out to be perhaps a bit misleading.\n\nAll in all, the quality of ingredients was pretty low across the board, which makes it hard to really succeed in the flavour department. This is the second chance they’ve had, which is a lot more than many places get. We won’t be aiming for a third.\n\n\n\nRating: 2\n\nWe ate breakfast here in January 2023\n\nMushrooms on toast\n\nWaffles with banana and vanilla creme fraiche\n\nBanana smoothie\n\nQuay Cafe know how to get food out fast. Some of it is good, and some of it is really not. The mushrooms on toast were fantastic, and would qualify for a 4 on their own. But the waffles were awful. They were clearly not made in house, instead they were stodgy frozen waffles with a nasty chewy texture. Even though the vanilla creme fraiche was yum and the banana very well caramelised, you still had to eat them with the gross waffles. No coming back from that. To top it off the smoothie was a very unfortunate flavour. They seem to have used a flavoured yoghurt, maybe berry, in the banana smoothie which ruined the whole thing.\n\nThe Quay Cafe has no website\n",
+    "url": "/posts_to_transition/The%20Quay%20Cafe/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "The River\nbusinessandyandthe\nJul 211 min read\n\nMargaret River\n\nRating: 3\n\nWe ate lunch here in July 2024\n\nLemon and cheese polenta with mushroom, spinach and sage\n\nRoasted eggplant\n\nThe River is an upmarket pub with a nice vibe. Sitting by the fire sipping a mulled wine in the winter? Sign us up! The menu looked great, literally everything on there held appeal with the dishes appearing familiar but elevated by a little panache.\n\nSuch was the case with what we ordered. The roasted eggplant was soft, but not too smushy, and covered with tasty tidbits that gave good texture variety. Perhaps the flavours could have been bolder, but overall it was pretty well done.\n\nWe’re always excited to see polenta on a menu, and double excited if they’ve stretched beyond polenta chips. This polenta was moulded into a brick then topped with well-cooked mushrooms in a good ratio with the spinach. A little crispness would have been a welcome addition.\n\nWebsite https://www.theriverhotel.com.au/eat\n",
+    "url": "/posts_to_transition/The%20River/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "The Spice Room\nbusinessandyandthe\nAug 4, 2023\n2 min read\n\nWanaka\n\nRating: 2\n\nWe ate dinner here in August 2024\n\nChat\n\nPotato cake sliders\n\nMalai kofta with rice\n\nPlain naan\n\nCheese naan\n\nWhat a mix! The Spice Room managed to serve us 4-worthy as well as 1-worthy dishes tonight. But before we talk about the food, we need to mention 2005s Crazy Frog. What’s that? You weren’t expecting to hear Crazy Frog in an Indian restaurant? Neither were we. Yet for some reason, The Spice Room had chosen Crazy Frog as their takeaway phone’s ringtone. And yes, the first time we heard it the Fee-Rex danced. She’s only human. But four or five phone calls later, the rosy sheen of nostalgia had worn off and we were mostly just perplexed.\n\nWe don’t normally order an entree in an Indian restaurant as they normally are very same-same. But The Spice Room had some intriguing sounding offerings, so we decided to branch out. The potato cake sliders were a triumph. We all know a hash brown is the best thing you can put in a burger, and this slider was basically just a spiced hash brown with yummy sauce in a tiny fresh bun. Yum. The chat was interesting, we haven’t had it before and we wouldn’t be sorry to have it again.\n\nThe same can’t be said about the regrettable malai kofta. The koftas were uninspired barely flavoured potato mush with no fun texture (where’s the nuts? More currants please!!). They were not helped by the sauce which was just sweet and bland. The rice was plain despite us asking for cardamom rice. Also, screw you charging us extra for rice. Only a dollar, but it’s the principle of the thing. The rice should be factored into the cost of the curry, the way everybody else does it.\n\nThe naans couldn’t salvage the meal. They were too doughy and the cheese one was just piles of mozzarella yet again.\n\nWebsite http://spiceroom.co.nz/\n",
+    "url": "/posts_to_transition/The%20Spice%20Room/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "The Vessel\n\nbusinessandyandthe\nMar 20, 2024\n1 min read\n\nCooks Beach, Coromandel\n\nRating: 3\n\nWe ate dinner here in March 2024\n\nVegetarian pizza\n\nVegetarian spring rolls\n\nThe Vessel describes itself as a gastropub. And while it’s not reaching any new culinary heights, it’s not phoning it in either. Vegetarian varieties of meals can often be afterthoughts, and especially at a pub, a pizza option they have to slap on to be inclusive. The Vessel had given both the pizza and the spring rolls some effort.\n\nThe pizza had a delightfully thin and crispy base with a quality, flavourful red sauce. The cheese amount wasn’t overbearing, but the pesto was. This over-rode any chance we had of tasting the feta, which was also a bit thin on the ground. We could have done with a bit less rocket too, but overall it was a well executed pizza.\n\nSpring rolls are another frequent throwaway item. We hate it when we pay good money for spring rolls then what shows up is those pinky-finger-thin bulk catering pack spring rolls that shatter when you bite into them and contain just a couple of bits of dust and a huge piece of cabbage. These spring rolls were large and had tasty and identifiable vegetables inside. They were well fried, although Business Andy had one that was soggy down one side. And they came with a chipotle mayo, which while unconventional, paired well with the rolls.\n\nWebsite https://www.thevessel.co.nz/\n",
+    "url": "/posts_to_transition/The%20Vessel/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Toastie Picton\nbusinessandyandthe\nJan 28, 2022\n1 min read\n\nPicton\n\nRating: 4\n\nWe ate second breakfast here I’m January 2022\n\nIvan toastie: pastrami, sauerkraut, pickles, cheese\n\nCustard filled donut\n\nAfter our misadventures earlier that morning at London Quay Cafe, you’ll not be surprised to hear that we were still in the market for breakfast. We spied a little toastie place two doors down and boy are we glad that we did.\n\nThe menu was small but innovative, there were salmon toasties, tuna toasties, and vegan kimchi toasties to name a few, and the toasties themselves were just excellent. Great size, perfectly cooked, and it’s the little details. There were four different kinds of cheese in each toastie, but there wasn’t too much cheese somehow. In fact the whole thing was very well balanced, the sauerkraut wasn’t overpowering, and even the pickles were in just the right quantity. Normally The Fee-Rex doesn’t like either of those ingredients, but today they were welcome.\n\nTo top it all off, the donut was fresh, soft, neither too sweet nor too big. And the vanilla custard filling was divine.\n\nMuch like Pauly’s Diner, seating is limited, and while the food is simple, it’s made with care and attention. Unlike Pauly’s Diner, there’s a large waterfront area with plenty of seating and spectacular views of the sounds just over the road. We wish there were more places like these two, it turns out that you don’t need to be a Michelin starred restaurant to serve excellent food, you can get a 4 rating from us with just fried chicken or toasted sandwiches.\n\nWebsite https://www.instagram.com/toastiepicton/?hl=en\n",
+    "url": "/posts_to_transition/Toastie%20Picton/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Tongariro Lodge\nbusinessandyandthe\nJan 24, 2021\n4 min read\n\nUpdated: Oct 26\n\nRating: 4\n\nWe ate dinner here again in October 2024\n\nFlatbread with hummus and harissa seed oil\n\nHoney roasted carrots\n\nCauliflower steak\n\nFries with truffle aioli\n\nHalloumi, grapes and chorizo\n\nFried chicken with wasabi mayo and sweet soy\n\nBurnt New York style cheesecake with parmesan and yuzu\n\nWhat a glow up. It’s hard to believe that 3 years ago we slapped this place with a 2 after being served one of the worst fish dishes of all time (perhaps it’s a three-way tie with White Horse Inn and LA Bakery &amp; Coffee Lounge). Tonight, they have achieved our highest accolade, the coveted 4 rating.\n\nWhile Tongariro Lodge is not a tapas restaurant, tonight our group of 4 chose to order a bunch of plates and share them round. There wasn’t a dud in the bunch. The halloumi, grapes and chorizo wasn’t particularly exciting, but it was tasty. Perhaps the chicken itself could have had a bit more excitement in texture or flavour, but it was well compensated by two delicious sauces.\n\nThen we come to the stronger dishes. The flatbread came with a great hummus and was super well laminated and piping hot. The honey roasted carrots had a lovely honey flavour and were cooked just right. But two dishes stood above the rest. The cauliflower steak had this gorgeous flavour, the kind that makes you go ‘why can’t I make cauliflower like this at home, what have they done here?’ The cheesecake was very strange, with parmesan for goodness sake, but it totally worked. The top was burnt like a brulee and it came with brulee’d fruit too, everything worked together. We’ve never had a cheesecake like this before, big points for innovation. Welcome to the upper echelon, Tongariro Lodge.\n\n\n\nRating: 3\n\nWe ate dinner here again in October 2022\n\nBreads and dips\n\nCrispy skin salmon with potato and courgette\n\nMushroom, walnut, feta, and truffle oil risotto\n\nBroccoli with sesame and soy\n\nChips\n\nChocolate brownie\n\nSticky date pudding\n\nThe last time we had the misfortune of dining at Tongoriro Lodge, they crushed us with a disgusting lump of clammy John Dory, and we crushed them with a fittingly poor review. What a turnaround. This meal was really good overall, with a couple of truly great dishes sprinkled in. Unfortunately they didn’t quite do enough to rise to the highest levels in our rating system, but they were knocking on the four door.\n\nThe bread was excellent, just delicious fresh bread with really nice dips, including a beetroot dip that was a surprise smash hit. Likewise the risotto was delicious, feta, walnut, and truffle is a flavour combo that you do see from time to time, and there’s good reason for that.\n\nThe salmon was nice, but salmon is always going to have an uphill battle to gain the approval of The Fee-Rex who doesn’t really like salmon in general. They had made the courgette into tiny noodles, which was quite fun. The broccoli on the side was really nice, and there was plenty of sesame and soy sauce in the bottom of the bowl, it’s a pity that they couldn’t make the sauce stickier, it was a shame to leave so much in the bottom of the bowl. While the chips themselves were good, we were disappointed to see a little bowl of what was a pretty plain tomato sauce on the side when the menu said that they came with aioli. Our servers were both very friendly and did a great job, they should have spoken to this point, not just plopped it down hoping we wouldn’t notice.\n\nThe sticky date pudding was an absolute triumph, perfect in every way, the only way that it could have been improved would have been to come with a second sticky date pudding instead of the brownie that we also ordered. The brownie was more like a dry chocolate cake than a brownie, which is not what you want, especially when the other dessert was just so moist.\n\n\n\nRating: 2\n\nWe ate dinner here in January 2021\n\nJohn Dory on Israeli couscous with salsa\n\nLamb rump, roast root veggies with red wine jus\n\nThis fish was the worst meal we have had in a long time. Bearing in mind that this establishment is part of a fishing lodge, you’d think they would know how to make a tasty fish meal. So colour us shocked when, for forty dollars no less, we were served a tasteless, clammy lump of fish. The waiter said this was pan fried. Bull. Shit. The skin on the fish was so slimy there was no way it had been in a pan. More like boiled by the taste of things. The couscous and salsa were no help. They were flavourless so the whole thing just ended up tasting like the goo you scrape off a fish. Also, would it kill you to open a window? Upon entry the restaurant was stifling hot, and we found ourselves frantically opening windows to tempt in a breeze. It felt like they’d had a fire going in there all day. Saving Tongariro Lodge from the lowest possible rating was the surprisingly good lamb rump. It was moist, flavourful, well cooked, and the root vegetables were the perfect accompaniment.\n\nWebsite https://www.tongarirolodge.co.nz/\n",
+    "url": "/posts_to_transition/Tongariro%20Lodge/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Turangi Bridge Motel, Bar &amp; Restaurant\n\nbusinessandyandthe\nDec 20, 2021\n2 min read\n\nUpdated: Oct 22, 2023\n\nTurangi\n\nRating: 1\n\nWe ate dinner here in October 2023\n\nBread and dips\n\nFried camembert with plum sauce\n\nGrilled fish, chips and salad\n\nSteak, eggs and chips\n\nTurangi Bridge Motel did not want us around. We showed up and asked for a table and were asked whether we had a reservation. Mate, this is a crap motel in Turangi which we can see is over half empty. No, we don’t have a reservation. The people at the nearby table even said “who needs a reservation in Turangi?!” The hostess’ message was clear: “Go home, we don’t want to serve you.” Her reservation trick hadn’t worked, but she had another weapon in her arsenal. “It’ll be an hours wait”. Lady if you think that’s putting us off, you haven’t met Business Andy and the Fee-Rex. Yes, we will wait.\n\nTrue to her word, it took an hour for our mains to arrive, although our entrees were pretty prompt. The mains also didn’t arrive at the same time, first we had one, then three, and finally four, and while this alone isn’t going to really cause a precipitous drop in a rating from 3 to 1 by itself, all these things add up to very bad service, which can affect an overall rating.\n\nTo add injury to insult, the food was bad. The grilled fish was soggy, the steak was overdone, leathery and gristly, the side salads were literally swimming in pools of (admittedly alright) dressing. The chips were middling, they had been stingy with the camembert, the eggs were overdone, the only things that were good in any way were the breads and the dips.\n\nApparently, bookings recommended.\n\n\n\nRating: 3\n\nWe ate dinner here in December 2021\n\nVenison pie with chips\n\nVegetable stack\n\nWhat a venison pie. Excellent pastry, excellent gravy, excellent chips, and two excellent sauces. The meat was a bit dry, but that was the only misstep.\n\nWhile a lot of effort had been put into the stack, it didn’t quite work. The heart of the stack was a feta and spinach patty that was good at first, but became a bit tiring. The stack had quite a lot going on, and all the ingredients were fresh. It featured a fried tortilla or perhpas it was a poppadum, either way it was fun but a bit greasy. It was hard to pinpoint exactly what went wrong, but about a third of the way through, this dish became a burden, two thirds of the way through, the Fee-Rex started to wonder if she’d finish it. In the end, Business Andy had to jump in to maintain our membership to the clean plates club. We can’t afford to have another LA Bakery &amp; Coffee Lounge incident so soon afterwards.\n\nWebsite https://turangibridgemotel.co.nz/restaurant/\n",
+    "url": "/posts_to_transition/Turangi%20Bridge%20Motel,%20Bar%20&%20Restaurant/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Turangi Tavern\n\nbusinessandyandthe\nOct 24, 2022\n1 min read\n\nTurangi, Waikato\n\nRating: 2\n\nWe ate dinner here in October 2022\n\nSupreme pizza\n\nMeat lovers pizza\n\nLooking for a late night (8pm!) meal in Turangi. Well you’re out of luck. Even the supermarket is closed! Valentino’s, which says it’s open til 10, closed. Burger King is open, but who’s that desperate. Enter the hero of the evening, Turangi Tavern, serving meals til 8.30.\n\nThe atmosphere was classic small town pub. Rugby on the telly, families enjoying a night out (including a kid who absolutely hated when a dessert came out for him covered in candles and a loud rendition of the birthday song), pokies and handles. The pizzas matched this atmosphere. The base was the best bit, crispy, thin but not too thin, we wonder if they’d handmade it. The meat lovers was pretty good, sweet and BBQ-ish as is to be expected, with a good cook and the right amount of cheese. Unfortunately, the supreme had gone overboard on the cheese and underboard on the cook.\n\nWebsite https://turangitavern.co.nz/\n",
+    "url": "/posts_to_transition/Turangi%20Tavern/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Vaima Restaurant &amp; Bar\nbusinessandyandthe\nMay 16, 2023\n2 min read\n\nRarotonga\n\nRating: 1\n\nWe ate dinner here in May 2023\n\nRoast pork belly with honey glazed carrots and dauphinoise potato\n\nPepperoni pizza\n\nWith our hired bikes, and clear weather, we thought we’d strike out and free ourselves from the clutches of Captain Andy. But it turns out that the devil you know is better than the devil you don’t. Nothing good was waiting for us here.\n\nRight off the bat, we got on their bad side by parking our bikes out front. That’s a no-no, things only got worse when we had to admit to the imperious and disappointed front of house staff that we hadn’t made a reservation. Never mind that the place was less than 20% full.\n\nWorst. Pork belly. Ever. The crackling layer was wafer thin yet somehow also extremely hard. Pair this with rubbery meat and a blunt knife and you’re generating some real concern that we’re going to accidentally break a plate here. The apple sauce was bland and not warm. It was also not a “rich pork gravy”, which was the sauce listed on the menu. They had arrogantly, and inaccurately, labelled their bland, undercooked sliced potato dish ‘potato dauphinoise’. The only identifiable cheese in the dish was mozzarella which was thick and sludgy on top. Gross. The honey glazed carrots were the best thing on the plate. They weren’t actually good and were in fact just boiled carrots covered in a sauce that featured honey. But they were edible, which is more than could be said for the pork or potato.\n\nWe had to order a children’s sized pizza as they were out of regular size bases. We thought it was weird that they didn’t mention this to us when we came in, given that they did think it was important to mention that they were out of Lion Red. The pizza was forgettable - okay meat, okay sauce, base a bit thick, Overpriced for what it was.\n\nWebsite http://www.vaimarestaurant.com/\n",
+    "url": "/posts_to_transition/Vaima%20Restaurant%20&%20Bar/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Valentines\nbusinessandyandthe\nJun 19, 2023\n2 min read\n\nHornby, Christchurch\n\nRating: 1\n\nWe ate dinner here in June 2023\n\nBuffet style meals\n\nOh my god Valentine’s still exists! We all have fond memories of birthdays at Valentine’s. The fee,-rexs mum used to fill a serviette with jellybeans and stuff it in her purse. We were thrilled to see the old classics were still there, even the traffic light and pink panther.\n\nWhen we arrived there were a good twenty people in the place. Fifteen minutes later it was just us. Evidently a 7.40pm arrival is tail end for Valentine’s. Perhaps we should have taken this as a warning. We started with soup and bread. The pumpkin soup had a thick skin on it, but wasn’t too bad flavour wise. There was focaccia, some of which was nice while other pieces were rock hard.\n\nThen it was onto the main meals. The roast potatoes were okay although some were underdone. The nuggets were okay in the sense that they were chicken nuggets. Same goes for the loaded wedges. And the karaage chicken was passable, shout-out for providing kewpie mayo.\n\nEverything else sucked. The carvery meat was particularly offensive, insanely dry. There were unexpected bones in the butter chicken.\n\nDessert was more exciting, but no better. The tan slice and brandy snap were lonely rays of goodness while everything else was some varying shade of bad. Rock hard jellybeans ambushed us from our bowls of soft serve, and when we say rock hard, you need to understand that we mean that they literally cracked as we bit into them. The Eskimo lolly that was perched atop the Fee-Rex’s dessert pile turned out to be so old that it had gotten crunchy. Crunchy. The chocolate fountain looked very inviting, but was actually an equally dastardly trap, but the circulating chocolate was just foul.\n\nIn the end, we tried almost everything that Valentine had to offer. While there were a few truly unappetizing dishes on offer that we couldn’t quite put ourselves through, we feel that we can provide a holistic review of the dining experience at Valentine’s. The verdict: avoid.\n\nWebsite https://valentines.co.nz/\n",
+    "url": "/posts_to_transition/Valentines/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Valentino’s\n\nbusinessandyandthe\nJan 19, 2023\n1 min read\n\nTurangi\n\nRating: 1\n\nWe ate dinner here in January 2023\n\nPenne cacciatore\n\nEye fillet with rosemary and red wine sauce and chips\n\nTheir tagline reads “The ultimate Italian venue for Pizza, Pasta, Seafood and Steaks.” So you could colour us surprised when we found there were no pizzas on the menu and the steak was one of the worst we’ve ever had.\n\nValentino’s opened in 1990, and it hasn’t changed since. Every chair, every table cloth, every curtain, every tacky postcard and dusty trinket, they’re all still there. The service was indifferent, although they did light a candle at our table which romanced up the joint a bit.\n\nIt wasn’t all negative. The pasta was actually rather nice. Great flavour, a little kick of chilli, and the right amount of parmesan, it was a pasta we would eat again. But the steak was truly awful. It was a nice piece of meat and plenty of it, but way under cooked (we ordered medium, this was rare to medium-rare). But the true horror was the sauce. Gelatinous and smacking of vinegary cheap red wine, Business Andy was literally scraping it off the steak. And the rosemary, which was in the Italian name of the dish by the way, was totally non-existent. It was insulting to pay $39 for this inedible mess.\n\nWebsite https://www.facebook.com/ettoreandkarena1/\n",
+    "url": "/posts_to_transition/Valentino's/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Wairakei Resort Taupo\n\nbusinessandyandthe\nDec 20, 2021\n1 min read\n\nWairakei\n\nRating: 2\n\nWe ate lunch here in December 2021\n\nLamb burger and chips\n\nMushroom soup\n\nThe soup wasn’t great, it was a bit oily, a bit salty, and a bit peppery. And it wasn’t very mushroomey. Mushroom soup doesn’t have to be super creamy to be good, but it does have to be at least a little mushroomey. The bread on the side was nice though.\n\nThe burger was quite nice. The patty was very lean but in a good way, the bun and the salad inside were both nice and fresh, and the chips on the side were very good. It was a bit unfortunate that the lamb burger didn’t come with a little bowl of mayonnaise for the chips when the chicken burger did, but that really was a minor issue.\n\nWebsite https://www.wairakei.co.nz/food-drink/\n",
+    "url": "/posts_to_transition/Wairakei%20Resort%20Taupo/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Wallingford Homestead\nbusinessandyandthe\nJun 16, 2024 \n1 min read\n\nWallingford, Central Hawkes Bay\n\nRating: 4\n\nWe ate dinner here in June 2024\n\n9 course degustation menu\n\nWallingford is a beautiful old (1850s) country homestead converted into a B&amp;B. In the evenings they serve gorgeous meals and while most diners are staying at the accommodation, this is not a prerequisite to eat here.\n\nThe food was excellent, but the portions were way too big. We were essentially comatose afterwards, and not in a good way. The lamb in particular should have been halved in size. As is common with fine dining, they serve you a bunch of stuff you’ve never heard of, or that sounds questionable (kumara ice cream anyone?) but they’ve made it absolutely delicious. Neither of us rate crayfish, but the first course crayfish cracker with avocado and lime was outstanding, and you’d have never known it was made with crayfish. The mandarin duck was another standout, as was the pasta made from milled acorns (what?) with mushrooms.\n\nBookings essential\n\nWebsite https://www.wallingford.co.nz/restaurant-wallingford\n",
+    "url": "/posts_to_transition/Wallingford%20Homestead/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "Wildflower\n\nbusinessandyandthe\nJul 28, 2022\n1 min read\n\nPerth\n\nRating: 3\n\nWe ate dinner here in July 2022\n\nSix course tasting\n\nThis meal pushed the boat out in terms of ingredients, textures, and flavours. While we appreciate innovation, the skill and hard work of the chefs, and love to try something new, not every course was a winner.\n\nWe won’t even attempt to accurately describe the dishes. When each came out, the waiter settled into a lengthy exposition of the individual components and how they had been prepared. Some highlights though: the canapé which was some kind of duck pate on a fluffy scone thing, a lot of people liked the really smoky and tender tiny steak which was course four, course five “the pre-dessert” was a custardy thing with dehydrated mandarin set into it, and the after dinner weeny-fudge.\n\nIn terms of low-lights, the dessert proper was an otherwise really nice crumbly, powdery, chocolate dish with way too much beetroot. The potent red goo just overpowered everything and was very earthy, which is not really ideal at pudding time.\n\nWebsite https://wildflowerperth.com.au/\n",
+    "url": "/posts_to_transition/Wildflower/"
+  },
+  
+  {
     "title": "About Us",
     "excerpt": "\n",
     "content": "The Restaurant Rating System\n\n4 - Great  \n3 - Good  \n2 - Meh  \n1 - Bad  \n\nThe Restaurant Selection System\n \nRestaurants are usually selected either using a random number generator or on an eat-at-the-first-place-we-see basis\n",
@@ -446,8 +1088,15 @@
   {
     "title": "Reviews by Region",
     "excerpt": "\n",
-    "content": "All our restaurant reviews listed by region.\n\nNew Zealand\n\n\n  \n    \n      \n        \n            Northland\n        \n      \n    \n  \n    \n  \n    \n  \n    \n      \n        \n            Bay of Plenty\n        \n      \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n      \n        \n            Wellington\n        \n      \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n\n\nOther Countries\n\n\n  \n  \n  \n    \n  \n    \n      \n        \n            Australia\n        \n      \n    \n  \n\n",
+    "content": "All our restaurant reviews listed by region.\n\nNew Zealand\n\n\n  \n    \n      \n        \n            Northland\n        \n      \n    \n  \n    \n      \n        \n            Auckland\n        \n      \n    \n  \n    \n  \n    \n      \n        \n            Bay of Plenty\n        \n      \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n      \n        \n            Wellington\n        \n      \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n\n\nOther Countries\n\n\n  \n  \n  \n    \n  \n    \n      \n        \n            Australia\n        \n      \n    \n  \n\n",
     "url": "/browse-region/"
+  },
+  
+  {
+    "title": "Autobahn Cafe",
+    "excerpt": "\n",
+    "content": "businessandyandthe\nOct 25, 2021\n1 min read\nTejano Cantina\n\nTaupo, Waikato\n\nRating: 3\n\nWe ate dinner here in October 2021\n\nJalapeno poppers\n\nQueso\n\nTacos: tempura battered fish, carne asada, and popcorn cauliflower\n\nLoaded nachos with pulled pork\n\nWe made a terrible error here ordering food that was labelled with a red chilli pepper. That is on us, luckily it was only the popcorn cauliflower taco and aside from setting us on fire it was pretty good. The weakest taco was the carne asada which was pretty much all meat, and it was too much meat. Not a common gripe to have in a taco, but honestly it was excessive. The fish taco was good, and had a lovely sauce in it. The tacos were fantastic value for money, 3 large tacos for $20; we definitely ordered too much food. The poppers were great, exactly what you hope for, and likewise the queso was also pretty good, with great tortilla chips that had been made in house, and reasonable cheese dipping sauce. Like the carne asada tacos, the nachos came with a lot of meat, and were a bit overwhelming. Great chips, great guac, but the meat was too bountiful, and was unfortunately a bit flavourless.\n\nWebsite https://www.tejanocantina.com/\n",
+    "url": "/posts_to_transition/businessandyandthe/"
   },
   
   {
