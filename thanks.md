@@ -4,4 +4,4 @@ indexing: false
 sitemap: false
 ---
 
-Thanks for getting in touch! We'll respond as soon as we can.
+Thanks for signing up, now you'll never miss another review.
