@@ -28,10 +28,10 @@
 
     <!-- Redirect after submission -->
     <input type="hidden" name="_next" value="{{ thanks_url }}" />
-    <!-- Optionally, you can add a subject line here -->
+    <!-- Optionally add a subject line here -->
     <input type="hidden" name="_subject" value="{{ site.title }} email sign-up from {{ name }}" />
   </fieldset>
 </form>
 
-<!-- Optional: Add Bot Protection (not necessary for basic forms but good practice) -->
+<!-- Bot Protection -->
 <label style="display:none">Don’t fill this out if you’re human: <input name="bot-field" /></label>
