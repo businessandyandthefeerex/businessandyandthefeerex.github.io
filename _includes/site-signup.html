@@ -1,16 +1,6 @@
-{% if include.name %}
-{% assign name = include.name %}
-{% else %}
-{% assign name = "Sign Up" %}
-{% endif %}
-
+{% assign name = include.name | default: "Sign Up" %}
 {% assign name_id = name | downcase | replace: " ", "-" %}
-
-{% if include.thanks_url %}
-{% assign thanks_url = include.thanks_url %}
-{% else %}
-{% assign thanks_url = "/thanks/" %}
-{% endif %}
+{% assign thanks_url = include.thanks_url | default: "/thanks/" %}
 
 <form class="form form--{{ name_id }}" method="POST" name="{{ name }}" action="https://formspree.io/f/mrbqzvag">
   <!-- Use the formspree endpoint for action -->
