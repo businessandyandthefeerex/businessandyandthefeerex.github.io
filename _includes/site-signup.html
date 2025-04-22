@@ -12,12 +12,12 @@
   {% assign thanks_url = "/thanks/" %}
 {% endif %}
 
-<!-- Form configured for Netlify Forms -->
-<form class="form  form--{{ name_id }}" method="post" name="sign-up" netlify>
-  <!-- Hidden field to tell Netlify what the form name is -->
-  <input type="hidden" name="form-name" value="sign-up" />
+<form class="form form--{{ name_id }}" method="post" name="{{ name }}" action="https://formspree.io/f/mrbqzvag" data-netlify="true">
+  <!-- Use the formspree endpoint for action -->
+  <input type="hidden" name="_subject" value="{{ site.title }} email sign-up from {{ name }}">
+  <input type="hidden" name="_next" value="{{ thanks_url }}" />
 
-  <fieldset class="fieldset  form__fieldset">
+  <fieldset class="fieldset form__fieldset">
     <legend class="legend form__legend">{{ name }}</legend>
 
     <label class="label" for="email--{{ name_id }}">Email Address:</label>
@@ -25,13 +25,7 @@
 
     <input class="button" type="submit" value="Sign Up" />
     <br/>
-
-    <!-- Redirect after submission -->
-    <input type="hidden" name="_next" value="{{ thanks_url }}" />
-    <!-- Optionally add a subject line here -->
-    <input type="hidden" name="_subject" value="{{ site.title }} email sign-up from {{ name }}" />
   </fieldset>
 </form>
 
-<!-- Bot Protection -->
-<label style="display:none">Don’t fill this out if you’re human: <input name="bot-field" /></label>
+<noscript>Please enable JavaScript to use the form.</noscript>
