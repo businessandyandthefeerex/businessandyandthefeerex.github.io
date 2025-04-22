@@ -4,7 +4,7 @@ require 'date'
 
 # Path to your Jekyll posts directory
 POSTS_DIR = "_posts"
-OUTPUT_CSV = "mymaps_export.csv"
+OUTPUT_CSV = "assets/mymaps_export.csv"
 
 # Prepare the CSV output
 CSV.open(OUTPUT_CSV, "w", force_quotes: true) do |csv|

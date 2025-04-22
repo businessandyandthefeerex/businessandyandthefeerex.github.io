@@ -1,6 +1,6 @@
 ---
 title: Reviews on a Map
-permalink: /browse-map/
+permalink: /map/
 ---
 All the restaurants we've reviewed as pins on a map.
 

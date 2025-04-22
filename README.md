@@ -14,8 +14,9 @@ Or you can create the folders and pages manually if you prefer, but to save some
 The generate_map_export ruby script is not concerned with collections or folders, instead it takes the address, title, and rating from each blog post and turns them all into a single comma separated list that can be imported as a layer into google maps. So dont forget to run this script after creating a new post, then upload the csv into the google map that the map page points to.
 
 to do  
+migrate to netlify  
 email alerts  
-email sign up form  
+redo email sign up form  
 categories page  
 map automation if possible  
 test if multiple categories can dynamically create folders for blog posts  
