@@ -2,6 +2,7 @@
 title: Thanks!
 indexing: false
 sitemap: false
+permalink: /thanks/
 ---
 [↑ Go back to the home page](/)
 
