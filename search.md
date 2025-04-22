@@ -1,6 +1,7 @@
 ---
 title: Search
-excerpt: "Search for a page or post you're looking for"
+excerpt: "Search through every review for a keyword."
 ---
+Search through every review for a keyword.
 
 {% include site-search.html %}
