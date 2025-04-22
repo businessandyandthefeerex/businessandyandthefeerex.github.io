@@ -1,11 +1,38 @@
 <!-- Form configured for Netlify Forms -->
 <form class="form-inline" action="/thanks/" name="mailing-list" data-netlify="true">
   <p>
-    <input type="email" name="email" class="form-control-lg" placeholder="email@website.com" />
-    <!-- also send a webhook to pipedream for automation -->
+    <input type="email" name="email" class="form-control-lg" placeholder="email@website.com" required />
+    <!-- Hidden webhook field (no longer needed, just for reference) -->
     <input type="hidden" name="webhook" value="https://eoinsrvi7apkqha.m.pipedream.net" />
   </p>
   <p>
     <button class="btn-lg btn-primary" type="submit">Subscribe</button>
   </p>
 </form>
+
+<!-- Add the JavaScript below the form -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const form = document.forms["mailing-list"];
+
+    form.addEventListener("submit", async function (event) {
+      event.preventDefault(); // Stop the default submission
+
+      const email = form.email.value;
+
+      // Send email to Pipedream
+      try {
+        await fetch("https://eoinsrvi7apkqha.m.pipedream.net", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ email: email }),
+        });
+      } catch (error) {
+        console.error("Webhook failed", error);
+      }
+
+      // Let Netlify handle the form submission after the webhook fires
+      form.submit();
+    });
+  });
+</script>
