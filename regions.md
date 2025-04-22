@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reviews by Region
-permalink: /browse-region/
+permalink: /regions/
 ---
 All our restaurant reviews listed by region.
 

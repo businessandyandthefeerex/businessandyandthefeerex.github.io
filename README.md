@@ -15,7 +15,6 @@ The generate_map_export ruby script is not concerned with collections or folders
 
 to do  
 migrate to netlify  
-rename main pages to single word names: reviews, regions, map, search, subscribe, etc...
 email alerts  
 redo email sign up form  
 categories page  
