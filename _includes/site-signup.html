@@ -13,7 +13,8 @@
 {% endif %}
 
 <!-- Form configured for Netlify Forms -->
-<form class="form  form--{{ name_id }}" method="post" name="sign-up" netlify>
+<form class="form  form--{{ name_id }}" method="POST" name="sign-up" netlify data-netlify="true">
+
   <!-- Hidden field to tell Netlify what the form name is -->
   <input type="hidden" name="form-name" value="sign-up" />
 
@@ -31,7 +32,10 @@
     <!-- Optionally add a subject line here -->
     <input type="hidden" name="_subject" value="{{ site.title }} email sign-up from {{ name }}" />
   </fieldset>
-</form>
 
-<!-- Bot Protection -->
-<label style="display:none">Don’t fill this out if you’re human: <input name="bot-field" /></label>
+  <!-- Bot Protection -->
+  <div style="display: none;">
+    <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+  </div>
+
+</form>
