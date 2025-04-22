@@ -1,20 +1,37 @@
-{% assign name = include.name | default: "Sign Up" %}
+{% if include.name %}
+  {% assign name = include.name %}
+{% else %}
+  {% assign name = "Sign Up" %}
+{% endif %}
+
 {% assign name_id = name | downcase | replace: " ", "-" %}
-{% assign thanks_url = include.thanks_url | default: "/thanks/" %}
 
-<form class="form form--{{ name_id }}" method="POST" name="{{ name }}" data-netlify="true">
-  <!-- This tells Netlify to process the form -->
-  <input type="hidden" name="_subject" value="{{ site.title }} email sign-up from {{ name }}">
-  <input type="hidden" name="_next" value="{{ thanks_url }}" />
+{% if include.thanks_url %}
+  {% assign thanks_url = include.thanks_url %}
+{% else %}
+  {% assign thanks_url = "/thanks/" %}
+{% endif %}
 
-  <fieldset class="fieldset form__fieldset">
+<!-- Form configured for Netlify Forms -->
+<form class="form  form--{{ name_id }}" method="post" name="sign-up" netlify>
+  <!-- Hidden field to tell Netlify what the form name is -->
+  <input type="hidden" name="form-name" value="sign-up" />
+
+  <fieldset class="fieldset  form__fieldset">
     <legend class="legend form__legend">{{ name }}</legend>
 
     <label class="label" for="email--{{ name_id }}">Email Address:</label>
-    <input class="input" id="email--{{ name_id }}" type="email" name="email" placeholder="email@website.com" required />
+    <input class="input" id="email--{{ name_id }}" type="email" name="email" value="" placeholder="email@website.com" required="required" />
 
     <input class="button" type="submit" value="Sign Up" />
+    <br/>
+
+    <!-- Redirect after submission -->
+    <input type="hidden" name="_next" value="{{ thanks_url }}" />
+    <!-- Optionally add a subject line here -->
+    <input type="hidden" name="_subject" value="{{ site.title }} email sign-up from {{ name }}" />
   </fieldset>
 </form>
 
-<noscript>Please enable JavaScript to use the form.</noscript>
+<!-- Bot Protection -->
+<label style="display:none">Don’t fill this out if you’re human: <input name="bot-field" /></label>
