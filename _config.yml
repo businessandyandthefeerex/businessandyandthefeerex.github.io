@@ -151,10 +151,10 @@ navigation_header:
   url: /browse-region/
 - title: Browse a Map
   url: /browse-map/
-# - title: Categories
-#   url: /categories/
 - title: Search
   url: /search/
+- title: Subscribe
+  url: /subscribe/
 
 navigation_footer:
 - title: Business Andy & The Fee-Rex
