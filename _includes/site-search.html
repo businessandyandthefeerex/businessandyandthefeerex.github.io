@@ -40,6 +40,10 @@
 
   function displayResults() {
     const resultsArray = findResults(this.value, pages);
+
+    // Sort results alphabetically by title
+    resultsArray.sort((a, b) => a.title.localeCompare(b.title));
+
     const html = resultsArray.map(item => {
       return `
         <li class="item  item--result">
@@ -48,11 +52,13 @@
           </article>
         </li>`;
     }).join('');
+
     if ((resultsArray.length == 0) || (this.value == '')) {
       resultsList.innerHTML = `<p>Sorry, nothing was found</p>`;
     } else {
       resultsList.innerHTML = html;
     }
+
   }
 
   const field = document.querySelector('#search');
