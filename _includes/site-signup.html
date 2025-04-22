@@ -3,7 +3,6 @@
 {% assign thanks_url = include.thanks_url | default: "/thanks/" %}
 
 <form class="form form--{{ name_id }}" method="POST" name="{{ name }}" action="https://formspree.io/f/mrbqzvag">
-  <!-- Use the formspree endpoint for action -->
   <input type="hidden" name="_subject" value="{{ site.title }} email sign-up from {{ name }}">
   <input type="hidden" name="_next" value="{{ thanks_url }}" />
 
@@ -17,4 +16,38 @@
   </fieldset>
 </form>
 
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const form = document.querySelector("form.form--{{ name_id }}");
+    if (form) {
+      form.addEventListener("submit", async function (e) {
+        e.preventDefault();
+        const data = new FormData(form);
+        const action = form.getAttribute("action");
+
+        try {
+          const response = await fetch(action, {
+            method: "POST",
+            body: data,
+            headers: {
+              Accept: "application/json",
+            },
+          });
+
+          if (response.ok) {
+            window.location.href = "{{ thanks_url }}";
+          } else {
+            alert("Oops! There was a problem. Try again later.");
+          }
+        } catch (err) {
+          alert("Network error. Please try again.");
+        }
+      });
+    }
+  });
+</script>
+
 <noscript>Please enable JavaScript to use the form.</noscript>
+
+
+
