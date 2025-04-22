@@ -1,0 +1,14 @@
+[build]
+  publish = "_site"
+
+[build.processing]
+  skip_processing = false
+
+[[plugins]]
+  package = "@netlify/plugin-submit-data"
+
+[[redirects]]
+  from = "/.netlify/functions/submit"
+  to = "https://endpoint.m.pipedream.net/YOUR-PIPELINE-ID"
+  status = 200
+  method = "POST"
