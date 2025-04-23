@@ -28,3 +28,4 @@ To do:
  - categories table page for filtering by arbitrary category labels
  - stats on ratings and also ratings by regions maybe
  - should list/index/category pages have lists that include a date for the posts retrieved?
+ - when everything is set up and all the old reviews have been added, turn on automation in pipedream again
