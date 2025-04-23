@@ -47,25 +47,23 @@ layout: default
     {% assign current_title = page.title %}
     {% assign current_country = page.country %}
     {% assign current_region = page.region %}
-
-    {% assign related_posts = site.posts | where: "title", current_title | where: "country", current_country | where: "region", current_region %}
-
-    <!-- absolute url here to catch inconsistent trailing slash omission -->
-    {% assign current_url = page.url | absolute_url %}
-    {% assign related_posts = related_posts | reject: "url", current_url %}
-
+    {% assign current_date = page.date | date: "%Y-%m-%d" %}
+    
+    {% assign related_posts = site.posts 
+      | where: "title", current_title 
+      | where: "country", current_country 
+      | where: "region", current_region 
+      | reject: "date", page.date 
+    %}
+    
     {% if related_posts.size > 0 %}
       <section class="related-posts">
-        <h4>Old reviews:</h4>
-        Check out the other times we reviewed {{ page.title }}:
+        <h2>Check out the other times we reviewed {{ page.title }}:</h2>
         <ul>
           {% for post in related_posts %}
             <li>
-              <a href="{{ post.url | relative_url }}">
-                <span style="font-style: italic; color: #666; font-size: 0.9em;">
-                  {{ post.date | date: "%B %d, %Y" }}
-                </span>
-              </a>
+              <a href="{{ post.url | relative_url }}">Rating: {{ post.rating }}</a>
+              <span style="font-style: italic; color: #666; font-size: 0.9em;">{{ post.date | date: "%B %d, %Y" }}</span>
             </li>
           {% endfor %}
         </ul>
