@@ -9,7 +9,7 @@ Posts are organised by date by default, but they have a secondary organisation, 
 This ensures that posts are automatically put into the right lists that filter through to the Browse by Region pages.
 You don't need to manually shuffle these pages each time you make a new post, it's all automatic as long as you put the correct front matter at the start of each post.
 
-If you make a post that is in a new region or country, new country and region directories and index pages aren't added automatically by Jekyll, there are a few generator scripts that do this. 
+If you make a post that is in a new region or country, new country and region directories and index pages aren't added automatically by Jekyll, there are a few generator scripts that do this.
 But you don't need to run the generate scripts yourself, the after_reset script in the plugins folder ensures that they are all called when jekyll build runs.
 And Githib has a workflow built in that runs a jekyll build command whenever there is a new commit to the main branch, so just push or merge to main, and the site will be rebuilt completely.
 The generate_map_export script is not concerned with collections or folders, instead it takes the address, title, and rating from each blog post and turns them all into a single comma separated list that can be imported as a layer into google maps. This script is also run by the after_reset script on every new build.
@@ -19,10 +19,10 @@ Additional tools used:
  - mailerlite - stores subscriber email addresses, formats and sends emails to subscribers
  - pipedream - automation workflows for adding subscribers to mailerlite from the subscribe form, for triggering emails on new posts via rss, and for uploading new map csv files to google drive
 
-To do:  
-1. add rest of reviews  
-2. map automation if possible - export to google drive done, upload to mymaps is apparently not possible  
-3. test if posts with multiple categories can dynamically create folders for blog posts  
-3. categories table page for filtering by arbitrary category labels  
-5. stats on ratings and also ratings by regions maybe  
-6. should list/index/category pages have lists that include a date for the posts retrieved?  
+To do:
+ - add rest of the old reviews, separate out repeat reviews into their own files
+ - map automation if possible - export to google drive done, upload to mymaps is apparently not possible
+ - test if posts with multiple categories can dynamically create folders for blog posts
+ - categories table page for filtering by arbitrary category labels
+ - stats on ratings and also ratings by regions maybe
+ - should list/index/category pages have lists that include a date for the posts retrieved?
