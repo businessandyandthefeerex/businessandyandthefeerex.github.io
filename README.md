@@ -20,3 +20,4 @@ test if posts with multiple categories can dynamically create folders for blog p
 categories table page for filtering by arbitrary category labels  
 add rest of reviews  
 stats on ratings and also ratings by regions maybe  
+should list/index/category pages have lists that include a date for the posts retrieved?  
