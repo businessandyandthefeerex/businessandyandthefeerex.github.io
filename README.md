@@ -20,7 +20,7 @@ Additional tools used:
  - pipedream - automation workflows for adding subscribers to mailerlite from the subscribe form, for triggering emails on new posts via rss, and for uploading new map csv files to google drive
 
 To do:
- - add rest of reviews
+ - add rest of the old reviews, separate out repeat reviews into their own files
  - map automation if possible - export to google drive done, upload to mymaps is apparently not possible
  - test if posts with multiple categories can dynamically create folders for blog posts
  - categories table page for filtering by arbitrary category labels
