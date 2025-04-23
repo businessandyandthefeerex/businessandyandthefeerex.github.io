@@ -50,7 +50,9 @@ layout: default
 
     {% assign related_posts = site.posts | where: "title", current_title | where: "country", current_country | where: "region", current_region %}
 
-    {% assign related_posts = related_posts | reject: "url", page.url %}
+    <!-- absolute url here to catch inconsistent trailing slash omission -->
+    {% assign current_url = page.url | absolute_url %}
+    {% assign related_posts = related_posts | reject: "url", current_url %}
 
     {% if related_posts.size > 0 %}
       <section class="related-posts">
