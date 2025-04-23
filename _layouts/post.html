@@ -43,6 +43,28 @@ layout: default
       </footer>
     {% endif %}
 
+    <!-- if there are any old reviews for the same place, put them in a list here  -->
+    {% assign current_title = page.title %}
+    {% assign current_country = page.country %}
+    {% assign current_region = page.region %}
+
+    {% assign related_posts = site.posts | where: "title", current_title | where: "country", current_country | where: "region", current_region %}
+
+    {% assign related_posts = related_posts | reject: "url", page.url %}
+
+    {% if related_posts.size > 0 %}
+      <section class="related-posts">
+        <h2>Check out the other times we reviewed {{ page.title }}:</h2>
+        <ul>
+          {% for post in related_posts %}
+            <li>
+              <a href="{{ post.url | relative_url }}">{{ post.date | date: "%B %Y" }} – {{ post.meal }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
+    {% endif %}
+
   </article>
 
   {% if page.aside == true %}{% include site-aside.html %}{% endif %}
