@@ -47,14 +47,19 @@ layout: default
     {% assign current_title = page.title %}
     {% assign current_country = page.country %}
     {% assign current_region = page.region %}
-    {% assign current_date = page.date | date: "%Y-%m-%d" %}
     
-    {% assign related_posts = site.posts 
+    {% assign all_related = site.posts 
       | where: "title", current_title 
       | where: "country", current_country 
       | where: "region", current_region 
-      | reject: "date", page.date 
     %}
+    
+    {% assign related_posts = "" | split: "" %}
+    {% for post in all_related %}
+      {% unless post.url == page.url %}
+        {% assign related_posts = related_posts | push: post %}
+      {% endunless %}
+    {% endfor %}
     
     {% if related_posts.size > 0 %}
       <section class="related-posts">
@@ -69,7 +74,7 @@ layout: default
         </ul>
       </section>
     {% endif %}
-
+    
   </article>
 
   {% if page.aside == true %}{% include site-aside.html %}{% endif %}
