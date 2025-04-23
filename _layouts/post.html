@@ -61,7 +61,11 @@ layout: default
         <ul>
           {% for post in related_posts %}
             <li>
-              <a href="{{ post.url | relative_url }}">{{ post.date | date: "%B %Y" }} – {{ post.meal }}</a>
+              <a href="{{ post.url | relative_url }}">
+                <span style="font-style: italic; color: #666; font-size: 0.9em;">
+                  {{ post.date | date: "%B %d, %Y" }}
+                </span>
+              </a>
             </li>
           {% endfor %}
         </ul>
