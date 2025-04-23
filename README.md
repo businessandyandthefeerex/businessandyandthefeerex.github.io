@@ -21,6 +21,7 @@ Additional tools used:
 
 To do:
  - add rest of the old reviews, separate out repeat reviews into their own files
+ - add a /latest/ page and direct it to the latest review, use this for a landing page for the link in subscriber emails
  - map automation if possible - export to google drive done, upload to mymaps is apparently not possible
  - test if posts with multiple categories can dynamically create folders for blog posts
  - categories table page for filtering by arbitrary category labels
