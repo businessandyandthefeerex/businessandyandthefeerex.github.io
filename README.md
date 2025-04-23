@@ -7,20 +7,19 @@ If in doubt, just copy a file and then overwrite what's there with the new value
 
 Posts are organised by date by default, but they have a secondary organisation, by country/region/suburb/rating.
 This ensures that posts are automatically put into the right lists that filter through to the Browse by Region pages.
-
 You don't need to manually shuffle these pages each time you make a new post, it's all automatic as long as you put the correct front matter at the start of each post.
-If you make a post that is in a new region or country, new countries and regions aren't added automatically.
-You don't even need to run the generate_ ruby scripts yourself, the after_reset ruby script in the plugins folder ensures that they are all called when jekyll build runs.
-And Githib has a workflow built in that runs a jekyll build command whenever there is a new commit to the main branch, so just push to main, and the site will be rebuilt completely.
 
-The generate_map_export ruby script is not concerned with collections or folders, instead it takes the address, title, and rating from each blog post and turns them all into a single comma separated list that can be imported as a layer into google maps. So dont forget to run this script after creating a new post, then upload the csv into the google map that the map page points to.
+If you make a post that is in a new region or country, new country and region directories and index pages aren't added automatically by Jekyll, there are a few generator scripts that do this. 
+But you don't need to run the generate scripts yourself, the after_reset script in the plugins folder ensures that they are all called when jekyll build runs.
+And Githib has a workflow built in that runs a jekyll build command whenever there is a new commit to the main branch, so just push or merge to main, and the site will be rebuilt completely.
+The generate_map_export script is not concerned with collections or folders, instead it takes the address, title, and rating from each blog post and turns them all into a single comma separated list that can be imported as a layer into google maps. This script is also run by the after_reset script on every new build.
 
 Additional tools used:
  - google drive & google mymaps - builds a map from a csv in google drive for embedding on the site
- - mailerlite - holds subscriber email addresses, formats and sends emails to subscribers
- - pipedream - automation workflows for adding subscribers to mailerlite from the site form, for triggering emails on new posts via rss, and for uploading new map csv files to google drive
+ - mailerlite - stores subscriber email addresses, formats and sends emails to subscribers
+ - pipedream - automation workflows for adding subscribers to mailerlite from the subscribe form, for triggering emails on new posts via rss, and for uploading new map csv files to google drive
 
-to do  
+To do:  
 1. add rest of reviews  
 2. map automation if possible - export to google drive done, upload to mymaps is apparently not possible  
 3. test if posts with multiple categories can dynamically create folders for blog posts  
