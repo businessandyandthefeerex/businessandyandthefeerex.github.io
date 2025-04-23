@@ -21,3 +21,4 @@ test if multiple categories can dynamically create folders for blog posts
 categories table page for filtering by arbitrary category labels  
 add rest of reviews  
 stats on ratings and also ratings by regions maybe  
+make links to old reviews for same places appear in reviews  
