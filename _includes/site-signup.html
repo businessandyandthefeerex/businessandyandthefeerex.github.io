@@ -1,7 +1,7 @@
 <!-- Form configured to just send a webhook to pipedream -->
 <form class="form-inline" action="/thanks/" name="mailing-list">
   <p>
-    <input type="email" name="email" class="form-control-lg" placeholder="youremail@website.com" required />
+    <input type="email" name="email" class="form-control-lg" placeholder="email@website.com" required />
     <!-- Hidden webhook field sends new subscriber email address to pipedream trigger URL -->
     <input type="hidden" name="webhook" value="https://eoinsrvi7apkqha.m.pipedream.net" />
   </p>
@@ -28,7 +28,6 @@
           body: JSON.stringify({ email: email }),
         });
 
-        alert("Thanks for subscribing!");
         form.reset();
       } catch (error) {
         console.error("Webhook failed", error);
