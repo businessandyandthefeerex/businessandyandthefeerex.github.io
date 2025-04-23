@@ -27,8 +27,8 @@
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ email: email }),
         });
-
-        form.reset();
+        // Redirect after successful submission
+        window.location.href = "/thanks/";
       } catch (error) {
         console.error("Webhook failed", error);
         alert("Something went wrong. Please try again.");
