@@ -50,15 +50,22 @@ layout: default
 
     {% assign related_posts = site.posts | where: "title", current_title | where: "country", current_country | where: "region", current_region %}
 
-    {% assign related_posts = related_posts | reject: "url", page.url %}
+    <!-- absolute url here to catch inconsistent trailing slash omission -->
+    {% assign current_url = page.url | absolute_url %}
+    {% assign related_posts = related_posts | reject: "url", current_url %}
 
     {% if related_posts.size > 0 %}
       <section class="related-posts">
-        <h2>Check out the other times we reviewed {{ page.title }}:</h2>
+        <h4>Old reviews:</h4>
+        Check out the other times we reviewed {{ page.title }}:
         <ul>
           {% for post in related_posts %}
             <li>
-              <a href="{{ post.url | relative_url }}">{{ post.date | date: "%B %Y" }} – {{ post.meal }}</a>
+              <a href="{{ post.url | relative_url }}">
+                <span style="font-style: italic; color: #666; font-size: 0.9em;">
+                  {{ post.date | date: "%B %d, %Y" }}
+                </span>
+              </a>
             </li>
           {% endfor %}
         </ul>
