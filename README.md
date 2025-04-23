@@ -19,10 +19,10 @@ Additional tools used:
  - mailerlite - stores subscriber email addresses, formats and sends emails to subscribers
  - pipedream - automation workflows for adding subscribers to mailerlite from the subscribe form, for triggering emails on new posts via rss, and for uploading new map csv files to google drive
 
-To do:  
- - add rest of reviews  
- - map automation if possible - export to google drive done, upload to mymaps is apparently not possible  
- - test if posts with multiple categories can dynamically create folders for blog posts  
- - categories table page for filtering by arbitrary category labels  
- - stats on ratings and also ratings by regions maybe  
- - should list/index/category pages have lists that include a date for the posts retrieved?  
+To do:
+ - add rest of reviews
+ - map automation if possible - export to google drive done, upload to mymaps is apparently not possible
+ - test if posts with multiple categories can dynamically create folders for blog posts
+ - categories table page for filtering by arbitrary category labels
+ - stats on ratings and also ratings by regions maybe
+ - should list/index/category pages have lists that include a date for the posts retrieved?
