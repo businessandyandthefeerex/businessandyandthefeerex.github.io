@@ -30,3 +30,4 @@ To do:
  - should list/index/category pages have lists that include a date for the posts retrieved?
  - when everything is set up and all the old reviews have been added, turn on automation in pipedream again
  - replace image on home page and logo with our own image and logo
+ - check if pipedream is going to work, or if the free tier is too restrictive
