@@ -1,0 +1,71 @@
+{% assign post = include.post %}
+
+<article class="article  article--post  content  typeset">
+
+  <h1>{{ post.title }}</h1>
+  {% assign page = post %}
+  {% include post-meta.html %}
+
+  {% if post.rating %}
+    <p>Rating: {{ post.rating }}</p>
+  {% endif %}
+
+  {% assign has_meal = post.meal %}
+  {% assign has_date = post.date %}
+  {% assign date_obj = post.date | date: "%B %Y" %}
+
+  {% if has_meal and has_date %}
+    <p>We ate {{ has_meal }} here in {{ date_obj }}.</p>
+  {% elsif has_meal %}
+    <p>We ate {{ has_meal }} here.</p>
+  {% elsif has_date %}
+    <p>We ate here in {{ date_obj }}.</p>
+  {% endif %}
+
+  {{ post.content }}
+
+  {% assign website = post.website | downcase %}
+  {% if website != "" and website != "n/a" and website != "na" and website | match: "^(http|https)://[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)+(/.*)?$" %}
+    <footer class="post-footer">
+      <p>Their <a href="{{ website }}" target="_blank" rel="noopener noreferrer">website</a>.</p>
+    </footer>
+  {% else %}
+    <footer class="post-footer">
+      <p>{{ post.title }} has no website.</p>
+    </footer>
+  {% endif %}
+
+  {% assign current_title = post.title %}
+  {% assign current_country = post.country %}
+  {% assign current_region = post.region %}
+  
+  {% assign all_related = site.posts 
+    | where: "title", current_title 
+    | where: "country", current_country 
+    | where: "region", current_region 
+  %}
+  
+  {% assign related_posts = "" | split: "" %}
+  {% for p in all_related %}
+    {% unless p.url == post.url %}
+      {% assign related_posts = related_posts | push: p %}
+    {% endunless %}
+  {% endfor %}
+  
+  {% if related_posts.size > 0 %}
+    <section class="related-posts">
+      Check out the other times we reviewed {{ current_title }}:
+      <ul>
+        {% for p in related_posts %}
+          <li>
+            <a href="{{ p.url | relative_url }}">Rating: {{ p.rating }}</a>
+            <span style="font-style: italic; color: #666; font-size: 0.9em;">{{ p.date | date: "%B %d, %Y" }}</span>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+
+</article>
+
+{% if post.aside == true %}{% include site-aside.html %}{% endif %}

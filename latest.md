@@ -1,13 +1,14 @@
 ---
-layout: latest
+layout: default
 permalink: /latest/
-title: Our latest post
 ---
 
-{% assign latest_post = site.posts | first %}
+{% assign latest = site.posts | first %}
 
-# [{{ latest_post.title }}]({{ latest_post.url }})
+{% include site-header.html %}
 
-*{{ latest_post.date | date: "%B %-d, %Y" }}*
+<main class="main  container">
+  {% include post-wrapper.html post=latest %}
+</main>
 
-{{ latest_post.content }}
+{% include site-footer.html %}

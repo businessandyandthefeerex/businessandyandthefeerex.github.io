@@ -13,8 +13,13 @@ Navigation is up top and the latest reviews are right below this text. If you ar
         <li>
             <a href="{{ post.url }}">{{ post.title }}</a>
             <span style="font-style: italic; color: #666; font-size: 0.9em;">
-            {{ post.date | date: "%B %d, %Y" }}
+                {{ post.date | date: "%d %B %Y" }}
             </span>
+            {% if post.rating %}
+                <span style="font-style: italic; color: #888; font-size: 0.9em; margin-left: 10px;">
+                    Rating: {{ post.rating }}
+                </span>
+            {% endif %}
         </li>
     {% endfor %}
 </ul>

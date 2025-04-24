@@ -24,7 +24,8 @@
         "address": "342 Kerikeri Road, Kerikeri 0230",
         "rating": "rating: 3",
         "meal": "meal: dinner",
-        "month": "<p>december</p>\n",
+        "date": "2023-12-08 00:00:00 +0100",
+        "month": "december",
         "year": "2023",
         "month_year": "December 2023",
         "url": "/reviews/2023/12/08/Madly-Indian/" 
@@ -40,7 +41,8 @@
         "address": "69 Marsden Road, Paihia 0200",
         "rating": "rating: 1",
         "meal": "meal: dinner",
-        "month": "<p>december</p>\n",
+        "date": "2023-12-08 00:00:00 +0100",
+        "month": "december",
         "year": "2023",
         "month_year": "December 2023",
         "url": "/reviews/2023/12/08/Zane-Grey's-Restaurant-&-Bar/" 
@@ -56,10 +58,28 @@
         "address": "178 Fairy Springs Road, Fairy Springs, Rotorua 3015",
         "rating": "rating: 1",
         "meal": "meal: lunch",
-        "month": "<p>february</p>\n",
+        "date": "2024-02-22 00:00:00 +0100",
+        "month": "february",
         "year": "2024",
         "month_year": "February 2024",
         "url": "/reviews/2024/02/22/Stratosfare-Restaurant-&-Bar/" 
+      },
+    
+      {
+        "title": "Autobahn Cafe",
+        "excerpt": "Beef nachos\nLamb burger with chips\nBanana smoothie\n\nthis is a test to check if repeated reviews show up in a list at the end of newer reviews\n\nIt’s a bad sign if your establishment reminds us of Burger King. Both eateries were happy to spend big bucks on making the air conditioning freezing cold if it meant that punters would be in and out as fast as they could. And neither establishment had spared a dime to make the food any good.\n\nThe nachos were dreadful. The chips were extremely bland, thin and weak and almost all already broken when they arrived. The mince was flavoured, but not in a tasty way. Thank god there was enough sour cream, which is not a given in our experience.\n\nThe burger, proudly touted as gourmet, was anything but. Cheap greasy lamb patty, bog standard bun, and not a lot of care put into the cooking e.g. underdone floppy onion. The chips were hot and fresh with plenty of them, but where was the salt? They had provided salt on the table, although the shaker was 60% rice. But who wants to eat an unsalted chip? They also came with no aioli or sauce, although we were able to scavenge a bottle from the counter.\n\nThe smoothie was the best of the bunch, but a bit yoghurty and the presence of real banana was questionable. Also, this meal was bloody expensive for what it was. The sad fact is that the Autobahn has been around for many years, The Fee-Rex remembers coming here 25 years ago, and as long as people with low standards are driving in and out of Auckland, it will be here for many years to come.\n",
+        "content": "Beef nachos\nLamb burger with chips\nBanana smoothie\n\nthis is a test to check if repeated reviews show up in a list at the end of newer reviews\n\nIt’s a bad sign if your establishment reminds us of Burger King. Both eateries were happy to spend big bucks on making the air conditioning freezing cold if it meant that punters would be in and out as fast as they could. And neither establishment had spared a dime to make the food any good.\n\nThe nachos were dreadful. The chips were extremely bland, thin and weak and almost all already broken when they arrived. The mince was flavoured, but not in a tasty way. Thank god there was enough sour cream, which is not a given in our experience.\n\nThe burger, proudly touted as gourmet, was anything but. Cheap greasy lamb patty, bog standard bun, and not a lot of care put into the cooking e.g. underdone floppy onion. The chips were hot and fresh with plenty of them, but where was the salt? They had provided salt on the table, although the shaker was 60% rice. But who wants to eat an unsalted chip? They also came with no aioli or sauce, although we were able to scavenge a bottle from the counter.\n\nThe smoothie was the best of the bunch, but a bit yoghurty and the presence of real banana was questionable. Also, this meal was bloody expensive for what it was. The sad fact is that the Autobahn has been around for many years, The Fee-Rex remembers coming here 25 years ago, and as long as people with low standards are driving in and out of Auckland, it will be here for many years to come.\n",
+        "country": "New Zealand",
+        "region": "Auckland",
+        "suburb": "Rosehill",
+        "address": "State Highway 1, Rosehill, Auckland 2113",
+        "rating": "rating: 4",
+        "meal": "meal: lunch",
+        "date": "2024-03-18 00:00:00 +0100",
+        "month": "march",
+        "year": "2024",
+        "month_year": "March 2024",
+        "url": "/reviews/2024/03/18/Autobahn-Cafe/" 
       },
     
       {
@@ -72,7 +92,8 @@
         "address": "State Highway 1, Rosehill, Auckland 2113",
         "rating": "rating: 1",
         "meal": "meal: lunch",
-        "month": "<p>march</p>\n",
+        "date": "2024-03-20 00:00:00 +0100",
+        "month": "march",
         "year": "2024",
         "month_year": "March 2024",
         "url": "/reviews/2024/03/20/Autobahn-Cafe/" 
@@ -88,7 +109,8 @@
         "address": "51 George St, Kensington WA 6151",
         "rating": "rating: 3",
         "meal": "meal: dinner",
-        "month": "<p>july</p>\n",
+        "date": "2024-07-19 00:00:00 +0100",
+        "month": "july",
         "year": "2024",
         "month_year": "July 2024",
         "url": "/reviews/2024/07/19/Ayhan-s-Turkish-Cafe/" 
@@ -104,7 +126,8 @@
         "address": "1122 Tutanekai Street, Rotorua 3010",
         "rating": "rating: 3",
         "meal": "meal: dinner",
-        "month": "<p>november</p>\n",
+        "date": "2024-11-02 00:00:00 +0100",
+        "month": "november",
         "year": "2024",
         "month_year": "November 2024",
         "url": "/reviews/2024/11/02/Urban-Gusto/" 
@@ -120,7 +143,8 @@
         "address": "1263 Amohia Street, Rotorua 3010",
         "rating": "rating: 2",
         "meal": "meal: lunch",
-        "month": "<p>november</p>\n",
+        "date": "2024-11-03 00:00:00 +0100",
+        "month": "november",
         "year": "2024",
         "month_year": "November 2024",
         "url": "/reviews/2024/11/03/The-Rusty-Bros/" 
@@ -136,7 +160,8 @@
         "address": "36 Rongotai Road, Kilbirnie, Wellington 6022",
         "rating": "rating: 2",
         "meal": "meal: dinner",
-        "month": "<p>november</p>\n",
+        "date": "2024-11-08 00:00:00 +0100",
+        "month": "november",
         "year": "2024",
         "month_year": "November 2024",
         "url": "/reviews/2024/11/08/A1-Takeaways-Hong-Kong-Style-BBQ/" 
