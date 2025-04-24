@@ -44,22 +44,28 @@
     // Sort results alphabetically by title
     resultsArray.sort((a, b) => a.title.localeCompare(b.title));
 
+
     const html = resultsArray.map(item => {
-      return `
-        <li class="item  item--result">
-          <article class="article  typeset">
-            <a href="${item.url}">${item.title}</a>
-          </article>
-        </li>`;
+        const date = item.date ? `<span style="font-style: italic; color: #888; font-size: 0.9em; margin-left: 10px; align-self: center;">${new Date(item.date).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' })},</span>` : '';
+        const rating = item.rating ? `<span style="font-style: italic; color: #888; font-size: 0.9em; margin-left: 10px; align-self: center;">Rating: ${item.rating.replace('rating: ', '')}</span>` : '';
+
+        return `
+          <li class="item  item--result">
+            <article class="article  typeset" style="display: inline-flex; align-items: center;">
+              <a href="${item.url}" display: inline-block; vertical-align: middle;">${item.title}</a>
+              ${date} <!-- Display date beside the title -->
+              ${rating} <!-- Display rating beside the date -->
+            </article>
+          </li>`;
     }).join('');
 
     if ((resultsArray.length == 0) || (this.value == '')) {
-      resultsList.innerHTML = `<p>Sorry, nothing was found</p>`;
+        resultsList.innerHTML = `<p>Sorry, nothing was found</p>`;
     } else {
-      resultsList.innerHTML = html;
+        resultsList.innerHTML = html;
     }
+}
 
-  }
 
   const field = document.querySelector('#search');
   const resultsList = document.querySelector('#list');

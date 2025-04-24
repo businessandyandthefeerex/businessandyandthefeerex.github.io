@@ -14,12 +14,15 @@ But you don't need to run the generate scripts yourself, the after_reset script 
 And Githib has a workflow built in that runs a jekyll build command whenever there is a new commit to the main branch, so just push or merge to main, and the site will be rebuilt completely.
 The generate_map_export script is not concerned with collections or folders, instead it takes the address, title, and rating from each blog post and turns them all into a single comma separated list that can be imported as a layer into google maps. This script is also run by the after_reset script on every new build.
 
+The main branch is intended to be ready for deployment at all times, so pushes directly to main really should only be for tiny changes like new pages. The development workflow for new features is intended to be branching from main into a new branch for the development of the feature, developing locally using jekyll build and then python -m http.server -d _site to inspect the site on localhost:8000, pushing commits to the remote repository, and then merging back into main via a pull request.
+
 Additional tools used:
  - google drive & google mymaps - builds a map from a csv in google drive for embedding on the site
  - mailerlite - stores subscriber email addresses, formats and sends emails to subscribers
  - pipedream - automation workflows for adding subscribers to mailerlite from the subscribe form, for triggering emails on new posts via rss, and for uploading new map csv files to google drive
 
 To do:
+ - make italic grey dates in lists like search results and the latest posts lists consistent, i like the date locale thing, and the lighter colour i think
  - add rest of the old reviews, separate out repeat reviews into their own files
  - add a /latest/ page and direct it to the latest review, use this for a landing page for the link in subscriber emails
  - add our art from SIR maybe
@@ -29,6 +32,7 @@ To do:
  - stats on ratings and also ratings by regions maybe
  - beautify generated emails with nicer css and html, maybe a button, fonts, colours, and alignment, plus remove our address from the footer somehow
  - install git and vscode on iapetus
+ - fix repetitive deprecation warnings on jekyll build
  - work out version control for new reviews, when will we pull from main, will we have a specific branch for new reviews that we merge into main
  - should list/index/category pages have lists that include a date for the posts retrieved?
  - when everything is set up and all the old reviews have been added, turn on automation in pipedream again
