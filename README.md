@@ -34,4 +34,4 @@ To do:
  - when everything is set up and all the old reviews have been added, turn on automation in pipedream again
  - replace image on home page and logo with our own image and logo
  - check if pipedream is going to work, or if the free tier is too restrictive
- - need to test if a single commit straight to main triggers a rebuild
+ - intended workflow for ba&tfr is to work remotely in main, create a new file in _posts/ then push the file as a commit straight to main
