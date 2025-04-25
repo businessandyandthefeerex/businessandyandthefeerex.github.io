@@ -1,10 +1,15 @@
+// Stricter scoping rules for Sass requires explicitly bringing in variables.
+@use "settings" as settings;
+@use "flex" as flex;
+@use "../_sass/sassline-base/_mixins.scss" as mixins;
+
 // Structural elements
 body {
-  background: $backgroundColour;
-  color: $bodyColour;
+  background: settings.$backgroundColour;
+  color: settings.$bodyColour;
   height: 100%;
   display: flex;
-  @include flex-direction(column);
+  @include flex.flex-direction(column);
   overflow-x: hidden;
 }
 
@@ -22,15 +27,15 @@ body {
     text-align: right;
   }
   .logo {
-    @include flex(0 0 auto);
+    @include flex.flex(0 0 auto);
   }
   .container {
-    @include flexbox;
-    @include flex-direction(row);
-    @include justify-content(space-between);
+    @include flex.flexbox;
+    @include flex.flex-direction(row);
+    @include flex.justify-content(space-between);
     padding: 1rem 0;
-    @include breakpoint(break-1) {
-      @include align-items(center);
+    @include mixins.breakpoint(break-1) {
+      @include flex.align-items(center);
     }
   }
 }
@@ -47,14 +52,14 @@ body {
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
   text-align: center;
-  background: $featureBackgroundColour;
+  background: settings.$featureBackgroundColour;
   background-size: cover;
   background-position: center;
   .container {
     min-height: 35vh;
     max-width: 60%;
-    @include flex-direction(column);
-    @include justify-content(center);
+    @include flex.flex-direction(column);
+    @include flex.justify-content(center);
   }
 }
 
@@ -62,8 +67,8 @@ body {
   display: inline-block;
   line-height: 0;
   max-height: 4rem;
-  @include flexbox;
-  @include align-items(center);
+  @include flex.flexbox;
+  @include flex.align-items(center);
   img {
     max-height: 5rem;
   }
@@ -81,21 +86,21 @@ body {
 
 .small {
   padding-top: .8rem;
-  color: $captionColour;
+  color: settings.$captionColour;
   display: inline-block;
 }
 
 .footer {
-  background: $headingColour;
-  color: $captionColour;
+  background: settings.$headingColour;
+  color: settings.$captionColour;
   a {
-    color: $captionColour;
+    color: settings.$captionColour;
     &:hover {
-      color: $backgroundColour;
+      color: settings.$backgroundColour;
     }
   }
   .container {
-    @include flex-wrap(wrap);
+    @include flex.flex-wrap(wrap);
   }
   .small {
     padding-top: 0;
@@ -105,9 +110,9 @@ body {
 
 // Pagination nav
 .nav--paginator {
-  @include flexbox;
-  @include justify-content(space-between);
-  color: $captionColour;
+  @include flex.flexbox;
+  @include flex.justify-content(space-between);
+  color: settings.$captionColour;
   text-align: center;
 }
 
@@ -118,25 +123,25 @@ body {
 
 // Main content
 .main {
-  @include flexbox;
-  @include flex-direction(column);
-  @include flex(1, 0, auto);
-  @include justify-content(flex-start);
+  @include flex.flexbox;
+  @include flex.flex-direction(column);
+  @include flex.flex(1, 0, auto);
+  @include flex.justify-content(flex-start);
   margin-bottom: 1.6rem;
-  @include breakpoint(break-1) {
-    @include justify-content(center);
-    @include flex-direction(row);
+  @include mixins.breakpoint(break-1) {
+    @include flex.justify-content(center);
+    @include flex.flex-direction(row);
   }
 }
 
 .header,
 .feature,
 .footer {
-  @include flex(0, 0, auto);
+  @include flex.flex(0, 0, auto);
 }
 
 .content {
-  @include breakpoint(break-1) {
+  @include mixins.breakpoint(break-1) {
     width: 62%;
   }
 }
@@ -146,10 +151,10 @@ body {
 }
 
 .aside {
-  @include breakpoint(break-1) {
+  @include mixins.breakpoint(break-1) {
     max-width: 34%;
     margin-left: 4%;
-    @include flex(1, 0, auto);
+    @include flex.flex(1, 0, auto);
     opacity: 0.5;
     transition: opacity .1s;
     .section {
@@ -188,7 +193,7 @@ body {
 
 .item {
   &--nav {
-    @include breakpoint(break-1) {
+    @include mixins.breakpoint(break-1) {
       margin-left: .4rem;
       display: inline-block;
     }
@@ -198,7 +203,7 @@ body {
   }
   &--current {
     a {
-      color: $captionColour;
+      color: settings.$captionColour;
     }
   }
 }
@@ -278,7 +283,7 @@ video {
   position: relative;
   &__legend {
     font-style: italic;
-    color: $captionColour;
+    color: settings.$captionColour;
     position: absolute;
     overflow: hidden;
     right: 0;
@@ -313,8 +318,8 @@ button,
 .button {
   cursor: pointer;
   display: inline-block;
-  color: $backgroundColour;
-  background: $accentColour;
+  color: settings.$backgroundColour;
+  background: settings.$accentColour;
   transition: box-shadow .1s;
   will-change: box-shadow;
   box-shadow: inset 0 0 0 2rem transparent;
@@ -328,18 +333,19 @@ button,
 }
 
 .button--nav {
-  @include breakpoint(break-1) {
-    display: none;
-  }
   background: none;
-  color: $linkColour;
+  color: settings.$linkColour;
   margin-bottom: 0;
   min-height: 4rem;
   min-width: 4rem;
+
+  @include mixins.breakpoint(break-1) {
+    display: none;
+  }
   &:hover,
   &:focus {
     box-shadow: none;
-    color: $hoverColour;
+    color: settings.$hoverColour;
   }
 }
 
@@ -351,7 +357,7 @@ textarea,
 select {
   &:focus,
   &:hover:focus {
-    outline: solid .12rem $focusColour;
+    outline: solid .12rem settings.$focusColour;
     outline-offset: -.12rem;
   }
 }
@@ -367,14 +373,14 @@ input[type="color"],
 textarea,
 select {
   width: 100%;
-  border: 1px solid $captionColour;
+  border: 1px solid settings.$captionColour;
   &:hover {
-    border-color: $bodyColour;
+    border-color: settings.$bodyColour;
   }
 }
 
 select {
-  background: $codeBackgroundColour;
+  background: settings.$codeBackgroundColour;
 }
 
 textarea {
@@ -382,12 +388,12 @@ textarea {
 }
 
 label {
-  @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
+  @include mixins.baseline($fontsize: zeta, $font: settings.$bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
 }
 
 code {
   padding: .12rem .2rem;
-  color: $headingColour;
+  color: settings.$headingColour;
 }
 
 pre code {
@@ -412,8 +418,8 @@ pre code {
 }
 
 ::selection {
-  background: $headingColour;
-  color: $backgroundColour;
+  background: settings.$headingColour;
+  color: settings.$backgroundColour;
   text-shadow: none;
 }
 
@@ -427,12 +433,12 @@ pre code {
   button {
     background-image: none;
     text-shadow: none;
-    color: $backgroundColour;
+    color: settings.$backgroundColour;
     &:hover,
     &:active,
     &:focus {
       background-image: none;
-      color: $backgroundColour;
+      color: settings.$backgroundColour;
     }
   }
   hr {

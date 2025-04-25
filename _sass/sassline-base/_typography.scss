@@ -1,32 +1,43 @@
 // Typography
 // ---------------------------------------
 
+// Deprecation of global functions necessitates import.
+@use "sass:map";
+@use "sass:string";
+@use "sass:list";
+@use "mixins" as mixins;
+@use "variables" as variables;
+@use "../_sass/_settings" as settings;
+@use "_modular-scale" as modular-scale;
+
 // Setting root sizes and base styles.
 html {
-  @include rootsize;
-
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
+  
+  @include mixins.rootsize;
+
 }
 
 // Site-wide base styles.
 body {
-  @include fontsize(zeta, all);
-
-  font-family: unquote(map-get($bodytype, font-family));
+  font-family: string.unquote(map.get(variables.$bodytype, font-family));
   font-style: normal;
-  font-weight: map-get($bodytype, regular);
+  font-weight: map.get(variables.$bodytype, regular);
   line-height: 2rem;
+
+  @include mixins.fontsize(zeta, all);
+
 }
 
 // Links.
 a {
-  color: $linkColour;
+  color: settings.$linkColour;
   text-decoration: none;
   transition: color .1s, background-color .1s;
 
   &:hover, &:active, &:focus {
-    color: $hoverColour;
+    color: settings.$hoverColour;
     text-decoration: none;
   }
 }
@@ -36,75 +47,75 @@ a {
 
   // Nice underlines for text links.
   p a, li a {
-    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,$linkColour 50%);
+    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,settings.$linkColour 50%);
     background-position: 0 93%;
     background-repeat: repeat-x;
     background-size: 100% 0.15rem;
-    text-shadow: 0.1rem 0 $backgroundColour,
-                 0.15rem 0 $backgroundColour,
-                -0.1rem 0 $backgroundColour,
-                -0.15rem 0 $backgroundColour;
+    text-shadow: 0.1rem 0 settings.$backgroundColour,
+                 0.15rem 0 settings.$backgroundColour,
+                -0.1rem 0 settings.$backgroundColour,
+                -0.15rem 0 settings.$backgroundColour;
 
     &:hover, &:active, &:focus {
-      background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,$hoverColour 50%);
+      background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,settings.$hoverColour 50%);
     }
   }
 
   // Paragraphs. OpenType ligatures and oldstyle figures enabled if available.
   p {
-    @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
-
     font-feature-settings: 'kern', 'onum', 'liga';
+
+    @include mixins.baseline($fontsize: zeta, $font: variables.$bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
   }
 
   // Headings. OpenType ligatures, discretionary ligatures and lining figures enabled if available.
   h1, h2, h3, h4, h5, h6 {
-    color: $headingColour;
-    font-family: unquote(map-get($headingtype, font-family));
+    color: settings.$headingColour;
+    font-family: string.unquote(map.get(settings.$headingtype, font-family));
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
     font-style: normal;
-    font-weight: map-get($headingtype, bold);
+    font-weight: map.get(settings.$headingtype, bold);
   }
 
   // Heading level 1.
   h1, .alpha {
-    @include sassline($fontsize: alpha, $font: $headingtype, $lineheight: 3, $below: 1, $breakpoint: all);
+    @include mixins.sassline($fontsize: alpha, $font: settings.$headingtype, $lineheight: 3, $below: 1, $breakpoint: all);
   }
 
   // Heading level 2.
   h2, .beta {
-    @include sassline(beta, $headingtype, 3, 1, all);
+    @include mixins.sassline(beta, settings.$headingtype, 3, 1, all);
   }
 
   // Heading level 3.
   h3, .gamma {
-    @include sassline(gamma, $headingtype, 3, 1, all);
+    @include mixins.sassline(gamma, settings.$headingtype, 3, 1, all);
   }
 
   // Heading level 4.
   h4, .delta {
-    @include sassline(delta, $headingtype, 2, 0, all);
+    @include mixins.sassline(delta, settings.$headingtype, 2, 0, all);
   }
 
   // Heading level 5.
   h5, .epsilon {
-    @include sassline(epsilon, $headingtype, 2, 0, all);
+    @include mixins.sassline(epsilon, settings.$headingtype, 2, 0, all);
   }
 
   // Heading level 6.
   h6, .zeta {
-    @include sassline(zeta, $headingtype, 2, 0, all);
+    @include mixins.sassline(zeta, settings.$headingtype, 2, 0, all);
   }
 
   // Lists.
   ul, ol {
-    @include baseline(zeta, $bodytype, 2, 2, all);
+    @include mixins.baseline(zeta, variables.$bodytype, 2, 2, all);
 
     li {
       font-feature-settings: 'kern', 'onum', 'liga';
       margin-left: 2rem;
 
-      @include breakpoint(break-1) {
+      @include mixins.breakpoint(break-1) {
         margin-left: 0;
       }
 
@@ -189,19 +200,19 @@ a {
 
   // Definition lists.
   dl {
-    @include baseline(zeta, $bodytype, 2, 2, all);
+    @include mixins.baseline(zeta, variables.$bodytype, 2, 2, all);
 
     dt, dd {
       font-feature-settings: 'kern', 'onum', 'liga';
       margin-left: 2rem;
 
-      @include breakpoint(break-1) {
+      @include mixins.breakpoint(break-1) {
         margin-left: 0;
       }
     }
 
     dt {
-      font-weight: map-get($bodytype, bold);
+      font-weight: map.get(variables.$bodytype, bold);
     }
 
     dd + dt {
@@ -211,40 +222,41 @@ a {
 
   // Tables.
   table {
-    @include sassline(eta, $headingtype, 2, 0, all);
 
-    font-family: unquote(map-get($headingtype, font-family));
+    font-family: string.unquote(map.get(settings.$headingtype, font-family));
     font-feature-settings: 'liga', 'lnum', 'tnum', 'kern';
     font-style: normal;
-    font-weight: map-get($headingtype, regular);
+    font-weight: map.get(settings.$headingtype, regular);
     width: 100%;
+    
+    @include mixins.sassline(eta, settings.$headingtype, 2, 0, all);
 
     thead {
 
       th {
-        @include sassline(zeta, $headingtype, 2, 0, all);
         padding-bottom: 1px;
+        @include mixins.sassline(zeta, settings.$headingtype, 2, 0, all);
       }
     }
   }
 
   // Bold.
   b, strong, .bold {
-    font-weight: map-get($bodytype, bold);
+    font-weight: map.get(variables.$bodytype, bold);
   }
 
   // Italic.
   em, i, .italic {
-    font-style: map-get($bodytype, italic);
+    font-style: map.get(variables.$bodytype, italic);
   }
 
   // Caption and inline small text.
   small, .caption {
-    @include fontsize(theta, all);
-
-    font-family: unquote(map-get($headingtype, font-family));
+    font-family: string.unquote(map.get(settings.$headingtype, font-family));
     font-style: normal;
-    font-weight: map-get($headingtype, regular);
+    font-weight: map.get(settings.$headingtype, regular);
+
+    @include mixins.fontsize(theta, all);
   }
 
   small {
@@ -252,9 +264,10 @@ a {
   }
 
   .caption {
-    @include baseline(theta, $headingtype, 2, 2, all);
+    color: settings.$captionColour;
 
-    color: $captionColour;
+    @include mixins.baseline(theta, settings.$headingtype, 2, 2, all);
+
   }
 
   // Nice spacing for captions.
@@ -270,42 +283,42 @@ a {
   blockquote {
 
     p {
-      border-left: 0.15rem solid $linkColour;
-      font-style: map-get($bodytype, italic);
+      border-left: 0.15rem solid settings.$linkColour;
+      font-style: map.get(variables.$bodytype, italic);
       padding-left: 1rem;
 
       // Add spacing below blockquote paragraphs to align to baseline grid.
-      $get-scale: map-get($modular-scale, scale-0);
-      $get-size: map-get($get-scale, zeta);
-      $rootsize: nth($sizes, 1);
-      $baseline-shift: #{($get-size / 2 * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001};
-      $baseline-push: #{3 - (($get-size * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001)};
+      $get-scale: map.get(modular-scale.$modular-scale, scale-0);
+      $get-size: map.get($get-scale, zeta);
+      $rootsize: list.nth(mixins.$sizes, 1);
+      $baseline-shift: #{calc((calc($get-size / 2) * ((2 * $rootsize / $get-size) - map.get(variables.$bodytype, cap-height))) / $rootsize) + 0.00001};
+      $baseline-push: #{3 - (calc(($get-size * ((2 * calc($rootsize / $get-size)) - map.get(variables.$bodytype, cap-height))) / $rootsize) + 0.00001)};
 
       margin-bottom: #{$baseline-push}rem;
       padding-bottom: #{$baseline-shift}rem;
 
-      @for $i from 2 through $breakpoints-limit {
-        $get-scale: map-get($modular-scale, scale-#{$i - 1});
-        $get-size: map-get($get-scale, zeta);
-        $rootsize: nth($sizes, $i);
-        $baseline-shift: #{($get-size / 2 * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001};
-        $baseline-push: #{3 - (($get-size * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001)};
+      @for $i from 2 through mixins.$breakpoints-limit {
+        $get-scale: map.get(modular-scale.$modular-scale, scale-#{$i - 1});
+        $get-size: map.get($get-scale, zeta);
+        $rootsize: list.nth(mixins.$sizes, $i);
+        $baseline-shift: #{calc((calc($get-size / 2) * ((2 * $rootsize / $get-size) - map.get(variables.$bodytype, cap-height))) / $rootsize) + 0.00001};
+        $baseline-push: #{3 - (calc(($get-size * ((2 * calc($rootsize / $get-size)) - map.get(variables.$bodytype, cap-height))) / $rootsize) + 0.00001)};
 
-        @media screen and (min-width: nth($points, $i) / 16 * 1em ) {
+        @media screen and (min-width: calc(list.nth(mixins.$points, $i) / 16 * 1em )) {
           margin-bottom: #{$baseline-push}rem;
           padding-bottom: #{$baseline-shift}rem;
         }
       }
     }
 
-    @include breakpoint(break-1) {
+    @include mixins.breakpoint(break-1) {
       margin-left: -1rem;
     }
   }
 
   // Horizontal rule.
   hr {
-    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,$captionColour 50%);
+    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,settings.$captionColour 50%);
     background-position: 0 50%;
     background-repeat: repeat-x;
     background-size: 100% 0.15rem;
@@ -317,8 +330,8 @@ a {
 
   // Code block.
   code, pre {
-    background-color: $codeBackgroundColour;
-    font-family: unquote(map-get($monospacetype, font-family));
+    background-color: settings.$codeBackgroundColour;
+    font-family: string.unquote(map.get(settings.$monospacetype, font-family));
   }
 
   pre {
@@ -332,9 +345,10 @@ a {
   }
 
   code {
-    @include fontsize(theta, all);
-
     line-height: 1rem;
+
+    @include mixins.fontsize(theta, all);
+
   }
 
   // Letter space those capitals people, Jan Tschichold would be proud.

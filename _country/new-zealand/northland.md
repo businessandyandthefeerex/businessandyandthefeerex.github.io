@@ -17,7 +17,7 @@ permalink: /country/new-zealand/northland/
     {% assign sorted_rating_groups = rating_groups | sort: "name" %}
 
     {% for rating_group in sorted_rating_groups reversed %}
-      <h5>rating: {{ rating_group.name }}</h5>
+      <h5>Rating: {{ rating_group.name }}</h5>
       <ul>
         {% for post in rating_group.items %}
           <li>
