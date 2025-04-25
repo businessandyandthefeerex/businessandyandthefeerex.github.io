@@ -11,12 +11,14 @@ Navigation is up top and the latest reviews are right below this text. If you ar
 <ul>
     {% for post in site.posts limit:5 %}
         <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-            <span style="font-style: italic; color: #666; font-size: 0.9em;">
-                {{ post.date | date: "%d %B %Y" }}
-            </span>
+            {% if post.date %}
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                <span style="font-style: italic; color:rgb(136, 136, 136); font-size: 0.9em;">
+                    {{ post.date | date: "%d %B %Y" }}
+                </span>
+            {% endif %}
             {% if post.rating %}
-                <span style="font-style: italic; color: #888; font-size: 0.9em; margin-left: 10px;">
+                <span style="font-style: italic; color: color:rgb(136, 136, 136); font-size: 0.9em; margin-left: 10px;">
                     Rating: {{ post.rating }}
                 </span>
             {% endif %}
