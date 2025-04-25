@@ -45,15 +45,15 @@ jobs:
       - name: Generate CSV for assets
         run: ruby assets/scripts/generate_map_export.rb
         
-      - name: Stage, commit, and push changes
-        run: |
-          git add .
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -m "Generate mymaps_export.csv"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Stage, commit, and push changes
+      #   run: |
+      #     git add .
+      #     git config --global user.name "github-actions[bot]"
+      #     git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      #     git commit -m "Generate mymaps_export.csv"
+      #     git push
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
