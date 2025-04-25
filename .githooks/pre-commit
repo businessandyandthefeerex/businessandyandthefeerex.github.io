@@ -12,7 +12,7 @@ if %errorlevel% neq 0 (
 )
 
 REM Set the absolute path for the Ruby script
-SET RUBY_SCRIPT=%CD%\assets\scripts\generate_map_export.rb
+SET RUBY_SCRIPT=C:/repos/businessandyandthefeerex.github.io/assets/scripts/generate_map_export.rb
 
 REM Run the Ruby script to generate the CSV
 ruby "%RUBY_SCRIPT%"
