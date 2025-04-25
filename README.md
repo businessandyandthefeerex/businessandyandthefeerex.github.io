@@ -30,6 +30,7 @@ To do:
  - map automation if possible - export to google drive done, upload to mymaps is apparently not possible
  - test if posts with multiple categories can dynamically create folders for blog posts
  - categories table page for filtering by arbitrary category labels
+ - changed directory of output 
  - stats on ratings and also ratings by regions maybe
  - beautify generated emails with nicer css and html, maybe a button, fonts, colours, and alignment, plus remove our address from the footer somehow
  - install git and vscode on iapetus

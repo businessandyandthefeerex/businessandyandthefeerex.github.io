@@ -1,14 +1,13 @@
 require 'yaml'
 require 'csv'
-require 'date' 
+require 'date'
 
-# Path to your Jekyll posts directory
 POSTS_DIR = "_posts"
 OUTPUT_CSV = "assets/mymaps_export.csv"
+SITE_BASEURL = "https://businessandyandthefeerex.co.nz/reviews" 
 
-# Prepare the CSV output
 CSV.open(OUTPUT_CSV, "w", force_quotes: true) do |csv|
-  csv << ["Name", "Address", "Description"]  # Google My Maps expects these headers
+  csv << ["Name", "Address", "Description", "URL"]
 
   Dir.glob("#{POSTS_DIR}/**/*.md").each do |file|
     content = File.read(file)
@@ -24,12 +23,20 @@ CSV.open(OUTPUT_CSV, "w", force_quotes: true) do |csv|
       full_address = [address, country].compact.join(", ")
       description = "Rating: #{rating}"
 
-      # Only write the row if it has at least title and address
+      # Build the post URL
+      filename = File.basename(file, ".md")
+      if filename =~ /^(\d{4})-(\d{2})-(\d{2})-(.*)$/
+        year, month, day, slug = $1, $2, $3, $4
+        url = "#{SITE_BASEURL}/#{year}/#{month}/#{day}/#{slug}/"
+      else
+        url = ""
+      end
+
       if title && address && country
-        csv << [title, full_address, description]
+        csv << [title, full_address, description, url]
       end
     end
   end
 end
 
-puts "✅ Exported data to #{OUTPUT_CSV}"
+puts "✅ Exported data with URLs to #{OUTPUT_CSV}"
