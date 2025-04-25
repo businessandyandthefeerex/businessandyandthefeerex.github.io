@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Perth, Australia
-region: Perth
 country: Australia
+region: Perth
 permalink: /country/australia/perth/
 ---
 [↑ Go to Australia regions](/country/australia/)

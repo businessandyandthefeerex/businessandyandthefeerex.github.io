@@ -26,6 +26,7 @@ def clean_country_folders
 end
 
 clean_country_folders
+puts "Cleaned _country/ directory"
 
 def create_directory(directory)
   FileUtils.mkdir_p(directory) unless Dir.exists?(directory)
@@ -77,8 +78,8 @@ countries.each do |country|
           ---
           layout: page
           title: #{region}, #{country}
-          region: #{region}
           country: #{country}
+          region: #{region}
           permalink: /country/#{country_slug}/#{region_slug}/
           ---
           [↑ Go to #{country} regions](/country/#{country_slug}/)
@@ -106,12 +107,13 @@ countries.each do |country|
           </ul>
         MARKDOWN
       end
+      puts "Created: _country/#{country_slug}/#{region_slug}/"
     end
 
     file.puts "</ul>"
   end
 
-  puts "🔄 Generated: #{country_filename} with regions for country #{country}"
+  puts "Created: _country/#{country_slug}/"
 end
 
 # Ensure the _country directory exists
@@ -145,4 +147,4 @@ File.open("_country/index.md", "w") do |file|
   file.puts "</ul>"
 end
 
-puts "🌍 Top-level country index page created: _country/index.md"
+puts "Created: _country/index.md"

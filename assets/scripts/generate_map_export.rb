@@ -39,4 +39,4 @@ CSV.open(OUTPUT_CSV, "w", force_quotes: true) do |csv|
   end
 end
 
-puts "✅ Exported data with URLs to #{OUTPUT_CSV}"
+puts "Created: #{OUTPUT_CSV}"

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Wellington, New Zealand
-region: Wellington
 country: New Zealand
+region: Wellington
 permalink: /country/new-zealand/wellington/
 ---
 [↑ Go to New Zealand regions](/country/new-zealand/)
