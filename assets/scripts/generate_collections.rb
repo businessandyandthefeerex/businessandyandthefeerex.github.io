@@ -1,6 +1,7 @@
 require 'yaml'
 require 'fileutils'
 require 'date'
+require 'set'
 
 POSTS_DIR = "_posts"
 TARGET_KEYS = %w[category rating meal]
