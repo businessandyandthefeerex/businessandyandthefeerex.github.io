@@ -47,7 +47,7 @@ jobs:
         
       - name: Stage, commit, and push changes
         run: |
-          git add /assets/mymaps_export.csv
+          git add /home/runner/work/businessandyandthefeerex.github.io/businessandyandthefeerex.github.io/assets/mymaps_export.csv
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git commit -m "Generate mymaps_export.csv"
