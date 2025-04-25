@@ -24,14 +24,11 @@ Additional tools used:
 To do:
  - add rest of the old reviews, separate out repeat reviews into their own files
  - add our art from SIR maybe
- - edit page titles so that we don't get "whatever | Alembic", we want "page | Business Andy & The Fee-Rex" or similar
  - map automation if possible - export to google drive done, upload to mymaps is apparently not possible
  - test if posts with multiple categories can dynamically create folders for blog posts
  - categories table page for filtering by arbitrary category labels
- - changed directory of output 
  - stats on ratings and also ratings by regions maybe
  - beautify generated emails with nicer css and html, maybe a button, fonts, colours, and alignment, plus remove our address from the footer somehow
- - install git and vscode on iapetus
  - fix repetitive deprecation warnings on jekyll build
  - work out version control for new reviews, when will we pull from main, will we have a specific branch for new reviews that we merge into main
  - should list/index/category pages have lists that include a date for the posts retrieved?
