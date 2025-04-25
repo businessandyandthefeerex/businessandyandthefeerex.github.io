@@ -23,15 +23,10 @@ Additional tools used:
 
 To do:
  - add rest of the old reviews, separate out repeat reviews into their own files
- - add our art from SIR maybe
- - map automation if possible - export to google drive done, upload to mymaps is apparently not possible
+ - add our art from SIR maybe, replace image on home page and logo with our own image and logo
+ - map automation if possible - export to google drive done, upload to mymaps is apparently not possible - investigate options here, maybe other map providers?
  - test if posts with multiple categories can dynamically create folders for blog posts
  - categories table page for filtering by arbitrary category labels
  - stats on ratings and also ratings by regions maybe
  - beautify generated emails with nicer css and html, maybe a button, fonts, colours, and alignment, plus remove our address from the footer somehow
- - work out version control for new reviews, when will we pull from main, will we have a specific branch for new reviews that we merge into main
- - should list/index/category pages have lists that include a date for the posts retrieved?
  - when everything is set up and all the old reviews have been added, turn on automation in pipedream again
- - replace image on home page and logo with our own image and logo
- - check if pipedream is going to work, or if the free tier is too restrictive
- - intended workflow for ba&tfr is to work remotely in main, create a new file in _posts/ then push the file as a commit straight to main
