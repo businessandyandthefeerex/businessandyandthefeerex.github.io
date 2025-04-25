@@ -22,7 +22,6 @@ Additional tools used:
  - pipedream - automation workflows for adding subscribers to mailerlite from the subscribe form, for triggering emails on new posts via rss, and for uploading new map csv files to google drive
 
 To do:
- - make italic grey dates in lists like search results and the latest posts lists consistent, i like the date locale thing, and the lighter colour i think
  - add rest of the old reviews, separate out repeat reviews into their own files
  - add a /latest/ page and direct it to the latest review, use this for a landing page for the link in subscriber emails
  - add our art from SIR maybe
