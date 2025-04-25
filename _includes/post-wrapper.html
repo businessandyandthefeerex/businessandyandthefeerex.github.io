@@ -27,7 +27,7 @@
   {% assign website = post.website | downcase %}
   {% if website != "" and website != "n/a" and website != "na" and website | match: "^(http|https)://[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)+(/.*)?$" %}
     <footer class="post-footer">
-      <p>Their <a href="{{ website }}" target="_blank" rel="noopener noreferrer">website</a>.</p>
+      <p>Their <a href="{{ website }}" target="_blank" rel="noopener noreferrer">website</a></p>
     </footer>
   {% else %}
     <footer class="post-footer">
