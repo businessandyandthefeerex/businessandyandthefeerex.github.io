@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Bay of Plenty, New Zealand
-region: Bay of Plenty
 country: New Zealand
+region: Bay of Plenty
 permalink: /country/new-zealand/bay-of-plenty/
 ---
 [↑ Go to New Zealand regions](/country/new-zealand/)

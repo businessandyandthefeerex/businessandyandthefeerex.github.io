@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Northland, New Zealand
-region: Northland
 country: New Zealand
+region: Northland
 permalink: /country/new-zealand/northland/
 ---
 [↑ Go to New Zealand regions](/country/new-zealand/)

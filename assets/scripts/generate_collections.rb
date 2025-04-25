@@ -73,7 +73,7 @@ collection_data.each do |key, values|
   </ul>
   MARKDOWN
 
-  puts "Created index: #{index_file}"
+  puts "Created: #{index_file}"
 
 # Step 3: Create pages for each value within the collection
 values.each do |value|

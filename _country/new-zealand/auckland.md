@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Auckland, New Zealand
-region: Auckland
 country: New Zealand
+region: Auckland
 permalink: /country/new-zealand/auckland/
 ---
 [↑ Go to New Zealand regions](/country/new-zealand/)
