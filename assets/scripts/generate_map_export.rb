@@ -2,8 +2,8 @@ require 'yaml'
 require 'csv'
 require 'date'
 
-POSTS_DIR = "_posts"
-OUTPUT_CSV = File.join(Dir.pwd, "assets", "mymaps_export.csv")
+POSTS_DIR = "C:/repos/businessandyandthefeerex.github.io/_posts"
+OUTPUT_CSV = "C:/repos/businessandyandthefeerex.github.io/assets/mymaps_export.csv"
 SITE_BASEURL = "https://businessandyandthefeerex.co.nz/reviews" 
 
 CSV.open(OUTPUT_CSV, "w", force_quotes: true) do |csv|
