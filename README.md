@@ -29,7 +29,6 @@ To do:
  - categories table page for filtering by arbitrary category labels
  - stats on ratings and also ratings by regions maybe
  - beautify generated emails with nicer css and html, maybe a button, fonts, colours, and alignment, plus remove our address from the footer somehow
- - fix repetitive deprecation warnings on jekyll build
  - work out version control for new reviews, when will we pull from main, will we have a specific branch for new reviews that we merge into main
  - should list/index/category pages have lists that include a date for the posts retrieved?
  - when everything is set up and all the old reviews have been added, turn on automation in pipedream again
