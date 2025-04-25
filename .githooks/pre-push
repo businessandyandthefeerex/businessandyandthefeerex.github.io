@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# Define the relative path to the Ruby script
+RUBY_SCRIPT="./assets/scripts/generate_map_export.rb"
+
+# Check if Ruby is installed
+if ! command -v ruby &> /dev/null; then
+  echo "Ruby is not installed. Please install Ruby and try again."
+  exit 1
+fi
+
+# Run the Ruby script
+ruby "$RUBY_SCRIPT"
+
+# Check if the Ruby script was successful
+if [ $? -ne 0 ]; then
+  echo "Ruby script failed. Push aborted."
+  exit 1
+fi
+
+# Allow the push to continue
+exit 0
