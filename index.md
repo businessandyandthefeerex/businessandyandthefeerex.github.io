@@ -11,15 +11,18 @@ Navigation is up top and the latest reviews are right below this text. If you ar
 <ul>
     {% for post in site.posts limit:5 %}
         <li>
-            {% if post.date %}
-                <a href="{{ post.url }}">{{ post.title }}</a>
-                <span style="font-style: italic; color:rgb(136, 136, 136); font-size: 0.9em;">
-                    {{ post.date | date: "%d %B %Y" }}
-                </span>
-            {% endif %}
-            {% if post.rating %}
-                <span style="font-style: italic; color: color:rgb(136, 136, 136); font-size: 0.9em; margin-left: 10px;">
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            {% if post.date or post.rating %}
+                <span style="font-style: italic; color: #a8adac; font-size: 0.9em; margin-left: 6px;">
+                {% if post.date %}
+                    {{ post.date | date: "%-d %B %Y" }},
+                {% endif %}
+                {% if post.date and post.rating %}
+                    &nbsp;
+                {% endif %}
+                {% if post.rating %}
                     Rating: {{ post.rating }}
+                {% endif %}
                 </span>
             {% endif %}
         </li>

@@ -284,17 +284,19 @@
 
 
     const html = resultsArray.map(item => {
-        const date = item.date ? `<span style="font-style: italic; color: #888; font-size: 0.9em; margin-left: 10px; align-self: center;">${new Date(item.date).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' })},</span>` : '';
-        const rating = item.rating ? `<span style="font-style: italic; color: #888; font-size: 0.9em; margin-left: 10px; align-self: center;">Rating: ${item.rating.replace('rating: ', '')}</span>` : '';
-
         return `
-          <li class="item  item--result">
-            <article class="article  typeset" style="display: inline-flex; align-items: center;">
-              <a href="${item.url}" display: inline-block; vertical-align: middle;">${item.title}</a>
-              ${date} <!-- Display date beside the title -->
-              ${rating} <!-- Display rating beside the date -->
-            </article>
-          </li>`;
+            <li>
+                <a href="${item.url}">${item.title}</a>
+                <span style="font-style: italic; color: #a8adac; font-size: 0.9em; margin-left: 6px;">
+                  ${new Date(item.date).toLocaleDateString('en-GB', {
+                    day: 'numeric',
+                    month: 'long',
+                    year: 'numeric'
+                  })},
+                  &nbsp;
+                  Rating: ${item.rating.replace(/^rating:\s*/i, '')}
+                </span>
+            </li>`;
     }).join('');
 
     if ((resultsArray.length == 0) || (this.value == '')) {

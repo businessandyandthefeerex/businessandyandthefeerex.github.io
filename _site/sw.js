@@ -1,8 +1,8 @@
-const version = '20250424045923';
+const version = '20250425051956';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/reviews/2024/11/08/A1-Takeaways-Hong-Kong-Style-BBQ/","/reviews/2024/11/03/The-Rusty-Bros/","/reviews/2024/11/02/Urban-Gusto/","/reviews/2024/07/19/Ayhan-s-Turkish-Cafe/","/reviews/2024/03/20/Autobahn-Cafe/","/reviews/2024/03/18/Autobahn-Cafe/","/reviews/2024/02/22/Stratosfare-Restaurant-&-Bar/","/reviews/2023/12/08/Zane-Grey's-Restaurant-&-Bar/","/reviews/2023/12/08/Madly-Indian/","/about/","/elements/","/blog/","/","/latest/","/manifest.json","/map/","/offline/","/regions/","/assets/search.json","/search/","/assets/styles.css","/subscribe/","/thanks/","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/assets/styles.css.map","/assets/logos/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/reviews/2025/04/24/Kaimak/","/reviews/2024/11/08/A1-Takeaways-Hong-Kong-Style-BBQ/","/reviews/2024/11/03/The-Rusty-Bros/","/reviews/2024/11/02/Urban-Gusto/","/reviews/2024/07/19/Ayhan-s-Turkish-Cafe/","/reviews/2024/03/20/Autobahn-Cafe/","/reviews/2024/03/18/Autobahn-Cafe/","/reviews/2024/02/22/Stratosfare-Restaurant-&-Bar/","/reviews/2023/12/08/Zane-Grey's-Restaurant-&-Bar/","/reviews/2023/12/08/Madly-Indian/","/about/","/elements/","/blog/","/","/latest/","/manifest.json","/map/","/offline/","/regions/","/assets/search.json","/search/","/assets/styles.css","/subscribe/","/thanks/","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/assets/styles.css.map","/assets/logos/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
