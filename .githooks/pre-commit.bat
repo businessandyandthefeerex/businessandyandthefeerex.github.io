@@ -11,8 +11,11 @@ if %errorlevel% neq 0 (
   exit /b 1
 )
 
+REM Set the absolute path for the Ruby script
+SET RUBY_SCRIPT=%CD%\assets\scripts\generate_map_export.rb
+
 REM Run the Ruby script to generate the CSV
-ruby assets/mymaps_export.rb
+ruby "%RUBY_SCRIPT%"
 
 REM If Ruby script ran successfully, continue with the commit
 if %errorlevel% neq 0 (
