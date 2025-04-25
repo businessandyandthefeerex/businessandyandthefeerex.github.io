@@ -25,8 +25,7 @@ To do:
  - add rest of the old reviews, separate out repeat reviews into their own files
  - add our art from SIR maybe, replace image on home page and logo with our own image and logo
  - map automation if possible - export to google drive done, upload to mymaps is apparently not possible - investigate options here, maybe other map providers?
- - test if posts with multiple categories can dynamically create folders for blog posts
- - categories table page for filtering by arbitrary category labels
- - stats on ratings and also ratings by regions maybe
- - beautify generated emails with nicer css and html, maybe a button, fonts, colours, and alignment, plus remove our address from the footer somehow
+ - beautify generated emails with nicer css and html, maybe a button, fonts, colours, and alignment, thank you again braille pattern blank
  - when everything is set up and all the old reviews have been added, turn on automation in pipedream again
+ - categories table page for filtering by arbitrary category labels (low priority)
+ - stats on ratings and also ratings by regions maybe (low priority)
