@@ -3,7 +3,7 @@ require 'csv'
 require 'date'
 
 POSTS_DIR = "_posts"
-OUTPUT_CSV = "assets/mymaps_export.csv"
+OUTPUT_CSV = File.join(Dir.pwd, "assets", "mymaps_export.csv")
 SITE_BASEURL = "https://businessandyandthefeerex.co.nz/reviews" 
 
 CSV.open(OUTPUT_CSV, "w", force_quotes: true) do |csv|
