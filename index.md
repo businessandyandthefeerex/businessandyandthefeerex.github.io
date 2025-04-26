@@ -1,5 +1,5 @@
 ---
-title: Business Andy and The Fee-Rex
+title: Business Andy & The Fee-Rex
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
