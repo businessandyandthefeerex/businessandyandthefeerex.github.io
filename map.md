@@ -1,5 +1,5 @@
 ---
-title: Reviews on a Map
+title: Browse a Map
 permalink: /map/
 ---
 All the restaurants we've reviewed as pins on a map.

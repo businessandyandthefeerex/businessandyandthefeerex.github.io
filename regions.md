@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reviews by Region
+title: Browse by Region
 permalink: /regions/
 ---
 All our restaurant reviews listed by region.
