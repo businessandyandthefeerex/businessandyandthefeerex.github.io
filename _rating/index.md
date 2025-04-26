@@ -3,6 +3,7 @@ layout: page
 title: "Rating Collection"
 permalink: /rating/
 ---
+[↑ Go to the collections page](/collections/)
 
 Every value used for the rating collection.
 

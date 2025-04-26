@@ -3,6 +3,7 @@ layout: page
 title: "Meal Collection"
 permalink: /meal/
 ---
+[↑ Go to the collections page](/collections/)
 
 Every value used for the meal collection.
 
