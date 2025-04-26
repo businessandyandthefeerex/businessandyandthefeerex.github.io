@@ -138,7 +138,7 @@ unless File.exist?(reviews_index_file)
   File.write(reviews_index_file, <<~MARKDOWN)
     ---
     layout: page
-    title: "All Reviews"
+    title: "Reviews"
     permalink: /reviews/
     ---
     All our reviews, with the latest on top.

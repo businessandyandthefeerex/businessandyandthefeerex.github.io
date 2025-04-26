@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /latest/
+title: Our Latest Review
 ---
 
 {% assign latest = site.posts | first %}
