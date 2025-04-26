@@ -45,6 +45,7 @@ collection_data.each do |key, values|
   title: "#{key.capitalize} Collection"
   permalink: /#{key}/
   ---
+  [↑ Go to the collections page](/collections/)
 
   Every value used for the #{key} collection.
 
@@ -111,3 +112,29 @@ values.each do |value|
   end
 
 end
+
+# Step 4: Create a collections index page that links to all collection types
+collections_dir = "collections"
+collections_file = File.join(collections_dir, "index.md")
+
+# Remove and recreate collections directory
+if File.exist?(collections_dir)
+  FileUtils.rm_rf(collections_dir)
+end
+FileUtils.mkdir_p(collections_dir)
+
+File.write(collections_file, <<~MARKDOWN)
+  ---
+  layout: page
+  title: "Collections"
+  permalink: /collections/
+  ---
+
+  Browse all collections.
+
+  <ul>
+  #{collection_data.keys.sort.map { |key| "  <li><a href='/#{key}/'>#{key.capitalize} Collection</a></li>" }.join("\n")}
+  </ul>
+  MARKDOWN
+
+puts "Created: #{collections_file}"

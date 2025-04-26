@@ -3,6 +3,7 @@ layout: page
 title: "Category Collection"
 permalink: /category/
 ---
+[↑ Go to the collections page](/collections/)
 
 Every value used for the category collection.
 
