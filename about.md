@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About
 ---
 <h4>The Restaurant Rating System</h4>
 <br>
