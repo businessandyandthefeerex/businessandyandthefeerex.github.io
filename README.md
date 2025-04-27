@@ -24,7 +24,7 @@ Additional tools used:
 
 To do:
  - add rest of the old reviews, separate out repeat reviews into their own files
- - add our art from SIR maybe, replace image on home page and logo with our own image and logo
+ - add our art from SIR maybe, replace image on home page
  - map automation if possible - export to google drive done, upload to mymaps is apparently not possible, maybe leaflet.js maps with a batch geocoding API like OpenCage, and then a ruby script that looks up a location from addresses via their api, and then either creates a locations json file, or embeds the lat and long into front matter
  - do a pass with The Fee-Rex and Business Andy together to look at wording on the site and stuff like that
  - when everything is set up and all the old reviews have been added, turn on automation in pipedream again
