@@ -1,7 +1,8 @@
 #!/bin/bash
 
-# Define the relative path to the Ruby script
-RUBY_SCRIPT="./assets/scripts/generate_map_export.rb"
+# Define the relative paths to the scripts
+GEOLOC_SCRIPT="./assets/scripts/generate_geocoded_locations_json.rb"
+LEAFLET_SCRIPT="./assets/scripts/generate_leaflet_markers.rb"
 
 # Check if Ruby is installed
 if ! command -v ruby &> /dev/null; then
@@ -9,14 +10,22 @@ if ! command -v ruby &> /dev/null; then
   exit 1
 fi
 
-# Run the Ruby script
-ruby "$RUBY_SCRIPT"
-
-# Check if the Ruby script was successful
+# Run the geocoding script
+echo "Running geocoding script..."
+ruby "$GEOLOC_SCRIPT"
 if [ $? -ne 0 ]; then
-  echo "Ruby script failed. Push aborted."
+  echo "Geocoding script failed. Push aborted."
+  exit 1
+fi
+
+# Run the leaflet markers script
+echo "Running leaflet markers script..."
+ruby "$LEAFLET_SCRIPT"
+if [ $? -ne 0 ]; then
+  echo "Leaflet markers script failed. Push aborted."
   exit 1
 fi
 
 # Allow the push to continue
+echo "All scripts executed successfully. Push allowed."
 exit 0
