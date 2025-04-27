@@ -26,6 +26,7 @@ To do:
  - add rest of the old reviews, separate out repeat reviews into their own files
  - add our art from SIR maybe, replace image on home page
  - do a pass with The Fee-Rex and Business Andy together to look at wording on the site and stuff like that
+ - map automation is now working with leaflet and openstreetmap, do the ruby scripts that generate the geocoding and markers work just fine in the github action workflow? if so we can remove the pre commit githook
  - make it look a bit better on mobile devices, how much of our traffic is on mobile?
     - maybe take out the grey stuff after search results and in the latest posts list
     - centre text where it should be centred
