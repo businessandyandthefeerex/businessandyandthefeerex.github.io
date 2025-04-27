@@ -26,6 +26,11 @@ To do:
  - add rest of the old reviews, separate out repeat reviews into their own files
  - add our art from SIR maybe, replace image on home page
  - do a pass with The Fee-Rex and Business Andy together to look at wording on the site and stuff like that
+ - make it look a bit better on mobile devices, how much of our traffic is on mobile?
+    - maybe take out the grey stuff after search results and in the latest posts list
+    - centre text where it should be centred
+    - shorten acknoledgements in the footer
+    - make the header in each review fit a phone screen, maybe take out some of the categories and abbrev them eg november > 11, either that or format it a bit better, so that it looks better on a phone screen
  - when everything is set up and all the old reviews have been added, turn on automation in pipedream again
  - categories table page for filtering by arbitrary category labels (low priority)
  - stats on ratings and also ratings by regions maybe (low priority)
