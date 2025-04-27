@@ -13,19 +13,18 @@ If you make a post that is in a new region or country, new country and region di
 But you don't need to run the generate scripts yourself, the after_reset script in the plugins folder ensures that they are all called when jekyll build runs.
 And Githib has a workflow built in that runs a jekyll build command whenever there is a new commit to the main branch, so just push or merge to main, and the site will be rebuilt completely.
 
-The generate_map_export script is not concerned with collections or folders, instead it takes the address, title, and rating from each blog post and turns them all into a single comma separated list that can be imported as a layer into google maps. This script doesn't really work in github pages, so a git hook runs it instead. Git hooks are located in the .githooks/ directory. If you're using VSCode you'll need the githooks extension to ensure it runs because windows doesn't really play nice with git, and you'll need to change your local git hooks directory to .githooks too, this can be done from the extension. Note that some variables have been set absolutely in this script, so check this before running.
+The generate_geocoded_locations_json and the generate_leaflet_markers scripts can't be run in github pages natively, so instead, they run locally with a githook on commit, but if you're just building locally then they run as part of the after_reset script. Git hooks are located in the .githooks/ directory. If you're using VSCode you'll need the githooks extension to ensure it runs because windows doesn't really play nice with git, and you'll need to change your local git hooks directory to .githooks too, this can be done from the extension. Note that some variables have been set absolutely in this script, so check this before running.
 
 The main branch is intended to be ready for deployment at all times, so pushes directly to main really should only be for tiny changes like new pages. The development workflow for new features is intended to be branching from main into a new branch for the development of the feature, developing locally using jekyll build and then python -m http.server -d _site to inspect the site on localhost:8000, pushing commits to the remote repository, and then merging back into main via a pull request.
 
 Additional tools used:
- - google drive & google mymaps - builds a map from a csv in google drive for embedding on the site
+ - openstreetmaps & leaflet maps - generate and embed maps from location data, using a theme from maptiler
  - mailerlite - stores subscriber email addresses, formats and sends emails to subscribers
  - pipedream - automation workflows for adding subscribers to mailerlite from the subscribe form, for triggering emails on new posts via rss, and for uploading new map csv files to google drive
 
 To do:
  - add rest of the old reviews, separate out repeat reviews into their own files
  - add our art from SIR maybe, replace image on home page
- - map automation if possible - export to google drive done, upload to mymaps is apparently not possible, maybe leaflet.js maps with a batch geocoding API like OpenCage, and then a ruby script that looks up a location from addresses via their api, and then either creates a locations json file, or embeds the lat and long into front matter
  - do a pass with The Fee-Rex and Business Andy together to look at wording on the site and stuff like that
  - when everything is set up and all the old reviews have been added, turn on automation in pipedream again
  - categories table page for filtering by arbitrary category labels (low priority)

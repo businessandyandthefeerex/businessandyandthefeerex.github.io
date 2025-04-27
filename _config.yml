@@ -35,6 +35,7 @@ plugins:
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
+- jekyll-leaflet
 
 # 3. Gem settings
 # paginate: 2 # jekyll-paginate > items per page
