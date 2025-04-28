@@ -3,11 +3,12 @@ title: false
 styles: true
 ---
 
-@use "alembic";
-
-// Bump up base font size on mobile for better readability
-@media (max-width: 600px) {
-    html {
-      font-size: 110%;
-    }
-}
+@use "alembic" with (
+  $rootsizes: (
+    rootsize-0: 15,   // 24px line-height body text increased from 12 -> 14
+    rootsize-1: 15,   // 28px line-height body text
+    rootsize-2: 15,   // 30px line-height body text
+    rootsize-3: 17,   // 34px line-height body text
+    rootsize-4: 19    // 38px line-height body text
+  )
+);
