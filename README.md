@@ -26,7 +26,6 @@ To do:
  - add rest of the old reviews, separate out repeat reviews into their own files
  - add our art from SIR maybe, replace image on home page
  - do a pass with The Fee-Rex and Business Andy together to look at wording on the site and stuff like that
- - map automation is now working with leaflet and openstreetmap, do the ruby scripts that generate the geocoding and markers work just fine in the github action workflow? if so we can remove the pre commit githook
  - when everything is set up and all the old reviews have been added, turn on automation in pipedream again
  - categories table page for filtering by arbitrary category labels (low priority)
  - stats on ratings and also ratings by regions maybe (low priority)
