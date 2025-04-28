@@ -284,20 +284,21 @@
 
 
     const html = resultsArray.map(item => {
-        return `
-            <li>
-                <a href="${item.url}">${item.title}</a>
-                <span style="font-style: italic; color: #a8adac; font-size: 0.9em; margin-left: 6px;">
-                  ${new Date(item.date).toLocaleDateString('en-GB', {
+    return `
+        <li>
+            <a href="${item.url}">${item.title}</a>
+            <div class="meta-info" style="font-style: italic; color: #a8adac; font-size: 0.9em; margin-top: 6px;">
+                <span class="date">${new Date(item.date).toLocaleDateString('en-GB', {
                     day: 'numeric',
                     month: 'long',
                     year: 'numeric'
-                  })},
-                  &nbsp;
-                  Rating: ${item.rating.replace(/^rating:\s*/i, '')}
-                </span>
-            </li>`;
+                })},</span>
+                <span class="rating">Rating: ${item.rating.replace(/^rating:\s*/i, '')}</span>
+            </div>
+        </li>`;
     }).join('');
+
+
 
     if ((resultsArray.length == 0) || (this.value == '')) {
         resultsList.innerHTML = `<p>Sorry, nothing was found</p>`;
