@@ -97,5 +97,14 @@
     "lon": "174.7763157",
     "title": "Bambina Pizzeria",
     "rating": 2
+  },
+  {
+    "file": "2022-01-28-Bay-of-Many-Coves-Resort.md",
+    "address": "Queen Charlotte Sound, Private Bag 382, Picton 7250",
+    "country": "New Zealand",
+    "lat": "-41.290317",
+    "lon": "173.99999",
+    "title": "Bay of Many Coves Resort",
+    "rating": 4
   }
 ]

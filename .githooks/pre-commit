@@ -11,13 +11,13 @@ if ! command -v ruby &> /dev/null; then
   exit 1
 fi
 
-# Run the filename fixing script
-echo "Running filename fix script..."
-ruby "$FIX_SCRIPT"
-if [ $? -ne 0 ]; then
-  echo "Filename fix script failed. Push aborted."
-  exit 1
-fi
+# # Run the filename fixing script
+# echo "Running filename fix script..."
+# ruby "$FIX_SCRIPT"
+# if [ $? -ne 0 ]; then
+#   echo "Filename fix script failed. Push aborted."
+#   exit 1
+# fi
 
 # Run the geocoding script
 echo "Running geocoding script..."
