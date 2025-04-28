@@ -111,6 +111,10 @@ a {
   ul, ol {
     @include mixins.baseline(zeta, variables.$bodytype, 2, 2, all);
 
+    ul {
+      list-style-type: disc; 
+    }
+
     li {
       font-feature-settings: 'kern', 'onum', 'liga';
       margin-left: 2rem;
