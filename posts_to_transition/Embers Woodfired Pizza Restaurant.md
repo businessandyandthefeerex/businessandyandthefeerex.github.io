@@ -1,9 +1,9 @@
 ---
 category: Reviews
 layout: post
-title: Autobahn Cafe
-date: 2024-03-20
-rating: 1
+title: Embers Woodfired Pizza Restaurant
+date: 2024-07-21
+rating: 4
 meal: lunch
 address: State Highway 1, Rosehill, Auckland 2113
 country: New Zealand

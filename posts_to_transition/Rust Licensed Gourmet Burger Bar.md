@@ -1,9 +1,9 @@
 ---
 category: Reviews
 layout: post
-title: Autobahn Cafe
-date: 2024-03-20
-rating: 1
+title: Rust Licensed Gourmet Burger Bar
+date: 2023-01-26
+rating: 2
 meal: lunch
 address: State Highway 1, Rosehill, Auckland 2113
 country: New Zealand

@@ -1,9 +1,9 @@
 ---
 category: Reviews
 layout: post
-title: Autobahn Cafe
+title: Little Blue Kitchen
 date: 2024-03-20
-rating: 1
+rating: 3
 meal: lunch
 address: State Highway 1, Rosehill, Auckland 2113
 country: New Zealand

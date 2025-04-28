@@ -1,8 +1,8 @@
 ---
 category: Reviews
 layout: post
-title: Autobahn Cafe
-date: 2024-03-20
+title: Catlins Inn
+date: 2021-08-02
 rating: 1
 meal: lunch
 address: State Highway 1, Rosehill, Auckland 2113

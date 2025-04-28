@@ -1,9 +1,9 @@
 ---
 category: Reviews
 layout: post
-title: Autobahn Cafe
-date: 2024-03-20
-rating: 1
+title: Floating Rock Cafe
+date: 2024-02-19
+rating: 3
 meal: lunch
 address: State Highway 1, Rosehill, Auckland 2113
 country: New Zealand
