@@ -31,8 +31,8 @@
   
   {{ categories | append: "&nbsp;&middot;&nbsp;" }}
   <time datetime="{{ page.date | date_to_xmlschema }}" class="time">
-    <a href="{{ site.baseurl }}/reviews/{{ year }}/{{ month_num }}/{{ day }}/">{{ day }}</a>
-    <a href="{{ site.baseurl }}/reviews/{{ year }}/{{ month_num }}/">{{ month_name }}</a>
+    <a href="{{ site.baseurl }}/reviews/{{ year }}/{{ month_num }}/{{ day }}/">{{ day }}</a>/
+    <a href="{{ site.baseurl }}/reviews/{{ year }}/{{ month_num }}/">{{ month_num }}</a>/
     <a href="{{ site.baseurl }}/reviews/{{ year }}/">{{ year }}</a>
   </time>
   

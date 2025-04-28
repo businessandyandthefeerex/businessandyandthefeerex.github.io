@@ -4,3 +4,10 @@ styles: true
 ---
 
 @use "alembic";
+
+// Bump up base font size on mobile for better readability
+@media (max-width: 600px) {
+    html {
+      font-size: 110%;
+    }
+}
