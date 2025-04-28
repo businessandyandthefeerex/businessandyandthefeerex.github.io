@@ -24,7 +24,7 @@ All the restaurants we've reviewed as pins on a map.
 
     // MapTiler Streets v2 Tile Layer URL
     L.tileLayer('https://api.maptiler.com/maps/streets-v2/256/{z}/{x}/{y}.png?key=TBMEHjpwUqAgqKJFiXYL', {
-        attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> | MapTiler',
+        attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> | <a href="https://www.maptiler.com/open-source//">MapTiler</a>',
         maxZoom: 19
     }).addTo(map);
 
