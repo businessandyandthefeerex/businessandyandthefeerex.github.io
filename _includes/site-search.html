@@ -44,23 +44,24 @@
     // Sort results alphabetically by title
     resultsArray.sort((a, b) => a.title.localeCompare(b.title));
 
-
-    const html = resultsArray.map(item => {
-    return `
-        <li>
-            <a href="${item.url}">${item.title}</a>
-            <div class="meta-info" style="font-style: italic; color: #a8adac; font-size: 0.9em; margin-top: 6px;">
-                <span class="date">${new Date(item.date).toLocaleDateString('en-GB', {
-                    day: 'numeric',
-                    month: 'long',
-                    year: 'numeric'
-                })},</span>
-                <span class="rating">Rating: ${item.rating.replace(/^rating:\s*/i, '')}</span>
-            </div>
-        </li>`;
-    }).join('');
-
-
+    const html = `
+        <ul class="typeset">
+            ${resultsArray.map(item => {
+                return `
+                    <li>
+                        <a href="${item.url}">${item.title}</a>
+                        <div class="meta-info" style="font-style: italic; color: #a8adac; font-size: 0.9em; margin-top: 6px;">
+                            <span class="date">${new Date(item.date).toLocaleDateString('en-GB', {
+                                day: 'numeric',
+                                month: 'long',
+                                year: 'numeric'
+                            })},</span>
+                            <span class="rating">Rating: ${item.rating.replace(/^rating:\s*/i, '')}</span>
+                        </div>
+                    </li>`;
+            }).join('')}
+        </ul>
+    `;
 
     if ((resultsArray.length == 0) || (this.value == '')) {
         resultsList.innerHTML = `<p>Sorry, nothing was found</p>`;
