@@ -69,8 +69,6 @@ collections:
     title: Posts # Needed for Siteleaf
     output: true
     description: "Business Andy & The Fee-Rex" # The post list page content
-    feature_text: 
-    feature_image: "https://picsum.photos/2560/600?image=866"
   category:
     output: true
   country:
@@ -97,7 +95,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "/assets/logos/logo.png" # Default image for sharing
   -
     scope:
       path: ""
