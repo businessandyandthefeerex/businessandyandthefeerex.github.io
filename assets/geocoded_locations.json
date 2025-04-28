@@ -79,5 +79,23 @@
     "lon": "174.8070923",
     "title": "Kaimak",
     "rating": 3
+  },
+  {
+    "file": "2023-10-21-Baked-With-Love-Cafe-&-Cakery.md",
+    "address": "11 Gascoigne Street, Taupō 3330",
+    "country": "New Zealand",
+    "lat": "-38.685322549999995",
+    "lon": "176.07192896419116",
+    "title": "Baked With Love Cafe & Cakery",
+    "rating": 3
+  },
+  {
+    "file": "2024-02-20-Bambina-Pizzeria.md",
+    "address": "1 Willis Street, Wellington Central, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.286704",
+    "lon": "174.7763157",
+    "title": "Bambina Pizzeria",
+    "rating": 2
   }
 ]
