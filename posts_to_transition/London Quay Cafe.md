@@ -1,8 +1,8 @@
 ---
 category: Reviews
 layout: post
-title: Autobahn Cafe
-date: 2024-03-20
+title: London Quay Cafe
+date: 2022-01-28
 rating: 1
 meal: lunch
 address: State Highway 1, Rosehill, Auckland 2113

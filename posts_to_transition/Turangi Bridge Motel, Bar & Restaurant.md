@@ -1,8 +1,8 @@
 ---
 category: Reviews
 layout: post
-title: Autobahn Cafe
-date: 2024-03-20
+title: Turangi Bridge Motel, Bar & Restaurant
+date: 2021-12-20
 rating: 1
 meal: lunch
 address: State Highway 1, Rosehill, Auckland 2113

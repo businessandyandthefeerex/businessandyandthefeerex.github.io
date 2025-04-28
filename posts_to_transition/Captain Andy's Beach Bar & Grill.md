@@ -1,8 +1,8 @@
 ---
 category: Reviews
 layout: post
-title: Autobahn Cafe
-date: 2024-03-20
+title: Captain Andy's Beach Bar & Grill
+date: 2023-05-14
 rating: 1
 meal: lunch
 address: State Highway 1, Rosehill, Auckland 2113

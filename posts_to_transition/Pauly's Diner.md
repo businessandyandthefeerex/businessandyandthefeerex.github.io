@@ -1,9 +1,9 @@
 ---
 category: Reviews
 layout: post
-title: Autobahn Cafe
-date: 2024-03-20
-rating: 1
+title: Pauly's Diner
+date: 2021-10-25
+rating: 4
 meal: lunch
 address: State Highway 1, Rosehill, Auckland 2113
 country: New Zealand

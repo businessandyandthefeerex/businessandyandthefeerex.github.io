@@ -1,9 +1,9 @@
 ---
 category: Reviews
 layout: post
-title: Autobahn Cafe
-date: 2024-03-20
-rating: 1
+title: Oreti Restaurant
+date: 2021-10-25
+rating: 3
 meal: lunch
 address: State Highway 1, Rosehill, Auckland 2113
 country: New Zealand

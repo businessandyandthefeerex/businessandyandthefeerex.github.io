@@ -79,5 +79,77 @@
     "lon": "174.8070923",
     "title": "Kaimak",
     "rating": 3
+  },
+  {
+    "file": "2023-10-21-Baked-With-Love-Cafe-&-Cakery.md",
+    "address": "11 Gascoigne Street, Taupō 3330",
+    "country": "New Zealand",
+    "lat": "-38.685322549999995",
+    "lon": "176.07192896419116",
+    "title": "Baked With Love Cafe & Cakery",
+    "rating": 3
+  },
+  {
+    "file": "2024-02-20-Bambina-Pizzeria.md",
+    "address": "1 Willis Street, Wellington Central, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.286704",
+    "lon": "174.7763157",
+    "title": "Bambina Pizzeria",
+    "rating": 2
+  },
+  {
+    "file": "2022-01-28-Bay-of-Many-Coves-Resort.md",
+    "address": "Queen Charlotte Sound, Private Bag 382, Picton 7250",
+    "country": "New Zealand",
+    "lat": "-41.290317",
+    "lon": "173.99999",
+    "title": "Bay of Many Coves Resort",
+    "rating": 4
+  },
+  {
+    "file": "Better Choice Cafe.md",
+    "address": "211 Bussell Hwy, Margaret River WA 6285, Australia",
+    "country": "Australia",
+    "lat": "-33.9597168",
+    "lon": "115.0765952",
+    "title": "Better Choice Cafe",
+    "rating": 1
+  },
+  {
+    "file": "Botswana Butchery.md",
+    "address": "17 Marine Parade, Queenstown 9300",
+    "country": "New Zealand",
+    "lat": "-45.0333942",
+    "lon": "168.6616236",
+    "title": "Botswana Butchery",
+    "rating": 3
+  },
+  {
+    "file": "Braaihut.md",
+    "address": "12 Vine Street, Whangārei 0110",
+    "country": "New Zealand",
+    "lat": "-35.7265193",
+    "lon": "174.3204411",
+    "title": "Braaihut",
+    "rating": 3
+  },
+  {
+    "file": "businessandyandthe.md",
+    "address": "7 Tūwharetoa Street, Taupō 3330",
+    "country": "New Zealand",
+    "lat": "-38.6896413",
+    "lon": "176.0741555",
+    "title": "Tejano Cantina",
+    "rating": 3
+  },
+  {
+    "file": "2020-11-07-Cafe-Huhu.md",
+    "address": "10 Waitomo Caves Road, Waitomo Caves 3943",
+    "country": "New Zealand",
+    "lat": "-38.2637689",
+    "lon": "175.142449",
+    "title": "Cafe Huhu",
+    "rating": 4
   }
 ]

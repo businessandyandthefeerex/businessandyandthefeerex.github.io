@@ -1,12 +1,21 @@
 #!/bin/bash
 
 # Define the relative paths to the scripts
+FIX_SCRIPT="./assets/scripts/fix_post_filenames.rb"
 GEOLOC_SCRIPT="./assets/scripts/generate_geocoded_locations_json.rb"
 LEAFLET_SCRIPT="./assets/scripts/generate_leaflet_markers.rb"
 
 # Check if Ruby is installed
 if ! command -v ruby &> /dev/null; then
   echo "Ruby is not installed. Please install Ruby and try again."
+  exit 1
+fi
+
+# Run the filename fixing script
+echo "Running filename fix script..."
+ruby "$FIX_SCRIPT"
+if [ $? -ne 0 ]; then
+  echo "Filename fix script failed. Push aborted."
   exit 1
 fi
 
