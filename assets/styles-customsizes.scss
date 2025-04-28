@@ -1,0 +1,8 @@
+// Custom overrides for Alembic variables
+$rootsizes: (
+  rootsize-0: 15,   // Mobile bump (was 12 → 15)
+  rootsize-1: 15,   // Tablet
+  rootsize-2: 15,   // Small Desktop
+  rootsize-3: 17,   // Desktop
+  rootsize-4: 19    // Large Desktop
+) !default;
