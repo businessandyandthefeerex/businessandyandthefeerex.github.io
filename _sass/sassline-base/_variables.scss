@@ -16,9 +16,9 @@ $breakpoints: (
 // Root font-sizes for each breakpoint. Set to half desired line-height of body text.
 // ! Make sure to have as many sizes as breakpoints above.
 $rootsizes: (
-  rootsize-0: 15,   // 24px line-height body text (increased)
-  rootsize-1: 16,   // 28px line-height body text (increased)
-  rootsize-2: 16,   // 30px line-height body text
+  rootsize-0: 12,   // 24px line-height body text
+  rootsize-1: 14,   // 28px line-height body text
+  rootsize-2: 15,   // 30px line-height body text
   rootsize-3: 17,   // 34px line-height body text
   rootsize-4: 19    // 38px line-height body text
 ) !default;
