@@ -8,22 +8,26 @@ This is just a place for us to keep our restaurant reviews.
 Navigation is up top and the latest reviews are right below this text. If you are looking for a specific review then either try one of the browse pages in the header, or try searching.
 
 <h4>Latest Reviews</h4>
-<ul>
+<ul style="list-style-type: none;">
     {% for post in site.posts limit:5 %}
         <li>
             <a href="{{ post.url }}">{{ post.title }}</a>
             {% if post.date or post.rating %}
-                <span style="font-style: italic; color: #a8adac; font-size: 0.9em; margin-left: 6px;">
-                {% if post.date %}
-                    {{ post.date | date: "%-d %B %Y" }},
-                {% endif %}
-                {% if post.date and post.rating %}
-                    &nbsp;
-                {% endif %}
-                {% if post.rating %}
-                    Rating: {{ post.rating }}
-                {% endif %}
-                </span>
+                <div class="meta-info">
+                    {% if post.date %}
+                        <span class="date" style="font-style: italic; color: #a8adac; font-size: 0.9em;">
+                            {{ post.date | date: "%-d %B %Y" }},
+                        </span>
+                    {% endif %}
+                    {% if post.date and post.rating %}
+                        &nbsp;
+                    {% endif %}
+                    {% if post.rating %}
+                        <span class="rating" style="font-style: italic; color: #a8adac; font-size: 0.9em;">
+                            Rating: {{ post.rating }}
+                        </span>
+                    {% endif %}
+                </div>
             {% endif %}
         </li>
     {% endfor %}
