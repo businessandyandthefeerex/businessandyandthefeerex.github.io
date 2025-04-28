@@ -32,7 +32,7 @@ To do:
     - centre text where it should be centred
     - shorten acknoledgements in the footer
     - is the text too small on mobile? altered modular-scale
-    - make the header in each review fit a phone screen, maybe take out some of the categories and abbrev them eg november > 11, either that or format it a bit better, so that it looks better on a phone screen
+    - make the header in each review fit a phone screen, maybe take out some of the categories and abbrev them eg november > 11, either that or format it a bit better, so that it looks better on a phone screen, with the larger text it's a bit too cramped with not enough line spacing
  - when everything is set up and all the old reviews have been added, turn on automation in pipedream again
  - categories table page for filtering by arbitrary category labels (low priority)
  - stats on ratings and also ratings by regions maybe (low priority)
