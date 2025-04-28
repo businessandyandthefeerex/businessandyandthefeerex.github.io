@@ -142,5 +142,14 @@
     "lon": "176.0741555",
     "title": "Tejano Cantina",
     "rating": 3
+  },
+  {
+    "file": "2020-11-07-Cafe-Huhu.md",
+    "address": "10 Waitomo Caves Road, Waitomo Caves 3943",
+    "country": "New Zealand",
+    "lat": "-38.2637689",
+    "lon": "175.142449",
+    "title": "Cafe Huhu",
+    "rating": 4
   }
 ]
