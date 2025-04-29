@@ -952,5 +952,32 @@
     "lon": "176.9700396590483",
     "title": "Clearview Estate",
     "rating": 3
+  },
+  {
+    "file": "2021-01-25-Tongariro-Lodge.md",
+    "address": "83 Grace Road, RD 2, Turangi 3382",
+    "country": "New Zealand",
+    "lat": "-38.977801",
+    "lon": "175.817901",
+    "title": "Tongariro Lodge",
+    "rating": 2
+  },
+  {
+    "file": "2022-10-24-Tongariro-Lodge.md",
+    "address": "83 Grace Road, RD 2, Turangi 3382",
+    "country": "New Zealand",
+    "lat": "-38.977801",
+    "lon": "175.817901",
+    "title": "Tongariro Lodge",
+    "rating": 3
+  },
+  {
+    "file": "2024-10-26-Tongariro-Lodge.md",
+    "address": "83 Grace Road, RD 2, Turangi 3382",
+    "country": "New Zealand",
+    "lat": "-38.977801",
+    "lon": "175.817901",
+    "title": "Tongariro Lodge",
+    "rating": 4
   }
 ]
