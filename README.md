@@ -34,6 +34,7 @@ To do:
  - do we want a second colour hue anywhere? i like the green everywhere but perhaps an accent colour?
  - do we actually like the green colour?
  - some wording is a placeholder
+ - need to fix the generate geocoded locations script so that it doesnt just add new rows when an address changes
  - when everything is set up and all the old reviews have been added, turn on automation in pipedream again
  - categories table page for filtering by arbitrary category labels (low priority)
  - stats on ratings and also ratings by regions maybe (low priority)
