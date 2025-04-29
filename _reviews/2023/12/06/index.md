@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Reviews from 02 November 2024"
-permalink: /reviews/2024/11/02/
-year: 2024
-month: 11
-day: 02
+title: "Reviews from 06 December 2023"
+permalink: /reviews/2023/12/06/
+year: 2023
+month: 12
+day: 06
 ---
-[↑ Go to November 2024](/reviews/2024/11/)
+[↑ Go to December 2023](/reviews/2023/12/)
 
 {% assign this_year = page.year | plus: 0 %}
 {% assign this_month = page.month | plus: 0 %}

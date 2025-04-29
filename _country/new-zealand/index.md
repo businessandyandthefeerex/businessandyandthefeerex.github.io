@@ -13,25 +13,16 @@ permalink: /country/new-zealand/
   <a href="/country/new-zealand/bay-of-plenty/">Bay of Plenty</a>
 </li>
 <li>
-  <a href="/country/new-zealand/cantebury/">Cantebury</a>
-</li>
-<li>
-  <a href="/country/new-zealand/christchurch/">Christchurch</a>
+  <a href="/country/new-zealand/canterbury/">Canterbury</a>
 </li>
 <li>
   <a href="/country/new-zealand/coromandel/">Coromandel</a>
-</li>
-<li>
-  <a href="/country/new-zealand/dunedin/">Dunedin</a>
 </li>
 <li>
   <a href="/country/new-zealand/fiordland/">Fiordland</a>
 </li>
 <li>
   <a href="/country/new-zealand/hawkes-bay/">Hawkes Bay</a>
-</li>
-<li>
-  <a href="/country/new-zealand/invercargill/">Invercargill</a>
 </li>
 <li>
   <a href="/country/new-zealand/marlborough/">Marlborough</a>
@@ -50,9 +41,6 @@ permalink: /country/new-zealand/
 </li>
 <li>
   <a href="/country/new-zealand/waikato/">Waikato</a>
-</li>
-<li>
-  <a href="/country/new-zealand/waitato/">Waitato</a>
 </li>
 <li>
   <a href="/country/new-zealand/wellington/">Wellington</a>

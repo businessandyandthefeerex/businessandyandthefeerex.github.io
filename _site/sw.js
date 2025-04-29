@@ -1,8 +1,8 @@
-const version = '20250429071429';
+const version = '20250429104153';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/reviews/2025/04/24/Kaimak/","/reviews/2025/02/20/Clearview-Estate/","/reviews/2025/02/07/Crack-Chicken/","/reviews/2024/11/08/A1-Takeaways-Hong-Kong-Style-BBQ/","/reviews/2024/11/03/The-Rusty-Bros/","/reviews/2024/11/02/Urban-Gusto/","/reviews/2024/10/26/Tongariro-Lodge/","/reviews/2024/10/26/Suncourt-Indian/","/reviews/2024/10/25/Golden-Crust-Pizza/","/reviews/2024/08/10/Mr-Glen's-Taphouse-&-Tapas/","/about/","/blog/","/collections/","/","/latest/","/manifest.json","/map/","/offline/","/regions/","/assets/search.json","/search/","/assets/styles.css","/subscribe/","/thanks/","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/assets/styles.css.map","/assets/logos/logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/reviews/2025/04/24/Kaimak/","/reviews/2025/02/20/Clearview-Estate/","/reviews/2025/02/07/Crack-Chicken/","/reviews/2024/11/08/A1-Takeaways-Hong-Kong-Style-BBQ/","/reviews/2024/10/26/Tongariro-Lodge/","/reviews/2024/10/26/Suncourt-Indian/","/reviews/2024/10/25/Golden-Crust-Pizza/","/reviews/2024/08/10/Mr-Glen's-Taphouse-&-Tapas/","/reviews/2024/08/09/The-Dining-Room-at-The-Headwaters-Eco-Lo/","/reviews/2024/07/26/Exhale-Exmouth/","/blog/","/collections/","/","/latest/","/manifest.json","/map/","/offline/","/regions/","/assets/search.json","/search/","/assets/styles.css","/subscribe/","/thanks/","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/assets/styles.css.map","/assets/logos/logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
