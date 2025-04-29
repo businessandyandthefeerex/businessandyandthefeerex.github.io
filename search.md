@@ -1,9 +1,11 @@
 ---
 title: Search
-excerpt: "Search through every review for a keyword."
 ---
-Search through every review for a keyword. Some suggestions:
+Search through every review for a keyword.
+<br>
+Some suggestions:
  - rating: 1
  - dumpster fire
+ - Palmerston North
 
 {% include site-search.html %}
