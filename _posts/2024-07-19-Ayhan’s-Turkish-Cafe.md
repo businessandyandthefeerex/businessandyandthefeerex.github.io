@@ -7,8 +7,8 @@ rating: 3
 meal: dinner
 address: 51 George St, Kensington WA 6151
 country: Australia
-region: Perth
-suburb: Kensington
+region: Western Australia
+suburb: Perth
 website: http://www.ayhanscafe.com.au/
 ---
 Spinach and feta gozleme  

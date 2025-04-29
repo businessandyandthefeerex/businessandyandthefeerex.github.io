@@ -7,8 +7,8 @@ rating: 4
 meal: dinner
 address: State Highway 1, Rosehill, Auckland 2113
 country: Australia
-region: Perth
-suburb: Kalamunda
+region: Western Australia
+suburb: Perth
 website: https://www.emberswoodfired.com.au/
 ---
 Blue cheese gnocchi  
