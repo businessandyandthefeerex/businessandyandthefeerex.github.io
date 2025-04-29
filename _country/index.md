@@ -7,9 +7,12 @@ permalink: /country/
 
 <ul>
 <li>
-  <a href="/country/new-zealand/">New Zealand</a>
+  <a href="/country/australia/">Australia</a>
 </li>
 <li>
-  <a href="/country/australia/">Australia</a>
+  <a href="/country/cook-islands/">Cook Islands</a>
+</li>
+<li>
+  <a href="/country/new-zealand/">New Zealand</a>
 </li>
 </ul>

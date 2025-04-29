@@ -16,7 +16,7 @@ All our restaurant reviews listed by region.
   {% endunless %}
 {% endfor %}
 
-{% assign custom_order = "Northland,Auckland,Waikato,Bay of Plenty,Gisborne,Hawke's Bay,Taranaki,Manawatū-Whanganui,Wellington,Tasman,Nelson,Marlborough,West Coast,Canterbury,Otago,Southland" | split: "," %}
+{% assign custom_order = "Northland,Auckland,Waikato,Bay of Plenty,Coromandel,Gisborne,Hawkes Bay,Taranaki,Manawatū-Whanganui,Wellington,Tasman,Nelson,Marlborough,West Coast,Canterbury,Otago,Fiordland,Southland,Stewart Island" | split: "," %}
 
 <ul>
   {% for region in custom_order %}

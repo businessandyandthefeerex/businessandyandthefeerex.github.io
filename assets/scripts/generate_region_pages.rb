@@ -60,7 +60,10 @@ countries.each do |country|
     country_posts = site.posts.docs.select { |post| post.data['country'] == country }
     grouped_by_region = country_posts.group_by { |post| post.data['region'] }
 
-    grouped_by_region.each do |region, region_posts|
+    grouped_by_region
+      .sort_by { |region, _| region.downcase }
+      .each do |region, region_posts|
+    
       next if region.nil? || region.empty?
 
       region_slug = region.downcase.gsub(" ", "-")
@@ -87,7 +90,9 @@ countries.each do |country|
             {% assign posts = site.posts | where: "region", "#{region}" | where: "country", "#{country}" %}
             {% assign grouped_posts = posts | group_by: "suburb" %}
 
-            {% for group in grouped_posts %}
+            {% assign sorted_grouped_posts = grouped_posts | sort: "name" %}
+            {% for group in sorted_grouped_posts %}
+
               <h4>{{ group.name }}</h4>
 
               {% assign rating_groups = group.items | group_by: "rating" %}
@@ -132,7 +137,7 @@ File.open("_country/index.md", "w") do |file|
     <ul>
   MARKDOWN
 
-  countries.each do |country|
+  countries.sort_by { |c| c.downcase }.each do |country|
     next if country.nil? || country.empty?
 
     country_slug = country.downcase.gsub(" ", "-")

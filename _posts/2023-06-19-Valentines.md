@@ -7,8 +7,8 @@ rating: 1
 meal: dinner
 address: 7/11 Chalmers Street, Hornby, Christchurch 8042
 country: New Zealand
-region: Christchurch
-suburb: Hornby
+region: Canterbury
+suburb: Christchurch
 website: https://valentines.co.nz/
 ---
 Buffet style meals  
