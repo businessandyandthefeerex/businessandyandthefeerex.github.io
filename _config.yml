@@ -148,7 +148,7 @@ navigation_header:
   url: /reviews/
 - title: Browse by Region
   url: /regions/
-- title: Browse a Map
+- title: Browse the Map
   url: /map/
 - title: Search
   url: /search/
