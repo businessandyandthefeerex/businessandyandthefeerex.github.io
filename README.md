@@ -26,6 +26,7 @@ To do:
  - add rest of the old reviews, separate out repeat reviews into their own files
  - default map view might be a bit too zoomed out
  - need to fix the generate geocoded locations script so that it doesnt just add new rows when an address changes, it needs to delete the old ones, and should run for every unique location only, instead of for every review
+ - leaflet map is showing raro reviews only when zoomed all the way out?
  - when everything is set up and all the old reviews have been added, turn on automation in pipedream again
  - add our dino icon to the subscribe button?
  - categories table page for filtering by arbitrary category labels (low priority)
