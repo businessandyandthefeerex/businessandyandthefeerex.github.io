@@ -7,8 +7,8 @@ rating: 1
 meal: dinner
 address: 1 Canning Rd, Kalamunda WA 6076, Australia
 country: Australia
-region: Perth
-suburb: Kalamunda
+region: Western Australia
+suburb: Perth
 website: https://www.redrooster.com.au/
 ---
 Pickle bruger  

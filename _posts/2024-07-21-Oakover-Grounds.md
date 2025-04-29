@@ -7,7 +7,7 @@ rating: 2
 meal: lunch
 address: 80 Yukich Cl, Middle Swan WA 6056, Australia
 country: Australia
-region: Perth
+region: Western Australia
 suburb: Swan Valley
 website: https://oakovergrounds.com.au/pages/cafe
 ---
