@@ -7,8 +7,8 @@ rating: 2
 meal: lunch
 address: 356 Tay Street, Richmond, Invercargill 9810
 country: New Zealand
-region: Invercargill
-suburb: Richmond
+region: Southland
+suburb: Invercargill
 website: http://www.currygurumalabar.co.nz/
 ---
 Paneer butter masala and rice  
