@@ -25,15 +25,15 @@ Additional tools used:
 To do:
  - add rest of the old reviews, separate out repeat reviews into their own files
  - do a pass with The Fee-Rex and Business Andy together to look at wording on the site and stuff like that
-  - region page needs the rest of the regions added to it's custom ordered list
-  - country/new-zealand and similar collection pages should have keys in alphabetical order
-  - lowest region pages have headings for ratings that are too large maybe?
-  - lowest level of colleciton key pages should have subtitles for reviews that are their meta fields perhaps (like search results, maybe on the same line tho?)
-  - cook islands addresses haven't worked, might need to review them all, and use osm addresses instead of google addresses because of the leaflet map
-  - default map view might be a bit too zoomed out
-  - do we want a second colour hue anywhere? i like the green everywhere but perhaps an accent colour?
-  - do we actually like the green colour?
-  - some wording is a placeholder
+ - region page needs the rest of the regions added to it's custom ordered list
+ - country/new-zealand and similar collection pages should have keys in alphabetical order
+ - lowest region pages have headings for ratings that are too large maybe?
+ - lowest level of colleciton key pages should have subtitles for reviews that are their meta fields perhaps (like search results, maybe on the same line tho?)
+ - cook islands addresses haven't worked, might need to review them all, and use osm addresses instead of google addresses because of the leaflet map
+ - default map view might be a bit too zoomed out
+ - do we want a second colour hue anywhere? i like the green everywhere but perhaps an accent colour?
+ - do we actually like the green colour?
+ - some wording is a placeholder
  - when everything is set up and all the old reviews have been added, turn on automation in pipedream again
  - categories table page for filtering by arbitrary category labels (low priority)
  - stats on ratings and also ratings by regions maybe (low priority)
