@@ -2,12 +2,15 @@
 title: Business Andy & The Fee-Rex
 ---
 <img id="featured-image" src="" alt="Featured Image" />
-
-This is just a place for us to keep our restaurant reviews.  
-  
-Navigation is up top and the latest reviews are right below this text. If you are looking for a specific review then either try one of the browse pages in the header, or try searching.
-
-
+<h4>The Restaurant Rating System</h4>
+<br>
+4 - Great  
+3 - Good  
+2 - Meh  
+1 - Bad  
+<h4>The Restaurant Selection System</h4>
+<br> 
+Restaurants are usually selected either using a random number generator or on an eat-at-the-first-place-we-see basis.
 <h4>Latest Reviews</h4>
 <ul>
     {% for post in site.posts limit:5 %}
@@ -37,7 +40,7 @@ Navigation is up top and the latest reviews are right below this text. If you ar
 <script type="text/javascript">
   // Array of image URLs relative to the assets folder
   const images = [
-    "{{ '/assets/images/page_art_01.png' | relative_url }}",  // Adjust the paths according to your images
+    "{{ '/assets/images/page_art_01.png' | relative_url }}", 
     "{{ '/assets/images/page_art_02.png' | relative_url }}",
     "{{ '/assets/images/page_art_03.png' | relative_url }}"
   ];
