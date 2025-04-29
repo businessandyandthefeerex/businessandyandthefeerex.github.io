@@ -2,7 +2,7 @@
 category: Reviews
 layout: post
 title: Turangi Bridge Motel, Bar & Restaurant
-date: 2021-12-20
+date: 2021-12-21
 rating: 3
 meal: dinner
 address: 4600 State Highway 1, Tūrangi 3334

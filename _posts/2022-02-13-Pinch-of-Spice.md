@@ -2,7 +2,7 @@
 category: Reviews
 layout: post
 title: Pinch of Spice
-date: 2022-02-13
+date: 2022-02-14
 rating: 3
 meal: dinner
 address: 7 Clyde Street, City Centre, Invercargill 9810

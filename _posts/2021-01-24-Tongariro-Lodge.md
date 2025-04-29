@@ -2,7 +2,7 @@
 category: Reviews
 layout: post
 title: Tongariro Lodge
-date: 2021-01-24
+date: 2021-01-25
 rating: 2
 meal: dinner
 address: 83 Grace Road, RD 2, Tūrangi 3382

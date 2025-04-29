@@ -2,7 +2,7 @@
 category: Reviews
 layout: post
 title: Turangi Tavern
-date: 2022-10-24
+date: 2022-10-25
 rating: 2
 meal: dinner
 address: 277 Te Rangitautahanga Road, Tūrangi 3334
