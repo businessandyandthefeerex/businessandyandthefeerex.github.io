@@ -21,14 +21,12 @@ Restaurants are usually selected either using a random number generator or on an
                     {% if post.date %}
                         <span class="date" style="font-style: italic; color: #a8adac; font-size: 0.9em;">
                             {{ post.date | date: "%-d %B %Y" }},
-                        </span>
                     {% endif %}
                     {% if post.date and post.rating %}
                         &nbsp;
                     {% endif %}
                     {% if post.rating %}
-                        <span class="rating" style="font-style: italic; color: #a8adac; font-size: 0.9em;">
-                            Rating: {{ post.rating }}
+                        Rating: {{ post.rating }}
                         </span>
                     {% endif %}
                 </div>
