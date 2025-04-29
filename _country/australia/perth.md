@@ -10,7 +10,9 @@ permalink: /country/australia/perth/
   {% assign posts = site.posts | where: "region", "Perth" | where: "country", "Australia" %}
   {% assign grouped_posts = posts | group_by: "suburb" %}
 
-  {% for group in grouped_posts %}
+  {% assign sorted_grouped_posts = grouped_posts | sort: "name" %}
+  {% for group in sorted_grouped_posts %}
+
     <h4>{{ group.name }}</h4>
 
     {% assign rating_groups = group.items | group_by: "rating" %}

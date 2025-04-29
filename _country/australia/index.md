@@ -9,4 +9,7 @@ permalink: /country/australia/
 <li>
   <a href="/country/australia/perth/">Perth</a>
 </li>
+<li>
+  <a href="/country/australia/western-australia/">Western Australia</a>
+</li>
 </ul>
