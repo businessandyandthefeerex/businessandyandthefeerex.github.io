@@ -8,7 +8,7 @@ meal: dinner
 address: 25 Te Arahori Street, Tūrangi 3334
 country: New Zealand
 region: Waikato
-suburb: Turangi
+suburb: Tūrangi
 website: https://parklandsmotorlodge.co.nz/restaurant
 ---
 Scotch fillet with chips, carrots and asparagus  
