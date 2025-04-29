@@ -171,15 +171,6 @@
     "rating": 2
   },
   {
-    "file": "2021-01-24-Tongariro-Lodge.md",
-    "address": "83 Grace Road, RD 2, Tūrangi 3382",
-    "country": "New Zealand",
-    "lat": "46.4168",
-    "lon": "-62.31532",
-    "title": "Tongariro Lodge",
-    "rating": 2
-  },
-  {
     "file": "2021-02-11-Der-Metz.md",
     "address": "5/11 Averill Avenue, Kohimarama, Auckland 1071",
     "country": "New Zealand",
@@ -466,15 +457,6 @@
     "lon": "176.0707796",
     "title": "Pauly's Diner",
     "rating": 4
-  },
-  {
-    "file": "2022-10-24-Tongariro-Lodge.md",
-    "address": "83 Grace Road, RD 2, Tūrangi 3382",
-    "country": "New Zealand",
-    "lat": "46.4168",
-    "lon": "-62.31532",
-    "title": "Tongariro Lodge",
-    "rating": 3
   },
   {
     "file": "2022-10-24-Turangi-Tavern.md",
@@ -925,15 +907,6 @@
     "lon": "176.0848886",
     "title": "Suncourt Indian",
     "rating": 2
-  },
-  {
-    "file": "2024-10-26-Tongariro-Lodge.md",
-    "address": "83 Grace Road, RD 2, Tūrangi 3382",
-    "country": "New Zealand",
-    "lat": "46.4168",
-    "lon": "-62.31532",
-    "title": "Tongariro Lodge",
-    "rating": 4
   },
   {
     "file": "2025-02-07-Crack-Chicken.md",

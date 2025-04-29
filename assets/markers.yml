@@ -131,13 +131,6 @@
   rating: "2"
   link: "https://businessandyandthefeerex.co.nz/reviews/2021/01/24/The-Coffee-Club/"
 
-- lat: 46.4168
-  lon: -62.31532
-  title: "Tongariro Lodge"
-  address: "83 Grace Road, RD 2, Tūrangi 3382, New Zealand"
-  rating: "2"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2021/01/24/Tongariro-Lodge/"
-
 - lat: -36.8506452
   lon: 174.8421143
   title: "Der Metz"
@@ -361,13 +354,6 @@
   address: "3 Pāora Hapi Street, Taupō 3330, New Zealand"
   rating: "4"
   link: "https://businessandyandthefeerex.co.nz/reviews/2022/10/24/Pauly's-Diner/"
-
-- lat: 46.4168
-  lon: -62.31532
-  title: "Tongariro Lodge"
-  address: "83 Grace Road, RD 2, Tūrangi 3382, New Zealand"
-  rating: "3"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2022/10/24/Tongariro-Lodge/"
 
 - lat: -38.9809285
   lon: 175.8114356
@@ -718,13 +704,6 @@
   address: "19 Tamamutu Street, Taupō 3330, New Zealand"
   rating: "2"
   link: "https://businessandyandthefeerex.co.nz/reviews/2024/10/26/Suncourt-Indian/"
-
-- lat: 46.4168
-  lon: -62.31532
-  title: "Tongariro Lodge"
-  address: "83 Grace Road, RD 2, Tūrangi 3382, New Zealand"
-  rating: "4"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2024/10/26/Tongariro-Lodge/"
 
 - lat: -41.286704
   lon: 174.776316
