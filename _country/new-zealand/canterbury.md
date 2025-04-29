@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Cantebury, New Zealand
+title: Canterbury, New Zealand
 country: New Zealand
-region: Cantebury
-permalink: /country/new-zealand/cantebury/
+region: Canterbury
+permalink: /country/new-zealand/canterbury/
 ---
 [↑ Go to New Zealand regions](/country/new-zealand/)
 <ul>
-  {% assign posts = site.posts | where: "region", "Cantebury" | where: "country", "New Zealand" %}
+  {% assign posts = site.posts | where: "region", "Canterbury" | where: "country", "New Zealand" %}
   {% assign grouped_posts = posts | group_by: "suburb" %}
 
   {% assign sorted_grouped_posts = grouped_posts | sort: "name" %}

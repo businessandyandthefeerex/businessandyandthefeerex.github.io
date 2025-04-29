@@ -1,9 +1,7 @@
 ---
 title: Search
 ---
-Search through every review for a keyword.
-<br>
-Some suggestions:
+Search through every review for a keyword, some suggestions:
  - rating: 1
  - dumpster fire
  - Palmerston North
