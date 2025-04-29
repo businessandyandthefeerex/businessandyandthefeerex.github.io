@@ -2,7 +2,7 @@
 category: Reviews
 layout: post
 title: Miss Lucy's
-date: 2023-08-06
+date: 2023-08-05
 rating: 2
 meal: dinner
 address: Rooftop/47 Camp Street, Queenstown 9300

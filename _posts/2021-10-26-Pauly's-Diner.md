@@ -2,7 +2,7 @@
 category: Reviews
 layout: post
 title: Pauly's Diner
-date: 2021-10-25
+date: 2021-10-26
 rating: 4
 meal: lunch
 address: 3 Pāora Hapi Street, Taupō 3330

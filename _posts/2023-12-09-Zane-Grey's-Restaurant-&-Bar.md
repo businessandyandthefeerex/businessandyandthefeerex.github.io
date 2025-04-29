@@ -2,7 +2,7 @@
 category: Reviews
 layout: post
 title: Zane Grey's Restaurant & Bar
-date: 2023-12-08
+date: 2023-12-09
 rating: 1
 meal: dinner
 address: 69 Marsden Road, Paihia 0200

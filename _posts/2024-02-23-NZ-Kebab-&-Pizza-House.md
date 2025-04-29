@@ -2,7 +2,7 @@
 category: Reviews
 layout: post
 title: NZ Kebab & Pizza House
-date: 2024-03-20
+date: 2024-02-23
 rating: 2
 meal: dinner
 address: 346/352 Te Ngae Road, Lynmore, Rotorua 3010

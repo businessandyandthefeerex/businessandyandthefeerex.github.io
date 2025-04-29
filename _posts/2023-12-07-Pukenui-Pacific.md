@@ -1,10 +1,10 @@
 ---
 category: Reviews
 layout: post
-title: Autobahn Cafe
-date: 2023-12-08
+title: Pukenui Pacific
+date: 2023-12-07
 rating: 1
-meal: dinner
+meal: lunch
 address: 4 Lamb Road, Pukenui 0484
 country: New Zealand
 region: Northland

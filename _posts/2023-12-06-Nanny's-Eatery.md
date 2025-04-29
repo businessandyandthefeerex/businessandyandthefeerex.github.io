@@ -2,7 +2,7 @@
 category: Reviews
 layout: post
 title: Nanny's Eatery
-date: 2023-12-08
+date: 2023-12-06
 rating: 3
 meal: dinner
 address: 492 New North Road, Kingsland, Auckland 1021

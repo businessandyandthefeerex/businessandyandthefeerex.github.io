@@ -2,7 +2,7 @@
 category: Reviews
 layout: post
 title: Soul Bar & Bistro
-date: 2021-02-11
+date: 2021-02-12
 rating: 4
 meal: dinner
 address: Corner of Lower Hobson Street, Customs Street West, Auckland 1010

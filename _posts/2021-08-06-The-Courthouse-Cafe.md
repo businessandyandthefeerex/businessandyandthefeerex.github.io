@@ -2,7 +2,7 @@
 category: Reviews
 layout: post
 title: The Courthouse Cafe
-date: 2021-08-08
+date: 2021-08-06
 rating: 3
 meal: lunch
 address: 8 Centennial Avenue, Alexandra 9320
