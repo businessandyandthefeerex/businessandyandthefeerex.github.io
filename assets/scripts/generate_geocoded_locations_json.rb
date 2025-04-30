@@ -19,13 +19,20 @@ def load_geocoded_locations
   end
 end
 
+# Strip macrons and other accents from the query string
+def normalize_string(str)
+  str.unicode_normalize(:nfkd)
+     .gsub(/\p{Mn}/, '')  # Remove all non-spacing marks (e.g., macrons, accents)
+     .encode('ASCII', undef: :replace, invalid: :replace, replace: '')
+end
+
 # Check if the post has already been geocoded by address and country
 def already_geocoded?(address, country, geocoded_locations)
   geocoded_locations.any? { |entry| entry["address"] == address && entry["country"] == country }
 end
 
 def geocode_address(address, country)
-  query = "#{address}, #{country}"
+  query = normalize_string("#{address}, #{country}")
   url = URI("https://us1.locationiq.com/v1/search.php?key=#{API_KEY}&q=#{URI.encode_www_form_component(query)}&format=json")
 
   res = Net::HTTP.get_response(url)
@@ -93,7 +100,6 @@ posts.each_with_index do |file, index|
   end
 end
 
-
 # Step 3: Merge new results with existing locations and write output
 geocoded_locations += results
 File.open(OUTPUT_FILE, "w") do |f|
@@ -101,3 +107,31 @@ File.open(OUTPUT_FILE, "w") do |f|
 end
 
 puts "Geocoding complete. Results saved to #{OUTPUT_FILE}."
+
+# Step 4: Deduplicate the output file
+def normalize(str)
+  str.to_s.strip.downcase.gsub(/\s+/, " ")
+end
+
+puts "Deduplicating #{OUTPUT_FILE}..."
+data = JSON.parse(File.read(OUTPUT_FILE), symbolize_names: true)
+
+seen = {}
+deduped = data.reject do |entry|
+  key = [
+    normalize(entry[:address]),
+    normalize(entry[:country]),
+    normalize(entry[:title])
+  ].join("|")
+
+  if seen[key]
+    puts "Removing duplicate: #{entry[:title]} (#{entry[:address]})"
+    true
+  else
+    seen[key] = true
+    false
+  end
+end
+
+File.write(OUTPUT_FILE, JSON.pretty_generate(deduped))
+puts "Deduplication complete. #{deduped.size} unique entries saved to #{OUTPUT_FILE}."

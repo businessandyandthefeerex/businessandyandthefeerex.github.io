@@ -20,7 +20,7 @@ All the restaurants we've reviewed as pins on a map.
 
 <script>
     // Initialize the map with a default view
-    var map = L.map('map').setView([-41, 173], 5); // New Zealand's approximate latitude and longitude, with a suitable zoom level
+    var map = L.map('map').setView([-41.3, 174.8], 13); // New Zealand's approximate latitude and longitude, with a suitable zoom level
 
     // MapTiler Streets v2 Tile Layer URL
     L.tileLayer('https://api.maptiler.com/maps/streets-v2/256/{z}/{x}/{y}.png?key=TBMEHjpwUqAgqKJFiXYL', {
@@ -43,6 +43,8 @@ All the restaurants we've reviewed as pins on a map.
                 var address = marker.address;
                 var rating = marker.rating;
                 var link = marker.link;
+
+                if (lat > -50 && lat < 0 && lon < -150) { lon += 360; }
 
                 // Ensure that the link is properly escaped
                 var safeLink = link.replace(/'/g, '%27');  // Escape single quotes in the URL

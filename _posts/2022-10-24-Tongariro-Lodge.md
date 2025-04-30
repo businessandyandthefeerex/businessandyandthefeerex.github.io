@@ -5,7 +5,7 @@ title: Tongariro Lodge
 date: 2022-10-24
 rating: 3
 meal: dinner
-address: 83 Grace Road, RD 2, Turangi 3382
+address: 83 Grace Road, RD 2, Tūrangi 3382
 country: New Zealand
 region: Waikato
 suburb: Tūrangi
