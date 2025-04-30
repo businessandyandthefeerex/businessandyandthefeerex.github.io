@@ -1,121 +1,16 @@
-- lat: -35.23336825
-  lon: 173.94313374996213
-  title: "Madly Indian"
-  address: "342 Kerikeri Road, Kerikeri 0230, New Zealand"
-  rating: "3"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2023/12/08/Madly-Indian/"
-
-- lat: -35.2815503
-  lon: 174.092867
-  title: "Zane Grey's Restaurant & Bar"
-  address: "69 Marsden Road, Paihia 0200, New Zealand"
-  rating: "1"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2023/12/08/Zane-Grey's-Restaurant-&-Bar/"
-
-- lat: -38.1108373
-  lon: 176.2167171
-  title: "Stratosfare Restaurant & Bar"
-  address: "178 Fairy Springs Road, Fairy Springs, Rotorua 3015, New Zealand"
-  rating: "1"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2024/02/22/Stratosfare-Restaurant-&-Bar/"
-
-- lat: -37.336996
-  lon: 175.062685
-  title: "Autobahn Cafe"
-  address: "State Highway 1, Rosehill, Auckland 2113, New Zealand"
-  rating: "1"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2024/03/20/Autobahn-Cafe/"
-
-- lat: -31.9887901
-  lon: 115.8750924
-  title: "Ayhan’s Turkish Cafe"
-  address: "51 George St, Kensington WA 6151, Australia"
-  rating: "3"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2024/07/19/Ayhan’s-Turkish-Cafe/"
-
-- lat: -38.1379298
-  lon: 176.2514245
-  title: "Urban Gusto"
-  address: "1122 Tutanekai Street, Rotorua 3010, New Zealand"
-  rating: "3"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2024/11/02/Urban-Gusto/"
-
-- lat: -38.1382865
-  lon: 176.2485884
-  title: "The Rusty Bros"
-  address: "1263 Amohia Street, Rotorua 3010, New Zealand"
-  rating: "2"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2024/11/03/The-Rusty-Bros/"
-
-- lat: -41.3179812
-  lon: 174.7947157
-  title: "A1 Takeaways Hong Kong Style BBQ"
-  address: "36 Rongotai Road, Kilbirnie, Wellington 6022, New Zealand"
-  rating: "2"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2024/11/08/A1-Takeaways-Hong-Kong-Style-BBQ/"
-
-- lat: -41.2226313
-  lon: 174.8070923
-  title: "Kaimak"
-  address: "20 Johnsonville Road, Johnsonville, Wellington 6037, New Zealand"
-  rating: "3"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2025/04/24/Kaimak/"
-
-- lat: -38.685322549999995
-  lon: 176.07192896419116
-  title: "Baked With Love Cafe & Cakery"
-  address: "11 Gascoigne Street, Taupō 3330, New Zealand"
-  rating: "3"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2023/10/21/Baked-With-Love-Cafe-&-Cakery/"
-
-- lat: -41.286704
-  lon: 174.7763157
-  title: "Bambina Pizzeria"
-  address: "1 Willis Street, Wellington Central, Wellington 6011, New Zealand"
-  rating: "2"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2024/02/20/Bambina-Pizzeria/"
-
-- lat: -41.290317
-  lon: 173.99999
-  title: "Bay of Many Coves Resort"
-  address: "Queen Charlotte Sound, Private Bag 382, Picton 7250, New Zealand"
-  rating: "4"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2022/01/28/Bay-of-Many-Coves-Resort/"
-
-- lat: -33.9597168
-  lon: 115.0765952
-  title: "Better Choice Cafe"
-  address: "211 Bussell Hwy, Margaret River WA 6285, Australia, Australia"
-  rating: "1"
-  link: "#"
-
-- lat: -45.0333942
-  lon: 168.6616236
-  title: "Botswana Butchery"
-  address: "17 Marine Parade, Queenstown 9300, New Zealand"
-  rating: "3"
-  link: "#"
-
-- lat: -35.7265193
-  lon: 174.3204411
-  title: "Braaihut"
-  address: "12 Vine Street, Whangārei 0110, New Zealand"
-  rating: "3"
-  link: "#"
-
-- lat: -38.6896413
-  lon: 176.0741555
-  title: "Tejano Cantina"
-  address: "7 Tūwharetoa Street, Taupō 3330, New Zealand"
-  rating: "3"
-  link: "#"
-
 - lat: -38.2637689
   lon: 175.142449
   title: "Cafe Huhu"
   address: "10 Waitomo Caves Road, Waitomo Caves 3943, New Zealand"
   rating: "4"
   link: "https://businessandyandthefeerex.co.nz/reviews/2020/11/07/Cafe-Huhu/"
+
+- lat: -37.6317509
+  lon: 176.1773567
+  title: "The Coffee Club"
+  address: "1 Marine Parade, Mount Maunganui 3116, New Zealand"
+  rating: "2"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2021/01/23/The-Coffee-Club/"
 
 - lat: -37.687695
   lon: 176.169271
@@ -124,19 +19,19 @@
   rating: "2"
   link: "https://businessandyandthefeerex.co.nz/reviews/2021/01/24/Jumpstart-Cafe/"
 
-- lat: -37.637988
-  lon: 176.1867158
-  title: "The Coffee Club"
-  address: "1 Marine Parade, Mount Maunganui 3116, New Zealand"
+- lat: -38.977801
+  lon: 175.817901
+  title: "Tongariro Lodge"
+  address: "83 Grace Road, RD 2, Tūrangi 3382, New Zealand"
   rating: "2"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2021/01/24/The-Coffee-Club/"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2021/01/25/Tongariro-Lodge/"
 
 - lat: -36.8506452
   lon: 174.8421143
   title: "Der Metz"
   address: "5/11 Averill Avenue, Kohimarama, Auckland 1071, New Zealand"
   rating: "3"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2021/02/11/Der-Metz/"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2021/02/10/Der-Metz/"
 
 - lat: -36.8489282
   lon: 174.7624718
@@ -157,7 +52,7 @@
   title: "Soul Bar & Bistro"
   address: "Corner of Lower Hobson Street, Customs Street West, Auckland 1010, New Zealand"
   rating: "4"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2021/02/11/Soul-Bar-&-Bistro/"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2021/02/12/Soul-Bar-&-Bistro/"
 
 - lat: -39.5183252
   lon: 176.8428179
@@ -215,33 +110,26 @@
   rating: "3"
   link: "https://businessandyandthefeerex.co.nz/reviews/2021/08/03/South-Sea-Hotel/"
 
-- lat: -44.6953344
-  lon: 169.1371008
-  title: "Kika"
-  address: "2 Dunmore Street, Wānaka 9305, New Zealand"
-  rating: "4"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2021/08/08/Kika/"
-
-- lat: -46.8973948
-  lon: 168.1285028
-  title: "South Sea Hotel"
-  address: "26 Elgin Terrace, Oban 9846, New Zealand"
-  rating: "3"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2021/08/08/South-Sea-Hotel/"
-
 - lat: -45.2555589
   lon: 169.3924235
   title: "The Courthouse Cafe"
   address: "8 Centennial Avenue, Alexandra 9320, New Zealand"
   rating: "3"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2021/08/08/The-Courthouse-Cafe/"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2021/08/06/The-Courthouse-Cafe/"
 
 - lat: -37.00621615
   lon: 174.79207576524618
   title: "The Gipsy Moth"
   address: "Domestic Terminal, Auckland Airport, Auckland 2022, New Zealand"
   rating: "2"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2021/08/08/The-Gipsy-Moth/"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2021/08/07/The-Gipsy-Moth/"
+
+- lat: -44.6953344
+  lon: 169.1371008
+  title: "Kika"
+  address: "2 Dunmore Street, Wānaka 9305, New Zealand"
+  rating: "4"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2021/08/08/Kika/"
 
 - lat: -38.9809285
   lon: 175.8114356
@@ -262,7 +150,14 @@
   title: "Pauly's Diner"
   address: "3 Pāora Hapi Street, Taupō 3330, New Zealand"
   rating: "4"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2021/10/25/Pauly's-Diner/"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2021/10/26/Pauly's-Diner/"
+
+- lat: -38.6896413
+  lon: 176.0741555
+  title: "Tejano Cantina"
+  address: "7 Tūwharetoa Street, Taupō 3330, New Zealand"
+  rating: "3"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2021/10/27/Tejano-Cantina/"
 
 - lat: -38.9339116
   lon: 175.8726375
@@ -278,13 +173,6 @@
   rating: "2"
   link: "https://businessandyandthefeerex.co.nz/reviews/2021/12/20/Riverside-Bar-&-Restaurant/"
 
-- lat: -38.9863735
-  lon: 175.81792415
-  title: "Turangi Bridge Motel, Bar & Restaurant"
-  address: "4600 State Highway 1, Tūrangi 3334, New Zealand"
-  rating: "3"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2021/12/20/Turangi-Bridge-Motel,-Bar-&-Restaurant/"
-
 - lat: -38.600538
   lon: 176.081545
   title: "Wairakei Resort Taupo"
@@ -292,12 +180,26 @@
   rating: "2"
   link: "https://businessandyandthefeerex.co.nz/reviews/2021/12/20/Wairakei-Resort-Taupo/"
 
+- lat: -38.9863735
+  lon: 175.81792415
+  title: "Turangi Bridge Motel, Bar & Restaurant"
+  address: "4600 State Highway 1, Tūrangi 3334, New Zealand"
+  rating: "3"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2021/12/21/Turangi-Bridge-Motel,-Bar-&-Restaurant/"
+
 - lat: -38.9868623
   lon: 175.8183836
   title: "Creel Tackle House & Cafe"
   address: "189 Taupahi Road, Tūrangi 3334, New Zealand"
   rating: "3"
   link: "https://businessandyandthefeerex.co.nz/reviews/2021/12/30/Creel-Tackle-House-&-Cafe/"
+
+- lat: -41.290317
+  lon: 173.99999
+  title: "Bay of Many Coves Resort"
+  address: "Queen Charlotte Sound, Private Bag 382, Picton 7250, New Zealand"
+  rating: "4"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2022/01/28/Bay-of-Many-Coves-Resort/"
 
 - lat: -41.2888902
   lon: 174.0073136
@@ -332,7 +234,7 @@
   title: "Pinch of Spice"
   address: "7 Clyde Street, City Centre, Invercargill 9810, New Zealand"
   rating: "3"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2022/02/13/Pinch-of-Spice/"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2022/02/14/Pinch-of-Spice/"
 
 - lat: -31.8644266
   lon: 116.0004034
@@ -348,19 +250,12 @@
   rating: "3"
   link: "https://businessandyandthefeerex.co.nz/reviews/2022/07/28/Wildflower/"
 
-- lat: -38.6844801
-  lon: 176.0707796
-  title: "Pauly's Diner"
-  address: "3 Pāora Hapi Street, Taupō 3330, New Zealand"
-  rating: "4"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2022/10/24/Pauly's-Diner/"
-
 - lat: -38.9809285
   lon: 175.8114356
   title: "Turangi Tavern"
   address: "277 Te Rangitautahanga Road, Tūrangi 3334, New Zealand"
   rating: "2"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2022/10/24/Turangi-Tavern/"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2022/10/25/Turangi-Tavern/"
 
 - lat: -38.9887347
   lon: 175.8089539
@@ -369,19 +264,19 @@
   rating: "1"
   link: "https://businessandyandthefeerex.co.nz/reviews/2023/01/19/Valentino's-Italian-Restaurant/"
 
+- lat: -38.987563
+  lon: 175.803738
+  title: "Rust Licensed Gourmet Burger Bar"
+  address: "shop 6, Tūrangi 3353, New Zealand"
+  rating: "2"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2023/01/20/Rust-Licensed-Gourmet-Burger-Bar/"
+
 - lat: -37.6632447
   lon: 176.2202875
   title: "Autobahn Cafe"
   address: "181 Maunganui Road, Mount Maunganui 3116, New Zealand"
   rating: "3"
   link: "https://businessandyandthefeerex.co.nz/reviews/2023/01/26/Autobahn-Cafe/"
-
-- lat: -38.987563
-  lon: 175.803738
-  title: "Rust Licensed Gourmet Burger Bar"
-  address: "shop 6, Tūrangi 3353, New Zealand"
-  rating: "2"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2023/01/26/Rust-Licensed-Gourmet-Burger-Bar/"
 
 - lat: -37.9702816
   lon: 177.0537334
@@ -413,38 +308,24 @@
 
 - lat: -21.232115
   lon: -159.779726
-  title: "Captain Andy's Beach Bar & Grill"
-  address: "Aroa Rd, Arorangi, Cook Islands, Cook Islands"
-  rating: "1"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2023/05/17/Captain-Andy's-Beach-Bar-&-Grill/"
-
-- lat: -21.232115
-  lon: -159.779726
   title: "Little Polynesian Resort"
   address: "Main Road - Titikaveka, Rarotonga, Cook Islands, Cook Islands"
   rating: "3"
   link: "https://businessandyandthefeerex.co.nz/reviews/2023/05/17/Little-Polynesian-Resort/"
-
-- lat: -21.232115
-  lon: -159.779726
-  title: "Captain Andy's Beach Bar & Grill"
-  address: "Aroa Rd, Arorangi, Cook Islands, Cook Islands"
-  rating: "1"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2023/05/19/Captain-Andy's-Beach-Bar-&-Grill/"
 
 - lat: -21.206219
   lon: -159.78017
   title: "The Plaza"
   address: "St Joseph's Rd, Avarua, Cook Islands, Cook Islands"
   rating: "2"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2023/05/27/The-Plaza/"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2023/05/20/The-Plaza/"
 
 - lat: -43.5330933
   lon: 172.6399036
   title: "Coffee Culture"
   address: "158 Cashel Street, Christchurch Central City, Christchurch 8011, New Zealand"
   rating: "2"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2023/06/19/Coffee-Culture/"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2023/06/18/Coffee-Culture/"
 
 - lat: -44.9537573
   lon: 171.0852139
@@ -460,13 +341,6 @@
   rating: "1"
   link: "https://businessandyandthefeerex.co.nz/reviews/2023/06/19/Valentines/"
 
-- lat: -36.8489282
-  lon: 174.7624718
-  title: "Federal Delicatessen"
-  address: "86 Federal Street, Auckland City, Auckland 1010, New Zealand"
-  rating: "3"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2023/07/19/Federal-Delicatessen/"
-
 - lat: -36.994189
   lon: 174.883856
   title: "Rainbow Playlab Cafe"
@@ -480,6 +354,13 @@
   address: "179 Mount Albert Road, Mount Albert, Auckland 1025, New Zealand"
   rating: "3"
   link: "https://businessandyandthefeerex.co.nz/reviews/2023/07/19/Taco-Loco-Cantina/"
+
+- lat: -45.0333942
+  lon: 168.6616236
+  title: "Botswana Butchery"
+  address: "17 Marine Parade, Queenstown 9300, New Zealand"
+  rating: "3"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2023/08/04/Botswana-Butchery/"
 
 - lat: -44.6962387
   lon: 169.1358815
@@ -495,19 +376,19 @@
   rating: "2"
   link: "https://businessandyandthefeerex.co.nz/reviews/2023/08/05/Kai-Whakapai/"
 
+- lat: -45.0305211
+  lon: 168.6599878
+  title: "Miss Lucy's"
+  address: "Rooftop/47 Camp Street, Queenstown 9300, New Zealand"
+  rating: "2"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2023/08/05/Miss-Lucy's/"
+
 - lat: -44.6834044
   lon: 169.1889267
   title: "Pembroke Patisserie"
   address: "20 Alison Avenue, Albert Town 9382, New Zealand"
   rating: "4"
   link: "https://businessandyandthefeerex.co.nz/reviews/2023/08/05/Pembroke-Patisserie/"
-
-- lat: -45.0305211
-  lon: 168.6599878
-  title: "Miss Lucy's"
-  address: "Rooftop/47 Camp Street, Queenstown 9300, New Zealand"
-  rating: "2"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2023/08/06/Miss-Lucy's/"
 
 - lat: -44.056496
   lon: 170.892468
@@ -523,6 +404,13 @@
   rating: "2"
   link: "https://businessandyandthefeerex.co.nz/reviews/2023/08/06/Tarras-Country-Cafe/"
 
+- lat: -38.685322549999995
+  lon: 176.07192896419116
+  title: "Baked With Love Cafe & Cakery"
+  address: "11 Gascoigne Street, Taupō 3330, New Zealand"
+  rating: "3"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2023/10/21/Baked-With-Love-Cafe-&-Cakery/"
+
 - lat: -38.9751381
   lon: 175.8188704
   title: "Hare & Copper Eatery"
@@ -530,33 +418,47 @@
   rating: "4"
   link: "https://businessandyandthefeerex.co.nz/reviews/2023/10/21/Hare-&-Copper-Eatery/"
 
-- lat: -38.9863735
-  lon: 175.81792415
-  title: "Turangi Bridge Motel, Bar & Restaurant"
-  address: "4600 State Highway 1, Tūrangi 3334, New Zealand"
-  rating: "1"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2023/10/22/Turangi-Bridge-Motel,-Bar-&-Restaurant/"
-
-- lat: -34.8151391
-  lon: 173.1174911
-  title: "Autobahn Cafe"
-  address: "4 Lamb Road, Pukenui 0484, New Zealand"
-  rating: "1"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2023/12/08/Autobahn-Cafe/"
-
 - lat: -36.8725526
   lon: 174.7434936
   title: "Nanny's Eatery"
   address: "492 New North Road, Kingsland, Auckland 1021, New Zealand"
   rating: "3"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2023/12/08/Nanny's-Eatery/"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2023/12/06/Nanny's-Eatery/"
+
+- lat: -34.8151391
+  lon: 173.1174911
+  title: "Pukenui Pacific"
+  address: "4 Lamb Road, Pukenui 0484, New Zealand"
+  rating: "1"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2023/12/07/Pukenui-Pacific/"
 
 - lat: -36.3452468
   lon: 174.7334174
   title: "Rothko"
   address: "40 Omaha Flats Road, Matakana 0986, New Zealand"
   rating: "2"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2023/12/08/Rothko/"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2023/12/07/Rothko/"
+
+- lat: -35.7265193
+  lon: 174.3204411
+  title: "Braaihut"
+  address: "12 Vine Street, Whangārei 0110, New Zealand"
+  rating: "3"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2023/12/08/Braaihut/"
+
+- lat: -35.23336825
+  lon: 173.94313374996213
+  title: "Madly Indian"
+  address: "342 Kerikeri Road, Kerikeri 0230, New Zealand"
+  rating: "3"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2023/12/08/Madly-Indian/"
+
+- lat: -35.2815503
+  lon: 174.092867
+  title: "Zane Grey's Restaurant & Bar"
+  address: "69 Marsden Road, Paihia 0200, New Zealand"
+  rating: "1"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2023/12/09/Zane-Grey's-Restaurant-&-Bar/"
 
 - lat: -38.8907639
   lon: 175.7609691
@@ -565,12 +467,47 @@
   rating: "3"
   link: "https://businessandyandthefeerex.co.nz/reviews/2024/02/19/Floating-Rock-Cafe/"
 
-- lat: -37.9702816
-  lon: 177.0537334
-  title: "The Quay Cafe"
-  address: "22 Pohutukawa Avenue, Ōhope 3121, New Zealand"
+- lat: -38.1382865
+  lon: 176.2485884
+  title: "The Rusty Bros"
+  address: "1263 Amohia Street, Rotorua 3010, New Zealand"
   rating: "2"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2024/02/19/The-Quay-Cafe/"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2024/02/19/The-Rusty-Bros/"
+
+- lat: -41.286704
+  lon: 174.7763157
+  title: "Bambina Pizzeria"
+  address: "1 Willis Street, Wellington Central, Wellington 6011, New Zealand"
+  rating: "2"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2024/02/20/Bambina-Pizzeria/"
+
+- lat: -38.1108373
+  lon: 176.2167171
+  title: "Stratosfare Restaurant & Bar"
+  address: "178 Fairy Springs Road, Fairy Springs, Rotorua 3015, New Zealand"
+  rating: "1"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2024/02/22/Stratosfare-Restaurant-&-Bar/"
+
+- lat: -38.1453802
+  lon: 176.281356
+  title: "NZ Kebab & Pizza House"
+  address: "346/352 Te Ngae Road, Lynmore, Rotorua 3010, New Zealand"
+  rating: "2"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2024/02/23/NZ-Kebab-&-Pizza-House/"
+
+- lat: -38.1379298
+  lon: 176.2514245
+  title: "Urban Gusto"
+  address: "1122 Tutanekai Street, Rotorua 3010, New Zealand"
+  rating: "3"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2024/02/24/Urban-Gusto/"
+
+- lat: -37.336996
+  lon: 175.062685
+  title: "Autobahn Cafe"
+  address: "State Highway 1, Rosehill, Auckland 2113, New Zealand"
+  rating: "1"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2024/03/20/Autobahn-Cafe/"
 
 - lat: -36.888788
   lon: 175.823485
@@ -585,13 +522,6 @@
   address: "48 Hahei Beach Road, Hahei 3591, New Zealand"
   rating: "3"
   link: "https://businessandyandthefeerex.co.nz/reviews/2024/03/20/Little-Blue-Kitchen/"
-
-- lat: -38.1453802
-  lon: 176.281356
-  title: "NZ Kebab & Pizza House"
-  address: "346/352 Te Ngae Road, Lynmore, Rotorua 3010, New Zealand"
-  rating: "2"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2024/03/20/NZ-Kebab-&-Pizza-House/"
 
 - lat: -37.213301
   lon: 175.6182071
@@ -613,6 +543,13 @@
   address: "2914 Porangahau Road, Wallingford 4284, New Zealand"
   rating: "4"
   link: "https://businessandyandthefeerex.co.nz/reviews/2024/06/16/Wallingford-Homestead/"
+
+- lat: -31.9887901
+  lon: 115.8750924
+  title: "Ayhan’s Turkish Cafe"
+  address: "51 George St, Kensington WA 6151, Australia"
+  rating: "3"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2024/07/19/Ayhan’s-Turkish-Cafe/"
 
 - lat: -33.939759
   lon: 151.147771
@@ -655,6 +592,13 @@
   address: "5/2 Andrews Way, Margaret River WA 6285, Australia, Australia"
   rating: "2"
   link: "https://businessandyandthefeerex.co.nz/reviews/2024/07/23/Sons-of-Naples/"
+
+- lat: -33.9597168
+  lon: 115.0765952
+  title: "Better Choice Cafe"
+  address: "211 Bussell Hwy, Margaret River WA 6285, Australia, Australia"
+  rating: "1"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2024/07/24/Better-Choice-Cafe/"
 
 - lat: -31.9761327
   lon: 116.0569578
@@ -705,6 +649,13 @@
   rating: "2"
   link: "https://businessandyandthefeerex.co.nz/reviews/2024/10/26/Suncourt-Indian/"
 
+- lat: -41.3179812
+  lon: 174.7947157
+  title: "A1 Takeaways Hong Kong Style BBQ"
+  address: "36 Rongotai Road, Kilbirnie, Wellington 6022, New Zealand"
+  rating: "2"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2024/11/08/A1-Takeaways-Hong-Kong-Style-BBQ/"
+
 - lat: -41.286704
   lon: 174.776316
   title: "Crack Chicken"
@@ -719,24 +670,10 @@
   rating: "3"
   link: "https://businessandyandthefeerex.co.nz/reviews/2025/02/20/Clearview-Estate/"
 
-- lat: -38.977801
-  lon: 175.817901
-  title: "Tongariro Lodge"
-  address: "83 Grace Road, RD 2, Turangi 3382, New Zealand"
-  rating: "2"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2021/01/25/Tongariro-Lodge/"
-
-- lat: -38.977801
-  lon: 175.817901
-  title: "Tongariro Lodge"
-  address: "83 Grace Road, RD 2, Turangi 3382, New Zealand"
+- lat: -41.2226313
+  lon: 174.8070923
+  title: "Kaimak"
+  address: "20 Johnsonville Road, Johnsonville, Wellington 6037, New Zealand"
   rating: "3"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2022/10/24/Tongariro-Lodge/"
-
-- lat: -38.977801
-  lon: 175.817901
-  title: "Tongariro Lodge"
-  address: "83 Grace Road, RD 2, Turangi 3382, New Zealand"
-  rating: "4"
-  link: "https://businessandyandthefeerex.co.nz/reviews/2024/10/26/Tongariro-Lodge/"
+  link: "https://businessandyandthefeerex.co.nz/reviews/2025/04/24/Kaimak/"
 

@@ -1,149 +1,5 @@
 [
   {
-    "file": "2023-12-08-Madly-Indian.md",
-    "address": "342 Kerikeri Road, Kerikeri 0230",
-    "country": "New Zealand",
-    "lat": "-35.23336825",
-    "lon": "173.94313374996213",
-    "title": "Madly Indian",
-    "rating": 3
-  },
-  {
-    "file": "2023-12-08-Zane-Grey's-Restaurant-&-Bar.md",
-    "address": "69 Marsden Road, Paihia 0200",
-    "country": "New Zealand",
-    "lat": "-35.2815503",
-    "lon": "174.092867",
-    "title": "Zane Grey's Restaurant & Bar",
-    "rating": 1
-  },
-  {
-    "file": "2024-02-22-Stratosfare-Restaurant-&-Bar.md",
-    "address": "178 Fairy Springs Road, Fairy Springs, Rotorua 3015",
-    "country": "New Zealand",
-    "lat": "-38.1108373",
-    "lon": "176.2167171",
-    "title": "Stratosfare Restaurant & Bar",
-    "rating": 1
-  },
-  {
-    "file": "2024-03-20-Autobahn-Cafe.md",
-    "address": "State Highway 1, Rosehill, Auckland 2113",
-    "country": "New Zealand",
-    "lat": "-37.336996",
-    "lon": "175.062685",
-    "title": "Autobahn Cafe",
-    "rating": 1
-  },
-  {
-    "file": "2024-07-19-Ayhan’s-Turkish-Cafe.md",
-    "address": "51 George St, Kensington WA 6151",
-    "country": "Australia",
-    "lat": "-31.9887901",
-    "lon": "115.8750924",
-    "title": "Ayhan’s Turkish Cafe",
-    "rating": 3
-  },
-  {
-    "file": "2024-11-02-Urban-Gusto.md",
-    "address": "1122 Tutanekai Street, Rotorua 3010",
-    "country": "New Zealand",
-    "lat": "-38.1379298",
-    "lon": "176.2514245",
-    "title": "Urban Gusto",
-    "rating": 3
-  },
-  {
-    "file": "2024-11-03-The-Rusty-Bros.md",
-    "address": "1263 Amohia Street, Rotorua 3010",
-    "country": "New Zealand",
-    "lat": "-38.1382865",
-    "lon": "176.2485884",
-    "title": "The Rusty Bros",
-    "rating": 2
-  },
-  {
-    "file": "2024-11-08-A1-Takeaways-Hong-Kong-Style-BBQ.md",
-    "address": "36 Rongotai Road, Kilbirnie, Wellington 6022",
-    "country": "New Zealand",
-    "lat": "-41.3179812",
-    "lon": "174.7947157",
-    "title": "A1 Takeaways Hong Kong Style BBQ",
-    "rating": 2
-  },
-  {
-    "file": "2025-04-24-Kaimak.md",
-    "address": "20 Johnsonville Road, Johnsonville, Wellington 6037",
-    "country": "New Zealand",
-    "lat": "-41.2226313",
-    "lon": "174.8070923",
-    "title": "Kaimak",
-    "rating": 3
-  },
-  {
-    "file": "2023-10-21-Baked-With-Love-Cafe-&-Cakery.md",
-    "address": "11 Gascoigne Street, Taupō 3330",
-    "country": "New Zealand",
-    "lat": "-38.685322549999995",
-    "lon": "176.07192896419116",
-    "title": "Baked With Love Cafe & Cakery",
-    "rating": 3
-  },
-  {
-    "file": "2024-02-20-Bambina-Pizzeria.md",
-    "address": "1 Willis Street, Wellington Central, Wellington 6011",
-    "country": "New Zealand",
-    "lat": "-41.286704",
-    "lon": "174.7763157",
-    "title": "Bambina Pizzeria",
-    "rating": 2
-  },
-  {
-    "file": "2022-01-28-Bay-of-Many-Coves-Resort.md",
-    "address": "Queen Charlotte Sound, Private Bag 382, Picton 7250",
-    "country": "New Zealand",
-    "lat": "-41.290317",
-    "lon": "173.99999",
-    "title": "Bay of Many Coves Resort",
-    "rating": 4
-  },
-  {
-    "file": "Better Choice Cafe.md",
-    "address": "211 Bussell Hwy, Margaret River WA 6285, Australia",
-    "country": "Australia",
-    "lat": "-33.9597168",
-    "lon": "115.0765952",
-    "title": "Better Choice Cafe",
-    "rating": 1
-  },
-  {
-    "file": "Botswana Butchery.md",
-    "address": "17 Marine Parade, Queenstown 9300",
-    "country": "New Zealand",
-    "lat": "-45.0333942",
-    "lon": "168.6616236",
-    "title": "Botswana Butchery",
-    "rating": 3
-  },
-  {
-    "file": "Braaihut.md",
-    "address": "12 Vine Street, Whangārei 0110",
-    "country": "New Zealand",
-    "lat": "-35.7265193",
-    "lon": "174.3204411",
-    "title": "Braaihut",
-    "rating": 3
-  },
-  {
-    "file": "businessandyandthe.md",
-    "address": "7 Tūwharetoa Street, Taupō 3330",
-    "country": "New Zealand",
-    "lat": "-38.6896413",
-    "lon": "176.0741555",
-    "title": "Tejano Cantina",
-    "rating": 3
-  },
-  {
     "file": "2020-11-07-Cafe-Huhu.md",
     "address": "10 Waitomo Caves Road, Waitomo Caves 3943",
     "country": "New Zealand",
@@ -151,6 +7,15 @@
     "lon": "175.142449",
     "title": "Cafe Huhu",
     "rating": 4
+  },
+  {
+    "file": "2021-01-23-The-Coffee-Club.md",
+    "address": "1 Marine Parade, Mount Maunganui 3116",
+    "country": "New Zealand",
+    "lat": "-37.6317509",
+    "lon": "176.1773567",
+    "title": "The Coffee Club",
+    "rating": 2
   },
   {
     "file": "2021-01-24-Jumpstart-Cafe.md",
@@ -162,16 +27,16 @@
     "rating": 2
   },
   {
-    "file": "2021-01-24-The-Coffee-Club.md",
-    "address": "1 Marine Parade, Mount Maunganui 3116",
+    "file": "2021-01-25-Tongariro-Lodge.md",
+    "address": "83 Grace Road, RD 2, Tūrangi 3382",
     "country": "New Zealand",
-    "lat": "-37.637988",
-    "lon": "176.1867158",
-    "title": "The Coffee Club",
+    "lat": "-38.977801",
+    "lon": "175.817901",
+    "title": "Tongariro Lodge",
     "rating": 2
   },
   {
-    "file": "2021-02-11-Der-Metz.md",
+    "file": "2021-02-10-Der-Metz.md",
     "address": "5/11 Averill Avenue, Kohimarama, Auckland 1071",
     "country": "New Zealand",
     "lat": "-36.8506452",
@@ -198,7 +63,7 @@
     "rating": 3
   },
   {
-    "file": "2021-02-11-Soul-Bar-&-Bistro.md",
+    "file": "2021-02-12-Soul-Bar-&-Bistro.md",
     "address": "Corner of Lower Hobson Street, Customs Street West, Auckland 1010",
     "country": "New Zealand",
     "lat": "-36.849193",
@@ -279,25 +144,7 @@
     "rating": 3
   },
   {
-    "file": "2021-08-08-Kika.md",
-    "address": "2 Dunmore Street, Wānaka 9305",
-    "country": "New Zealand",
-    "lat": "-44.6953344",
-    "lon": "169.1371008",
-    "title": "Kika",
-    "rating": 4
-  },
-  {
-    "file": "2021-08-08-South-Sea-Hotel.md",
-    "address": "26 Elgin Terrace, Oban 9846",
-    "country": "New Zealand",
-    "lat": "-46.8973948",
-    "lon": "168.1285028",
-    "title": "South Sea Hotel",
-    "rating": 3
-  },
-  {
-    "file": "2021-08-08-The-Courthouse-Cafe.md",
+    "file": "2021-08-06-The-Courthouse-Cafe.md",
     "address": "8 Centennial Avenue, Alexandra 9320",
     "country": "New Zealand",
     "lat": "-45.2555589",
@@ -306,13 +153,22 @@
     "rating": 3
   },
   {
-    "file": "2021-08-08-The-Gipsy-Moth.md",
+    "file": "2021-08-07-The-Gipsy-Moth.md",
     "address": "Domestic Terminal, Auckland Airport, Auckland 2022",
     "country": "New Zealand",
     "lat": "-37.00621615",
     "lon": "174.79207576524618",
     "title": "The Gipsy Moth",
     "rating": 2
+  },
+  {
+    "file": "2021-08-08-Kika.md",
+    "address": "2 Dunmore Street, Wānaka 9305",
+    "country": "New Zealand",
+    "lat": "-44.6953344",
+    "lon": "169.1371008",
+    "title": "Kika",
+    "rating": 4
   },
   {
     "file": "2021-10-25-Hydro-Eatery.md",
@@ -333,13 +189,22 @@
     "rating": 3
   },
   {
-    "file": "2021-10-25-Pauly's-Diner.md",
+    "file": "2021-10-26-Pauly's-Diner.md",
     "address": "3 Pāora Hapi Street, Taupō 3330",
     "country": "New Zealand",
     "lat": "-38.6844801",
     "lon": "176.0707796",
     "title": "Pauly's Diner",
     "rating": 4
+  },
+  {
+    "file": "2021-10-27-Tejano-Cantina.md",
+    "address": "7 Tūwharetoa Street, Taupō 3330",
+    "country": "New Zealand",
+    "lat": "-38.6896413",
+    "lon": "176.0741555",
+    "title": "Tejano Cantina",
+    "rating": 3
   },
   {
     "file": "2021-12-20-Licorice-Cafe.md",
@@ -360,15 +225,6 @@
     "rating": 2
   },
   {
-    "file": "2021-12-20-Turangi-Bridge-Motel,-Bar-&-Restaurant.md",
-    "address": "4600 State Highway 1, Tūrangi 3334",
-    "country": "New Zealand",
-    "lat": "-38.9863735",
-    "lon": "175.81792415",
-    "title": "Turangi Bridge Motel, Bar & Restaurant",
-    "rating": 3
-  },
-  {
     "file": "2021-12-20-Wairakei-Resort-Taupo.md",
     "address": "640 Wairakei Drive, Tourist Park, Wairakei, Taupō 3384",
     "country": "New Zealand",
@@ -378,6 +234,15 @@
     "rating": 2
   },
   {
+    "file": "2021-12-21-Turangi-Bridge-Motel,-Bar-&-Restaurant.md",
+    "address": "4600 State Highway 1, Tūrangi 3334",
+    "country": "New Zealand",
+    "lat": "-38.9863735",
+    "lon": "175.81792415",
+    "title": "Turangi Bridge Motel, Bar & Restaurant",
+    "rating": 3
+  },
+  {
     "file": "2021-12-30-Creel-Tackle-House-&-Cafe.md",
     "address": "189 Taupahi Road, Tūrangi 3334",
     "country": "New Zealand",
@@ -385,6 +250,15 @@
     "lon": "175.8183836",
     "title": "Creel Tackle House & Cafe",
     "rating": 3
+  },
+  {
+    "file": "2022-01-28-Bay-of-Many-Coves-Resort.md",
+    "address": "Queen Charlotte Sound, Private Bag 382, Picton 7250",
+    "country": "New Zealand",
+    "lat": "-41.290317",
+    "lon": "173.99999",
+    "title": "Bay of Many Coves Resort",
+    "rating": 4
   },
   {
     "file": "2022-01-28-London-Quay-Cafe.md",
@@ -423,7 +297,7 @@
     "rating": 2
   },
   {
-    "file": "2022-02-13-Pinch-of-Spice.md",
+    "file": "2022-02-14-Pinch-of-Spice.md",
     "address": "7 Clyde Street, City Centre, Invercargill 9810",
     "country": "New Zealand",
     "lat": "-46.413523",
@@ -450,16 +324,7 @@
     "rating": 3
   },
   {
-    "file": "2022-10-24-Pauly's-Diner.md",
-    "address": "3 Pāora Hapi Street, Taupō 3330",
-    "country": "New Zealand",
-    "lat": "-38.6844801",
-    "lon": "176.0707796",
-    "title": "Pauly's Diner",
-    "rating": 4
-  },
-  {
-    "file": "2022-10-24-Turangi-Tavern.md",
+    "file": "2022-10-25-Turangi-Tavern.md",
     "address": "277 Te Rangitautahanga Road, Tūrangi 3334",
     "country": "New Zealand",
     "lat": "-38.9809285",
@@ -477,6 +342,15 @@
     "rating": 1
   },
   {
+    "file": "2023-01-20-Rust-Licensed-Gourmet-Burger-Bar.md",
+    "address": "shop 6, Tūrangi 3353",
+    "country": "New Zealand",
+    "lat": "-38.987563",
+    "lon": "175.803738",
+    "title": "Rust Licensed Gourmet Burger Bar",
+    "rating": 2
+  },
+  {
     "file": "2023-01-26-Autobahn-Cafe.md",
     "address": "181 Maunganui Road, Mount Maunganui 3116",
     "country": "New Zealand",
@@ -484,15 +358,6 @@
     "lon": "176.2202875",
     "title": "Autobahn Cafe",
     "rating": 3
-  },
-  {
-    "file": "2023-01-26-Rust-Licensed-Gourmet-Burger-Bar.md",
-    "address": "shop 6, Tūrangi 3353",
-    "country": "New Zealand",
-    "lat": "-38.987563",
-    "lon": "175.803738",
-    "title": "Rust Licensed Gourmet Burger Bar",
-    "rating": 2
   },
   {
     "file": "2023-01-26-The-Quay-Cafe.md",
@@ -531,15 +396,6 @@
     "rating": 1
   },
   {
-    "file": "2023-05-17-Captain-Andy's-Beach-Bar-&-Grill.md",
-    "address": "Aroa Rd, Arorangi, Cook Islands",
-    "country": "Cook Islands",
-    "lat": "-21.232115",
-    "lon": "-159.779726",
-    "title": "Captain Andy's Beach Bar & Grill",
-    "rating": 1
-  },
-  {
     "file": "2023-05-17-Little-Polynesian-Resort.md",
     "address": "Main Road - Titikaveka, Rarotonga, Cook Islands",
     "country": "Cook Islands",
@@ -549,16 +405,7 @@
     "rating": 3
   },
   {
-    "file": "2023-05-19-Captain-Andy's-Beach-Bar-&-Grill.md",
-    "address": "Aroa Rd, Arorangi, Cook Islands",
-    "country": "Cook Islands",
-    "lat": "-21.232115",
-    "lon": "-159.779726",
-    "title": "Captain Andy's Beach Bar & Grill",
-    "rating": 1
-  },
-  {
-    "file": "2023-05-27-The-Plaza.md",
+    "file": "2023-05-20-The-Plaza.md",
     "address": "St Joseph's Rd, Avarua, Cook Islands",
     "country": "Cook Islands",
     "lat": "-21.206219",
@@ -567,7 +414,7 @@
     "rating": 2
   },
   {
-    "file": "2023-06-19-Coffee-Culture.md",
+    "file": "2023-06-18-Coffee-Culture.md",
     "address": "158 Cashel Street, Christchurch Central City, Christchurch 8011",
     "country": "New Zealand",
     "lat": "-43.5330933",
@@ -594,15 +441,6 @@
     "rating": 1
   },
   {
-    "file": "2023-07-19-Federal-Delicatessen.md",
-    "address": "86 Federal Street, Auckland City, Auckland 1010",
-    "country": "New Zealand",
-    "lat": "-36.8489282",
-    "lon": "174.7624718",
-    "title": "Federal Delicatessen",
-    "rating": 3
-  },
-  {
     "file": "2023-07-19-Rainbow-Playlab-Cafe.md",
     "address": "2 Clist Crescent, Manukau City Centre, Auckland 2104",
     "country": "New Zealand",
@@ -618,6 +456,15 @@
     "lat": "-36.8877972",
     "lon": "174.7210836",
     "title": "Taco Loco Cantina",
+    "rating": 3
+  },
+  {
+    "file": "2023-08-04-Botswana-Butchery.md",
+    "address": "17 Marine Parade, Queenstown 9300",
+    "country": "New Zealand",
+    "lat": "-45.0333942",
+    "lon": "168.6616236",
+    "title": "Botswana Butchery",
     "rating": 3
   },
   {
@@ -639,6 +486,15 @@
     "rating": 2
   },
   {
+    "file": "2023-08-05-Miss-Lucy's.md",
+    "address": "Rooftop/47 Camp Street, Queenstown 9300",
+    "country": "New Zealand",
+    "lat": "-45.0305211",
+    "lon": "168.6599878",
+    "title": "Miss Lucy's",
+    "rating": 2
+  },
+  {
     "file": "2023-08-05-Pembroke-Patisserie.md",
     "address": "20 Alison Avenue, Albert Town 9382",
     "country": "New Zealand",
@@ -646,15 +502,6 @@
     "lon": "169.1889267",
     "title": "Pembroke Patisserie",
     "rating": 4
-  },
-  {
-    "file": "2023-08-06-Miss-Lucy's.md",
-    "address": "Rooftop/47 Camp Street, Queenstown 9300",
-    "country": "New Zealand",
-    "lat": "-45.0305211",
-    "lon": "168.6599878",
-    "title": "Miss Lucy's",
-    "rating": 2
   },
   {
     "file": "2023-08-06-Reflections.md",
@@ -675,6 +522,15 @@
     "rating": 2
   },
   {
+    "file": "2023-10-21-Baked-With-Love-Cafe-&-Cakery.md",
+    "address": "11 Gascoigne Street, Taupō 3330",
+    "country": "New Zealand",
+    "lat": "-38.685322549999995",
+    "lon": "176.07192896419116",
+    "title": "Baked With Love Cafe & Cakery",
+    "rating": 3
+  },
+  {
     "file": "2023-10-21-Hare-&-Copper-Eatery.md",
     "address": "2/134 Grace Road, Tūrangi 3382",
     "country": "New Zealand",
@@ -684,25 +540,7 @@
     "rating": 4
   },
   {
-    "file": "2023-10-22-Turangi-Bridge-Motel,-Bar-&-Restaurant.md",
-    "address": "4600 State Highway 1, Tūrangi 3334",
-    "country": "New Zealand",
-    "lat": "-38.9863735",
-    "lon": "175.81792415",
-    "title": "Turangi Bridge Motel, Bar & Restaurant",
-    "rating": 1
-  },
-  {
-    "file": "2023-12-08-Autobahn-Cafe.md",
-    "address": "4 Lamb Road, Pukenui 0484",
-    "country": "New Zealand",
-    "lat": "-34.8151391",
-    "lon": "173.1174911",
-    "title": "Autobahn Cafe",
-    "rating": 1
-  },
-  {
-    "file": "2023-12-08-Nanny's-Eatery.md",
+    "file": "2023-12-06-Nanny's-Eatery.md",
     "address": "492 New North Road, Kingsland, Auckland 1021",
     "country": "New Zealand",
     "lat": "-36.8725526",
@@ -711,13 +549,49 @@
     "rating": 3
   },
   {
-    "file": "2023-12-08-Rothko.md",
+    "file": "2023-12-07-Pukenui-Pacific.md",
+    "address": "4 Lamb Road, Pukenui 0484",
+    "country": "New Zealand",
+    "lat": "-34.8151391",
+    "lon": "173.1174911",
+    "title": "Pukenui Pacific",
+    "rating": 1
+  },
+  {
+    "file": "2023-12-07-Rothko.md",
     "address": "40 Omaha Flats Road, Matakana 0986",
     "country": "New Zealand",
     "lat": "-36.3452468",
     "lon": "174.7334174",
     "title": "Rothko",
     "rating": 2
+  },
+  {
+    "file": "2023-12-08-Braaihut.md",
+    "address": "12 Vine Street, Whangārei 0110",
+    "country": "New Zealand",
+    "lat": "-35.7265193",
+    "lon": "174.3204411",
+    "title": "Braaihut",
+    "rating": 3
+  },
+  {
+    "file": "2023-12-08-Madly-Indian.md",
+    "address": "342 Kerikeri Road, Kerikeri 0230",
+    "country": "New Zealand",
+    "lat": "-35.23336825",
+    "lon": "173.94313374996213",
+    "title": "Madly Indian",
+    "rating": 3
+  },
+  {
+    "file": "2023-12-09-Zane-Grey's-Restaurant-&-Bar.md",
+    "address": "69 Marsden Road, Paihia 0200",
+    "country": "New Zealand",
+    "lat": "-35.2815503",
+    "lon": "174.092867",
+    "title": "Zane Grey's Restaurant & Bar",
+    "rating": 1
   },
   {
     "file": "2024-02-19-Floating-Rock-Cafe.md",
@@ -729,13 +603,58 @@
     "rating": 3
   },
   {
-    "file": "2024-02-19-The-Quay-Cafe.md",
-    "address": "22 Pohutukawa Avenue, Ōhope 3121",
+    "file": "2024-02-19-The-Rusty-Bros.md",
+    "address": "1263 Amohia Street, Rotorua 3010",
     "country": "New Zealand",
-    "lat": "-37.9702816",
-    "lon": "177.0537334",
-    "title": "The Quay Cafe",
+    "lat": "-38.1382865",
+    "lon": "176.2485884",
+    "title": "The Rusty Bros",
     "rating": 2
+  },
+  {
+    "file": "2024-02-20-Bambina-Pizzeria.md",
+    "address": "1 Willis Street, Wellington Central, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.286704",
+    "lon": "174.7763157",
+    "title": "Bambina Pizzeria",
+    "rating": 2
+  },
+  {
+    "file": "2024-02-22-Stratosfare-Restaurant-&-Bar.md",
+    "address": "178 Fairy Springs Road, Fairy Springs, Rotorua 3015",
+    "country": "New Zealand",
+    "lat": "-38.1108373",
+    "lon": "176.2167171",
+    "title": "Stratosfare Restaurant & Bar",
+    "rating": 1
+  },
+  {
+    "file": "2024-02-23-NZ-Kebab-&-Pizza-House.md",
+    "address": "346/352 Te Ngae Road, Lynmore, Rotorua 3010",
+    "country": "New Zealand",
+    "lat": "-38.1453802",
+    "lon": "176.281356",
+    "title": "NZ Kebab & Pizza House",
+    "rating": 2
+  },
+  {
+    "file": "2024-02-24-Urban-Gusto.md",
+    "address": "1122 Tutanekai Street, Rotorua 3010",
+    "country": "New Zealand",
+    "lat": "-38.1379298",
+    "lon": "176.2514245",
+    "title": "Urban Gusto",
+    "rating": 3
+  },
+  {
+    "file": "2024-03-20-Autobahn-Cafe.md",
+    "address": "State Highway 1, Rosehill, Auckland 2113",
+    "country": "New Zealand",
+    "lat": "-37.336996",
+    "lon": "175.062685",
+    "title": "Autobahn Cafe",
+    "rating": 1
   },
   {
     "file": "2024-03-20-Hotties-Beachfront-Eatery.md",
@@ -754,15 +673,6 @@
     "lon": "175.8024211",
     "title": "Little Blue Kitchen",
     "rating": 3
-  },
-  {
-    "file": "2024-03-20-NZ-Kebab-&-Pizza-House.md",
-    "address": "346/352 Te Ngae Road, Lynmore, Rotorua 3010",
-    "country": "New Zealand",
-    "lat": "-38.1453802",
-    "lon": "176.281356",
-    "title": "NZ Kebab & Pizza House",
-    "rating": 2
   },
   {
     "file": "2024-03-20-The-Cheese-Barn-at-Matatoki.md",
@@ -790,6 +700,15 @@
     "lon": "176.591254",
     "title": "Wallingford Homestead",
     "rating": 4
+  },
+  {
+    "file": "2024-07-19-Ayhan’s-Turkish-Cafe.md",
+    "address": "51 George St, Kensington WA 6151",
+    "country": "Australia",
+    "lat": "-31.9887901",
+    "lon": "115.8750924",
+    "title": "Ayhan’s Turkish Cafe",
+    "rating": 3
   },
   {
     "file": "2024-07-21-Embers-Woodfired-Pizza-Restaurant.md",
@@ -844,6 +763,15 @@
     "lon": "115.084845",
     "title": "Sons of Naples",
     "rating": 2
+  },
+  {
+    "file": "2024-07-24-Better-Choice-Cafe.md",
+    "address": "211 Bussell Hwy, Margaret River WA 6285, Australia",
+    "country": "Australia",
+    "lat": "-33.9597168",
+    "lon": "115.0765952",
+    "title": "Better Choice Cafe",
+    "rating": 1
   },
   {
     "file": "2024-07-24-Red-Rooster.md",
@@ -909,6 +837,15 @@
     "rating": 2
   },
   {
+    "file": "2024-11-08-A1-Takeaways-Hong-Kong-Style-BBQ.md",
+    "address": "36 Rongotai Road, Kilbirnie, Wellington 6022",
+    "country": "New Zealand",
+    "lat": "-41.3179812",
+    "lon": "174.7947157",
+    "title": "A1 Takeaways Hong Kong Style BBQ",
+    "rating": 2
+  },
+  {
     "file": "2025-02-07-Crack-Chicken.md",
     "address": "1 Willis Street, Wellington, New Zealand",
     "country": "New Zealand",
@@ -927,30 +864,12 @@
     "rating": 3
   },
   {
-    "file": "2021-01-25-Tongariro-Lodge.md",
-    "address": "83 Grace Road, RD 2, Turangi 3382",
+    "file": "2025-04-24-Kaimak.md",
+    "address": "20 Johnsonville Road, Johnsonville, Wellington 6037",
     "country": "New Zealand",
-    "lat": "-38.977801",
-    "lon": "175.817901",
-    "title": "Tongariro Lodge",
-    "rating": 2
-  },
-  {
-    "file": "2022-10-24-Tongariro-Lodge.md",
-    "address": "83 Grace Road, RD 2, Turangi 3382",
-    "country": "New Zealand",
-    "lat": "-38.977801",
-    "lon": "175.817901",
-    "title": "Tongariro Lodge",
+    "lat": "-41.2226313",
+    "lon": "174.8070923",
+    "title": "Kaimak",
     "rating": 3
-  },
-  {
-    "file": "2024-10-26-Tongariro-Lodge.md",
-    "address": "83 Grace Road, RD 2, Turangi 3382",
-    "country": "New Zealand",
-    "lat": "-38.977801",
-    "lon": "175.817901",
-    "title": "Tongariro Lodge",
-    "rating": 4
   }
 ]
