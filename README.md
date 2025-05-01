@@ -25,6 +25,7 @@ Additional tools used:
 To do:
  - add rest of the old reviews, separate out repeat reviews into their own files
  - when everything is set up and all the old reviews have been added, turn on automation in pipedream again
+ - fix filenames script needs to strip improper characters from names like slashes and ampersands, and anything else that will break the feed.xml file
  - categories table page for filtering by arbitrary category labels (low priority)
  - stats on ratings and also ratings by regions maybe (low priority)
 
