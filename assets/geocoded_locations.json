@@ -1312,5 +1312,14 @@
     "lon": "174.7793396",
     "title": "Basin Noodle House",
     "rating": 2
+  },
+  {
+    "file": "2022-10-29-Kelburn-Village-Pub.md",
+    "address": "87 Upland Road, Kelburn, Wellington 6012",
+    "country": "New Zealand",
+    "lat": "-41.2893387",
+    "lon": "174.7622361",
+    "title": "Kelburn Village Pub",
+    "rating": 3
   }
 ]
