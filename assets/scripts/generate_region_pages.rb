@@ -63,7 +63,7 @@ countries.each do |country|
     grouped_by_region
       .sort_by { |region, _| region.downcase }
       .each do |region, region_posts|
-    
+
       next if region.nil? || region.empty?
 
       region_slug = region.downcase.gsub(" ", "-")
@@ -93,7 +93,8 @@ countries.each do |country|
             {% assign sorted_grouped_posts = grouped_posts | sort: "name" %}
             {% for group in sorted_grouped_posts %}
 
-              <h4>{{ group.name }}</h4>
+              {% assign suburb_slug = group.name | downcase | slugify %}
+              <h4><a href="/country/#{country_slug}/#{region_slug}/{{ suburb_slug }}" style="color: var(--heading-color);">{{ group.name }}</a></h4>
 
               {% assign rating_groups = group.items | group_by: "rating" %}
               {% assign sorted_rating_groups = rating_groups | sort: "name" %}
@@ -113,6 +114,48 @@ countries.each do |country|
         MARKDOWN
       end
       puts "Created: _country/#{country_slug}/#{region_slug}/"
+
+      # Create suburb pages
+      suburb_groups = region_posts.group_by { |post| post.data['suburb'] }
+
+      suburb_groups.each do |suburb, suburb_posts|
+        next if suburb.nil? || suburb.empty?
+
+        suburb_slug = suburb.downcase.gsub(" ", "-")
+        suburb_folder = "#{country_folder}/#{region_slug}"
+        suburb_filename = "#{suburb_folder}/#{suburb_slug}.md"
+
+        FileUtils.mkdir_p(suburb_folder) unless File.exist?(suburb_folder)
+
+        File.open(suburb_filename, "w") do |suburb_file|
+          suburb_file.puts <<~MARKDOWN
+            ---
+            layout: page
+            title: #{suburb}, #{region}, #{country}
+            country: #{country}
+            region: #{region}
+            suburb: #{suburb}
+            permalink: /country/#{country_slug}/#{region_slug}/#{suburb_slug}/
+            ---
+            [↑ Go to #{region}](/country/#{country_slug}/#{region_slug}/)
+
+            {% assign posts = site.posts | where: "country", "#{country}" | where: "region", "#{region}" | where: "suburb", "#{suburb}" %}
+            {% assign grouped_posts = posts | group_by: "rating" %}
+            {% assign sorted_grouped_posts = grouped_posts | sort: "name" %}
+
+            {% for group in sorted_grouped_posts reversed %}
+              <h4>Rating: {{ group.name }}</h4>
+              <ul>
+                {% for post in group.items %}
+                  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+              </ul>
+            {% endfor %}
+          MARKDOWN
+        end
+
+        puts "Created: _country/#{country_slug}/#{region_slug}/#{suburb_slug}/"
+      end
     end
 
     file.puts "</ul>"
