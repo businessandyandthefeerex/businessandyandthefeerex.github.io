@@ -2,7 +2,7 @@
 category: Reviews
 layout: post
 title: Clearview Estate
-date: 2025-04-28
+date: 2025-04-20
 rating: 3
 meal: lunch
 address: 194 Clifton Road, Te Awanga 4180
