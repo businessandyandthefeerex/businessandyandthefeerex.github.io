@@ -880,5 +880,14 @@
     "lon": "174.7742896",
     "title": "Sprig + Fern Berhampore",
     "rating": 2
+  },
+  {
+    "file": "2024-02-23-Araucaria.md",
+    "address": "462 Adelaide Road, Berhampore, Wellington 6023",
+    "country": "New Zealand",
+    "lat": "-41.3280722",
+    "lon": "174.7742896",
+    "title": "Araucaria",
+    "rating": 1
   }
 ]
