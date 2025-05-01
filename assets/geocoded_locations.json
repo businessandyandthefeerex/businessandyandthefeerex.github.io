@@ -1114,5 +1114,203 @@
     "lon": "174.807526",
     "title": "Babaili Hot Pot Restaurant",
     "rating": 2
+  },
+  {
+    "file": "2021-02-01-Mexico-Petone.md",
+    "address": "136 Jackson Street, Petone, Wellington 5021",
+    "country": "New Zealand",
+    "lat": "-41.2240459",
+    "lon": "174.8739117",
+    "title": "Mexico Petone",
+    "rating": 3
+  },
+  {
+    "file": "2022-01-12-Kilim-Petone.md",
+    "address": "87 Jackson Street, Petone, Lower Hutt 5012",
+    "country": "New Zealand",
+    "lat": "-41.2239715",
+    "lon": "174.8746216",
+    "title": "Kilim Petone",
+    "rating": 3
+  },
+  {
+    "file": "2022-02-13-Indian-Sweets-&-Snacks.md",
+    "address": "176 Riddiford Street, Newtown, Wellington 6021",
+    "country": "New Zealand",
+    "lat": "-41.3138468",
+    "lon": "174.779693",
+    "title": "Indian Sweets & Snacks",
+    "rating": 1
+  },
+  {
+    "file": "2022-06-30-Common-Ground-Cafe.md",
+    "address": "34 Moorefield Road, Johnsonville, Wellington 6037",
+    "country": "New Zealand",
+    "lat": "-41.2228005",
+    "lon": "174.8048436",
+    "title": "Common Ground Cafe",
+    "rating": 3
+  },
+  {
+    "file": "2022-10-07-Tandoori-Dhaba.md",
+    "address": "5 Mark Avenue, Paparangi, Wellington 6037",
+    "country": "New Zealand",
+    "lat": "-41.2138613",
+    "lon": "174.817705",
+    "title": "Tandoori Dhaba",
+    "rating": 2
+  },
+  {
+    "file": "2022-10-07-The-Victoria-Tavern,-Petone.md",
+    "address": "140 Jackson Street, Petone, Lower Hutt 5012",
+    "country": "New Zealand",
+    "lat": "-41.2242019",
+    "lon": "174.8744053",
+    "title": "The Victoria Tavern, Petone",
+    "rating": 2
+  },
+  {
+    "file": "2022-11-05-Spice-Traders.md",
+    "address": "45 Jackson Street, Petone, Lower Hutt 5012",
+    "country": "New Zealand",
+    "lat": "-41.2290621",
+    "lon": "174.8927412",
+    "title": "Spice Traders",
+    "rating": 1
+  },
+  {
+    "file": "2023-01-10-Bay-Plaza-Hotel-Restaurant.md",
+    "address": "40-44 Oriental Parade, Oriental Bay, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.2929675",
+    "lon": "174.7849948",
+    "title": "Bay Plaza Hotel Restaurant",
+    "rating": 1
+  },
+  {
+    "file": "2023-02-25-Adzuki-Bean-Cafe-&-Restaurant.md",
+    "address": "164 Jackson Street, Petone, Lower Hutt 5012",
+    "country": "New Zealand",
+    "lat": "-41.2244586",
+    "lon": "174.8752967",
+    "title": "Adzuki Bean Cafe & Restaurant",
+    "rating": 1
+  },
+  {
+    "file": "2023-04-14-Saigon-Taste.md",
+    "address": "17 Majoribanks Street, Mount Victoria, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.2940651",
+    "lon": "174.7841932",
+    "title": "Saigon Taste",
+    "rating": 2
+  },
+  {
+    "file": "2023-04-21-Mexico-Te-Aro.md",
+    "address": "41 Dixon Street, Te Aro, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.291993",
+    "lon": "174.7770266",
+    "title": "Mexico Te Aro",
+    "rating": 3
+  },
+  {
+    "file": "2023-05-03-Empire-Cinema-&-Eatery.md",
+    "address": "214 The Parade, Island Bay, Wellington 6023",
+    "country": "New Zealand",
+    "lat": "-41.3370854",
+    "lon": "174.7725119",
+    "title": "Empire Cinema & Eatery",
+    "rating": 2
+  },
+  {
+    "file": "2023-08-25-Ohtel-Pantry.md",
+    "address": "66 Oriental Parade, Oriental Bay, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.29230065",
+    "lon": "174.78618396052246",
+    "title": "Ohtel Pantry",
+    "rating": 1
+  },
+  {
+    "file": "2024-03-02-Genghis-Khan.md",
+    "address": "25 Majoribanks Street, Mount Victoria, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.2940651",
+    "lon": "174.7841932",
+    "title": "Genghis Khan",
+    "rating": 1
+  },
+  {
+    "file": "2024-03-21-The-Ramen-Shop.md",
+    "address": "109 Johnsonville Road, Johnsonville, Wellington 6037",
+    "country": "New Zealand",
+    "lat": "-41.2251481",
+    "lon": "174.8074813",
+    "title": "The Ramen Shop",
+    "rating": 3
+  },
+  {
+    "file": "2024-06-02-Office-Bar.md",
+    "address": "124 Riddiford Street, Newtown, Wellington 6021",
+    "country": "New Zealand",
+    "lat": "-41.3123147",
+    "lon": "174.7792263",
+    "title": "Office Bar",
+    "rating": 2
+  },
+  {
+    "file": "2024-07-05-The-Cutting-Sports-Cafe-&-Long-Thai.md",
+    "address": "32 Miramar Avenue, Miramar, Wellington 6022",
+    "country": "New Zealand",
+    "lat": "-41.3155259",
+    "lon": "174.8139007",
+    "title": "The Cutting Sports Cafe & Long Thai",
+    "rating": 2
+  },
+  {
+    "file": "2024-07-12-The-Walrus'-Bucket-List.md",
+    "address": "163 The Parade, Island Bay, Wellington 6023",
+    "country": "New Zealand",
+    "lat": "-41.3353795",
+    "lon": "174.7739743",
+    "title": "The Walrus' Bucket List",
+    "rating": 1
+  },
+  {
+    "file": "2024-10-11-Hyderabadi-House.md",
+    "address": "128 Johnsonville Road, Johnsonville, Wellington 6037",
+    "country": "New Zealand",
+    "lat": "-41.225743",
+    "lon": "174.8069325",
+    "title": "Hyderabadi House",
+    "rating": 3
+  },
+  {
+    "file": "2024-10-31-Aroy-Thai-Eatery.md",
+    "address": "Newtown Countdown 3 John Street, Newtown, Wellington 6021",
+    "country": "New Zealand",
+    "lat": "-41.314515",
+    "lon": "174.783424",
+    "title": "Aroy Thai Eatery",
+    "rating": 2
+  },
+  {
+    "file": "2024-12-07-Saffron-Haveli.md",
+    "address": "25 Kent Terrace, Mount Victoria, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.2953394",
+    "lon": "174.7834875",
+    "title": "Saffron Haveli",
+    "rating": 2
+  },
+  {
+    "file": "2024-12-20-Basin-Noodle-House.md",
+    "address": "20 Adelaide Road, Mount Cook, Wellington 6021",
+    "country": "New Zealand",
+    "lat": "-41.3019636",
+    "lon": "174.7793396",
+    "title": "Basin Noodle House",
+    "rating": 2
   }
 ]

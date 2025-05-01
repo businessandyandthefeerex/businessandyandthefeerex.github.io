@@ -1,7 +1,7 @@
 ---
 category: Reviews
 layout: post
-title: The Cutting Sports Cafe / Long Thai
+title: The Cutting Sports Cafe & Long Thai
 date: 2024-07-05
 rating: 2
 meal: dinner
