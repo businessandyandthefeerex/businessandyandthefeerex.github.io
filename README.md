@@ -27,3 +27,8 @@ To do:
  - when everything is set up and all the old reviews have been added, turn on automation in pipedream again
  - categories table page for filtering by arbitrary category labels (low priority)
  - stats on ratings and also ratings by regions maybe (low priority)
+
+Links to be added:
+ - Hyderabadi House
+ - Ohtel Pantry
+ - Tandoori Dhaba
