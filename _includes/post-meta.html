@@ -48,16 +48,22 @@
   {% if page.meal %}
     &nbsp;&middot;&nbsp;
     <span class="meta-field">
-      <a href="{{ site.baseurl }}/meal/{{ page.meal | downcase | slugify }}">Meal: {{ page.meal }}</a>
+      <a href="{{ site.baseurl }}/meal/{{ page.meal | downcase | slugify }}">Meal: {{ page.meal | capitalize }}</a>
     </span>
   {% endif %}
 
-  {% if page.country and page.region %}
+  {% if page.country %}
     &nbsp;&middot;&nbsp;
     <span class="meta-field">
-      <a href="{{ site.baseurl }}/country/{{ page.country | downcase | slugify }}/{{ page.region | downcase | slugify }}/">
-        {{ page.region }}, {{ page.country }}
-      </a>
+      {% if page.suburb and page.region %}
+        <a href="{{ site.baseurl }}/country/{{ page.country | downcase | slugify }}/{{ page.region | downcase | slugify }}/{{ page.suburb | downcase | slugify }}/">{{ page.suburb }}</a>,
+      {% endif %}
+      {% if page.region %}
+        <a href="{{ site.baseurl }}/country/{{ page.country | downcase | slugify }}/{{ page.region | downcase | slugify }}/">{{ page.region }}</a>,
+      {% endif %}
+      <a href="{{ site.baseurl }}/country/{{ page.country | downcase | slugify }}/">{{ page.country }}</a>
     </span>
   {% endif %}
+
+
 </small>

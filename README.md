@@ -25,5 +25,5 @@ Additional tools used:
 To do:
  - add rest of the old reviews, separate out repeat reviews into their own files
  - when everything is set up and all the old reviews have been added, turn on automation in pipedream again
- - categories table page for filtering by arbitrary category labels (low priority)
++1347\- categories table page for filtering by arbitrary category labels (low priority)
  - stats on ratings and also ratings by regions maybe (low priority)

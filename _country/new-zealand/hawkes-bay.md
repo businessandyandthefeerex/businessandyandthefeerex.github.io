@@ -13,7 +13,8 @@ permalink: /country/new-zealand/hawkes-bay/
   {% assign sorted_grouped_posts = grouped_posts | sort: "name" %}
   {% for group in sorted_grouped_posts %}
 
-    <h4>{{ group.name }}</h4>
+    {% assign suburb_slug = group.name | downcase | slugify %}
+    <h4><a href="/country/new-zealand/hawkes-bay/{{ suburb_slug }}" style="color: var(--heading-color);">{{ group.name }}</a></h4>
 
     {% assign rating_groups = group.items | group_by: "rating" %}
     {% assign sorted_rating_groups = rating_groups | sort: "name" %}
