@@ -1321,5 +1321,14 @@
     "lon": "174.7622361",
     "title": "Kelburn Village Pub",
     "rating": 3
+  },
+  {
+    "file": "2025-05-02-The-Roast-Canteen.md",
+    "address": "7 Johnsonville Road, Johnsonville, Wellington 6037",
+    "country": "New Zealand",
+    "lat": "-41.2222601",
+    "lon": "174.807528",
+    "title": "The Roast Canteen",
+    "rating": 2
   }
 ]
