@@ -2,7 +2,7 @@
 category: Reviews
 layout: post
 title: The Victoria Tavern, Petone
-date: 2022-10-07
+date: 2022-10-27
 rating: 2
 meal: dinner
 address: 140 Jackson Street, Petone, Lower Hutt 5012

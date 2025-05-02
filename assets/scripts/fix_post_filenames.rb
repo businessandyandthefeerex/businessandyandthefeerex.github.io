@@ -28,24 +28,36 @@ post_files.each do |file|
     next
   end
 
-  # Format the title (replace spaces with hyphens and convert to lowercase)
-  formatted_title = post_title.strip.gsub(' ', '-')
+  # Sanitize title for filename and XML safety
+  sanitized_title = post_title.strip
+                               .gsub('&', 'and')              # replace ampersands
+                               .gsub(/[<>"']/, '')            # remove <, >, ", '
+                               .gsub(/\s+/, '-')              # spaces to hyphens
+                               .gsub(/-+/, '-')               # collapse multiple hyphens
+                               .gsub(/[^a-zA-Z0-9\-]/, '')    # remove anything else weird
+                               .downcase
 
   # Extract the filename without the directory path
   filename = File.basename(file)
 
   # Construct the new filename with the date at the start and title as the rest
-  new_filename = "#{formatted_date}-#{formatted_title}.md"
-  
+  new_filename = "#{formatted_date}-#{sanitized_title}.md".downcase
+
   # Construct the full path for the new filename
   new_file_path = File.join(File.dirname(file), new_filename)
 
   # Check if the new filename already exists
-  if File.exist?(new_file_path)
+  if File.expand_path(file) == File.expand_path(new_file_path)
+    # Same path, but maybe different case — force rename using a temp file
+    temp_file_path = new_file_path + ".tmp"
+    FileUtils.mv(file, temp_file_path)
+    FileUtils.mv(temp_file_path, new_file_path)
+    puts "Force-renamed '#{filename}' to '#{new_filename}' (case change only)"
+  elsif File.exist?(new_file_path)
     puts "The file '#{new_filename}' already exists. Skipping renaming for '#{filename}'"
   else
-    # Rename the file
     FileUtils.mv(file, new_file_path)
     puts "Renamed '#{filename}' to '#{new_filename}'"
   end
+  
 end
