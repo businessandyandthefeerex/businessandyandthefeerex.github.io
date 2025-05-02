@@ -47,11 +47,17 @@ post_files.each do |file|
   new_file_path = File.join(File.dirname(file), new_filename)
 
   # Check if the new filename already exists
-  if File.exist?(new_file_path)
+  if File.expand_path(file) == File.expand_path(new_file_path)
+    # Same path, but maybe different case — force rename using a temp file
+    temp_file_path = new_file_path + ".tmp"
+    FileUtils.mv(file, temp_file_path)
+    FileUtils.mv(temp_file_path, new_file_path)
+    puts "Force-renamed '#{filename}' to '#{new_filename}' (case change only)"
+  elsif File.exist?(new_file_path)
     puts "The file '#{new_filename}' already exists. Skipping renaming for '#{filename}'"
   else
-    # Rename the file
     FileUtils.mv(file, new_file_path)
     puts "Renamed '#{filename}' to '#{new_filename}'"
   end
+  
 end
