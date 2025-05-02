@@ -41,7 +41,7 @@ post_files.each do |file|
   filename = File.basename(file)
 
   # Construct the new filename with the date at the start and title as the rest
-  new_filename = "#{formatted_date}-#{sanitized_title}.md"
+  new_filename = "#{formatted_date}-#{sanitized_title}.md".downcase
 
   # Construct the full path for the new filename
   new_file_path = File.join(File.dirname(file), new_filename)
