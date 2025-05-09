@@ -1330,5 +1330,14 @@
     "lon": "174.807528",
     "title": "The Roast Canteen",
     "rating": 2
+  },
+  {
+    "file": "2025-05-09-ozeki-cafe-and-bar.md",
+    "address": "161 Tory Street, Te Aro, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.2915544",
+    "lon": "174.7822852",
+    "title": "Ozeki Cafe & Bar",
+    "rating": 2
   }
 ]
