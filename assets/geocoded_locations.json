@@ -1348,5 +1348,14 @@
     "lon": "174.8208046",
     "title": "Muthus South Indian & Malaysian",
     "rating": 2
+  },
+  {
+    "file": "2025-05-24-soul-shack.md",
+    "address": "120 Victoria Street, Te Aro, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.2906542",
+    "lon": "174.7753906",
+    "title": "Soul Shack",
+    "rating": 3
   }
 ]
