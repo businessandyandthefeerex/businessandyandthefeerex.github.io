@@ -1366,5 +1366,14 @@
     "lon": "174.7800641",
     "title": "Grand Century",
     "rating": 2
+  },
+  {
+    "file": "2025-06-06-khao-soi-welly-eatery.md",
+    "address": "100 Tory Street, Te Aro, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.2956177",
+    "lon": "174.7797346",
+    "title": "Khao Soi Welly Eatery",
+    "rating": 4
   }
 ]
