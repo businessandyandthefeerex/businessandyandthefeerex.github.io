@@ -11,9 +11,9 @@ region: Wellington
 suburb: Kelburn
 website: http://kelburnvillagepub.co.nz/
 ---  
-Korean fried chicken
-Onion bhaji
-Pan fried fish tacos
+Korean fried chicken  
+Onion bhaji  
+Pan fried fish tacos  
 
 It's always exciting for us to return to a previously reviewed restaurant. How will they stack up? We've had some upgrades, and we've had some downgrades. This is the latter. Interestingly when we reread the old review it became apparent that Kelburn Village Pub was a patchy performer who was lucky to have sat at a 3 for the last few years. Those days are behind you now. Welcome to the 'meh' tier. 
 
