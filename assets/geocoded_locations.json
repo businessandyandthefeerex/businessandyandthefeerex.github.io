@@ -1384,5 +1384,14 @@
     "lon": "174.7822852",
     "title": "Le Bouillon Bel Air",
     "rating": 2
+  },
+  {
+    "file": "2025-07-11-curry-garden.md",
+    "address": "324 Tinakori Road, Thorndon, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.2783172",
+    "lon": "174.7696021",
+    "title": "Curry Garden",
+    "rating": 1
   }
 ]
