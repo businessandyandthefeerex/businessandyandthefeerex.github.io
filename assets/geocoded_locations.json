@@ -1393,5 +1393,14 @@
     "lon": "174.7696021",
     "title": "Curry Garden",
     "rating": 1
+  },
+  {
+    "file": "2025-07-12-koji.md",
+    "address": "12 Majoribanks Street, Mount Victoria, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.2940651",
+    "lon": "174.7841932",
+    "title": "Koji",
+    "rating": 4
   }
 ]
