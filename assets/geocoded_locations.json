@@ -1402,5 +1402,14 @@
     "lon": "174.7841932",
     "title": "Koji",
     "rating": 4
+  },
+  {
+    "file": "2025-07-27-mystic-kitchen.md",
+    "address": "4 Glamis Avenue, Strathmore, Wellington 6022",
+    "country": "New Zealand",
+    "lat": "-41.3248171",
+    "lon": "174.8212432",
+    "title": "Mystic Kitchen",
+    "rating": 3
   }
 ]
