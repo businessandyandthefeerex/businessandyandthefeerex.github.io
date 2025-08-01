@@ -1420,5 +1420,14 @@
     "lon": "174.7743861",
     "title": "Dumpling'd",
     "rating": 2
+  },
+  {
+    "file": "2025-08-01-lazy-juan.md",
+    "address": "155 The Terrace, Wellington Central, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.2852055",
+    "lon": "174.7740939",
+    "title": "Lazy Juan",
+    "rating": 3
   }
 ]
