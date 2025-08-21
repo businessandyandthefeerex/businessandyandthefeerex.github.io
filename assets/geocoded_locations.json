@@ -1447,5 +1447,14 @@
     "lon": "174.7750642",
     "title": "Mount Cook Kitchen & Takeaway",
     "rating": 2
+  },
+  {
+    "file": "2025-08-20-colonial-cafe.md",
+    "address": "41 The Terrace, Wellington Central, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.2802913",
+    "lon": "174.7754749",
+    "title": "Colonial Cafe",
+    "rating": 2
   }
 ]
