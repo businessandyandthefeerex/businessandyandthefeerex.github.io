@@ -1465,5 +1465,14 @@
     "lon": "174.7875196323722",
     "title": "One80 Restaurant & Lounge Bar, Wellington",
     "rating": 2
+  },
+  {
+    "file": "2025-09-10-go-vietnam.md",
+    "address": "92 Lambton Quay, Wellington Central, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.27970285000001",
+    "lon": "174.7761376703374",
+    "title": "Go Vietnam",
+    "rating": 2
   }
 ]
