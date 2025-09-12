@@ -1474,5 +1474,14 @@
     "lon": "174.7761376703374",
     "title": "Go Vietnam",
     "rating": 2
+  },
+  {
+    "file": "2025-09-12-strathmore-local.md",
+    "address": "3/5 Strathmore Avenue, Strathmore Park, Wellington 6022",
+    "country": "New Zealand",
+    "lat": "-41.3251314",
+    "lon": "174.8207938",
+    "title": "Strathmore Local",
+    "rating": 1
   }
 ]
