@@ -1492,5 +1492,14 @@
     "lon": "174.7803426",
     "title": "Caffe L'affare",
     "rating": 4
+  },
+  {
+    "file": "2025-09-13-mean-doses.md",
+    "address": "66 Tory Street, Te Aro, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.2944312",
+    "lon": "174.7804671",
+    "title": "Mean Doses",
+    "rating": 3
   }
 ]
