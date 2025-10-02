@@ -1501,5 +1501,14 @@
     "lon": "174.7804671",
     "title": "Mean Doses",
     "rating": 3
+  },
+  {
+    "file": "2025-10-02-nakhon-thai.md",
+    "address": "23 Waitoa Road, Hataitai, Wellington 6021",
+    "country": "New Zealand",
+    "lat": "-41.3043879",
+    "lon": "174.7948477",
+    "title": "Nakhon Thai",
+    "rating": 2
   }
 ]
