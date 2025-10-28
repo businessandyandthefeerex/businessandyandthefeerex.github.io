@@ -1510,5 +1510,50 @@
     "lon": "174.7948477",
     "title": "Nakhon Thai",
     "rating": 2
+  },
+  {
+    "file": "2025-10-23-little-savannah.md",
+    "address": "45/47 Princess Street, Palmerston North Central, Palmerston North 4410",
+    "country": "New Zealand",
+    "lat": "-40.3512185",
+    "lon": "175.613127",
+    "title": "Little Savannah",
+    "rating": 3
+  },
+  {
+    "file": "2025-10-24-raw-balance-vegan-deli-and-health-shop.md",
+    "address": "19 Ohuanga Road, Tūrangi 3334",
+    "country": "New Zealand",
+    "lat": "-38.99109195",
+    "lon": "175.80919978078663",
+    "title": "Raw Balance Vegan Deli & Health Shop",
+    "rating": 1
+  },
+  {
+    "file": "2025-10-25-cafe-lacus.md",
+    "address": "650 Lake Terrace, Wharewaka, Taupō 3330",
+    "country": "New Zealand",
+    "lat": "-38.737843749999996",
+    "lon": "176.07256415248918",
+    "title": "Cafe Lacus",
+    "rating": 1
+  },
+  {
+    "file": "2025-10-25-floating-rock-cafe.md",
+    "address": "36 Riverpark Drive, Kuratau 3381",
+    "country": "New Zealand",
+    "lat": "-38.8903193",
+    "lon": "175.7610858",
+    "title": "Floating Rock Cafe",
+    "rating": 3
+  },
+  {
+    "file": "2025-10-26-time-for-food-cafe.md",
+    "address": "35 Turangi Town Centre, Tūrangi 3334",
+    "country": "New Zealand",
+    "lat": "-38.9884798",
+    "lon": "175.8094222",
+    "title": "Time For Food Cafe",
+    "rating": 2
   }
 ]
