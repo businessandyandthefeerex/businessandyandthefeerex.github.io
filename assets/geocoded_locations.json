@@ -1555,5 +1555,14 @@
     "lon": "175.8094222",
     "title": "Time For Food Cafe",
     "rating": 2
+  },
+  {
+    "file": "2025-10-31-jano-bistro.md",
+    "address": "270 Willis Street, Te Aro, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.294638",
+    "lon": "174.77140826440294",
+    "title": "Jano Bistro",
+    "rating": 3
   }
 ]
