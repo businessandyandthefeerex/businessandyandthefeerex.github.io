@@ -1573,5 +1573,14 @@
     "lon": "174.7787223",
     "title": "The Old Quarter",
     "rating": 3
+  },
+  {
+    "file": "2026-01-16-havana-bar.md",
+    "address": "32a/34 Wigan Street, Te Aro, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.2960694",
+    "lon": "174.7753503",
+    "title": "Havana Bar",
+    "rating": 3
   }
 ]
