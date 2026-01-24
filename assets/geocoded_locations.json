@@ -1582,5 +1582,14 @@
     "lon": "174.7753503",
     "title": "Havana Bar",
     "rating": 3
+  },
+  {
+    "file": "2026-01-22-saigon-restaurant.md",
+    "address": "327 Broadway Avenue, Palmerston North Central, Palmerston North 4414",
+    "country": "New Zealand",
+    "lat": "-40.3477052",
+    "lon": "175.6264924",
+    "title": "Saigon Restaurant",
+    "rating": 2
   }
 ]
