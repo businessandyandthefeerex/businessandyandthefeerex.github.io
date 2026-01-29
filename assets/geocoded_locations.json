@@ -1591,5 +1591,14 @@
     "lon": "175.6264924",
     "title": "Saigon Restaurant",
     "rating": 2
+  },
+  {
+    "file": "2026-01-30-indian-alley-wakefield-restaurant-and-bar.md",
+    "address": "3/290 Wakefield Street, Te Aro, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.2913966",
+    "lon": "174.7800342",
+    "title": "Indian Alley Wakefield Restaurant and Bar",
+    "rating": 3
   }
 ]
