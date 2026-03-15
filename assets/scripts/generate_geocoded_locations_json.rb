@@ -31,20 +31,60 @@ def already_geocoded?(address, country, geocoded_locations)
   geocoded_locations.any? { |entry| entry["address"] == address && entry["country"] == country }
 end
 
+# def geocode_address(address, country)
+#   query = normalize_string("#{address}, #{country}")
+#   url = URI("https://us1.locationiq.com/v1/search.php?key=#{API_KEY}&q=#{URI.encode_www_form_component(query)}&format=json")
+
+#   res = Net::HTTP.get_response(url)
+#   return nil unless res.is_a?(Net::HTTPSuccess)
+
+#   data = JSON.parse(res.body)
+#   return nil if data.empty?
+
+#   { lat: data[0]['lat'], lon: data[0]['lon'] }
+# rescue => e
+#   puts "Error geocoding #{query}: #{e.message}"
+#   nil
+# end
+
+# Improved geocoding function with better error handling and timeouts
 def geocode_address(address, country)
   query = normalize_string("#{address}, #{country}")
-  url = URI("https://us1.locationiq.com/v1/search.php?key=#{API_KEY}&q=#{URI.encode_www_form_component(query)}&format=json")
+  # Try using the generic 'locationiq.com' or 'eu1' if 'us1' is failing
+  uri = URI("https://us1.locationiq.com/v1/search.php?key=#{API_KEY}&q=#{URI.encode_www_form_component(query)}&format=json")
 
-  res = Net::HTTP.get_response(url)
-  return nil unless res.is_a?(Net::HTTPSuccess)
+  begin
+    # Setting explicit timeouts and forcing a new connection
+    http = Net::HTTP.new(uri.host, uri.port)
+    http.use_ssl = true
+    http.open_timeout = 10  # Seconds to wait for the connection to open
+    http.read_timeout = 10  # Seconds to wait for the data
+    
+    # Optional: If you suspect IPv6 issues, Ruby 2.0+ usually handles it, 
+    # but some environments benefit from forcing a specific IP family.
+    
+    request = Net::HTTP::Get.new(uri)
+    res = http.request(request)
 
-  data = JSON.parse(res.body)
-  return nil if data.empty?
+    if res.is_a?(Net::HTTPSuccess)
+      data = JSON.parse(res.body)
+      return nil if data.empty?
+      return { lat: data[0]['lat'], lon: data[0]['lon'] }
+    else
+      puts "API Error: #{res.code} - #{res.message}"
+      return nil
+    end
 
-  { lat: data[0]['lat'], lon: data[0]['lon'] }
-rescue => e
-  puts "Error geocoding #{query}: #{e.message}"
-  nil
+  rescue Net::OpenTimeout
+    puts "Connection Timed Out: The server at #{uri.host} didn't respond in time."
+    nil
+  rescue Errno::ECONNREFUSED
+    puts "Connection Refused: Check your internet or if the API is down."
+    nil
+  rescue => e
+    puts "Error geocoding #{query}: #{e.message}"
+    nil
+  end
 end
 
 # Step 1: Load existing geocoded locations
@@ -96,7 +136,7 @@ posts.each_with_index do |file, index|
     end
 
     # Sleep to avoid hitting rate limits (LocationIQ suggests 1 request/sec for free tier)
-    sleep 1
+    sleep 2
   end
 end
 
