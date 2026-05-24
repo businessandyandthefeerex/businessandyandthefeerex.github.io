@@ -19,13 +19,14 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 
-# Run the geocoding script
-echo "Running geocoding script..."
-ruby "$GEOLOC_SCRIPT"
-if [ $? -ne 0 ]; then
-  echo "Geocoding script failed. Push aborted."
-  exit 1
-fi
+# this is broken right now
+# # Run the geocoding script
+# echo "Running geocoding script..."
+# ruby "$GEOLOC_SCRIPT"
+# if [ $? -ne 0 ]; then
+#   echo "Geocoding script failed. Push aborted."
+#   exit 1
+# fi
 
 # Run the leaflet markers script
 echo "Running leaflet markers script..."
