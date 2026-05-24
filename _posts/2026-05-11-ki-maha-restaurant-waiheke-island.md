@@ -1,7 +1,7 @@
 ---
 category: Reviews
 layout: post
-title: Ki Māha Restaurant Waiheke Island
+title: Ki Maha Restaurant Waiheke Island
 date: 2026-05-11
 rating: 3
 meal: lunch
