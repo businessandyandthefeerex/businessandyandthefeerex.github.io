@@ -1,8 +1,8 @@
-const version = '20250501043522';
+const version = '20260524084921';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/reviews/2025/04/24/Kaimak/","/reviews/2025/02/20/Clearview-Estate/","/reviews/2025/02/07/Crack-Chicken/","/reviews/2024/11/08/A1-Takeaways-Hong-Kong-Style-BBQ/","/reviews/2024/10/26/Tongariro-Lodge/","/reviews/2024/10/26/Suncourt-Indian/","/reviews/2024/10/25/Golden-Crust-Pizza/","/reviews/2024/08/10/Mr-Glen's-Taphouse-&-Tapas/","/reviews/2024/08/09/The-Dining-Room-at-The-Headwaters-Eco-Lo/","/reviews/2024/07/26/Exhale-Exmouth/","/blog/","/collections/","/","/latest/","/manifest.json","/map/","/offline/","/regions/","/assets/search.json","/search/","/assets/styles.css","/subscribe/","/thanks/","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/assets/styles.css.map","/assets/logos/logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/reviews/2026/05/24/the-horsemans-cafe/","/reviews/2026/05/23/craggy-range/","/reviews/2026/05/22/pho-nem-hanoi-home-cooking/","/reviews/2026/05/16/hello-sunday/","/reviews/2026/05/15/tirohana-estate/","/reviews/2026/05/12/vino-vino-restaurant-and-bar/","/reviews/2026/05/11/ki-maha-restaurant-waiheke-island/","/reviews/2026/05/09/advieh-restaurant-and-bar/","/reviews/2026/05/02/vietnamese-restaurant-and-cafe/","/reviews/2026/05/02/the-pantry/","/blog/","/collections/","/","/latest/","/manifest.json","/map/","/offline/","/regions/","/assets/search.json","/search/","/assets/styles.css","/subscribe/","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
