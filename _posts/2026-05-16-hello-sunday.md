@@ -7,8 +7,8 @@ rating: 3
 meal: breakfast
 address: 6 Elgin Street, Sydenham, Christchurch 8023
 country: New Zealand
-region: Sydenham
-suburb: Christchurch
+region: Christchurch
+suburb: Sydenham
 website: https://www.hellosunday.co.nz/
 ---  
 Mushrooms on toast  
