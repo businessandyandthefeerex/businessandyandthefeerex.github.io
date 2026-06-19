@@ -11,10 +11,10 @@ region: Wellington
 suburb: Te Aro
 website: https://masala.gen.nz/
 ---  
-Wellington lamb curry    
+Wellington lamb curry  
 Kadai paneer  
 Masala special naan  
-Plain naan    
+Plain naan  
 
 Indian restaurants, real talk. Get somebody to proofread your menus. Even a Microsoft Word spellcheck would have done you a lot of favours here. Although perhaps this is not a negative factor, but rather a marker of authenticity. Speaking of authentic, many restaurants claim to have homemade paneer, but you actually do. Kudos. Likewise the lamb in the mysterious "Wellington" curry was of good quality. The curry sauces themselves were perfectly good, but not exceptional. 
 
