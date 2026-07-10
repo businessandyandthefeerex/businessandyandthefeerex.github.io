@@ -1,0 +1,22 @@
+---
+category: Reviews
+layout: post
+title: 1154 Pastaria
+date: 2026-07-10
+rating: 3
+meal: lunch
+address: 132 Cuba Street, Te Aro, Wellington 6011
+country: New Zealand
+region: Wellington
+suburb: Te Aro
+website: https://www.1154.co.nz/
+---  
+Gnocchi with a creamy mushroom sauce and spinach  
+Spinach and ricotta ravioli with a brown butter sauce  
+Garlic and rosemary roll  
+
+It confuses and perplexes us that we don't see more pasta out there. Everyone loves pasta, it's easy (relatively) to make, and it's generally affordable. Maybe this is why 1154 is pumping every single time we walk past. But caution to those who don't like communal dining experiences, this is a big-table-sit-with-other-people type of situation. This also means there's no bookings, you just walk in, which suits us to the ground, but perhaps isn't your cup of tea. 
+
+You could tell the pasta was homemade, and we have to give props to the gnocchi. The Fee-Rex isn't a big gnocchi head, probably because so many of them are terrible, but these were little pillows of heaven. The sauce was also fantastic, the nuts added a great crunch and the mushroom bits were just the right size. Business Andy found the dish a little wearing over time, but perhaps that was because it started from such a lofty height. 
+
+The ravioli was also good. Both the raviolis themselves and the whole dish were generously sized. A little gripe about the bread. It was great for dipping into your pasta sauce, and it was affordable too. But it is not to be eaten alone, and if you don't have bread then you will find yourself with too much leftover sauce. We recommend purchasing one bread each and dipping, but don't bother eating it by itself. 
