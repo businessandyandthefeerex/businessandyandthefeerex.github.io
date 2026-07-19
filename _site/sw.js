@@ -1,8 +1,8 @@
-const version = '20260524084921';
+const version = '20260719093744';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/reviews/2026/05/24/the-horsemans-cafe/","/reviews/2026/05/23/craggy-range/","/reviews/2026/05/22/pho-nem-hanoi-home-cooking/","/reviews/2026/05/16/hello-sunday/","/reviews/2026/05/15/tirohana-estate/","/reviews/2026/05/12/vino-vino-restaurant-and-bar/","/reviews/2026/05/11/ki-maha-restaurant-waiheke-island/","/reviews/2026/05/09/advieh-restaurant-and-bar/","/reviews/2026/05/02/vietnamese-restaurant-and-cafe/","/reviews/2026/05/02/the-pantry/","/blog/","/collections/","/","/latest/","/manifest.json","/map/","/offline/","/regions/","/assets/search.json","/search/","/assets/styles.css","/subscribe/","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/reviews/2026/07/10/1154-pastaria/","/reviews/2026/07/05/nada-bakery/","/reviews/2026/07/03/the-bridge-bar-and-restaurant/","/reviews/2026/06/28/penthouse-cinema-and-cafe/","/reviews/2026/06/21/the-beijing-restaurant/","/reviews/2026/06/19/masala-cafe-and-bar/","/reviews/2026/06/14/viva-mexico/","/reviews/2026/06/08/nam-nam-bowen/","/reviews/2026/06/07/newtown-seafood/","/reviews/2026/06/05/phuthai-esarn-restaurant/","/blog/","/collections/","/collections/","/","/latest/","/manifest.json","/map/","/offline/","/regions/","/assets/search.json","/search/","/assets/styles.css","/subscribe/","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

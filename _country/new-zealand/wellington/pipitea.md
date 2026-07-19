@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Christchurch, Sydenham, New Zealand
+title: Pipitea, Wellington, New Zealand
 country: New Zealand
-region: Sydenham
-suburb: Christchurch
-permalink: /country/new-zealand/sydenham/christchurch/
+region: Wellington
+suburb: Pipitea
+permalink: /country/new-zealand/wellington/pipitea/
 ---
-[↑ Go to Sydenham](/country/new-zealand/sydenham/)
+[↑ Go to Wellington](/country/new-zealand/wellington/)
 
-{% assign posts = site.posts | where: "country", "New Zealand" | where: "region", "Sydenham" | where: "suburb", "Christchurch" %}
+{% assign posts = site.posts | where: "country", "New Zealand" | where: "region", "Wellington" | where: "suburb", "Pipitea" %}
 {% assign grouped_posts = posts | group_by: "rating" %}
 {% assign sorted_grouped_posts = grouped_posts | sort: "name" %}
 

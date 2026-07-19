@@ -46,9 +46,6 @@ permalink: /country/new-zealand/
   <a href="/country/new-zealand/stewart-island/">Stewart Island</a>
 </li>
 <li>
-  <a href="/country/new-zealand/sydenham/">Sydenham</a>
-</li>
-<li>
   <a href="/country/new-zealand/waiheke-island/">Waiheke Island</a>
 </li>
 <li>
