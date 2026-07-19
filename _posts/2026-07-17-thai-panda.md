@@ -1,0 +1,23 @@
+---
+category: Reviews
+layout: post
+title: Thai Panda
+date: 2026-07-17
+rating: 1
+meal: dinner
+address: 58 Auckland Street, Marlborough, Picton 7220
+country: New Zealand
+region: Marlborough
+suburb: Picton
+website: https://m.facebook.com/thai.panda.picton/
+---  
+Massaman curry with slow cooked beef  
+Beef pad Thai  
+
+Thai Panda is a Chinese-Thai restaurant on the town edge of Picton. At 7.15 on a Friday night, nobody was there. This didn't help the ambiance, which was already a bit grim. Restaurants in converted villas can come across homely and warm, or they can come across sad and cheap. This was the latter. The decor was very Facebook Marketplace. Every table was different, with different chairs, like they'd just grabbed whatever was going for $35 or less. Ours was a circular glass topped outdoor table. They did at least have the heat pump cranking. 
+
+The menu was much more Thai than Panda, to the point that you wonder why they were bothering with the Chinese at all. But who knows, maybe we missed a trick by going for two Thai staples instead of sampling their very small Chinese menu. It's highly likely that we'll never know.
+
+The massaman curry was only okay, the Fee-Rex quite enjoyed the curry sauce, although Business Andy wasn't on board. We were startled to discover that there were several pieces of pineapple trying to pass themselves off as potato mixed in, and frankly, we have questions. What on earth was that about? Was there a Picton-wide shortage of potato? Surely you wouldn't choose to diverge from the traditional ingredients list just for the sake of pineapple, isn't it more expensive than potato? Who wants that anyway? We did both appreciate that the meat was definitely slow cooked and (mostly) just fell apart. We didn't appreciate the blubbery gristly bits that we found on far too many pieces of meat, however, they really pulled this dish down in our esteem. The non-slow-cooked beef in the pad Thai was definitely of a different ilk, but it just wasn't good. Maybe we made a mistake by going for a slightly off centre pick for meat in a pad Thai, but if it's going to be that bad, then just don't offer it. But that was far from the only issue with the pad Thai, the entire dish was suffused with a flavour that we can only describe as bafflingly lacking. Perhaps the same madness that gripped the chef when they poured an entire tin of pineapple pieces into the massaman curry gripped them again when they were preparing the pad Thai, and they just didn't put in any of the traditional delicious whatever it is that normally goes into a pad Thai. Either way, avoid. 
+
+Sometimes when we come out of a 1, we're upset, mad even. But not tonight. This time we were overcome by a powerful sadness. This place may have been someone's dream once, but it's not looking good. Thai Panda is slightly off the beaten path, and the impression you get from the street is hardly welcoming, this is probably why they are completely empty on a Friday night. And that's not to say it's all bad, in fact they are doing some things really well, the service was excellent and our meals came out almost comically fast. But the overall dining experience sadly fell short of even the meh category, and we can only give them our lowest score.
