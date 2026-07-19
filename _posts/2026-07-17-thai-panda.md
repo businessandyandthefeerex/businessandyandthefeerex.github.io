@@ -14,7 +14,7 @@ website: https://m.facebook.com/thai.panda.picton/
 Massaman curry with slow cooked beef  
 Beef pad Thai  
 
-Thai Panda is a Chinese-Thai restaurant on the town edge of Picton. At 7.15 on a Friday night, nobody was there. This didn't help the ambiance, which was already a bit grim. Restaurants in converted villas can come across homely and warm, or they can come across sad and cheap. This was the latter. The decor was very Facebook Marketplace. Every table was different, with different chairs, like they'd just grabbed whatever was going for $35 or less. Ours was a circular glass topped outdoor table. They did at least have the heat pump cranking. 
+Thai Panda is a Chinese-Thai restaurant on the town edge of Picton. At 7:15 on a Friday night, nobody was there. This didn't help the ambiance, which was already a bit grim. Restaurants in converted villas can come across homely and warm, or they can come across sad and cheap. This was the latter. The decor was very Facebook Marketplace. Every table was different, with different chairs, like they'd just grabbed whatever was going for $35 or less. Ours was a circular glass topped outdoor table. They did at least have the heat pump cranking. 
 
 The menu was much more Thai than Panda, to the point that you wonder why they were bothering with the Chinese at all. But who knows, maybe we missed a trick by going for two Thai staples instead of sampling their very small Chinese menu. It's highly likely that we'll never know.
 
