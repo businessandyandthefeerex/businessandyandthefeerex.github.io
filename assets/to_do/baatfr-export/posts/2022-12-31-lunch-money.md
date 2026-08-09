@@ -11,13 +11,7 @@ region: Wellington
 suburb: Te Aro
 website: https://www.lunchmoney.co.nz/
 ---
-
 Te Aro, Wellington
-
-
-
-We ate breakfast here in December 2022
-
 
 
 Mushroom pizza bread
@@ -29,9 +23,4 @@ Chai latte
 Banana, peanut butter, and cacao smoothie
 
 
-
 Lunch money did some things quite well. The service was fast and super friendly. There is no cooked menu, but their cabinet had quite a few items in it that looked nice. The donut was pretty good, although half the glaze fell off it as we ate. The drinks were middling, and unfortunately the pizza bread was burnt. You can't serve something that blackened and hope to get anything higher than a 2.
-
-
-
-Website 

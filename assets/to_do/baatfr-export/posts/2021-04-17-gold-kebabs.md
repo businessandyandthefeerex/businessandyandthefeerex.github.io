@@ -11,8 +11,8 @@ region: Manawatu
 suburb: Feilding
 website: 
 ---
-Lamb iskender with satay sauce, hummus, and garlic aioli 
-Falafel and eggplant doner with mild chilli sauce and garlic yoghurt
+Lamb iskender with satay sauce, hummus, and garlic aioli  
+Falafel and eggplant doner with mild chilli sauce and garlic yoghurt  
 
 We appear to have walked into a couple breaking up. The waitress and the cook at Gold Kebabs didn't exchange a single word the whole time we were there. Their awkwardness permeated through the whole restaurant and we were pleased to leave. Fortunately the iskender was good, unfortunately the doner wasn't. Apart from the frigid atmosphere and the odd little leather pouch that the cutlery came in, this was pretty standard Turkish fare. 
 

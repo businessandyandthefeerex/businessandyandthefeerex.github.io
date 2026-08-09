@@ -11,16 +11,12 @@ region: Manawatu
 suburb: Roslyn
 website: https://m.facebook.com/cravingscafenz/
 ---
-
 BusinessAndy&FeeRex
 
 Cravings Cafe
 187
 
 Palmerston North
-
-
-We ate lunch here in January 2022
 
 
 Crispy chicken burger with curly fries
@@ -37,8 +33,3 @@ The food at Cravings Cafe was actually pretty good, and there were plenty of oth
 
 
 The banana smoothie wasn't good at all, unfortunately. It wasn't a banana smoothie at all, it was some kind of mix of tropical fruits and was just very sweet. The great texture and temperature were hard to appreciate with that flavour.
-
-
-Website 
-
-
