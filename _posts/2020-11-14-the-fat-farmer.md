@@ -1,4 +1,4 @@
-﻿---
+---
 category: Reviews
 layout: post
 title: The Fat Farmer

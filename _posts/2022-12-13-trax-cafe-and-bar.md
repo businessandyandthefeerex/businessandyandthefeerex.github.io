@@ -1,0 +1,23 @@
+---
+category: Reviews
+layout: post
+title: Trax Cafe & Bar
+date: 2022-12-13
+rating: 1
+meal: dinner
+address: Wellington Railway Station, Cnr Featherston Street & Platform, 1 Bunny Street, Pipitea, Wellington 6011
+country: New Zealand
+region: Wellington
+suburb: Pipitea
+website: http://www.traxbar.co.nz/
+---
+Seasoned wedges with salsa and sour cream
+Nacho chips with beef mince, cheese, salsa, and sour cream
+
+Trax is located in the busy Wellington train station and caters to the commuter crowd. As such, their prime meal times are breakfast and lunch. In the evenings they focus on drinks for folks at the end of the day before their trip home. Figuring they will have a meal waiting for them, they only serve bar snacks in the evening. And fair enough. But Trax, there's no reason those bar snacks can't be good. 
+
+We watched with horror as our wedges sat on the pass (not even under a heat lamp) for an inordinate amount of time while the chips were being cooked. It's fry cook 101, you need to time your frying so dishes are done at about the same time. Unsurprisingly the wedges were tepid. They had also been slathered in a very boring salsa, we would much rather have had the option to dip. The sour cream was on the side, where it belonged, and was a good amount and texture. 
+
+The nacho chips were a bummer. There was very little mince, and what was there wasn't pleasant. Who puts cooked carrot cubes in nacho mince? There also wasn't a lot of cheese, and the same unfortunate salsa was present. At least they'd got the sour cream right a second time in a row. 
+
+Trax, you should put in some effort, or stop doing bar snacks. You should also clean your carpet, it stinks in there.

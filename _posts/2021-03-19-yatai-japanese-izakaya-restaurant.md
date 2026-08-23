@@ -1,4 +1,4 @@
-﻿---
+---
 category: Reviews
 layout: post
 title: Yatai Japanese Izakaya Restaurant
