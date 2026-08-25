@@ -10,7 +10,7 @@ country: New Zealand
 region: Wellington
 suburb: Te Aro
 website: https://www.highwatereatery.co.nz/
----  
+---
 Chef's menu  
 
 Congratulations, Highwater Eatery, it's a pretty big deal to be a four. We award them quite rarely. And it's really satisfying to go and independently give a four to somewhere that perhaps feels a bit hard done by to not catch a Michelin star recently. Does this mean that actually we're better reviewers than the fat tire man? We'll leave the answer of that question up to you. 

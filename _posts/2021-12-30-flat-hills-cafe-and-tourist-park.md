@@ -7,7 +7,7 @@ rating: 1
 meal: lunch
 address: 5733 State Highway 1, Ōhingaiti 4774
 country: New Zealand
-region: TODO
+region: 2
 suburb: 5733 State Highway 1
 website: http://www.flathills.co.nz/
 ---

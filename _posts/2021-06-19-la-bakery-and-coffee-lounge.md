@@ -9,7 +9,7 @@ address: 325 Broadway Avenue, Palmerston North Central, Palmerston North 4414
 country: New Zealand
 region: Manawatu
 suburb: Palmerston North
-website: TODO
+website: 
 ---
 Fish and chips  
 Hash brown breakfast 

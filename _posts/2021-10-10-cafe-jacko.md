@@ -9,7 +9,7 @@ address: 8 George Street, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
 suburb: 8 George Street
-website: TODO
+website: 
 ---
 Fish, chips & coleslaw  
 Brioche French toast with bacon, banana, blueberries, maple syrup and ice cream  

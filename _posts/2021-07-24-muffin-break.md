@@ -4,7 +4,7 @@ layout: post
 title: Muffin Break
 date: 2021-07-24
 rating: 1
-meal: TODO
+meal: lunch
 address: The Plaza Shopping Centre 100 The Square, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
