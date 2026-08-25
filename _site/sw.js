@@ -1,8 +1,8 @@
-const version = '20260719093744';
+const version = '20260825090606';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/reviews/2026/07/10/1154-pastaria/","/reviews/2026/07/05/nada-bakery/","/reviews/2026/07/03/the-bridge-bar-and-restaurant/","/reviews/2026/06/28/penthouse-cinema-and-cafe/","/reviews/2026/06/21/the-beijing-restaurant/","/reviews/2026/06/19/masala-cafe-and-bar/","/reviews/2026/06/14/viva-mexico/","/reviews/2026/06/08/nam-nam-bowen/","/reviews/2026/06/07/newtown-seafood/","/reviews/2026/06/05/phuthai-esarn-restaurant/","/blog/","/collections/","/collections/","/","/latest/","/manifest.json","/map/","/offline/","/regions/","/assets/search.json","/search/","/assets/styles.css","/subscribe/","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/reviews/2026/08/23/highway-57-bakery-and-cafe/","/reviews/2026/08/22/east-pier-hotel/","/reviews/2026/08/21/afghan-darbar-restaurant-and-takeaway/","/reviews/2026/08/15/the-realm-hataitai/","/reviews/2026/08/14/the-original-thai-restaurant/","/reviews/2026/08/08/simmer-cafe/","/reviews/2026/08/07/1852-pub-and-kitchen/","/reviews/2026/08/01/the-botanist/","/reviews/2026/07/31/highwater-eatery/","/reviews/2026/07/31/aries-restaurant-copy/","/blog/","/collections/","/collections/","/","/latest/","/manifest.json","/map/","/offline/","/regions/","/assets/search.json","/search/","/assets/styles.css","/subscribe/","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
