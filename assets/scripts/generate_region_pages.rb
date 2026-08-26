@@ -32,6 +32,10 @@ def create_directory(directory)
   FileUtils.mkdir_p(directory) unless Dir.exists?(directory)
 end
 
+def normalize_text(value)
+  value.to_s.strip
+end
+
 countries = site.posts.docs.map { |post| post.data['country'] }.uniq
 
 countries.each do |country|
@@ -58,19 +62,20 @@ countries.each do |country|
     MARKDOWN
 
     country_posts = site.posts.docs.select { |post| post.data['country'] == country }
-    grouped_by_region = country_posts.group_by { |post| post.data['region'] }
+    grouped_by_region = country_posts.group_by { |post| normalize_text(post.data['region']) }
 
     grouped_by_region
-      .sort_by { |region, _| region.downcase }
+      .sort_by { |region, _| normalize_text(region).downcase }
       .each do |region, region_posts|
 
-      next if region.nil? || region.empty?
+      region_name = normalize_text(region)
+      next if region_name.empty?
 
-      region_slug = region.downcase.gsub(" ", "-")
+      region_slug = region_name.downcase.gsub(" ", "-")
 
       file.puts <<~MARKDOWN
         <li>
-          <a href="/country/#{country_slug}/#{region_slug}/">#{region}</a>
+          <a href="/country/#{country_slug}/#{region_slug}/">#{region_name}</a>
         </li>
       MARKDOWN
 
@@ -80,9 +85,9 @@ countries.each do |country|
         region_file.puts <<~MARKDOWN
           ---
           layout: page
-          title: #{region}, #{country}
+          title: #{region_name}, #{country}
           country: #{country}
-          region: #{region}
+          region: #{region_name}
           permalink: /country/#{country_slug}/#{region_slug}/
           ---
           [↑ Go to #{country} regions](/country/#{country_slug}/)
@@ -119,9 +124,10 @@ countries.each do |country|
       suburb_groups = region_posts.group_by { |post| post.data['suburb'] }
 
       suburb_groups.each do |suburb, suburb_posts|
-        next if suburb.nil? || suburb.empty?
+        suburb_name = normalize_text(suburb)
+        next if suburb_name.empty?
 
-        suburb_slug = suburb.downcase.gsub(" ", "-")
+        suburb_slug = suburb_name.downcase.gsub(" ", "-")
         suburb_folder = "#{country_folder}/#{region_slug}"
         suburb_filename = "#{suburb_folder}/#{suburb_slug}.md"
 
@@ -131,13 +137,13 @@ countries.each do |country|
           suburb_file.puts <<~MARKDOWN
             ---
             layout: page
-            title: #{suburb}, #{region}, #{country}
+            title: #{suburb_name}, #{region_name}, #{country}
             country: #{country}
-            region: #{region}
-            suburb: #{suburb}
+            region: #{region_name}
+            suburb: #{suburb_name}
             permalink: /country/#{country_slug}/#{region_slug}/#{suburb_slug}/
             ---
-            [↑ Go to #{region}](/country/#{country_slug}/#{region_slug}/)
+            [↑ Go to #{region_name}](/country/#{country_slug}/#{region_slug}/)
 
             {% assign posts = site.posts | where: "country", "#{country}" | where: "region", "#{region}" | where: "suburb", "#{suburb}" %}
             {% assign grouped_posts = posts | group_by: "rating" %}

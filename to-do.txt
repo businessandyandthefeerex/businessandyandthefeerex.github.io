@@ -1,0 +1,5 @@
+fix the regions page
+ - change to manawatu-whanganui, take out the macron
+ - change all the manawatu region posts to manawatu-whanganui
+ - decide what to do about palmerston north
+ - look through all the suburbs and fix the ones that are wrong
