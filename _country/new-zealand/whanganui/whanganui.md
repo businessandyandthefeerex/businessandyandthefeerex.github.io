@@ -14,7 +14,7 @@ permalink: /country/new-zealand/whanganui/whanganui/
 
 {% for group in sorted_suburb_groups %}
   {% if group.name != "" %}
-    <h4><a href="/country/new-zealand/whanganui/{{ group.name | downcase | slugify }}" style="color: var(--heading-color);">{{ group.name }}</a></h4>
+    <h4><a href="/country/new-zealand/whanganui/{{ group.name | downcase | slugify }}/" style="color: var(--heading-color);">{{ group.name }}</a></h4>
   {% else %}
     <h4>Unspecified suburb</h4>
   {% endif %}

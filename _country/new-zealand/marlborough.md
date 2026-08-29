@@ -14,7 +14,7 @@ permalink: /country/new-zealand/marlborough/
 {% for city_group in sorted_city_groups %}
   {% assign city_slug = city_group.name | downcase | slugify %}
   {% if city_group.name != "" %}
-    <h3><a href="/country/new-zealand/marlborough/{{ city_slug }}" style="color: var(--heading-color);">{{ city_group.name }}</a></h3>
+    <h3><a href="/country/new-zealand/marlborough/{{ city_slug }}/" style="color: var(--heading-color);">{{ city_group.name }}</a></h3>
   {% else %}
     <h3>Unspecified city</h3>
   {% endif %}
@@ -25,7 +25,7 @@ permalink: /country/new-zealand/marlborough/
   {% for group in sorted_suburb_groups %}
     {% assign suburb_slug = group.name | downcase | slugify %}
     {% if group.name != "" %}
-      <h4><a href="/country/new-zealand/marlborough/{{ suburb_slug }}" style="color: var(--heading-color);">{{ group.name }}</a></h4>
+      <h4><a href="/country/new-zealand/marlborough/{{ suburb_slug }}/" style="color: var(--heading-color);">{{ group.name }}</a></h4>
     {% else %}
       <h4>Unspecified suburb</h4>
     {% endif %}

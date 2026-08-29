@@ -69,12 +69,18 @@ def normalize_text(value)
   value.to_s.strip
 end
 
+# Mirrors Jekyll's default `slugify` Liquid filter, so Ruby-built
+# permalinks/file paths always match the slugs Liquid generates in links.
+def slugify(text)
+  text.to_s.downcase.gsub(/[^\p{Alnum}]+/, '-').gsub(/\A-+|-+\z/, '')
+end
+
 countries = site_posts.map { |post| post[:data]['country'] }.uniq
 
 countries.each do |country|
   next if country.nil? || country.empty?
 
-  country_slug = country.downcase.gsub(" ", "-")
+  country_slug = slugify(country)
   country_folder = "_country/#{country_slug}"
 
   delete_all_files_in_directory(country_folder)
@@ -104,7 +110,7 @@ countries.each do |country|
       region_name = normalize_text(region)
       next if region_name.empty?
 
-      region_slug = region_name.downcase.gsub(" ", "-")
+      region_slug = slugify(region_name)
 
       file.puts <<~MARKDOWN
         <li>
@@ -132,7 +138,7 @@ countries.each do |country|
           {% for city_group in sorted_city_groups %}
             {% assign city_slug = city_group.name | downcase | slugify %}
             {% if city_group.name != "" %}
-              <h3><a href="/country/#{country_slug}/#{region_slug}/{{ city_slug }}" style="color: var(--heading-color);">{{ city_group.name }}</a></h3>
+              <h3><a href="/country/#{country_slug}/#{region_slug}/{{ city_slug }}/" style="color: var(--heading-color);">{{ city_group.name }}</a></h3>
             {% else %}
               <h3>Unspecified city</h3>
             {% endif %}
@@ -143,7 +149,7 @@ countries.each do |country|
             {% for group in sorted_suburb_groups %}
               {% assign suburb_slug = group.name | downcase | slugify %}
               {% if group.name != "" %}
-                <h4><a href="/country/#{country_slug}/#{region_slug}/{{ suburb_slug }}" style="color: var(--heading-color);">{{ group.name }}</a></h4>
+                <h4><a href="/country/#{country_slug}/#{region_slug}/{{ suburb_slug }}/" style="color: var(--heading-color);">{{ group.name }}</a></h4>
               {% else %}
                 <h4>Unspecified suburb</h4>
               {% endif %}
@@ -174,7 +180,7 @@ countries.each do |country|
         suburb_name = normalize_text(suburb)
         next if suburb_name.empty?
 
-        suburb_slug = suburb_name.downcase.gsub(" ", "-")
+        suburb_slug = slugify(suburb_name)
         suburb_folder = "#{country_folder}/#{region_slug}"
         suburb_filename = "#{suburb_folder}/#{suburb_slug}.md"
 
@@ -215,7 +221,7 @@ countries.each do |country|
           city_name = normalize_text(city)
           next if city_name.empty?
 
-          city_slug = city_name.downcase.gsub(" ", "-")
+          city_slug = slugify(city_name)
           city_folder = "#{suburb_folder}/#{suburb_slug}"
           city_filename = "#{city_folder}/#{city_slug}.md"
 
@@ -252,14 +258,14 @@ countries.each do |country|
           puts "Created: _country/#{country_slug}/#{region_slug}/#{suburb_slug}/#{city_slug}/"
         end
       end
-      
+
       # Create region-level city pages for all cities (aggregate across suburbs)
       region_city_groups_all = region_posts.group_by { |post| post[:data]['city'] }
       region_city_groups_all.each do |city, city_posts|
         city_name = normalize_text(city)
         next if city_name.empty?
 
-        city_slug = city_name.downcase.gsub(" ", "-")
+        city_slug = slugify(city_name)
         city_folder = "#{country_folder}/#{region_slug}"
         city_filename = "#{city_folder}/#{city_slug}.md"
 
@@ -283,7 +289,7 @@ countries.each do |country|
 
             {% for group in sorted_suburb_groups %}
               {% if group.name != "" %}
-                <h4><a href="/country/#{country_slug}/#{region_slug}/{{ group.name | downcase | slugify }}" style="color: var(--heading-color);">{{ group.name }}</a></h4>
+                <h4><a href="/country/#{country_slug}/#{region_slug}/{{ group.name | downcase | slugify }}/" style="color: var(--heading-color);">{{ group.name }}</a></h4>
               {% else %}
                 <h4>Unspecified suburb</h4>
               {% endif %}
@@ -332,7 +338,7 @@ File.open("_country/index.md", "w") do |file|
   countries.sort_by { |c| c.downcase }.each do |country|
     next if country.nil? || country.empty?
 
-    country_slug = country.downcase.gsub(" ", "-")
+    country_slug = slugify(country)
 
     file.puts <<~MARKDOWN
       <li>
