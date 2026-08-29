@@ -5,10 +5,11 @@ title: Dirty Little Secret
 date: 2024-07-02
 rating: 2
 meal: dinner
-address: 54 Taranaki Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 54 Taranaki Street, Te Aro, Wellington 6011
 website: https://www.dirtylittlesecret.co.nz
 ---
 Cauliflower tacos  

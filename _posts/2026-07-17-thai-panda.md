@@ -5,10 +5,11 @@ title: Thai Panda
 date: 2026-07-17
 rating: 1
 meal: dinner
-address: 58 Auckland Street, Marlborough, Picton 7220
 country: New Zealand
 region: Marlborough
+city: Picton
 suburb: Picton
+address: 58 Auckland Street, Marlborough, Picton 7220
 website: https://m.facebook.com/thai.panda.picton/
 ---
 Massaman curry with slow cooked beef  

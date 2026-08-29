@@ -5,10 +5,11 @@ title: Valentino's Italian Restaurant
 date: 2023-01-19
 rating: 1
 meal: dinner
-address: Tūrangi 3334
 country: New Zealand
 region: Waikato
+city: Tūrangi
 suburb: Tūrangi
+address: Tūrangi 3334
 website: https://www.facebook.com/ettoreandkarena1/
 ---
 Penne cacciatore  

@@ -5,10 +5,11 @@ title: Cafe Royale
 date: 2022-02-12
 rating: 1
 meal: lunch
-address: Square Edge, 47 The Square, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: Square Edge, 47 The Square, Palmerston North 4410
 website: 
 ---
 Big breakfast  

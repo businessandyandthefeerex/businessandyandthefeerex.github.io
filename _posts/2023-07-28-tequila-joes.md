@@ -5,10 +5,11 @@ title: Tequila Joe's
 date: 2023-07-28
 rating: 3
 meal: dinner
-address: 43 Vivian Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 43 Vivian Street, Te Aro, Wellington 6011
 website: http://www.tequilajoes.co.nz/
 ---
 Beef brisket nachos  

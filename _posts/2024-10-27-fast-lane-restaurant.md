@@ -5,10 +5,11 @@ title: Fast Lane Restaurant
 date: 2024-10-27
 rating: 1
 meal: lunch
-address: 16, State Highway 1, Waiouru 4825
 country: New Zealand
 region: Manawatu
+city: Waiouru
 suburb: Waiouru
+address: 16, State Highway 1, Waiouru 4825
 website: https://restaurantguru.com/Fast-Lane-Restaurant-Waiouru
 ---
 Battered fish  

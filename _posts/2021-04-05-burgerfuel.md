@@ -5,10 +5,11 @@ title: Burgerfuel
 date: 2021-04-05
 rating: 3
 meal: lunch
-address: 101 Courtenay Place, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 101 Courtenay Place, Te Aro, Wellington 6011
 website: https://www.burgerfuel.com/nz
 ---
 Bacon backfire burger: grilled chicken, brie, bacon, lettuce, red onion, tomato  

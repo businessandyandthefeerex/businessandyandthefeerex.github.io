@@ -5,10 +5,11 @@ title: Romans Kitchen
 date: 2023-08-11
 rating: 2
 meal: dinner
-address: 245 Cuba Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 245 Cuba Street, Te Aro, Wellington 6011
 website: https://romanskitchen.co.nz/
 ---
 Macaroni cheese burger  

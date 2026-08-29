@@ -5,10 +5,11 @@ title: Indian Love Story
 date: 2021-04-23
 rating: 2
 meal: dinner
-address: 7A/358 Albert Street, Hokowhitu, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Hokowhitu
 suburb: Hokowhitu
+address: 7A/358 Albert Street, Hokowhitu, Palmerston North 4410
 website: http://www.indianlovestory.nz/
 ---
 Beef ishtew  

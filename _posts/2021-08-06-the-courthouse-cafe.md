@@ -5,10 +5,11 @@ title: The Courthouse Cafe
 date: 2021-08-06
 rating: 3
 meal: lunch
-address: 8 Centennial Avenue, Alexandra 9320
 country: New Zealand
 region: Otago
+city: Alexandra
 suburb: Alexandra
+address: 8 Centennial Avenue, Alexandra 9320
 website: https://www.facebook.com/pages/category/Cafe/The-Courthouse-Cafe-144456498934437/
 ---
 Pork belly and brie ciabatta  

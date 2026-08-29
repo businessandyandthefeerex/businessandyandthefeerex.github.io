@@ -5,10 +5,11 @@ title: Arranged Marriage
 date: 2021-01-14
 rating: 3
 meal: dinner
-address: 32 B The Square, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 32 B The Square, Palmerston North Central, Palmerston North 4410
 website: https://www.arrangedmarriage.co.nz/
 ---
 Mix platter: lentil doughnuts, fried cauliflower, fried chicken and dry fried beef  

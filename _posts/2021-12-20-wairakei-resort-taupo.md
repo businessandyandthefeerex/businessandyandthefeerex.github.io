@@ -5,10 +5,11 @@ title: Wairakei Resort Taupo
 date: 2021-12-20
 rating: 2
 meal: lunch
-address: 640 Wairakei Drive, Tourist Park, Wairakei, Taupō 3384
 country: New Zealand
 region: Waikato
+city: Taupō
 suburb: Taupō
+address: 640 Wairakei Drive, Tourist Park, Wairakei, Taupō 3384
 website: https://www.wairakei.co.nz/food-drink/
 ---
 Lamb burger and chips  

@@ -5,10 +5,11 @@ title: The Fat Farmer
 date: 2020-11-14
 rating: 4
 meal: dinner
-address: 360 Albert Street, Hokowhitu, Palmerston North 4410
 country: New Zealand
 region: Palmerston North
+city: Hokowhitu
 suburb: Hokowhitu
+address: 360 Albert Street, Hokowhitu, Palmerston North 4410
 website: http://www.thefatfarmer.co.nz/
 ---
 Baked cauliflower, almonds & pomegranate  

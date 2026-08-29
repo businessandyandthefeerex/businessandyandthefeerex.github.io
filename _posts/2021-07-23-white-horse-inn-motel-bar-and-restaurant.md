@@ -5,10 +5,11 @@ title: White Horse Inn Motel, Bar & Restaurant
 date: 2021-07-23
 rating: 1
 meal: dinner
-address: 2180 State Highway 56, Longburn 4412
 country: New Zealand
 region: Manawatu
+city: Longburn
 suburb: Longburn
+address: 2180 State Highway 56, Longburn 4412
 website: http://www.whitehorseinn.co.nz/
 ---
 Pan fried fish, chips, and salad  

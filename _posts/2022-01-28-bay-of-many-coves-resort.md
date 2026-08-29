@@ -5,10 +5,11 @@ title: Bay of Many Coves Resort
 date: 2022-01-28
 rating: 4
 meal: dinner
-address: Queen Charlotte Sound, Private Bag 382, Picton 7250
 country: New Zealand
 region: Marlborough
+city: Queen Charlotte Sound
 suburb: Queen Charlotte Sound
+address: Queen Charlotte Sound, Private Bag 382, Picton 7250
 website: http://www.bayofmanycoves.co.nz/
 ---
 Grazing platter  

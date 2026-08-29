@@ -5,10 +5,11 @@ title: Taco Loco Cantina
 date: 2023-07-19
 rating: 3
 meal: dinner
-address: 179 Mount Albert Road, Mount Albert, Auckland 1025
 country: New Zealand
 region: Auckland
+city: Mount Albert
 suburb: Mount Albert
+address: 179 Mount Albert Road, Mount Albert, Auckland 1025
 website: http://tacoloconz.co.nz/
 ---
 Deep fried halloumi balls  

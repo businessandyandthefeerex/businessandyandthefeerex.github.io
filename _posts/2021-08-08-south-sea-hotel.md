@@ -5,10 +5,11 @@ title: South Sea Hotel
 date: 2021-08-08
 rating: 3
 meal: lunch
-address: 26 Elgin Terrace, Oban 9846
 country: New Zealand
 region: Stewart Island
+city: Oban
 suburb: Oban
+address: 26 Elgin Terrace, Oban 9846
 website: http://www.southseahotel.co.nz/restaurant--pub.html
 ---
 Fish burger and chips  

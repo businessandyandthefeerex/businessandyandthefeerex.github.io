@@ -5,10 +5,11 @@ title: Sidekick Cafe
 date: 2024-07-21
 rating: 3
 meal: lunch
-address: 5/110 Bussell Hwy, Margaret River WA 6285, Australia
 country: Australia
 region: Western Australia
+city: Margaret River
 suburb: Margaret River
+address: 5/110 Bussell Hwy, Margaret River WA 6285, Australia
 website: https://www.sidekickcafe.com.au/
 ---
 Mozzarella and prosciutto toasted sandwich  

@@ -5,10 +5,11 @@ title: Cafe Jacko
 date: 2021-10-10
 rating: 3
 meal: lunch
-address: 8 George Street, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: 8 George Street
 suburb: 8 George Street
+address: 8 George Street, Palmerston North Central, Palmerston North 4410
 website: 
 ---
 Fish, chips & coleslaw  

@@ -5,10 +5,11 @@ title: Upesh Kitchen
 date: 2023-10-13
 rating: 2
 meal: dinner
-address: 97B Upland Road, Kelburn, Wellington 6012
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Kelburn
+address: 97B Upland Road, Kelburn, Wellington 6012
 website: https://upeshkitchen.co.nz/
 ---
 Paneer korma  

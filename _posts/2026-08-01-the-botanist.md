@@ -5,10 +5,11 @@ title: The Botanist
 date: 2026-08-01
 rating: 3
 meal: lunch
-address: 219 Onepu Road, Lyall Bay, Wellington 6022
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Lyall Bay
+address: 219 Onepu Road, Lyall Bay, Wellington 6022
 website: https://thebotanistlyallbay.co.nz/
 ---
 Breakfast halloumi bao bun  

@@ -5,10 +5,11 @@ title: Spice Paradise
 date: 2024-01-04
 rating: 1
 meal: dinner
-address: 39 Vivian Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 39 Vivian Street, Te Aro, Wellington 6011
 website: http://www.spiceparadise.co.nz/
 ---
 Malai kofta  

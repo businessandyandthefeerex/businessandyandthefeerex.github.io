@@ -5,10 +5,11 @@ title: Bay Plaza Hotel Restaurant
 date: 2023-01-10
 rating: 1
 meal: dinner
-address: 40-44 Oriental Parade, Oriental Bay, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Oriental Bay
+address: 40-44 Oriental Parade, Oriental Bay, Wellington 6011
 website: https://www.bayplaza.co.nz/restaurant-and-bar
 ---
 Nut crusted fish with new potatoes, green beans, spring onions and olives with butter sauce  

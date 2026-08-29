@@ -5,10 +5,11 @@ title: Brew Union
 date: 2021-10-01
 rating: 4
 meal: dinner
-address: Centre 41 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: Centre 41 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 website: https://www.brewunion.co.nz/our-kitchen
 ---
 Philly cheese steak burger with chips  

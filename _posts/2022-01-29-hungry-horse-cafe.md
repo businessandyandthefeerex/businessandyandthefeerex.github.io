@@ -5,10 +5,11 @@ title: Hungry Horse Cafe
 date: 2022-01-29
 rating: 2
 meal: lunch
-address: 4 Botanical Road, Highbury, Palmerston North 4412
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 4 Botanical Road, Highbury, Palmerston North 4412
 website: https://www.facebook.com/hungryhorse.co.nz/
 ---
 Smashed avo on toast with a poached egg  

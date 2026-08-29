@@ -5,10 +5,11 @@ title: The Spice Room
 date: 2023-08-04
 rating: 2
 meal: dinner
-address: 43 Helwick Street, Wānaka 9305
 country: New Zealand
 region: Otago
+city: Wānaka
 suburb: Wānaka
+address: 43 Helwick Street, Wānaka 9305
 website: http://spiceroom.co.nz/
 ---
 Potato cake sliders  

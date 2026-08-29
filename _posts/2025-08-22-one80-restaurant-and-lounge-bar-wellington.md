@@ -5,10 +5,11 @@ title: One80 Restaurant & Lounge Bar, Wellington
 date: 2025-08-22
 rating: 2
 meal: dinner
-address: 100 Oriental Parade, Oriental Bay, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Oriental Bay
+address: 100 Oriental Parade, Oriental Bay, Wellington 6011
 website: https://one80restaurant.co.nz
 ---
 Wedges  

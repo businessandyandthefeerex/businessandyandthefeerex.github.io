@@ -5,10 +5,11 @@ title: Columbus Cafe
 date: 2021-05-08
 rating: 1
 meal: lunch
-address: 34/84 The Square, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawafu
+city: Palmerston North
 suburb: Palmerston North
+address: 34/84 The Square, Palmerston North Central, Palmerston North 4410
 website: https://www.columbuscoffee.co.nz/
 ---
 Corn fritters with bacon and egg added  

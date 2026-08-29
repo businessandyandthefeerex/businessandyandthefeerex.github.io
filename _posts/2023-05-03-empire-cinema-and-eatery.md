@@ -5,10 +5,11 @@ title: Empire Cinema & Eatery
 date: 2023-05-03
 rating: 2
 meal: dinner
-address: 214 The Parade, Island Bay, Wellington 6023
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Island Bay
+address: 214 The Parade, Island Bay, Wellington 6023
 website: http://www.empirecinema.nz/
 ---
 Pizza capricciosa  

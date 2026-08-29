@@ -5,10 +5,11 @@ title: Wendy's Hamburgers
 date: 2021-04-10
 rating: 2
 meal: lunch
-address: 313 Rangitikei Street, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 313 Rangitikei Street, Palmerston North Central, Palmerston North 4410
 website: http://www.wendys.co.nz/
 ---
 1/4 lb beef burger regular meal 

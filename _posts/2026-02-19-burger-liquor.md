@@ -5,10 +5,11 @@ title: Burger Liquor
 date: 2026-02-19
 rating: 4
 meal: dinner
-address: 129 Willis Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 129 Willis Street, Te Aro, Wellington 6011
 website: https://www.burgerliquor.co.nz/
 ---
 Popcorn chicken    

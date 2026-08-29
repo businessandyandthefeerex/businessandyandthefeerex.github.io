@@ -5,10 +5,11 @@ title: Archie Brothers
 date: 2026-03-20
 rating: 2
 meal: dinner
-address: 1 Willis Street, Wellington Central, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Wellington Central
+address: 1 Willis Street, Wellington Central, Wellington 6011
 website: https://archiebrothers.co.nz/
 ---
 Fried cauliflower  

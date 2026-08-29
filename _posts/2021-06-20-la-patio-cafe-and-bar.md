@@ -5,10 +5,11 @@ title: La Patio Cafe & Bar
 date: 2021-06-20
 rating: 3
 meal: dinner
-address: 140 Fitzherbert Avenue, West End, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 140 Fitzherbert Avenue, West End, Palmerston North 4410
 website: https://www.distinctionhotelscoachman.co.nz/palmerston-north-restaurants/lapatio-cafe
 ---
 Pulled duck burger with poutine  

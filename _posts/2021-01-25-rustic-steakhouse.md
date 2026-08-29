@@ -5,10 +5,11 @@ title: Rustic Steakhouse
 date: 2021-01-25
 rating: 3
 meal: lunch
-address: 21 Mataroa Road, Taihape 4720
 country: New Zealand
 region: Manawatu
+city: Taihape
 suburb: Taihape
+address: 21 Mataroa Road, Taihape 4720
 website: https://www.facebook.com/rusticsteakhouse/
 ---
 Eye fillet, polenta chips and BBQ sauce  

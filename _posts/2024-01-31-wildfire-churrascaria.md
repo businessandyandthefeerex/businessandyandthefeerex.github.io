@@ -5,10 +5,11 @@ title: Wildfire Churrascaria
 date: 2024-01-31
 rating: 3
 meal: dinner
-address: 60 Tory Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 60 Tory Street, Te Aro, Wellington 6011
 website: https://wildfirerestaurant.co.nz/home
 ---
 Churrascaria Standard  

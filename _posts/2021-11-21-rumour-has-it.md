@@ -5,10 +5,11 @@ title: Rumour Has It
 date: 2021-11-21
 rating: 1
 meal: lunch
-address: 305 Rangitikei Street, Takaro, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Takaro
 suburb: Takaro
+address: 305 Rangitikei Street, Takaro, Palmerston North 4410
 website: https://www.order.store/store/rumour-has-it-cafe/_E6--pwMR5KFQxGW-e0hSA
 ---
 Fish, chips and salad  

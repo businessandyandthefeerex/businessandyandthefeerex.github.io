@@ -5,10 +5,11 @@ title: Noodles & Dumplings
 date: 2021-04-09
 rating: 3
 meal: dinner
-address: 21 Coleman Place, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 21 Coleman Place, Palmerston North Central, Palmerston North 4410
 website: https://www.pnnoodlesanddumplings.com/
 ---
 Spring onion pancake  

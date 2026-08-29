@@ -5,10 +5,11 @@ title: Thistle Inn
 date: 2024-04-05
 rating: 1
 meal: dinner
-address: 3 Mulgrave Street, Thorndon, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Thorndon
+address: 3 Mulgrave Street, Thorndon, Wellington 6011
 website: http://www.thistleinn.co.nz/
 ---
 Lamb rump, polenta, broccolini, pistachio & lime gremolata  

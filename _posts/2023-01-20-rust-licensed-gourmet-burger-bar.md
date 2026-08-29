@@ -5,10 +5,11 @@ title: Rust Licensed Gourmet Burger Bar
 date: 2023-01-20
 rating: 2
 meal: dinner
-address: shop 6, Tūrangi 3353
 country: New Zealand
 region: Waikato
+city: Tūrangi
 suburb: Tūrangi
+address: shop 6, Tūrangi 3353
 website: https://rust-licensed-gourmet-burger-bar.business.site/
 ---
 Sriracha fried chicken burger  

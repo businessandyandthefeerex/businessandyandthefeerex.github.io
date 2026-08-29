@@ -5,10 +5,11 @@ title: Gengy's Mongolian BBQ Buffet
 date: 2021-05-14
 rating: 2
 meal: dinner
-address: 21 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 21 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 website: http://www.gengys.co.nz/
 ---
 Buffet-style meals  

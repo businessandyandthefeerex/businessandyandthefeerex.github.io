@@ -5,10 +5,11 @@ title: Little Polynesian Resort
 date: 2023-05-17
 rating: 3
 meal: lunch
-address: Main Road - Titikaveka, Rarotonga, Cook Islands
 country: Cook Islands
 region: Rarotonga
+city: Takitumu District
 suburb: Takitumu District
+address: Main Road - Titikaveka, Rarotonga, Cook Islands
 website: https://www.pacificresort.com/little-polynesian/dining/
 ---
 Pork belly wrap  

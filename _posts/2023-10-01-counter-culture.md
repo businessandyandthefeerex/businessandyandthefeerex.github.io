@@ -5,10 +5,11 @@ title: Counter Culture
 date: 2023-10-01
 rating: 2
 meal: dinner
-address: 211 Victoria Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 211 Victoria Street, Te Aro, Wellington 6011
 website: https://counterculture.co.nz/
 ---
 Fried corn, japapeno, and cheese nuggets  

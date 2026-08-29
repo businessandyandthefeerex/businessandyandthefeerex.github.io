@@ -5,10 +5,11 @@ title: Hydro Eatery
 date: 2021-10-25
 rating: 2
 meal: lunch
-address: 277 Te Rangitautahanga Road, Tūrangi 3334
 country: New Zealand
 region: Waikato
+city: Tūrangi
 suburb: Tūrangi
+address: 277 Te Rangitautahanga Road, Tūrangi 3334
 website: https://www.facebook.com/Hydroeatery/
 ---
 Battered fish bite Turkish pocket with chips  

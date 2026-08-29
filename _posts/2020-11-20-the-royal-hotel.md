@@ -5,10 +5,11 @@ title: The Royal Hotel
 date: 2020-11-20
 rating: 2
 meal: dinner
-address: 44 Rangitikei Street, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Palmerston North
+city: Palmerston North Central
 suburb: Palmerston North Central
+address: 44 Rangitikei Street, Palmerston North Central, Palmerston North 4410
 website: https://thenewroyalhotelpapaioea.com/
 ---
 Battered fish, chips, and salad  

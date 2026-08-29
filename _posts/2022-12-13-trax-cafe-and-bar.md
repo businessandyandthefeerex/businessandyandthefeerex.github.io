@@ -5,10 +5,11 @@ title: Trax Cafe & Bar
 date: 2022-12-13
 rating: 1
 meal: dinner
-address: Wellington Railway Station, Cnr Featherston Street & Platform, 1 Bunny Street, Pipitea, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Pipitea
+address: Wellington Railway Station, Cnr Featherston Street & Platform, 1 Bunny Street, Pipitea, Wellington 6011
 website: http://www.traxbar.co.nz/
 ---
 Seasoned wedges with salsa and sour cream

@@ -5,10 +5,11 @@ title: Licorice Cafe
 date: 2021-12-20
 rating: 2
 meal: lunch
-address: 57 State Highway 1, Motuoapa 3382
 country: New Zealand
 region: Waikato
+city: Motuoapa
 suburb: Motuoapa
+address: 57 State Highway 1, Motuoapa 3382
 website: https://www.facebook.com/pages/category/Cafe/Licorice-CAFE-112651743763985/
 ---
 Creamy mushrooms on toast  

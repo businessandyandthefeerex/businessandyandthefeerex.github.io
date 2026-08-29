@@ -5,10 +5,11 @@ title: Jinweide Beef Noodle Wellington
 date: 2025-08-08
 rating: 2
 meal: dinner
-address:  82a Tory Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address:  82a Tory Street, Te Aro, Wellington 6011
 website: https://www.instagram.com/jinweidebeefnoodlewellington/?hl=en
 ---
 Secret recipe beef sauced noodle  

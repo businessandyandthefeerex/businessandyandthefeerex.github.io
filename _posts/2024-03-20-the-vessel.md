@@ -5,10 +5,11 @@ title: The Vessel
 date: 2024-03-20
 rating: 3
 meal: dinner
-address: 37 Captain Cook Road, Cooks Beach 3591
 country: New Zealand
 region: Coromandel
+city: Cooks Beach
 suburb: Cooks Beach
+address: 37 Captain Cook Road, Cooks Beach 3591
 website: https://www.thevessel.co.nz/
 ---
 Vegetarian pizza  

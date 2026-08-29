@@ -5,10 +5,11 @@ title: The Shepherd's Arms Hotel
 date: 2023-06-09
 rating: 1
 meal: dinner
-address: 285 Tinakori Road, Thorndon, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Thorndon
+address: 285 Tinakori Road, Thorndon, Wellington 6011
 website: http://www.shepherds.co.nz/
 ---
 Beef fillet with mushroom sauce, potatoes and salad  

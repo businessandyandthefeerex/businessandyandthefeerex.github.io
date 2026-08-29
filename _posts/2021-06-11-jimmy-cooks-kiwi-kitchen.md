@@ -5,10 +5,11 @@ title: Jimmy Cook's Kiwi Kitchen
 date: 2021-06-11
 rating: 2
 meal: dinner
-address: 110 Fitzherbert Avenue, West End, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 110 Fitzherbert Avenue, West End, Palmerston North 4410
 website: https://www.millenniumhotels.com/en/auckland/copthorne-hotel-auckland-city/jimmy-cooks-kiwi-kitchen-and-bar/?cid=gplace-jimmy-cooks-kiwi-kitchen-copthorne-auckland-city
 ---
 Chicken burger and chips  

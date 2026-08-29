@@ -5,10 +5,11 @@ title: Adzuki Bean Cafe & Restaurant
 date: 2023-02-25
 rating: 1
 meal: lunch
-address: 164 Jackson Street, Petone, Lower Hutt 5012
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Petone
+address: 164 Jackson Street, Petone, Lower Hutt 5012
 website: https://www.facebook.com/adzukibean64/
 ---
 Pan fried terakihi with roast potatoes, beans, tomato and mushroom and a creamy sauce  

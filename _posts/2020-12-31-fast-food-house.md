@@ -5,10 +5,11 @@ title: Fast Food House
 date: 2020-12-31
 rating: 1
 meal: lunch
-address: 70-72 Kimbolton Road, Feilding 4702
 country: New Zealand
 region: Manawatu
+city: Feilding
 suburb: Feilding
+address: 70-72 Kimbolton Road, Feilding 4702
 website: https://feilding.co.nz/address/business-directory/fast-food-house.html
 ---
 The Pensioner Pack: fish, chips, tartare sauce  

@@ -5,10 +5,11 @@ title: Turangi Bridge Motel, Bar & Restaurant
 date: 2023-10-22
 rating: 1
 meal: dinner
-address: 4600 State Highway 1, Tūrangi 3334
 country: New Zealand
 region: Waikato
+city: Tūrangi
 suburb: Tūrangi
+address: 4600 State Highway 1, Tūrangi 3334
 website: https://turangibridgemotel.co.nz/restaurant/
 ---
 Bread and dips  

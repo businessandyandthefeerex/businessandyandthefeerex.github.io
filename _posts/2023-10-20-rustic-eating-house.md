@@ -5,10 +5,11 @@ title: Rustic Eating House
 date: 2023-10-20
 rating: 3
 meal: lunch
-address: 27 State Highway 1, Waiouru 4825
 country: New Zealand
 region: Manawatu
+city: Waiouru
 suburb: Waiouru
+address: 27 State Highway 1, Waiouru 4825
 website: 
 ---
 Polenta chips  

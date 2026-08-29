@@ -5,10 +5,11 @@ title: The Dining Room at The Headwaters Eco Lo
 date: 2024-08-09
 rating: 4
 meal: dinner
-address: 42 Oban Street, Glenorchy 9372
 country: New Zealand
 region: Otago
+city: Glenorchy
 suburb: Glenorchy
+address: 42 Oban Street, Glenorchy 9372
 website: https://theheadwatersecolodge.com/dining
 ---
 Curry puff  

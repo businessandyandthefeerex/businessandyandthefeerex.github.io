@@ -5,10 +5,11 @@ title: Sal's Authentic New York Pizza
 date: 2021-08-02
 rating: 2
 meal: lunch
-address: 354 Great King Street, Dunedin North, Dunedin 9016
 country: New Zealand
 region: Otago
+city: Dunedin
 suburb: Dunedin
+address: 354 Great King Street, Dunedin North, Dunedin 9016
 website: https://www.sals.co.nz/
 ---
 Nonna pizza (mozzerella, parmesan, garlic, basil) with chicken  

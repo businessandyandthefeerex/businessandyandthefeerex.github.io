@@ -5,10 +5,11 @@ title: Nero Restaurant
 date: 2020-12-04
 rating: 3
 meal: dinner
-address: 36 Amesbury Street, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Palmerston North
+city: Palmerston North Central
 suburb: Palmerston North Central
+address: 36 Amesbury Street, Palmerston North Central, Palmerston North 4410
 website: http://www.nerorestaurant.co.nz/
 ---
 3 cheese souffle  

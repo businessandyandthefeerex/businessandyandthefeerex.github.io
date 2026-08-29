@@ -5,10 +5,11 @@ title: Wilson Barbeque
 date: 2023-05-05
 rating: 1
 meal: dinner
-address: 17 Johnsonville Road, Johnsonville, Wellington 6037
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Johnsonville
+address: 17 Johnsonville Road, Johnsonville, Wellington 6037
 website: http://www.wilsonbarbecue.com/
 ---
 Brisket  

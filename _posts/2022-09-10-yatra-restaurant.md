@@ -5,10 +5,11 @@ title: Yatra Restaurant
 date: 2022-09-10
 rating: 2
 meal: dinner
-address: shop 5/687 Fergusson Drive, Elderslea, Upper Hutt 5018
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Elderslea
+address: shop 5/687 Fergusson Drive, Elderslea, Upper Hutt 5018
 website: https://yatrarestaurant.co.nz/
 ---
 Reshmi paneer with rice and plain naan  

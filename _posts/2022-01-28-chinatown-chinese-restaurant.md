@@ -5,10 +5,11 @@ title: Chinatown Chinese Restaurant
 date: 2022-01-28
 rating: 1
 meal: dinner
-address: 156 Cuba Street, Takaro, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 156 Cuba Street, Takaro, Palmerston North 4410
 website: https://www.chinatownrestaurant.co.nz/
 ---
 Buffet  

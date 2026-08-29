@@ -5,10 +5,11 @@ title: Kebabs On Queen
 date: 2023-07-21
 rating: 2
 meal: dinner
-address: 174-180 Lambton Quay, Wellington Central, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Wellington Central
+address: 174-180 Lambton Quay, Wellington Central, Wellington 6011
 website: http://kebabsonqueen.co.nz/
 ---
 Falafel kebab on rice (this is an iskender) 

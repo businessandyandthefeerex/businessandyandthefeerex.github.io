@@ -5,10 +5,11 @@ title: Whistling Sisters Beer Co
 date: 2023-07-08
 rating: 3
 meal: lunch
-address: 100 Taranaki Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 100 Taranaki Street, Te Aro, Wellington 6011
 website: 
 ---
 Arancini balls  

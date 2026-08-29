@@ -5,10 +5,11 @@ title: O'Briens Irish sandwich Cafe
 date: 2020-12-12
 rating: 3
 meal: lunch
-address: 44 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Palmerston North
+city: Palmerston North Central
 suburb: Palmerston North Central
+address: 44 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 website: https://www.obriens.co.nz/
 ---
 Celtic: mixed leaves, sundried tomato, cheddar, and red onion on multigrain bread  

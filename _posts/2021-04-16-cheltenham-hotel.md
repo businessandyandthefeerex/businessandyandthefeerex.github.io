@@ -5,10 +5,11 @@ title: Cheltenham Hotel
 date: 2021-04-16
 rating: 2
 meal: dinner
-address: 1469 Kimbolton Road, Feilding 4777
 country: New Zealand
 region: Manawatu
+city: Feliding
 suburb: Feliding
+address: 1469 Kimbolton Road, Feilding 4777
 website: http://www.cheltenhamhotel.co.nz/
 ---
 Nachos with beef mince  

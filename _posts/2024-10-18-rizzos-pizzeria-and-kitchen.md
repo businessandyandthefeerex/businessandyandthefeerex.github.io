@@ -5,10 +5,11 @@ title: Rizzo's Pizzeria & Kitchen
 date: 2024-10-18
 rating: 2
 meal: dinner
-address: 499 Hutt Road, Alicetown, Lower Hutt 5010
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Lower Hutt
+address: 499 Hutt Road, Alicetown, Lower Hutt 5010
 website: https://www.stargroup.nz/venues/rizzos-pizzeria-kitchen
 ---
 Deep fried spaghetti  

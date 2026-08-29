@@ -5,10 +5,11 @@ title: Chipmunks Playland & Cafe
 date: 2024-06-30
 rating: 2
 meal: lunch
-address: 24 Main Road, Tawa, Wellington 5028
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Tawa
+address: 24 Main Road, Tawa, Wellington 5028
 website: https://chipmunksplayland.co.nz/westgate/
 ---
 Beef burger  

@@ -5,10 +5,11 @@ title: Federal Delicatessen
 date: 2023-07-19
 rating: 3
 meal: breakfast
-address: 86 Federal Street, Auckland City, Auckland 1010
 country: New Zealand
 region: Auckland
+city: Auckland City Centre
 suburb: Auckland City Centre
+address: 86 Federal Street, Auckland City, Auckland 1010
 website: https://thefed.co.nz/
 ---
 Poutine with pastrami  

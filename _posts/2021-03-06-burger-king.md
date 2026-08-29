@@ -5,10 +5,11 @@ title: Burger King
 date: 2021-03-06
 rating: 1
 meal: dinner
-address: 100 Fitzherbert Avenue, West End, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 100 Fitzherbert Avenue, West End, Palmerston North 4410
 website: http://www.burgerking.co.nz/
 ---
 Rodeo burger regular combo with a banana shake  

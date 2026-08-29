@@ -5,10 +5,11 @@ title: Viva Cafe & Bar
 date: 2021-05-07
 rating: 2
 meal: dinner
-address: 21 Rangitikei Street, City Center, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: City Center
 suburb: City Center
+address: 21 Rangitikei Street, City Center, Palmerston North 4410
 website: http://www.vivacafeandbar.co.nz/
 ---
 Lamb moussaka with salad, rice, and Turkish bread  

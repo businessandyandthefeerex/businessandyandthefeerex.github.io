@@ -5,10 +5,11 @@ title: Best Ugly Bagels
 date: 2022-07-13
 rating: 2
 meal: breakfast
-address: Best Ugly, Rongotai, Wellington 6022
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Rongotai
+address: Best Ugly, Rongotai, Wellington 6022
 website: https://www.bestugly.co.nz/
 ---
 Swiss melt bagel: Cheese and marmite  

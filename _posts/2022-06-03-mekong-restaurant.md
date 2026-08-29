@@ -5,10 +5,11 @@ title: Mekong Restaurant
 date: 2022-06-03
 rating: 1
 meal: dinner
-address: 194/200 Ruapehu Drive, Fitzherbert, Palmerston North 4410
 country: New Zealand
 region: Manwatu
+city: Palmerston North
 suburb: Palmerston North
+address: 194/200 Ruapehu Drive, Fitzherbert, Palmerston North 4410
 website: https://www.facebook.com/mekong.feilding/posts/thaifood-palmerstonnorthnz-manawatu_nz-feildingnz/641121915735259/
 ---
 Khao phad with tofu  

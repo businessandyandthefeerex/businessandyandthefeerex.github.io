@@ -5,10 +5,11 @@ title: Valentines
 date: 2023-06-19
 rating: 1
 meal: dinner
-address: 7/11 Chalmers Street, Hornby, Christchurch 8042
 country: New Zealand
 region: Canterbury
+city: Christchurch
 suburb: Christchurch
+address: 7/11 Chalmers Street, Hornby, Christchurch 8042
 website: https://valentines.co.nz/
 ---
 Buffet style meals  

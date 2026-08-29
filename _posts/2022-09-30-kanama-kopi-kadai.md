@@ -5,10 +5,11 @@ title: Kanama Kopi Kadai
 date: 2022-09-30
 rating: 3
 meal: dinner
-address: 1 Rongotai Road, Kilbirnie, Wellington 6022
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Kilbirnie
+address: 1 Rongotai Road, Kilbirnie, Wellington 6022
 website: https://www.kanamakopikadai.co.nz/
 ---
 Vegetarian mamak mee goreng  

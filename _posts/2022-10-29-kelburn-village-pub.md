@@ -5,10 +5,11 @@ title: Kelburn Village Pub
 date: 2022-10-29
 rating: 3
 meal: dinner
-address: 87 Upland Road, Kelburn, Wellington 6012
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Kelburn
+address: 87 Upland Road, Kelburn, Wellington 6012
 website: http://kelburnvillagepub.co.nz/wp/our-menu/
 ---
 Asian salad with carrot, vermicelli, almond, and peanut dressing 

@@ -5,10 +5,11 @@ title: Catlins Inn
 date: 2021-08-02
 rating: 1
 meal: dinner
-address: 21 Ryley Street, Owaka 9535
 country: New Zealand
 region: Southland
+city: Owaka
 suburb: Owaka
+address: 21 Ryley Street, Owaka 9535
 website: http://www.clt-trust.co.nz/catlins-inn---owaka.html
 ---
 Beef nachos  

@@ -5,10 +5,11 @@ title: Bangkok Thai
 date: 2021-04-30
 rating: 2
 meal: dinner
-address: 287 Main Street, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 287 Main Street, Palmerston North Central, Palmerston North 4410
 website: https://bangkokthaipalmy.co.nz/order-now
 ---
 Vegetarian pad thai  

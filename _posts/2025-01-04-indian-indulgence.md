@@ -5,10 +5,11 @@ title: Indian Indulgence
 date: 2025-01-04
 rating: 2
 meal: dinner
-address: 63 George Street, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 63 George Street, Palmerston North Central, Palmerston North 4410
 website: https://indianindulgence.nz/
 ---
 Malai kofta  

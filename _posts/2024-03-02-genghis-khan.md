@@ -5,10 +5,11 @@ title: Genghis Khan
 date: 2024-03-02
 rating: 1
 meal: dinner
-address: 25 Majoribanks Street, Mount Victoria, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Mount Victoria
+address: 25 Majoribanks Street, Mount Victoria, Wellington 6011
 website: https://www.genghiskhanrestaurant.co.nz/
 ---
 Mongolian BBQ 

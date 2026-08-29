@@ -5,10 +5,11 @@ title: Hillside Kitchen
 date: 2023-08-11
 rating: 4
 meal: dinner
-address: 241 Tinakori Road, Thorndon, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Thorndon
+address: 241 Tinakori Road, Thorndon, Wellington 6011
 website: http://www.hillsidekitchen.co.nz/
 ---
 Degustation  

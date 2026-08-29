@@ -5,10 +5,11 @@ title: Golden Dragon Chinese Restaurant
 date: 2024-07-22
 rating: 3
 meal: dinner
-address: 133 Bussell Hwy, Margaret River WA 6285, Australia
 country: Australia
 region: Western Australia
+city: Margaret River
 suburb: Margaret River
+address: 133 Bussell Hwy, Margaret River WA 6285, Australia
 website: https://goldendragonchinese.com.au/order-now
 ---
 Chilli fried beef  

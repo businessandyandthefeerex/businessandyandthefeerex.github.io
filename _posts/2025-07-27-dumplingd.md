@@ -5,10 +5,11 @@ title: Dumpling'd
 date: 2025-07-27
 rating: 2
 meal: dinner
-address:  7 Boulcott Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address:  7 Boulcott Street, Te Aro, Wellington 6011
 website: 
 ---
 Seasame dumplings  

@@ -5,10 +5,11 @@ title: Pompeii Pizza
 date: 2021-06-25
 rating: 2
 meal: dinner
-address: 163 The Square, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 163 The Square, Palmerston North Central, Palmerston North 4410
 website: http://www.pompeii.co.nz/
 ---
 Centaur pizza  

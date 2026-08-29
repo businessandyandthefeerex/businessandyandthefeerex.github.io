@@ -5,10 +5,11 @@ title: Scorch O Rama
 date: 2024-11-16
 rating: 3
 meal: breakfast
-address: 497 Karaka Bay Road, Karaka Bays, Wellington 6022
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Karaka Bays
+address: 497 Karaka Bay Road, Karaka Bays, Wellington 6022
 website: https://www.scorchorama.co.nz/
 ---
 The black hole: poached eggs on wilted spinach, black pudding, and hashed potato cakes with a mustard hollandaise  

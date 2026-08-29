@@ -5,10 +5,11 @@ title: Dunedin Social Club
 date: 2021-08-01
 rating: 2
 meal: lunch
-address: 1 Princes Street, Central Dunedin, Dunedin 9016
 country: New Zealand
 region: Otago
+city: Dunedin
 suburb: Dunedin
+address: 1 Princes Street, Central Dunedin, Dunedin 9016
 website: https://www.dunedinsocialclub.co.nz/
 ---
 Mushroom & spring onion arancini  

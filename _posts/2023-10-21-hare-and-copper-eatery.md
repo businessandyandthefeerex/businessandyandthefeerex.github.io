@@ -5,10 +5,11 @@ title: Hare & Copper Eatery
 date: 2023-10-21
 rating: 4
 meal: dinner
-address: 2/134 Grace Road, Tūrangi 3382
 country: New Zealand
 region: Waikato
+city: Tūrangi
 suburb: Tūrangi
+address: 2/134 Grace Road, Tūrangi 3382
 website: https://www.hareandcopper.co.nz/
 ---
 Cheesy garlic bread  

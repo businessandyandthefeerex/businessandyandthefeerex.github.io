@@ -5,10 +5,11 @@ title: Concord Bistro & Bar
 date: 2024-01-19
 rating: 2
 meal: dinner
-address: 81 Victoria Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 81 Victoria Street, Te Aro, Wellington 6011
 website: https://www.concordrestaurant.co.nz/
 ---
 Eye fillet with fries and Cafe de Paris butter  

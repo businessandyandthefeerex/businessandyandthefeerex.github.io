@@ -5,10 +5,11 @@ title: Thai Country Cafe
 date: 2025-01-31
 rating: 2
 meal: dinner
-address: Tawa Barber Shop 124 Main Road, Tawa, Wellington 5028
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Tawa
+address: Tawa Barber Shop 124 Main Road, Tawa, Wellington 5028
 website: 
 ---
 Red curry with kumara and pineapple  

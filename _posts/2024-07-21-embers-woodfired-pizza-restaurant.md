@@ -5,10 +5,11 @@ title: Embers Woodfired Pizza Restaurant
 date: 2024-07-21
 rating: 4
 meal: dinner
-address: State Highway 1, Rosehill, Auckland 2113
 country: Australia
 region: Western Australia
+city: Perth
 suburb: Perth
+address: State Highway 1, Rosehill, Auckland 2113
 website: https://www.emberswoodfired.com.au/
 ---
 Blue cheese gnocchi  

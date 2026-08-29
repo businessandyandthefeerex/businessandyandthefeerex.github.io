@@ -5,10 +5,11 @@ title: Oreti Restaurant
 date: 2021-10-25
 rating: 3
 meal: dinner
-address: Oreti Village 88 Pūkawa Road, Pukawa 3381
 country: New Zealand
 region: Waikato
+city: Oreti
 suburb: Oreti
+address: Oreti Village 88 Pūkawa Road, Pukawa 3381
 website: https://www.oretivillage.com/restaurant/
 ---
 Duck thigh, with roast carrot purée, roast potatoes, broccolini, and a port wine reduction  

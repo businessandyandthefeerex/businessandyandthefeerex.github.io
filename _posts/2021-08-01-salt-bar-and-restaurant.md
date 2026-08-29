@@ -5,10 +5,11 @@ title: Salt Bar & Restaurant
 date: 2021-08-01
 rating: 2
 meal: dinner
-address: 240 Forbury Road, St Clair, Dunedin 9012
 country: New Zealand
 region: Otago
+city: Dunedin
 suburb: Dunedin
+address: 240 Forbury Road, St Clair, Dunedin 9012
 website: https://saltbar.co.nz/
 ---
 Karaage chicken burger with chips  

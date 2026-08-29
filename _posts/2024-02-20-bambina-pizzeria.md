@@ -5,10 +5,11 @@ title: Bambina Pizzeria
 date: 2024-02-20
 rating: 2
 meal: dinner
-address: 1 Willis Street, Wellington Central, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Wellington Central
+address: 1 Willis Street, Wellington Central, Wellington 6011
 website: https://www.bambinapizzeria.co.nz/
 ---
 Italian sausage and hot honey pizza  

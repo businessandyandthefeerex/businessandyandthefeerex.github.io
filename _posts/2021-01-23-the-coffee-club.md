@@ -5,10 +5,11 @@ title: The Coffee Club
 date: 2021-01-23
 rating: 2
 meal: lunch
-address: 1 Marine Parade, Mount Maunganui 3116
 country: New Zealand
 region: Bay of Plenty
+city: Mount Maunganui
 suburb: Mount Maunganui
+address: 1 Marine Parade, Mount Maunganui 3116
 website: https://www.thecoffeeclub.co.nz/
 ---
 Beef brisket burger with chips 

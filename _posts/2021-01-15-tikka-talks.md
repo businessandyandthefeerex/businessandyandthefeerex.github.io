@@ -5,10 +5,11 @@ title: Tikka Talks
 date: 2021-01-15
 rating: 3
 meal: dinner
-address: 126 King Street, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Palmerston North
+city: Palmerston North Central
 suburb: Palmerston North Central
+address: 126 King Street, Palmerston North Central, Palmerston North 4410
 website: https://tikkatalkspalmerstonnorth.co.nz
 ---
 Poppadums with cumin seeds  

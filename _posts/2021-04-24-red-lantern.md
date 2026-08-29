@@ -5,10 +5,11 @@ title: Red Lantern
 date: 2021-04-24
 rating: 1
 meal: lunch
-address: Fitzherbert Avenue, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: Fitzherbert Avenue, Palmerston North Central, Palmerston North 4410
 website:
 ---
 Smorgasbord: pork wontons, steamed brocolli, vegetarian spring rolls, vegetarian samosas, fried noodles, sweet & sour pork, black bean pork, egg foo yong, prawn crackers

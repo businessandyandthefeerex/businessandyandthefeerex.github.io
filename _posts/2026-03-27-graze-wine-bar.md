@@ -5,10 +5,11 @@ title: Graze Wine Bar
 date: 2026-03-27
 rating: 3
 meal: dinner
-address: 95 Upland Road, Kelburn, Wellington 6012
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Kelburn
+address: 95 Upland Road, Kelburn, Wellington 6012
 website: http://www.grazewinebar.co.nz/
 ---
 Sourdough with olive oil  

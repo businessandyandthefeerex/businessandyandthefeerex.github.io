@@ -5,10 +5,11 @@ title: Yatai Japanese Izakaya Restaurant
 date: 2021-03-19
 rating: 4
 meal: dinner
-address: 316 Featherston Street, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 316 Featherston Street, Palmerston North Central, Palmerston North 4410
 website: https://www.yatai.co.nz/
 ---
 Chicken karaage  

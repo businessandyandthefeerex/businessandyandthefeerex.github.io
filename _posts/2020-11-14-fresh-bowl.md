@@ -5,10 +5,11 @@ title: Fresh Bowl
 date: 2020-11-14
 rating: 3
 meal: lunch
-address: 5 Grey Street, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Palmerston North
+city: Palmerston North Central
 suburb: Palmerston North Central
+address: 5 Grey Street, Palmerston North Central, Palmerston North 4410
 website: https://www.instagram.com/popular/fresh-bowl-palmerston-north/
 ---
 Fried noodles, cabbage, red cabbage, red onion, carrot, garlic aioli, sweet chilli, tofu, and Singapore Steak  

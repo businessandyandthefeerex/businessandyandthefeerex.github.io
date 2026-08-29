@@ -5,10 +5,11 @@ title: Queen Sally's Diamond Deli
 date: 2025-04-12
 rating: 2
 meal: lunch
-address: 6022/200 Queens Drive, Lyall Bay, Wellington 6022
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Lyall Bay
+address: 6022/200 Queens Drive, Lyall Bay, Wellington 6022
 website: http://www.queens.co.nz/
 ---
 Banana smoothie  

@@ -5,10 +5,11 @@ title: Office Bar
 date: 2024-06-02
 rating: 2
 meal: dinner
-address: 124 Riddiford Street, Newtown, Wellington 6021
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Newtown
+address: 124 Riddiford Street, Newtown, Wellington 6021
 website: https://www.officebar.co.nz/
 ---
 BBQ bacon & beef burger  

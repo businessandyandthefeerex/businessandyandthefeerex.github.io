@@ -5,10 +5,11 @@ title: Jack Hackett's Irish Pub
 date: 2023-10-18
 rating: 2
 meal: dinner
-address: 52 Taranaki Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 52 Taranaki Street, Te Aro, Wellington 6011
 website: https://gibbonshotel.co.nz/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_term=plcid_2151525032168407815
 ---
 Steak, eggs and chips  

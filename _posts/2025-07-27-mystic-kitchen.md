@@ -5,10 +5,11 @@ title: Mystic Kitchen
 date: 2025-07-27
 rating: 3
 meal: lunch
-address:  4 Glamis Avenue, Strathmore, Wellington 6022
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Strathmore
+address:  4 Glamis Avenue, Strathmore, Wellington 6022
 website: https://www.facebook.com/p/Mystic-Kitchen-100046589324463/ 
 ---
 Spinach & feta roll  

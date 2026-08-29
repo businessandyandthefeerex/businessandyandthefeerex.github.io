@@ -5,10 +5,11 @@ title: Urban Gusto
 date: 2024-02-24
 rating: 3
 meal: dinner
-address: 1122 Tutanekai Street, Rotorua 3010
 country: New Zealand
 region: Bay of Plenty
+city: Rotorua
 suburb: Rotorua
+address: 1122 Tutanekai Street, Rotorua 3010
 website: https://urbangusto.co.nz/
 ---
 Pear, gongonzola, rocket and pine nut pizza  

@@ -5,10 +5,11 @@ title: Spring Patisserie & Cafe
 date: 2021-09-11
 rating: 1
 meal: lunch
-address: 25 Manchester Square, Feilding 4702
 country: New Zealand
 region: Manawatu
+city: Feilding
 suburb: Feilding
+address: 25 Manchester Square, Feilding 4702
 website: 
 ---
 Savoury scone  

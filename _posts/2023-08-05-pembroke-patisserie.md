@@ -5,10 +5,11 @@ title: Pembroke Patisserie
 date: 2023-08-05
 rating: 4
 meal: breakfast
-address: 20 Alison Avenue, Albert Town 9382
 country: New Zealand
 region: Otago
+city: Albert Town
 suburb: Albert Town
+address: 20 Alison Avenue, Albert Town 9382
 website: https://www.pembrokepatisserie.co.nz/
 ---
 Caramel tart  

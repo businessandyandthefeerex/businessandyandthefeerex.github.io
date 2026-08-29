@@ -5,10 +5,11 @@ title: Leuven Belgium Beer Cafe
 date: 2022-05-20
 rating: 3
 meal: lunch
-address: 135-137 Featherston Street, Wellington Central, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Wellington Central
+address: 135-137 Featherston Street, Wellington Central, Wellington 6011
 website: https://www.restauranthub.co.nz/rh2/eats/in-region/wellington-region/in-city/wellington-city/in-suburb/wellington-central/belgian-beer-cafe-leuven/
 ---
 Venison meatballs  

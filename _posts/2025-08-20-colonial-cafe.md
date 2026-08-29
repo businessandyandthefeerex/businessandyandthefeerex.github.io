@@ -5,10 +5,11 @@ title: Colonial Cafe
 date: 2025-08-20
 rating: 2
 meal: lunch
-address: 41 The Terrace, Wellington Central, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Wellington Central
+address: 41 The Terrace, Wellington Central, Wellington 6011
 website: https://colonialcafelounge.com/
 ---
 Loaded wedges  

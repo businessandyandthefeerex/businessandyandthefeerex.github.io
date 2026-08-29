@@ -5,10 +5,11 @@ title: Soul Bar & Bistro
 date: 2021-02-12
 rating: 4
 meal: dinner
-address: Corner of Lower Hobson Street, Customs Street West, Auckland 1010
 country: New Zealand
 region: Auckland
+city: Auckland City Centre
 suburb: Auckland City Centre
+address: Corner of Lower Hobson Street, Customs Street West, Auckland 1010
 website: https://www.soulbar.co.nz/
 ---
 Chicken breast with kale pesto and a walnut crumb  

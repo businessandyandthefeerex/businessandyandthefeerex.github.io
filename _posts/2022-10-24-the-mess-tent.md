@@ -5,10 +5,11 @@ title: The Mess Tent
 date: 2022-10-24
 rating: 2
 meal: lunch
-address: Military museum, Waiouru 4861
 country: New Zealand
 region: Manawatu
+city: Waiouru
 suburb: Waiouru
+address: Military museum, Waiouru 4861
 website: https://www.armymuseum.co.nz/visit/the-mess-tent-cafe/
 ---
 Beef nachos  

@@ -5,10 +5,11 @@ title: Crack Chicken
 date: 2025-02-07
 rating: 2
 meal: dinner
-address: 1 Willis Street, Wellington, New Zealand
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Wellington Central
+address: 1 Willis Street, Wellington, New Zealand
 website: https://namugroup.co.nz/crackwellington/
 ---
 Classic fried chicken bowl  

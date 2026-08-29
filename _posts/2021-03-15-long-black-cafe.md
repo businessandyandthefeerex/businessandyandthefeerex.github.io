@@ -5,10 +5,11 @@ title: Long Black Cafe
 date: 2021-03-15
 rating: 2
 meal: lunch
-address: 585 Waitomo Caves Road, Otorohanga 3977
 country: New Zealand
 region: Waikato
+city: Otorohanga
 suburb: Otorohanga
+address: 585 Waitomo Caves Road, Otorohanga 3977
 website: 
 ---
 Banana smoothie  

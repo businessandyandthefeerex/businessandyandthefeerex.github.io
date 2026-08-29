@@ -5,10 +5,11 @@ title: Double Vision Brewery
 date: 2023-11-26
 rating: 1
 meal: lunch
-address: 128A Unit E, Park Road, Miramar, Wellington 6022
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Miramar
+address: 128A Unit E, Park Road, Miramar, Wellington 6022
 website: https://doublevisionbrewing.com/
 ---
 Marmite cheeseburger and chips  

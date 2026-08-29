@@ -5,10 +5,11 @@ title: Le Cafe Telephonique
 date: 2024-10-25
 rating: 2
 meal: lunch
-address: 8 Huia Street, Taihape 4720
 country: New Zealand
 region: Manawatu
+city: Taihape
 suburb: Taihape
+address: 8 Huia Street, Taihape 4720
 website: https://www.facebook.com/LeCafeTaihape/
 ---
 Onion bhaji  

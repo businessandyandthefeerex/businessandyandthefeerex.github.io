@@ -5,10 +5,11 @@ title: Rosie O'Grady's Irish Pub
 date: 2021-06-01
 rating: 3
 meal: dinner
-address: 96 Fitzherbert Avenue, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 96 Fitzherbert Avenue, Palmerston North Central, Palmerston North 4410
 website: http://rosieogradys.co.nz/
 ---
 Lamb pot pie with garlic bread  

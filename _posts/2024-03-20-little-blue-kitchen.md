@@ -5,10 +5,11 @@ title: Little Blue Kitchen
 date: 2024-03-20
 rating: 3
 meal: lunch
-address: 48 Hahei Beach Road, Hahei 3591
 country: New Zealand
 region: Coromandel
+city: Hahei
 suburb: Hahei
+address: 48 Hahei Beach Road, Hahei 3591
 website: https://littlebluehahei.co.nz/
 ---
 Vegan burrito  

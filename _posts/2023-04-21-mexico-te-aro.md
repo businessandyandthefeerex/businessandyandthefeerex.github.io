@@ -5,10 +5,11 @@ title: Mexico Te Aro
 date: 2023-04-21
 rating: 3
 meal: dinner
-address: 41 Dixon Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 41 Dixon Street, Te Aro, Wellington 6011
 website: http://www.mexico.nz/
 ---
 Guacamole with totopos

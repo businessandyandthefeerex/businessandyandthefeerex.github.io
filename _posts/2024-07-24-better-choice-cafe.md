@@ -5,10 +5,11 @@ title: Better Choice Cafe
 date: 2024-07-24
 rating: 1
 meal: lunch
-address: 211 Bussell Hwy, Margaret River WA 6285, Australia
 country: Australia
 region: Western Australia
+city: Margaret River
 suburb: Margaret River
+address: 211 Bussell Hwy, Margaret River WA 6285, Australia
 website: https://www.facebook.com/BetterChoiceMargs/
 ---
 Chicken and cheese crumbed sausage  

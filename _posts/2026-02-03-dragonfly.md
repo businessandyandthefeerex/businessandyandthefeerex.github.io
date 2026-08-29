@@ -5,10 +5,11 @@ title: Dragonfly
 date: 2026-02-03
 rating: 4
 meal: dinner
-address: 70 Courtenay Place, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 70 Courtenay Place, Te Aro, Wellington 6011
 website: http://www.dragon-fly.co.nz/
 ---
 Popcorn chicken  

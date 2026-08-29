@@ -5,10 +5,11 @@ title: Beaver & Bear
 date: 2021-11-19
 rating: 4
 meal: dinner
-address: 3 Campbell Street, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: 3 Campbell Street
 suburb: 3 Campbell Street
+address: 3 Campbell Street, Palmerston North Central, Palmerston North 4410
 website: https://www.beaverandbear.co.nz/
 ---
 Newfie poutine  

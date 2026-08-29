@@ -5,10 +5,11 @@ title: Focal Point Cinema & Cafe
 date: 2021-03-20
 rating: 2
 meal: lunch
-address: 81 Manchester Street, Feilding 4702
 country: New Zealand
 region: Manwatu
+city: Feilding
 suburb: Feilding
+address: 81 Manchester Street, Feilding 4702
 website: https://www.focalpointcinema.co.nz/
 ---
 Beef nachos  

@@ -5,10 +5,11 @@ title: Ozeki Cafe & Bar
 date: 2025-05-09
 rating: 2
 meal: dinner
-address: 161 Tory Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 161 Tory Street, Te Aro, Wellington 6011
 website: https://www.ozeki.co.nz/
 ---
 Gyoza  

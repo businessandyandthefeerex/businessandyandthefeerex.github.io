@@ -5,10 +5,11 @@ title: Caffe L'affare
 date: 2025-09-13
 rating: 4
 meal: lunch
-address: 27 College Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 27 College Street, Te Aro, Wellington 6011
 website: https://www.laffare.co.nz/cafe-wellington/
 ---
 Pork katsu sandwich  

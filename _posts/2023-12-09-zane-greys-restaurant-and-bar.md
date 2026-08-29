@@ -5,10 +5,11 @@ title: Zane Grey's Restaurant & Bar
 date: 2023-12-09
 rating: 1
 meal: dinner
-address: 69 Marsden Road, Paihia 0200
 country: New Zealand
 region: Northland
+city: Paihia
 suburb: Paihia
+address: 69 Marsden Road, Paihia 0200
 website: N/A
 ---
 Fish chips and salad  

@@ -5,10 +5,11 @@ title: Araucaria
 date: 2024-02-23
 rating: 1
 meal: dinner
-address: 462 Adelaide Road, Berhampore, Wellington 6023
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Berhampore
+address: 462 Adelaide Road, Berhampore, Wellington 6023
 website: 
 ---
 Margherita pizza  

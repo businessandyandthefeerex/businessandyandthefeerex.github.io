@@ -5,10 +5,11 @@ title: Rainbow Playlab Cafe
 date: 2023-07-19
 rating: 2
 meal: lunch
-address: 2 Clist Crescent, Manukau City Centre, Auckland 2104
 country: New Zealand
 region: Auckland
+city: Manukau City Centre
 suburb: Manukau City Centre
+address: 2 Clist Crescent, Manukau City Centre, Auckland 2104
 website: https://rainbowsend.co.nz/rainbow-playlab/cafe
 ---
 Feta and spinach roll  

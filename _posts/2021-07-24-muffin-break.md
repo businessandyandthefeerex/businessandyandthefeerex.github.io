@@ -5,10 +5,11 @@ title: Muffin Break
 date: 2021-07-24
 rating: 1
 meal: lunch
-address: The Plaza Shopping Centre 100 The Square, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: The Plaza Shopping Centre 100 The Square, Palmerston North Central, Palmerston North 4410
 website: https://muffinbreak.co.nz/
 ---
 Feta, pine nut and spinach quiche  

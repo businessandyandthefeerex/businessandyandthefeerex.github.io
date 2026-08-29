@@ -5,10 +5,11 @@ title: Spice Traders
 date: 2022-11-05
 rating: 1
 meal: dinner
-address: 45 Jackson Street, Petone, Lower Hutt 5012
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Petone
+address: 45 Jackson Street, Petone, Lower Hutt 5012
 website: https://www.facebook.com/spicetraderspetone/
 ---
 Butter chicken with rice and cheese & garlic naan

@@ -5,10 +5,11 @@ title: Kapadokya Mediterranean & Turkish Cuisine
 date: 2021-09-10
 rating: 3
 meal: dinner
-address: 64 George Street, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: 64 George Street
 suburb: 64 George Street
+address: 64 George Street, Palmerston North Central, Palmerston North 4410
 website: https://kapadokyamediteraneanturkish.co.nz/
 ---
 Open Adana burger  

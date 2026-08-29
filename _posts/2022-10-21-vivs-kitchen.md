@@ -5,10 +5,11 @@ title: Vivs Kitchen
 date: 2022-10-21
 rating: 2
 meal: lunch
-address: 9 Dundas Road, Sanson 4817
 country: New Zealand
 region: Manwatu
+city: Sanson
 suburb: Sanson
+address: 9 Dundas Road, Sanson 4817
 website: http://vivskitchen.co.nz/
 ---
 Boysenberry cream horn  

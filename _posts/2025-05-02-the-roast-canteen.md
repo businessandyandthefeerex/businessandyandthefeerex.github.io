@@ -5,10 +5,11 @@ title: The Roast Canteen
 date: 2025-05-02
 rating: 2
 meal: dinner
-address: 7 Johnsonville Road, Johnsonville, Wellington 6037
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Johnsonville
+address: 7 Johnsonville Road, Johnsonville, Wellington 6037
 website: 
 ---
 Roast lamb with mint sauce, gravy, and veges  

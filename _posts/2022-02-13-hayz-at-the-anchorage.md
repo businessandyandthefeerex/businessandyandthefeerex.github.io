@@ -5,10 +5,11 @@ title: Hayz at the Anchorage
 date: 2022-02-13
 rating: 1
 meal: dinner
-address: 86 Gore Street, Bluff 9814
 country: New Zealand
 region: Southland
+city: Bluff
 suburb: Bluff
+address: 86 Gore Street, Bluff 9814
 website: https://www.hayzattheanchorage.com/
 ---
 Half roast mutton bird with stuffing, blueberry jus, seasonal vegetables, and mash  

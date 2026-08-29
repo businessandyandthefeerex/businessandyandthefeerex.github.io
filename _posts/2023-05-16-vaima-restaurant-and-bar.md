@@ -5,10 +5,11 @@ title: Vaima Restaurant & Bar
 date: 2023-05-16
 rating: 1
 meal: dinner
-address: Ara Tapu, Takitumu District, Cook Islands
 country: Cook Islands
 region: Rarotonga
+city: Takitumu District
 suburb: Takitumu District
+address: Ara Tapu, Takitumu District, Cook Islands
 website: http://www.vaimarestaurant.com/
 ---
 Roast pork belly with honey glazed carrots and dauphinoise potato  

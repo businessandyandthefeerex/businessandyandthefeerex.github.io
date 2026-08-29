@@ -5,10 +5,11 @@ title: 1852 Pub & Kitchen
 date: 2026-08-07
 rating: 2
 meal: dinner
-address: 55 Cleveland Street, Brooklyn, Wellington 6021
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Brooklyn
+address: 55 Cleveland Street, Brooklyn, Wellington 6021
 website: https://www.1852pubandkitchen.co.nz/
 ---
 Cheese pizza  

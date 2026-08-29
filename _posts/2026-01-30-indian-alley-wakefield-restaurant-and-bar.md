@@ -5,10 +5,11 @@ title: Indian Alley Wakefield Restaurant and Bar
 date: 2026-01-30
 rating: 3
 meal: dinner
-address: 3/290 Wakefield Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 3/290 Wakefield Street, Te Aro, Wellington 6011
 website: https://indianalley.co.nz/
 ---
 Chicken lollipops  

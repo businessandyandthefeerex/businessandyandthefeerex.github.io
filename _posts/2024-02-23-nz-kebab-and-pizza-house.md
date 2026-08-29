@@ -5,10 +5,11 @@ title: NZ Kebab & Pizza House
 date: 2024-02-23
 rating: 2
 meal: dinner
-address: 346/352 Te Ngae Road, Lynmore, Rotorua 3010
 country: New Zealand
 region: Bay of Plenty
+city: Rotorua
 suburb: Rotorua
+address: 346/352 Te Ngae Road, Lynmore, Rotorua 3010
 website: https://www.nzkebabandpizzahouse.nz/
 ---
 Paneer iskender  

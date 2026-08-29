@@ -5,10 +5,11 @@ title: The Inn Keeper of Johnsonville
 date: 2023-05-27
 rating: 1
 meal: dinner
-address: 11-13 Broderick Road, Johnsonville, Wellington 6037
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Johnsonville
+address: 11-13 Broderick Road, Johnsonville, Wellington 6037
 website: http://www.theinnkeeper.co.nz/
 ---
 Beef & Guinness pie with salad  

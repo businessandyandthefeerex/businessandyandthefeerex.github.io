@@ -5,10 +5,11 @@ title: Thai House Express
 date: 2021-10-15
 rating: 2
 meal: dinner
-address: 70 Broadway Avenue, Fitzherbert, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 70 Broadway Avenue, Fitzherbert, Palmerston North 4410
 website: https://www.facebook.com/thaihouseexpresspalmy/
 ---
 Tofu pad thai  

@@ -5,10 +5,11 @@ title: Hyderabadi House
 date: 2024-10-11
 rating: 3
 meal: dinner
-address: 128 Johnsonville Road, Johnsonville, Wellington 6037
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Johnsonville
+address: 128 Johnsonville Road, Johnsonville, Wellington 6037
 website: https://www.hyderabadihouse.nz/
 ---
 Chicken biryani  

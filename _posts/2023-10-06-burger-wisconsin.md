@@ -5,10 +5,11 @@ title: Burger Wisconsin
 date: 2023-10-06
 rating: 2
 meal: dinner
-address: 57 Cleveland Street, Brooklyn, Wellington 6021
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Brooklyn
+address: 57 Cleveland Street, Brooklyn, Wellington 6021
 website: http://www.burgerwisconsin.co.nz/
 ---
 Charlie Brown burger  

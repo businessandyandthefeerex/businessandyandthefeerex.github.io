@@ -5,10 +5,11 @@ title: The Old Quarter
 date: 2026-01-06
 rating: 3
 meal: dinner
-address: 39 Dixon Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 39 Dixon Street, Te Aro, Wellington 6011
 website: theoldquarter.co.nz
 ---
 Crispy pork spring rolls  

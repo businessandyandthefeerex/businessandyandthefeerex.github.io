@@ -5,10 +5,11 @@ title: Saigon Lunch Bar
 date: 2021-09-18
 rating: 2
 meal: lunch
-address: 15 Fitzherbert Avenue, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 15 Fitzherbert Avenue, Palmerston North Central, Palmerston North 4410
 website: https://www.instagram.com/saigon_garden_nz
 ---
 Beef lemongrass bahn mi  

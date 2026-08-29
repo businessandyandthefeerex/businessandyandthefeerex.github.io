@@ -5,10 +5,11 @@ title: Windermere Berry Farm
 date: 2024-12-28
 rating: 3
 meal: lunch
-address: 313 State Highway 3, Whanganui 4574
 country: New Zealand
 region: Whanganui
+city: Whanganui
 suburb: Whanganui
+address: 313 State Highway 3, Whanganui 4574
 website: http://www.windermerefarms.co.nz/
 ---
 Pancakes with maple syrup, strawberry and cream  

@@ -5,10 +5,11 @@ title: The Daily Grind
 date: 2021-10-16
 rating: 1
 meal: lunch
-address: 79-81 Ruahine Street, Palmerston North, New Zealand
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 79-81 Ruahine Street, Palmerston North, New Zealand
 website: https://www.facebook.com/thedailygrindpalmy/
 ---
 Beef burger with chips  

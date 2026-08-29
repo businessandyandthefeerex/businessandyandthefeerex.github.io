@@ -5,10 +5,11 @@ title: Best Ugly Bagels
 date: 2022-02-13
 rating: 2
 meal: lunch
-address: Best Ugly Bagels, 5 Swan Lane, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: Best Ugly Bagels, 5 Swan Lane, Te Aro, Wellington 6011
 website: https://www.bestugly.co.nz/
 ---
 Yodi bagel: pastrami, Swiss cheese, mustard, pickle  

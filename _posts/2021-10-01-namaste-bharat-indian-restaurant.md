@@ -5,10 +5,11 @@ title: Namaste Bharat Indian Restaurant
 date: 2021-10-01
 rating: 2
 meal: dinner
-address: 61 The Square, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: 61 The Square
 suburb: 61 The Square
+address: 61 The Square, Palmerston North Central, Palmerston North 4410
 website: https://namastebharat.co.nz/
 ---
 Sahi paneer with butter naan and rice  

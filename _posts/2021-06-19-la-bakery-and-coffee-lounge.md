@@ -5,10 +5,11 @@ title: LA Bakery & Coffee Lounge
 date: 2021-06-19
 rating: 1
 meal: lunch
-address: 325 Broadway Avenue, Palmerston North Central, Palmerston North 4414
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 325 Broadway Avenue, Palmerston North Central, Palmerston North 4414
 website: 
 ---
 Fish and chips  

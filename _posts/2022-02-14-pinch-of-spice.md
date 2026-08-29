@@ -5,10 +5,11 @@ title: Pinch of Spice
 date: 2022-02-14
 rating: 3
 meal: dinner
-address: 7 Clyde Street, City Centre, Invercargill 9810
 country: New Zealand
 region: Southland
+city: Invercargill
 suburb: Invercargill
+address: 7 Clyde Street, City Centre, Invercargill 9810
 website: https://pinchofspicetakeaway.co.nz/
 ---
 Onion bhaji  

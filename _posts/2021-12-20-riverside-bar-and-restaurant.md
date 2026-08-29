@@ -5,10 +5,11 @@ title: Riverside Bar & Restaurant
 date: 2021-12-20
 rating: 2
 meal: dinner
-address: 25 Te Arahori Street, Tūrangi 3334
 country: New Zealand
 region: Waikato
+city: Tūrangi
 suburb: Tūrangi
+address: 25 Te Arahori Street, Tūrangi 3334
 website: https://parklandsmotorlodge.co.nz/restaurant
 ---
 Scotch fillet with chips, carrots and asparagus  

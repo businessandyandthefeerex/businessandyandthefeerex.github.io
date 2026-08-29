@@ -5,10 +5,11 @@ title: Toastie Lords - Picton
 date: 2022-01-28
 rating: 4
 meal: breakfast
-address: 10 London Quay, Picton 7220
 country: New Zealand
 region: Marlborough
+city: Picton
 suburb: Picton
+address: 10 London Quay, Picton 7220
 website: http://www.toastielords.co.nz/
 ---
 Ivan toastie: pastrami, sauerkraut, pickles, cheese  

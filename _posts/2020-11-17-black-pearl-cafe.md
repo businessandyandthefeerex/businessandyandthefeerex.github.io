@@ -5,10 +5,11 @@ title: Black Pearl Cafe
 date: 2020-11-17
 rating: 1
 meal: dinner
-address: 91 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Palmerston North
+city: Palmerston North Central
 suburb: Palmerston North Central
+address: 91 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 website: http://www.blackpearlcafe.co.nz/
 ---
 Spring rolls  

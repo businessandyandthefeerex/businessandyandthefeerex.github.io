@@ -5,10 +5,11 @@ title: The Black Dog Kitchen & Bar
 date: 2021-07-31
 rating: 3
 meal: dinner
-address: 109 Princes Street, Dunedin 9016
 country: New Zealand
 region: Otago
+city: Dunedin
 suburb: Dunedin
+address: 109 Princes Street, Dunedin 9016
 website: https://blackdogdunedin.nz/
 ---
 Black dog burger with chips  

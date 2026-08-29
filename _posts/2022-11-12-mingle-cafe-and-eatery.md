@@ -5,10 +5,11 @@ title: Mingle Cafe & Eatery
 date: 2022-11-12
 rating: 1
 meal: dinner
-address: 461 Adelaide Road, Berhampore, Wellington 6023
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Berhampore
+address: 461 Adelaide Road, Berhampore, Wellington 6023
 website: http://www.sprigandfernberhampore.co.nz/
 ---
 Southern style chicken wrap  

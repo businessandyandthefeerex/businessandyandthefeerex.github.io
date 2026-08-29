@@ -5,10 +5,11 @@ title: Alasia Seafood (Joe's Cook Miramar)
 date: 2024-06-08
 rating: 2
 meal: dinner
-address: 37 Miramar Avenue, Miramar, Wellington 6022
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Miramar
+address: 37 Miramar Avenue, Miramar, Wellington 6022
 website: 
 ---
 Fried chicken nibbles with chips  

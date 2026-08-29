@@ -5,10 +5,11 @@ title: Mother Of Coffee
 date: 2023-01-26
 rating: 3
 meal: dinner
-address: 210A left bank, Cuba Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 210A left bank, Cuba Street, Te Aro, Wellington 6011
 website: https://motherofcoffee.co.nz/
 ---
 Vegan shared meal for three 

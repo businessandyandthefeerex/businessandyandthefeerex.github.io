@@ -5,10 +5,11 @@ title: Flavour Bistro
 date: 2022-04-21
 rating: 2
 meal: dinner
-address: 493 Main Street, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 493 Main Street, Palmerston North Central, Palmerston North 4410
 website: https://www.facebook.com/FlavourBistro/
 ---
 Bruschetta  

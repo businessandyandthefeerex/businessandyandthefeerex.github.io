@@ -5,10 +5,11 @@ title: Ayhan’s Turkish Cafe
 date: 2024-07-19
 rating: 3
 meal: dinner
-address: 51 George St, Kensington WA 6151
 country: Australia
 region: Western Australia
+city: Perth
 suburb: Perth
+address: 51 George St, Kensington WA 6151
 website: http://www.ayhanscafe.com.au/
 ---
 Spinach and feta gozleme  

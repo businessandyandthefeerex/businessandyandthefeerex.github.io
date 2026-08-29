@@ -5,10 +5,11 @@ title: Tandoori Dhaba
 date: 2022-10-07
 rating: 2
 meal: dinner
-address: 5 Mark Avenue, Paparangi, Wellington 6037
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Paparangi
+address: 5 Mark Avenue, Paparangi, Wellington 6037
 website: https://tandooridhaba.nz/
 ---
 Malai kofta with plain naan and rice  

@@ -5,10 +5,11 @@ title: Saffron Haveli
 date: 2024-12-07
 rating: 2
 meal: lunch
-address: 25 Kent Terrace, Mount Victoria, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Mount Victoria
+address: 25 Kent Terrace, Mount Victoria, Wellington 6011
 website: https://saffronhaveli.co.nz/
 ---
 Malai kofta  

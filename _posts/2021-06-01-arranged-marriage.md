@@ -5,10 +5,11 @@ title: Arranged Marriage
 date: 2021-06-01
 rating: 4
 meal: dinner
-address: 32 B The Square, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 32 B The Square, Palmerston North Central, Palmerston North 4410
 website: https://www.arrangedmarriage.co.nz/
 ---
 Masala dosa  

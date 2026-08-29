@@ -5,10 +5,11 @@ title: Suncourt Indian
 date: 2024-10-26
 rating: 2
 meal: lunch
-address: 19 Tamamutu Street, Taupō 3330
 country: New Zealand
 region: Waikato
+city: Taupō
 suburb: Taupō
+address: 19 Tamamutu Street, Taupō 3330
 website: https://suncourtindian.co.nz/
 ---
 Shahi paneer  

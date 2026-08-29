@@ -5,10 +5,11 @@ title: Mission Estate Winery
 date: 2021-03-15
 rating: 4
 meal: dinner
-address: 198 Church Road, Poraiti, Napier 4112
 country: New Zealand
 region: Hawkes Bay
+city: Napier
 suburb: Napier
+address: 198 Church Road, Poraiti, Napier 4112
 website: https://missionestate.co.nz/restaurant/
 ---
 House made loaf with olive oil, balsamic, and dukkha  

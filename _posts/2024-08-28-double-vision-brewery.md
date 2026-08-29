@@ -5,10 +5,11 @@ title: Double Vision Brewery
 date: 2024-08-28
 rating: 2
 meal: lunch
-address: 128A Unit E, Park Road, Miramar, Wellington 6022
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Miramar
+address: 128A Unit E, Park Road, Miramar, Wellington 6022
 website: https://doublevisionbrewing.com/
 ---
 Vegetarian philly cheese steak  

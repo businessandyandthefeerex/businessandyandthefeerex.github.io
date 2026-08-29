@@ -5,10 +5,11 @@ title: Provenance
 date: 2022-01-21
 rating: 4
 meal: dinner
-address: 159 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 159 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 website: http://www.provenancemanawatu.co.nz
 ---
 Bruschetta  

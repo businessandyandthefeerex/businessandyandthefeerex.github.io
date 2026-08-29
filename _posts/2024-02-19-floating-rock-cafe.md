@@ -5,10 +5,11 @@ title: Floating Rock Cafe
 date: 2024-02-19
 rating: 3
 meal: dinner
-address: 30 Riverpark Drive, Kuratau 3381
 country: New Zealand
 region: Waikato
+city: Kurutau
 suburb: Kurutau
+address: 30 Riverpark Drive, Kuratau 3381
 website: https://www.facebook.com/p/Floating-Rock-Cafe-100063579282410/
 ---
 Spicy volcano pizza  

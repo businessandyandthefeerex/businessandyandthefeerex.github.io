@@ -5,10 +5,11 @@ title: Kilim Petone
 date: 2024-12-22
 rating: 3
 meal: lunch
-address: 87 Jackson Street, Petone, Lower Hutt 5012
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Petone
+address: 87 Jackson Street, Petone, Lower Hutt 5012
 website: http://www.kilim.co.nz/
 ---
 Zucchini and carrot fritter kebab  

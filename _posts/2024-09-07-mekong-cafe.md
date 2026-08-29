@@ -5,10 +5,11 @@ title: Mekong Cafe
 date: 2024-09-07
 rating: 2
 meal: dinner
-address: 138 Vivian Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 138 Vivian Street, Te Aro, Wellington 6011
 website: https://mekongonline.co.nz/
 ---
 Chicken curry with rice  

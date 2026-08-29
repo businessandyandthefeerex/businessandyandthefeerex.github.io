@@ -5,10 +5,11 @@ title: Cafe Lacus
 date: 2025-10-25
 rating: 1
 meal: lunch
-address: 650 Lake Terrace, Wharewaka, Taupō 3330
 country: New Zealand
 region: Waikato
+city: Taupō
 suburb: Taupō
+address: 650 Lake Terrace, Wharewaka, Taupō 3330
 website: http://cafelacus.co.nz/
 ---
 Mushroom arancini ball  

@@ -5,10 +5,11 @@ title: Cafe Express
 date: 2021-01-22
 rating: 1
 meal: dinner
-address: The Grand Building, 41 The Square, Palmerston North 4410
 country: New Zealand
 region: Palmerston North
+city: Palmerston North Central
 suburb: Palmerston North Central
+address: The Grand Building, 41 The Square, Palmerston North 4410
 website: http://www.cafeexpress.net.nz/
 ---
 Meatlovers pizza  

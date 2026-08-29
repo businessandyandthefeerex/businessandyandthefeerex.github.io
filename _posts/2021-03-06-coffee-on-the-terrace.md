@@ -5,10 +5,11 @@ title: Coffee On The Terrace
 date: 2021-03-06
 rating: 1
 meal: lunch
-address: 361 Broadway Avenue, Terrace End, Roslyn, Palmerston North 4414
 country: New Zealand
 region: Manawatu
+city: Roslyn
 suburb: Roslyn
+address: 361 Broadway Avenue, Terrace End, Roslyn, Palmerston North 4414
 website: 
 ---
 Sweet chilli chicken calzone  

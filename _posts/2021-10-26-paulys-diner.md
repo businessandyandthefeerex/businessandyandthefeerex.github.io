@@ -5,10 +5,11 @@ title: Pauly's Diner
 date: 2021-10-26
 rating: 4
 meal: lunch
-address: 3 Pāora Hapi Street, Taupō 3330
 country: New Zealand
 region: Waikato
+city: Taupō
 suburb: Taupō
+address: 3 Pāora Hapi Street, Taupō 3330
 website: https://www.paulysdiner.co.nz/
 ---
 Chicken burger  

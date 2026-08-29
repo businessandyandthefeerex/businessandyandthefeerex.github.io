@@ -5,10 +5,11 @@ title: Kopi-Tiam Cafe
 date: 2023-05-29
 rating: 3
 meal: dinner
-address: 131 The Parade, Island Bay, Wellington 6023
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Island Bay
+address: 131 The Parade, Island Bay, Wellington 6023
 website: 
 ---
 Tofu goreng  

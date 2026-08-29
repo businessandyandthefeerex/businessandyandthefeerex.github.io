@@ -5,10 +5,11 @@ title: Saigon Restaurant
 date: 2026-01-22
 rating: 2
 meal: dinner
-address: 327 Broadway Avenue, Palmerston North Central, Palmerston North 4414
 country: New Zealand
 region: Palmerston North
+city: Palmerston North Central
 suburb: Palmerston North Central
+address: 327 Broadway Avenue, Palmerston North Central, Palmerston North 4414
 website: http://www.saigon.nz/
 ---
 Grilled pork wrap  

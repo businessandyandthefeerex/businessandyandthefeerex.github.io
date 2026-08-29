@@ -5,10 +5,11 @@ title: Southern Cross Garden Bar Restaurant
 date: 2021-12-12
 rating: 2
 meal: lunch
-address: 39 Abel Smith Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 39 Abel Smith Street, Te Aro, Wellington 6011
 website: https://stargroup.nz/venues/southerncross
 ---
 Pork belly bites  

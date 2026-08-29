@@ -5,10 +5,11 @@ title: Nanny's Eatery
 date: 2023-12-06
 rating: 3
 meal: dinner
-address: 492 New North Road, Kingsland, Auckland 1021
 country: New Zealand
 region: Auckland
+city: Kingsland
 suburb: Kingsland
+address: 492 New North Road, Kingsland, Auckland 1021
 website: https://nannyseatery.com/
 ---
 Chicken empanadas  

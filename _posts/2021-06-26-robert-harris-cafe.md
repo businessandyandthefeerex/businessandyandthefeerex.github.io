@@ -5,10 +5,11 @@ title: Robert Harris Cafe
 date: 2021-06-26
 rating: 3
 meal: lunch
-address: 73 The Square, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Palmerston North
+city: 3 Vernon Drive
 suburb: 3 Vernon Drive
+address: 73 The Square, Palmerston North Central, Palmerston North 4410
 website: https://robertharris.co.nz/
 ---
 Keto toasted sandwich  

@@ -5,10 +5,11 @@ title: The Verdict
 date: 2022-04-09
 rating: 2
 meal: lunch
-address: 32a The Square, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 32a The Square, Palmerston North Central, Palmerston North 4410
 website: https://www.theverdictcafe.com/
 ---
 Banana smoothie  

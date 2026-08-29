@@ -5,10 +5,11 @@ title: Miss Lucy's
 date: 2023-08-05
 rating: 2
 meal: dinner
-address: Rooftop/47 Camp Street, Queenstown 9300
 country: New Zealand
 region: Otago
+city: Queenstown
 suburb: Queenstown
+address: Rooftop/47 Camp Street, Queenstown 9300
 website: https://www.misslucys.co.nz/queenstown/
 ---
 Margarita pizza  

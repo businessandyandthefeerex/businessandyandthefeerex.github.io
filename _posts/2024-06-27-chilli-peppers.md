@@ -5,10 +5,11 @@ title: Chilli Peppers
 date: 2024-06-27
 rating: 2
 meal: dinner
-address: 48 Rongotai Road, Kilbirnie, Wellington 6022
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Kilbirnie
+address: 48 Rongotai Road, Kilbirnie, Wellington 6022
 website: http://www.chillipeppers.co.nz/
 ---
 Butter chicken with rice  

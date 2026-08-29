@@ -5,10 +5,11 @@ title: Madly Indian
 date: 2023-12-08
 rating: 3
 meal: dinner
-address: 342 Kerikeri Road, Kerikeri 0230
 country: New Zealand
 region: Northland
+city: Kerikeri
 suburb: Kerikeri
+address: 342 Kerikeri Road, Kerikeri 0230
 website: https://madlyindian.co.nz/
 ---
 Lamb do pyaza  

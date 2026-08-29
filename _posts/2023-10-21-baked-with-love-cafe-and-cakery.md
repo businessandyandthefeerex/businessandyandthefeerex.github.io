@@ -5,10 +5,11 @@ title: Baked With Love Cafe & Cakery
 date: 2023-10-21
 rating: 3
 meal: lunch
-address: 11 Gascoigne Street, Taupō 3330
 country: New Zealand
 region: Waikato
+city: Taupō
 suburb: Taupō
+address: 11 Gascoigne Street, Taupō 3330
 website: https://bakedwithlove.co.nz/
 ---
 Pumpkin tart  

@@ -5,10 +5,11 @@ title: Riverstone Kitchen
 date: 2023-06-19
 rating: 4
 meal: lunch
-address: 1431 Glenavy-Hilderthorpe Road, Waitaki Bridge 9493
 country: New Zealand
 region: Otago
+city: Oamaru
 suburb: Oamaru
+address: 1431 Glenavy-Hilderthorpe Road, Waitaki Bridge 9493
 website: https://www.riverstonekitchen.co.nz/
 ---
 Pumpkin soup  

@@ -5,10 +5,11 @@ title: Clearview Estate
 date: 2025-04-20
 rating: 3
 meal: lunch
-address: 194 Clifton Road, Te Awanga 4180
 country: New Zealand
 region: Hawkes Bay
+city: Te Awanga
 suburb: Te Awanga
+address: 194 Clifton Road, Te Awanga 4180
 website: https://www.clearviewestate.co.nz/
 ---
 Bread with butter and hummus  

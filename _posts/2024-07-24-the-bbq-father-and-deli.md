@@ -5,10 +5,11 @@ title: The BBQ Father & Deli
 date: 2024-07-24
 rating: 2
 meal: dinner
-address: 1112 Murat Rd, Exmouth WA 6707, Australia
 country: Australia
 region: Western Australia
+city: Exmouth
 suburb: Exmouth
+address: 1112 Murat Rd, Exmouth WA 6707, Australia
 website: https://thebbqfather.com.au/
 ---
 Beef brisket, chips and coleslaw  

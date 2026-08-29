@@ -5,10 +5,11 @@ title: Indian Sweets & Snacks
 date: 2022-02-13
 rating: 1
 meal: dinner
-address: 176 Riddiford Street, Newtown, Wellington 6021
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Newtown
+address: 176 Riddiford Street, Newtown, Wellington 6021
 website: 
 ---
 Chicken jalfrezi  

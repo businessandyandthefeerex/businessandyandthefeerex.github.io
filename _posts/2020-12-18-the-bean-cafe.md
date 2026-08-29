@@ -5,10 +5,11 @@ title: The Bean Cafe
 date: 2020-12-18
 rating: 1
 meal: dinner
-address: 92 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Palmerston North
+city: Palmerston North Central
 suburb: Palmerston North Central
+address: 92 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 website: https://www.facebook.com/beancafe/
 ---
 Honey glazed beef hot plate with rice  

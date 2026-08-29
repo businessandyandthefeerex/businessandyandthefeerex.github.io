@@ -5,10 +5,11 @@ title: Yellow Chilli Indian Restarant
 date: 2024-05-08
 rating: 3
 meal: dinner
-address: 92 Upland Road, Kelburn, Wellington 6012
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Kelburn
+address: 92 Upland Road, Kelburn, Wellington 6012
 website: https://www.theyellowchilli.co.nz/#menu
 ---
 Paneer lahori with rice  

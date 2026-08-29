@@ -5,10 +5,11 @@ title: Strathmore Local
 date: 2025-09-12
 rating: 1
 meal: dinner
-address: 3/5 Strathmore Avenue, Strathmore Park, Wellington 6022
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Strathmore Park
+address: 3/5 Strathmore Avenue, Strathmore Park, Wellington 6022
 website: https://www.strathmorelocal.co.nz/
 ---
 Mac & cheese  

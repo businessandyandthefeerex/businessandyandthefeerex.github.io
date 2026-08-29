@@ -5,10 +5,11 @@ title: The Cutting Sports Cafe & Long Thai
 date: 2024-07-05
 rating: 2
 meal: dinner
-address: 32 Miramar Avenue, Miramar, Wellington 6022
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Miramar
+address: 32 Miramar Avenue, Miramar, Wellington 6022
 website: https://longthai.co.nz/
 ---
 Fish burger with chips  

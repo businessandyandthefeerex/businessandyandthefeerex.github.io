@@ -5,10 +5,11 @@ title: The Cheese Barn at Matatoki
 date: 2024-03-20
 rating: 2
 meal: lunch
-address: 4 Wainui Road, Matatoki 3578
 country: New Zealand
 region: Coromandel
+city: Matatoki
 suburb: Matatoki
+address: 4 Wainui Road, Matatoki 3578
 website: https://thecheesebarn.co.nz/
 ---
 Cheese and relish toasted sandwich  

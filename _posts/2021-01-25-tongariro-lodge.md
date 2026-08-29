@@ -5,10 +5,11 @@ title: Tongariro Lodge
 date: 2021-01-25
 rating: 2
 meal: dinner
-address: 83 Grace Road, RD 2, Tūrangi 3382
 country: New Zealand
 region: Waikato
+city: Tūrangi
 suburb: Tūrangi
+address: 83 Grace Road, RD 2, Tūrangi 3382
 website: https://www.tongarirolodge.co.nz/
 ---
 John Dory on Israeli couscous with salsa  

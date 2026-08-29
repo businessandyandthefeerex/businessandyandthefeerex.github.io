@@ -5,10 +5,11 @@ title: Raw Balance Vegan Deli & Health Shop
 date: 2025-10-24
 rating: 1
 meal: lunch
-address: 19 Ohuanga Road, Tūrangi 3334
 country: New Zealand
 region: Waikato
+city: Tūrangi
 suburb: Tūrangi
+address: 19 Ohuanga Road, Tūrangi 3334
 website: http://www.instagram.com/rawbalancenz
 ---
 Mac’n’cheese  

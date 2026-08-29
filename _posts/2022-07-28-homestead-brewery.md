@@ -5,10 +5,11 @@ title: Homestead Brewery
 date: 2022-07-28
 rating: 2
 meal: lunch
-address: 10 Harris Rd, Caversham WA 6055, Australia
 country: Australia
 region: Western Australia
+city: Perth
 suburb: Perth
+address: 10 Harris Rd, Caversham WA 6055, Australia
 website: https://mandoonestate.com.au/eat-drink/homestead-brewery
 ---
 Chicken and veal burger with chips  

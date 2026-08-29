@@ -5,10 +5,11 @@ title: Essence Cafe & Bar
 date: 2021-05-03
 rating: 3
 meal: dinner
-address: 46 Manchester Street, Feilding 4702
 country: New Zealand
 region: Manawatu
+city: Feilding
 suburb: Feilding
+address: 46 Manchester Street, Feilding 4702
 website: https://essencecafefeilding.co.nz/
 ---
 Apple and mint arancini with salad and tandoori mayo  

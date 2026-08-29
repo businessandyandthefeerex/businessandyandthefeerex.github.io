@@ -5,10 +5,11 @@ title: Wholly Bagels & Pizza
 date: 2022-12-02
 rating: 2
 meal: dinner
-address: 39 Murphy Street, Thorndon, Wellington 6001
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Thorndon
+address: 39 Murphy Street, Thorndon, Wellington 6001
 website: http://www.whollybagels.co.nz/
 ---
 Pastrami bagel 

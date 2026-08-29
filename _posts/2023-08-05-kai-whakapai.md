@@ -5,10 +5,11 @@ title: Kai Whakapai
 date: 2023-08-05
 rating: 2
 meal: lunch
-address: 121 Ardmore Street, Wānaka 9305
 country: New Zealand
 region: Otago
+city: Wānaka
 suburb: Wānaka
+address: 121 Ardmore Street, Wānaka 9305
 website: https://kaiwhakapai.nz/
 ---
 Katsu chicken burger with chips and aioli  

@@ -5,10 +5,11 @@ title: Wildflower
 date: 2022-07-28
 rating: 3
 meal: dinner
-address: COMO The Treasury Level 4, 1 Cathedral Ave, Perth WA 6000, Australia
 country: Australia
 region: Western Australia
+city: Perth
 suburb: Perth
+address: COMO The Treasury Level 4, 1 Cathedral Ave, Perth WA 6000, Australia
 website: https://wildflowerperth.com.au/
 ---
 Six course degustation

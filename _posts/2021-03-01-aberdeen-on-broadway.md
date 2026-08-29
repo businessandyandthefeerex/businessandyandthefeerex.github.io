@@ -5,10 +5,11 @@ title: Aberdeen On Broadway
 date: 2021-03-01
 rating: 4
 meal: dinner
-address: 161 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 161 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 website: 
 ---
 Bruschetta  

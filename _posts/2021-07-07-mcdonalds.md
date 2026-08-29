@@ -5,10 +5,11 @@ title: McDonald's
 date: 2021-07-07
 rating: 2
 meal: dinner
-address: 117 Princess Street, Palmerston North Central, Palmerston North 4412
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 117 Princess Street, Palmerston North Central, Palmerston North 4412
 website: https://www.mcdonalds.com/nz/en-nz.html
 ---
 Cheeseburger with fries  

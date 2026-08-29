@@ -5,10 +5,11 @@ title: English Dhaba
 date: 2023-05-12
 rating: 2
 meal: dinner
-address: 6 Collins Avenue, Tawa, Wellington 5028
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Tawa
+address: 6 Collins Avenue, Tawa, Wellington 5028
 website: https://englishdhaba.co.nz/
 ---
 Malai kofta with rice and plain naan  

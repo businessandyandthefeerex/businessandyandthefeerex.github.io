@@ -5,10 +5,11 @@ title: Stage Door Cafe
 date: 2021-01-16
 rating: 1
 meal: lunch
-address: 96 King Street, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Palmerston North
+city: Palmerston North Central
 suburb: Palmerston North Central
+address: 96 King Street, Palmerston North Central, Palmerston North 4410
 website: http://www.stagedoor.cafe/
 ---
 Bacon buttie and chips  

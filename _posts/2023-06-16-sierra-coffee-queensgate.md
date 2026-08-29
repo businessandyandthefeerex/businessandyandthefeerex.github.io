@@ -5,10 +5,11 @@ title: Sierra Coffee Queensgate
 date: 2023-06-16
 rating: 1
 meal: dinner
-address: Bunny Street, Hutt Central, Lower Hutt 5010
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Lower Hutt
+address: Bunny Street, Hutt Central, Lower Hutt 5010
 website: https://www.sierracoffee.co.nz/
 ---
 Bacon and egg pie  

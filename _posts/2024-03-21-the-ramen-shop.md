@@ -5,10 +5,11 @@ title: The Ramen Shop
 date: 2024-03-21
 rating: 3
 meal: dinner
-address: 109 Johnsonville Road, Johnsonville, Wellington 6037
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Johnsonville
+address: 109 Johnsonville Road, Johnsonville, Wellington 6037
 website: https://theramenshop.co.nz/
 ---
 Dan dan chicken ramen  

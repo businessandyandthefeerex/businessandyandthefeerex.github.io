@@ -5,10 +5,11 @@ title: Yummy Mummys Cheesecakes
 date: 2020-12-05
 rating: 2
 meal: lunch
-address: 67 Vogel Street, Woodville 4920
 country: New Zealand
 region: Manawatu
+city: Woodville
 suburb: Woodville
+address: 67 Vogel Street, Woodville 4920
 website: https://www.facebook.com/yummymummyscheesecakes/
 ---
 Vegetarian panini  

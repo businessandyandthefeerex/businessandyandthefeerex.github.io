@@ -5,10 +5,11 @@ title: Pukenui Pacific
 date: 2023-12-07
 rating: 1
 meal: lunch
-address: 4 Lamb Road, Pukenui 0484
 country: New Zealand
 region: Northland
+city: Pukenui
 suburb: Pukenui
+address: 4 Lamb Road, Pukenui 0484
 website: https://m.facebook.com/profile.php?id=100093796000232
 ---
 Lasagne, salad and roast potato  

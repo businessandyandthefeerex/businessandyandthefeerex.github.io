@@ -5,10 +5,11 @@ title: The Bees Knees Cafe
 date: 2021-05-15
 rating: 1
 meal: lunch
-address: 352 Albert Street, Hokowhitu, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Hokowhitu
 suburb: Hokowhitu
+address: 352 Albert Street, Hokowhitu, Palmerston North 4410
 website: https://www.facebook.com/profile.php?id=61578904977716&mibextid=rS40aB7S9Ucbxw6v
 ---
 Macaroni cheese  

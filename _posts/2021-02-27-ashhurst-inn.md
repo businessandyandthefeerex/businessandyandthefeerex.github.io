@@ -5,10 +5,11 @@ title: Ashhurst Inn
 date: 2021-02-27
 rating: 1
 meal: dinner
-address: 81 York Street, Ashhurst 4810
 country: New Zealand
 region: Manawatu
+city: Ashhurst
 suburb: Ashhurst
+address: 81 York Street, Ashhurst 4810
 website: https://www.facebook.com/TheAshhurstInn/
 ---
 Man burger with chips  

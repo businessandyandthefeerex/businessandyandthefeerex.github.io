@@ -5,10 +5,11 @@ title: Mean Doses
 date: 2025-09-13
 rating: 3
 meal: dinner
-address: 66 Tory Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 66 Tory Street, Te Aro, Wellington 6011
 website: https://www.meandoses.co.nz/
 ---
 Jackfruit burger  

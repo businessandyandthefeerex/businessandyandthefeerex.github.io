@@ -5,10 +5,11 @@ title: Jano Bistro
 date: 2025-10-31
 rating: 3
 meal: dinner
-address: 270 Willis Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 270 Willis Street, Te Aro, Wellington 6011
 website: http://www.janobistro.co.nz/
 ---
 Eight course degustation  

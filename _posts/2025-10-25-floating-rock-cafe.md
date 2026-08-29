@@ -5,10 +5,11 @@ title: Floating Rock Cafe
 date: 2025-10-25
 rating: 3
 meal: dinner
-address: 36 Riverpark Drive, Kuratau 3381
 country: New Zealand
 region: Waikato
+city: Kurutau
 suburb: Kurutau
+address: 36 Riverpark Drive, Kuratau 3381
 website: https://www.facebook.com/p/floating-rock-cafe-100063579282410/
 ---
 Polenta chips  

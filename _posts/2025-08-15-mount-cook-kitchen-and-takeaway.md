@@ -5,10 +5,11 @@ title: Mount Cook Kitchen & Takeaway
 date: 2025-08-15
 rating: 2
 meal: dinner
-address:  75 Wallace Street, Mount Cook, Wellington 6021
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Mount Cook
+address:  75 Wallace Street, Mount Cook, Wellington 6021
 website: 
 ---
 Sweet and sour wontons with fried noodles  

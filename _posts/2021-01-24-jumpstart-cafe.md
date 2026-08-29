@@ -5,10 +5,11 @@ title: Jumpstart Cafe
 date: 2021-01-24
 rating: 2
 meal: lunch
-address: 120 Devonport Road, CBD, Tauranga 3110
 country: New Zealand
 region: Bay of Plenty
+city: Tauranga
 suburb: Tauranga
+address: 120 Devonport Road, CBD, Tauranga 3110
 website:
 ---
 Pulled pork burger  

@@ -5,10 +5,11 @@ title: Creel Tackle House & Cafe
 date: 2021-12-30
 rating: 3
 meal: dinner
-address: 189 Taupahi Road, Tūrangi 3334
 country: New Zealand
 region: Waikato
+city: Tūrangi
 suburb: Tūrangi
+address: 189 Taupahi Road, Tūrangi 3334
 website: https://creel-tackle-house-cafe.business.site/
 ---
 Almond croissant  

@@ -5,10 +5,11 @@ title: Swagat India Brooklyn
 date: 2023-02-03
 rating: 3
 meal: dinner
-address: 60 Cleveland Street, Brooklyn, Wellington 6021
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Brooklyn
+address: 60 Cleveland Street, Brooklyn, Wellington 6021
 website: https://swagatindiabrooklyn.co.nz/
 ---
 Swagat paneer with rice and plain naan  

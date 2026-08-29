@@ -1,0 +1,23 @@
+---
+layout: page
+title: 32 George Street, 32 George Street, Manawatu, New Zealand
+country: New Zealand
+region: Manawatu
+suburb: 32 George Street
+city: 32 George Street
+permalink: /country/new-zealand/manawatu/32-george-street/32-george-street/
+---
+[↑ Go to 32 George Street](/country/new-zealand/manawatu/32-george-street/)
+
+{% assign posts = site.posts | where: "country", "New Zealand" | where: "region", "Manawatu" | where: "suburb", "32 George Street" | where: "city", "32 George Street" %}
+{% assign grouped_posts = posts | group_by: "rating" %}
+{% assign sorted_grouped_posts = grouped_posts | sort: "name" %}
+
+{% for group in sorted_grouped_posts reversed %}
+  <h4>Rating: {{ group.name }}</h4>
+  <ul>
+    {% for post in group.items %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}

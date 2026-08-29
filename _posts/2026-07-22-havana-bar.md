@@ -5,10 +5,11 @@ title: Havana Bar
 date: 2026-07-22
 rating: 3
 meal: dinner
-address: 32a/34 Wigan Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 32a/34 Wigan Street, Te Aro, Wellington 6011
 website: https://www.havanabar.co.nz/
 ---
 Croquettes with jamón, béchamel, and parmesan

@@ -5,10 +5,11 @@ title: Sons of Naples
 date: 2024-07-23
 rating: 2
 meal: dinner
-address: 5/2 Andrews Way, Margaret River WA 6285, Australia
 country: Australia
 region: Western Australia
+city: Margaret River
 suburb: Margaret River
+address: 5/2 Andrews Way, Margaret River WA 6285, Australia
 website: https://www.facebook.com/SonsofNaplesmr/
 ---
 Three cheese, truffle and mushroom pizza  

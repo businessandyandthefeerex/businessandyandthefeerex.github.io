@@ -5,10 +5,11 @@ title: Mexico Petone
 date: 2021-02-01
 rating: 3
 meal: dinner
-address: 136 Jackson Street, Petone, Wellington 5021
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Petone
+address: 136 Jackson Street, Petone, Wellington 5021
 website: http://www.mexico.nz/
 ---
 Pumpkin and potato croquettes  

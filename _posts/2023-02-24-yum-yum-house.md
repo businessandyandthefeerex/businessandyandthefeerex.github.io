@@ -5,10 +5,11 @@ title: Yum Yum House
 date: 2023-02-24
 rating: 2
 meal: dinner
-address: 2 Oxford Street, Tawa, Wellington 5028
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Tawa
+address: 2 Oxford Street, Tawa, Wellington 5028
 website: https://yumyumhouse.co.nz/
 ---
 Orange beef & rice  

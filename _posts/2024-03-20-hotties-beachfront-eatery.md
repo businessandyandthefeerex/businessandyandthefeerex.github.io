@@ -5,10 +5,11 @@ title: Hotties Beachfront Eatery
 date: 2024-03-20
 rating: 3
 meal: dinner
-address: 29 Pye Place Hot Water Beach, Whitianga 3591
 country: New Zealand
 region: Coromandel
+city: Whitianga
 suburb: Whitianga
+address: 29 Pye Place Hot Water Beach, Whitianga 3591
 website: https://www.hottieseatery.co.nz/
 ---
 Sourdough with oil and balsamic  

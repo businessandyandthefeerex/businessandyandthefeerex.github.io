@@ -5,10 +5,11 @@ title: Whitby's Restaurant & Bar
 date: 2024-05-10
 rating: 1
 meal: dinner
-address: 147 The Terrace, Wellington Central, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: 147 The Terrace
+address: 147 The Terrace, Wellington Central, Wellington 6011
 website: https://www.grandchancellorhotels.com/james-cook-hotel-grand-chancellor/restaurants-bars/whitby-s-restaurant-bar
 ---
 Beef burger and chips  

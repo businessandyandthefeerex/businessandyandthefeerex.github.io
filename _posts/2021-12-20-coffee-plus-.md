@@ -5,10 +5,11 @@ title: Coffee Plus +
 date: 2021-12-20
 rating: 2
 meal: lunch
-address: 59 Hautapu Street, Taihape 4720
 country: New Zealand
 region: Manawatu
+city: Taihape
 suburb: Taihape
+address: 59 Hautapu Street, Taihape 4720
 website: 
 ---
 Beef sausage roll  

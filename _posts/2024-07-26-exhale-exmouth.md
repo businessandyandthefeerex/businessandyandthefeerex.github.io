@@ -5,10 +5,11 @@ title: Exhale Exmouth
 date: 2024-07-26
 rating: 4
 meal: dinner
-address: 1 Thew St, Exmouth WA 6707, Australia
 country: Australia
 region: Western Australia
+city: Exmouth
 suburb: Exmouth
+address: 1 Thew St, Exmouth WA 6707, Australia
 website: https://www.exhalexmouth.com.au/
 ---
 Karaage cauliflower  

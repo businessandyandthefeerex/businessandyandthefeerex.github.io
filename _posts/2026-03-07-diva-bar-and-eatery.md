@@ -5,10 +5,11 @@ title: Diva Bar and Eatery
 date: 2026-03-07
 rating: 1
 meal: dinner
-address: Shop 2/10 Napier Road, Havelock North 4130
 country: New Zealand
 region: Hawkes Bay
+city: Havelock North
 suburb: Havelock North
+address: Shop 2/10 Napier Road, Havelock North 4130
 website: https://www.divabar.co.nz/
 ---
 Arancini balls  

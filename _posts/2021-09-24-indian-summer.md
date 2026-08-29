@@ -5,10 +5,11 @@ title: Indian Summer
 date: 2021-09-24
 rating: 2
 meal: dinner
-address: 194/200 Ruapehu Drive, Fitzherbert, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 194/200 Ruapehu Drive, Fitzherbert, Palmerston North 4410
 website: http://www.indiansummer.co.nz/
 ---
 Shahi paneer with rice and plain naan  

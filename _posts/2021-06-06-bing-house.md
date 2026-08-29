@@ -5,10 +5,11 @@ title: Bing House
 date: 2021-06-06
 rating: 1
 meal: lunch
-address: 84 Fitzherbert Avenue, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: 84 Fitzherbert Avenue
 suburb: 84 Fitzherbert Avenue
+address: 84 Fitzherbert Avenue, Palmerston North Central, Palmerston North 4410
 website: http://www.facebook.com/binghousePN
 ---
 BBQ pork pancake  

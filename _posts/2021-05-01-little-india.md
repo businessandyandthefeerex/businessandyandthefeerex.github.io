@@ -5,10 +5,11 @@ title: Little India
 date: 2021-05-01
 rating: 3
 meal: dinner
-address: 157 Broadway Avenue, City Centre, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 157 Broadway Avenue, City Centre, Palmerston North 4410
 website: https://www.littleindia.co.nz/palmerston-north/
 ---
 Butter chicken with rice and paneer garlic kulcha  

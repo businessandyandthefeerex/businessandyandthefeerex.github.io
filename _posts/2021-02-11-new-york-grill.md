@@ -5,10 +5,11 @@ title: New York Grill
 date: 2021-02-11
 rating: 3
 meal: dinner
-address: 309 Broadway, Newmarket Rooftop on Braodway, Westfield Newmarket, Auckland 1023
 country: New Zealand
 region: Auckland
+city: Newmarket
 suburb: Newmarket
+address: 309 Broadway, Newmarket Rooftop on Braodway, Westfield Newmarket, Auckland 1023
 website: https://www.newyorkgrill.co.nz/
 ---
 Bruschetta  

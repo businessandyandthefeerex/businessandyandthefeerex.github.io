@@ -5,10 +5,11 @@ title: Coffee Culture
 date: 2023-06-18
 rating: 2
 meal: lunch
-address: 158 Cashel Street, Christchurch Central City, Christchurch 8011
 country: New Zealand
 region: Canterbury
+city: Christchurch
 suburb: Christchurch
+address: 158 Cashel Street, Christchurch Central City, Christchurch 8011
 website: https://coffeeculture.co.nz/
 ---
 Halloumi bagel  

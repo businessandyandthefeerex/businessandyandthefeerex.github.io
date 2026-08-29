@@ -5,10 +5,11 @@ title: Taihape Bakery & Cafe
 date: 2023-10-22
 rating: 3
 meal: lunch
-address: 79 Hautapu Street, Taihape 4720
 country: New Zealand
 region: Manawatu
+city: Taihape
 suburb: Taihape
+address: 79 Hautapu Street, Taihape 4720
 website: 
 ---
 Steak and pepper pie  

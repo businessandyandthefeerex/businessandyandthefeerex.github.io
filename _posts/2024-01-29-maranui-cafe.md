@@ -5,10 +5,11 @@ title: Maranui Cafe
 date: 2024-01-29
 rating: 4
 meal: breakfast
-address: Lvl1, 7A Lyall Parade, Lyall Bay, Wellington 6022
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Lyall Bay
+address: Lvl1, 7A Lyall Parade, Lyall Bay, Wellington 6022
 website: http://www.maranuicafe.co.nz/
 ---
 Snickers shake  

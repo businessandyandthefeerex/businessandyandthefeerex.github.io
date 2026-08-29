@@ -5,10 +5,11 @@ title: Tasty Restaurant
 date: 2021-03-26
 rating: 1
 meal: dinner
-address: 700 Main Street, Palmerston North Central, Palmerston North 4414
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 700 Main Street, Palmerston North Central, Palmerston North 4414
 website: https://www.facebook.com/tastyPN?mibextid=LQQJ4d
 ---
 Sweet and sour pork  

@@ -5,10 +5,11 @@ title: Asia Restaurant
 date: 2021-07-02
 rating: 2
 meal: dinner
-address: 319 Main Street, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 319 Main Street, Palmerston North Central, Palmerston North 4410
 website: https://www.facebook.com/pages/Asia-Restaurant/182616851774817
 ---
 UPDATE: Both the Fee-Rex and Business Andy experienced some moderate digestive symptoms within 4 hours of dining at Asia Restaurant. We're not certain that dinner was the cause, so we have not changed their rating, but it still bears mentioning. 

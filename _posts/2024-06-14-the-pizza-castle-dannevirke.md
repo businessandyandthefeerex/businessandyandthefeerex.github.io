@@ -5,10 +5,11 @@ title: The Pizza Castle - Dannevirke
 date: 2024-06-14
 rating: 1
 meal: dinner
-address: 25 High Street, Dannevirke 4930
 country: New Zealand
 region: Manawatu
+city: Dannevirke
 suburb: Dannevirke
+address: 25 High Street, Dannevirke 4930
 website: http://www.thepizzacastle.co.nz/
 ---
 Italian pizza (salami, ham, olives, mushroom, onion)  

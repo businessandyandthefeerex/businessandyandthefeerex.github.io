@@ -5,10 +5,11 @@ title: Mondo Cafe
 date: 2026-02-27
 rating: 2
 meal: lunch
-address: 400 Heretaunga Street East, Hastings 4122
 country: New Zealand
 region: Hawkes Bay
+city: Hastings
 suburb: Hastings
+address: 400 Heretaunga Street East, Hastings 4122
 website: http://mondo-cafe.edan.io/
 ---
 Cheese & onion pasty  

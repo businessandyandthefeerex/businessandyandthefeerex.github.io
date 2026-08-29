@@ -5,10 +5,11 @@ title: Thai Orchid Restaurant
 date: 2021-07-09
 rating: 3
 meal: dinner
-address: 345 Ferguson Street, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 345 Ferguson Street, Palmerston North Central, Palmerston North 4410
 website: http://thaiorchid.co.nz/
 ---
 Singapore steak with rice  

@@ -5,10 +5,11 @@ title: Gold Kebabs
 date: 2021-04-17
 rating: 2
 meal: lunch
-address: 92 Manchester Street, Feilding 4702
 country: New Zealand
 region: Manawatu
+city: Feilding
 suburb: Feilding
+address: 92 Manchester Street, Feilding 4702
 website: 
 ---
 Lamb iskender with satay sauce, hummus, and garlic aioli  

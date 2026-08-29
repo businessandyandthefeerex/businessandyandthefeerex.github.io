@@ -5,10 +5,11 @@ title: Top Taste Restaurant
 date: 2023-11-03
 rating: 2
 meal: dinner
-address: 1 Hagley Street, Porirua City Centre, Porirua 5022
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Porirua City Centre
+address: 1 Hagley Street, Porirua City Centre, Porirua 5022
 website: http://www.toptaste.co.nz/
 ---
 Orange steak  

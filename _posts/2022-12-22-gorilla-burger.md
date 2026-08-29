@@ -5,10 +5,11 @@ title: Gorilla Burger
 date: 2022-12-22
 rating: 2
 meal: dinner
-address: 131/133 Cuba Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 131/133 Cuba Street, Te Aro, Wellington 6011
 website: https://www.gorillaburger.co.nz/
 ---
 Harambe burger  

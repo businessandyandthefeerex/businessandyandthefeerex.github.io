@@ -5,10 +5,11 @@ title: Cafe Eminem
 date: 2022-04-02
 rating: 2
 meal: dinner
-address: 94 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 94 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 website: https://www.cafeeminem.co.nz/
 ---
 Banana smoothie  

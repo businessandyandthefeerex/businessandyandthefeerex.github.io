@@ -5,10 +5,11 @@ title: Golden Crust Pizza
 date: 2024-10-25
 rating: 2
 meal: dinner
-address: 22 Ngawaka Place, Tūrangi 3334
 country: New Zealand
 region: Waikato
+city: Tūrangi
 suburb: Tūrangi
+address: 22 Ngawaka Place, Tūrangi 3334
 website: https://goldencrust.co.nz/index.html
 ---
 Peri-peri paneer pizza  

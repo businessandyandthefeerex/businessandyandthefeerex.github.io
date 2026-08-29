@@ -5,10 +5,11 @@ title: Double Shotz
 date: 2021-07-10
 rating: 3
 meal: lunch
-address: 138 The Square, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: 138 The Square
 suburb: 138 The Square
+address: 138 The Square, Palmerston North Central, Palmerston North 4410
 website: https://www.doubleshotzcafe.com/
 ---
 Rice and cauliflower vegetable pie  

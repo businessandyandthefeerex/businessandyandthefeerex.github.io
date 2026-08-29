@@ -5,10 +5,11 @@ title: Cafe Ignition
 date: 2021-01-30
 rating: 1
 meal: lunch
-address: Milson, Palmerston North 4414
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: Milson, Palmerston North 4414
 website: https://www.facebook.com/p/Cafe-Ignition-100057349634564/
 ---
 Macaroni cheese  

@@ -5,10 +5,11 @@ title: Simmer Cafe
 date: 2026-08-08
 rating: 2
 meal: lunch
-address: 103 Westchester Drive, Churton Park, Wellington 6037
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Churton Park
+address: 103 Westchester Drive, Churton Park, Wellington 6037
 website: https://www.facebook.com/pages/category/Coffee-Shop/Simmer-100247992175891/
 ---
 Roast vegetable salad  

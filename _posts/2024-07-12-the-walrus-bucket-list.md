@@ -5,10 +5,11 @@ title: The Walrus' Bucket List
 date: 2024-07-12
 rating: 1
 meal: dinner
-address: 163 The Parade, Island Bay, Wellington 6023
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Island Bay
+address: 163 The Parade, Island Bay, Wellington 6023
 website: https://www.thewalrusbucket.co.nz/
 ---
 Pork belly burger with chips  

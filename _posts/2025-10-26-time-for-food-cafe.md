@@ -5,10 +5,11 @@ title: Time For Food Cafe
 date: 2025-10-26
 rating: 2
 meal: lunch
-address: 35 Turangi Town Centre, Tūrangi 3334
 country: New Zealand
 region: Waikato
+city: Tūrangi
 suburb: Tūrangi
+address: 35 Turangi Town Centre, Tūrangi 3334
 website: https://www.facebook.com/p/Time-4-food-cafe-100069685270473/
 ---
 Mince & cheese pie  

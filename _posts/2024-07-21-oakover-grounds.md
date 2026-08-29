@@ -5,10 +5,11 @@ title: Oakover Grounds
 date: 2024-07-21
 rating: 2
 meal: lunch
-address: 80 Yukich Cl, Middle Swan WA 6056, Australia
 country: Australia
 region: Western Australia
+city: Swan Valley
 suburb: Swan Valley
+address: 80 Yukich Cl, Middle Swan WA 6056, Australia
 website: https://oakovergrounds.com.au/pages/cafe
 ---
 Fried chicken burger with chips  

@@ -5,10 +5,11 @@ title: Beyond Coffee
 date: 2022-05-07
 rating: 2
 meal: lunch
-address: 32 Manchester Square, Feilding 4702
 country: New Zealand
 region: Manawatu
+city: Feilding
 suburb: Feilding
+address: 32 Manchester Square, Feilding 4702
 website: https://beyond3.odoo.com/
 ---
 Fish tacos with salad  

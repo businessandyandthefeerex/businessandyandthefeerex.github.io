@@ -5,10 +5,11 @@ title: Aroy Thai Eatery
 date: 2024-10-31
 rating: 2
 meal: dinner
-address: Newtown Countdown 3 John Street, Newtown, Wellington 6021
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Newtown
+address: Newtown Countdown 3 John Street, Newtown, Wellington 6021
 website: https://aroy.co.nz/
 ---
 Vegetable spring rolls  

@@ -5,10 +5,11 @@ title: Master Bakery & Coffee Shop
 date: 2020-12-28
 rating: 1
 meal: lunch
-address: 6 Manawaroa Street, West End, Palmerston North 4410
 country: New Zealand
 region: Palmerston North
+city: West End
 suburb: West End
+address: 6 Manawaroa Street, West End, Palmerston North 4410
 website: https://www.facebook.com/MasterBakeryPN
 ---
 Potato top pie  

@@ -5,10 +5,11 @@ title: Pandan Asian Cuisine
 date: 2023-09-22
 rating: 3
 meal: dinner
-address: 5 Melling Road, Hutt Central, Lower Hutt 5010
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Lower Hutt
+address: 5 Melling Road, Hutt Central, Lower Hutt 5010
 website: http://www.pandanasiancuisine.nz/
 ---
 Lamb tikka masala  

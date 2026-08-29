@@ -5,10 +5,11 @@ title: Tarras Country Cafe
 date: 2023-08-06
 rating: 2
 meal: lunch
-address: 2792 Tarras-Cromwell Road, Tarras 9383
 country: New Zealand
 region: Otago
+city: Tarras
 suburb: Tarras
+address: 2792 Tarras-Cromwell Road, Tarras 9383
 website: https://www.facebook.com/tarrascountrycafe/
 ---
 Cheese roll  

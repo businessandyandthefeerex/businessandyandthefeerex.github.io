@@ -5,10 +5,11 @@ title: Boulcott Street Bistro
 date: 2024-01-29
 rating: 3
 meal: dinner
-address: 99 Boulcott Street, Wellington Central, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Wellington Central
+address: 99 Boulcott Street, Wellington Central, Wellington 6011
 website: http://www.boulcottstreetbistro.co.nz/
 ---
 Calamari with garlic mash and rocket  

@@ -5,10 +5,11 @@ title: Manapouri Cafe & Dairy
 date: 2022-02-13
 rating: 2
 meal: lunch
-address: 29 Waiau Street, Manapouri 9679
 country: New Zealand
 region: Fiordland
+city: Manapouri
 suburb: Manapouri
+address: 29 Waiau Street, Manapouri 9679
 website:
 ---
 Fish and chips  

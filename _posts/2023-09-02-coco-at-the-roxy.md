@@ -5,10 +5,11 @@ title: CoCo at The Roxy
 date: 2023-09-02
 rating: 3
 meal: dinner
-address: 5 Park Road, Miramar, Wellington 6022
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Miramar
+address: 5 Park Road, Miramar, Wellington 6022
 website: http://www.cocoattheroxy.co.nz/
 ---
 Arancini balls  

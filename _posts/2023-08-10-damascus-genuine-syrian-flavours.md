@@ -5,10 +5,11 @@ title: Damascus Genuine Syrian Flavours
 date: 2023-08-10
 rating: 3
 meal: dinner
-address: shop 4/100 Tory Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: shop 4/100 Tory Street, Te Aro, Wellington 6011
 website: https://www.damascusnz.com/
 ---
 Vegetarian sharing platter  

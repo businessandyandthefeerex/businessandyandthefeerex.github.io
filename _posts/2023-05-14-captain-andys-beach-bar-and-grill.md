@@ -5,10 +5,11 @@ title: Captain Andy's Beach Bar & Grill
 date: 2023-05-14
 rating: 1
 meal: dinner
-address: Aroa Rd, Arorangi, Cook Islands
 country: Cook Islands
 region: Rarotonga
+city: Aorangi
 suburb: Aorangi
+address: Aroa Rd, Arorangi, Cook Islands
 website: https://www.therarotongan.com/dine/captain-andys-beach-bar-grill.html
 ---
 Hawaiian chicken burger with chips  

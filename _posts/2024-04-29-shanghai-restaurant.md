@@ -5,10 +5,11 @@ title: Shanghai Restaurant
 date: 2024-04-29
 rating: 2
 meal: dinner
-address: 121 Manners Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 121 Manners Street, Te Aro, Wellington 6011
 website: https://www.shanghairestauranttearo.co.nz/
 ---
 Orange beef with rice  

@@ -5,10 +5,11 @@ title: Cloverlea Tavern
 date: 2021-01-29
 rating: 1
 meal: dinner
-address: 01 Tremaine Avenue, Highbury, Palmerston North 4412
 country: New Zealand
 region: Palmerston North
+city: Highburh
 suburb: Highburh
+address: 01 Tremaine Avenue, Highbury, Palmerston North 4412
 website: https://www.facebook.com/cloverleatavern2017/
 ---
 Fish & Chips  

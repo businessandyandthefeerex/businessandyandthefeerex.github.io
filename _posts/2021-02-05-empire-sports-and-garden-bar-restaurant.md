@@ -5,10 +5,11 @@ title: Empire Sports & Garden Bar Restaurant
 date: 2021-02-05
 rating: 3
 meal: dinner
-address: 8 Stafford Street, Feilding 4702
 country: New Zealand
 region: Manawatu
+city: Feilding
 suburb: Feilding
+address: 8 Stafford Street, Feilding 4702
 website: https://www.facebook.com/empirefeilding
 ---
 Beef bao buns  

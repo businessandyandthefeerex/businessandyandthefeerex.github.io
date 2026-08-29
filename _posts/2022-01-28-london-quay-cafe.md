@@ -5,10 +5,11 @@ title: London Quay Cafe
 date: 2022-01-28
 rating: 1
 meal: breakfast
-address: 20 London Quay, Picton 7220
 country: New Zealand
 region: Marlborough 
+city: Picton
 suburb: Picton
+address: 20 London Quay, Picton 7220
 website:
 ---
 Fresh fruit salad with Greek yoghurt  

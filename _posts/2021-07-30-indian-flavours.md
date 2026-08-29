@@ -5,10 +5,11 @@ title: Indian Flavours
 date: 2021-07-30
 rating: 2
 meal: dinner
-address: 529 Main Street, Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 529 Main Street, Central, Palmerston North 4410
 website: https://indianflavours.co.nz/
 ---
 Malai kofta with rice  

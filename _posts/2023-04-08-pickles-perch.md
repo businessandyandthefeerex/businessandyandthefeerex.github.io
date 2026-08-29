@@ -5,10 +5,11 @@ title: Pickles Perch
 date: 2023-04-08
 rating: 2
 meal: lunch
-address: 5 Cornwall Street, Hutt Central, Lower Hutt 5040
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Lower Hutt
+address: 5 Cornwall Street, Hutt Central, Lower Hutt 5040
 website: https://www.facebook.com/picklesperchlowerhutt/
 ---
 Halloumi salad  

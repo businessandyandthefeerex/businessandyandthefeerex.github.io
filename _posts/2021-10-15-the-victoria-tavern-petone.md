@@ -5,10 +5,11 @@ title: The Victoria Tavern, Petone
 date: 2021-10-15
 rating: 3
 meal: dinner
-address: 140 Jackson Street, Petone, Lower Hutt 5012
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Petone
+address: 140 Jackson Street, Petone, Lower Hutt 5012
 website: http://www.thevictoriatavern.co.nz/
 ---
 Sourdough with truffle butter  

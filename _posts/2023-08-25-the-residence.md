@@ -5,10 +5,11 @@ title: The Residence
 date: 2023-08-25
 rating: 2
 meal: dinner
-address: 122 Courtenay Place, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 122 Courtenay Place, Te Aro, Wellington 6011
 website: https://www.facebook.com/residencewellington/
 ---
 Beef nachos  

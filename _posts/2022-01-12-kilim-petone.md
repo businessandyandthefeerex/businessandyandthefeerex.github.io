@@ -5,10 +5,11 @@ title: Kilim Petone
 date: 2022-01-12
 rating: 3
 meal: dinner
-address: 87 Jackson Street, Petone, Lower Hutt 5012
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Petone
+address: 87 Jackson Street, Petone, Lower Hutt 5012
 website: http://www.kilim.co.nz/
 ---
 Spanakopita and salad  

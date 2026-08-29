@@ -5,10 +5,11 @@ title: The Green Man Pub
 date: 2024-08-24
 rating: 2
 meal: dinner
-address: 25 Victoria Street, Wellington Central, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Wellington Central
+address: 25 Victoria Street, Wellington Central, Wellington 6011
 website: https://stargroup.nz/venues/the-green-man-pub
 ---
 Pork belly bites  

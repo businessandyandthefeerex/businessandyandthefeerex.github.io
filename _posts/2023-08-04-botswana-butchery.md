@@ -5,10 +5,11 @@ title: Botswana Butchery
 date: 2023-08-04
 rating: 3
 meal: lunch
-address: 17 Marine Parade, Queenstown 9300
 country: New Zealand
 region: Otago
+city: Queenstown
 suburb: Queenstown
+address: 17 Marine Parade, Queenstown 9300
 website: http://www.botswanabutchery.co.nz/
 ---
 Crispy squid  

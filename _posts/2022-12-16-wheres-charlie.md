@@ -5,10 +5,11 @@ title: Where's Charlie
 date: 2022-12-16
 rating: 3
 meal: dinner
-address: 186 Thorndon Quay, Thorndon, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Pipitea
+address: 186 Thorndon Quay, Thorndon, Wellington 6011
 website: https://wherescharlie.co.nz/
 ---
 Grilled lemongrass beef with rice and salad  

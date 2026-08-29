@@ -5,10 +5,11 @@ title: Cravings Cafe
 date: 2022-01-22
 rating: 3
 meal: lunch
-address: 117 Ruahine Street, Roslyn, Palmerston North 4414
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 117 Ruahine Street, Roslyn, Palmerston North 4414
 website: https://m.facebook.com/cravingscafenz/
 ---
 Crispy chicken burger with curly fries  

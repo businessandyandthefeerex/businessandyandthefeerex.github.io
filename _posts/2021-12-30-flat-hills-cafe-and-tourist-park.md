@@ -5,10 +5,11 @@ title: Flat Hills Cafe & Tourist Park
 date: 2021-12-30
 rating: 1
 meal: lunch
-address: 5733 State Highway 1, Ōhingaiti 4774
 country: New Zealand
 region: Manawatu
+city: Ōhingaiti
 suburb: Ōhingaiti
+address: 5733 State Highway 1, Ōhingaiti 4774
 website: http://www.flathills.co.nz/
 ---
 Crumbed chicken burger  

@@ -5,10 +5,11 @@ title: Curry Guru The Malabar Kitchen
 date: 2021-08-03
 rating: 2
 meal: lunch
-address: 356 Tay Street, Richmond, Invercargill 9810
 country: New Zealand
 region: Southland
+city: Invercargill
 suburb: Invercargill
+address: 356 Tay Street, Richmond, Invercargill 9810
 website: http://www.currygurumalabar.co.nz/
 ---
 Paneer butter masala and rice  

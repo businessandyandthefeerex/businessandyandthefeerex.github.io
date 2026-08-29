@@ -5,10 +5,11 @@ title: Basin Noodle House
 date: 2024-12-20
 rating: 2
 meal: dinner
-address: 20 Adelaide Road, Mount Cook, Wellington 6021
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Mount Cook
+address: 20 Adelaide Road, Mount Cook, Wellington 6021
 website: http://www.basinnoodle.co.nz/
 ---
 DanDan Noodle  

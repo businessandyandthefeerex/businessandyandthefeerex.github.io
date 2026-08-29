@@ -5,10 +5,11 @@ title: Nakhon Thai
 date: 2025-10-02
 rating: 2
 meal: dinner
-address: 23 Waitoa Road, Hataitai, Wellington 6021
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Hataitai
+address: 23 Waitoa Road, Hataitai, Wellington 6021
 website: https://www.nakhonthai-wgtn.co.nz/
 ---
 Vegetarian pad Thai  

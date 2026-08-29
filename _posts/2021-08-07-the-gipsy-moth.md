@@ -5,10 +5,11 @@ title: The Gipsy Moth
 date: 2021-08-07
 rating: 2
 meal: lunch
-address: Domestic Terminal, Auckland Airport, Auckland 2022
 country: New Zealand
 region: Auckland
+city: Māngere
 suburb: Māngere
+address: Domestic Terminal, Auckland Airport, Auckland 2022
 website: https://joylab.co.nz/the-gipsy-moth
 ---
 Fish tacos  

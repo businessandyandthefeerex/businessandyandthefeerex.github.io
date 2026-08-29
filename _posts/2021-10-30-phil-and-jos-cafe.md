@@ -5,10 +5,11 @@ title: Phil and Jo's Cafe
 date: 2021-10-30
 rating: 1
 meal: lunch
-address: Plaza Shopping Centre, Church Street, Palmerston North Central, Palmerston North 4412
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: Plaza Shopping Centre, Church Street, Palmerston North Central, Palmerston North 4412
 website: http://www.philandjoscafe.co.nz/
 ---
 Steak and mushroom gourmet pie  

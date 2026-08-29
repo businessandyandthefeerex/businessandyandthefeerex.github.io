@@ -5,10 +5,11 @@ title: Scopa Pizzeria
 date: 2024-10-04
 rating: 3
 meal: dinner
-address: 141 Cuba Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 141 Cuba Street, Te Aro, Wellington 6011
 website: http://www.scopa.co.nz/
 ---
 Mozzarella sticks with spicy honey  

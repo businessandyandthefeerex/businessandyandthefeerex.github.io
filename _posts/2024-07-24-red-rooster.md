@@ -5,10 +5,11 @@ title: Red Rooster
 date: 2024-07-24
 rating: 1
 meal: dinner
-address: 1 Canning Rd, Kalamunda WA 6076, Australia
 country: Australia
 region: Western Australia
+city: Perth
 suburb: Perth
+address: 1 Canning Rd, Kalamunda WA 6076, Australia
 website: https://www.redrooster.com.au/
 ---
 Pickle bruger  

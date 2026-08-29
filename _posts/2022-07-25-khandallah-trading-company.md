@@ -5,10 +5,11 @@ title: Khandallah Trading Company
 date: 2022-07-25
 rating: 2
 meal: dinner
-address: Agra Crescent and, Ganges Road, Khandallah, Wellington 6035
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Khandallah
+address: Agra Crescent and, Ganges Road, Khandallah, Wellington 6035
 website: https://www.stargroup.nz/venues/khandallah-trading-company
 ---
 Haloumi fries with chilli sour cream  

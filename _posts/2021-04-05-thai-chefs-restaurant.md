@@ -5,10 +5,11 @@ title: Thai Chef's Restaurant
 date: 2021-04-05
 rating: 1
 meal: dinner
-address: 1 Blair Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 1 Blair Street, Te Aro, Wellington 6011
 website: https://wellington.thaichef.co.nz/
 ---
 Massaman curry with braised beef  

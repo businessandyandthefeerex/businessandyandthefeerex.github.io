@@ -5,10 +5,11 @@ title: The Quay Cafe
 date: 2023-01-26
 rating: 2
 meal: breakfast
-address: 22 Pohutukawa Avenue, Ōhope 3121
 country: New Zealand
 region: Bay of Plenty
+city: Ōhope
 suburb: Ōhope
+address: 22 Pohutukawa Avenue, Ōhope 3121
 website:
 ---
 Mushrooms on toast  

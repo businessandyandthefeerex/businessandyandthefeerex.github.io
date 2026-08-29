@@ -5,10 +5,11 @@ title: Wallingford Homestead
 date: 2024-06-16
 rating: 4
 meal: dinner
-address: 2914 Porangahau Road, Wallingford 4284
 country: New Zealand
 region: Hawkes Bay
+city: Wallingford
 suburb: Wallingford
+address: 2914 Porangahau Road, Wallingford 4284
 website: https://www.wallingford.co.nz/restaurant-wallingford
 ---
 9 course degustation  

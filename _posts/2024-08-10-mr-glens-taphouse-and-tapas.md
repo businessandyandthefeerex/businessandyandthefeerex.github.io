@@ -5,10 +5,11 @@ title: Mr Glen's Taphouse & Tapas
 date: 2024-08-10
 rating: 2
 meal: dinner
-address: 25 Argyle Street, Glenorchy 9372
 country: New Zealand
 region: Otago
+city: Glenorchy
 suburb: Glenorchy
+address: 25 Argyle Street, Glenorchy 9372
 website: https://www.facebook.com/p/Mr-and-Mrs-Glens-GY-100091710540543/
 ---
 Pork belly tacos  

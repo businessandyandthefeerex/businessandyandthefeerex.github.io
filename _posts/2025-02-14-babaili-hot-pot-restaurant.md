@@ -5,10 +5,11 @@ title: Babaili Hot Pot Restaurant
 date: 2025-02-14
 rating: 2
 meal: dinner
-address: Shop 2/33 Johnsonville Road, Johnsonville, Wellington 6037
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Johnsonville
+address: Shop 2/33 Johnsonville Road, Johnsonville, Wellington 6037
 website: https://babaili.co.nz/
 ---
 Satay broth  

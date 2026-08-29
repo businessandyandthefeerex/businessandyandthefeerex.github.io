@@ -5,10 +5,11 @@ title: Lunch Money
 date: 2022-12-31
 rating: 2
 meal: breakfast
-address: 35 Ghuznee Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 35 Ghuznee Street, Te Aro, Wellington 6011
 website: https://www.lunchmoney.co.nz/
 ---
 Mushroom pizza bread  

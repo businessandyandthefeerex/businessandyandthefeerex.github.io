@@ -5,10 +5,11 @@ title: Arcimboldi
 date: 2023-11-24
 rating: 4
 meal: dinner
-address: 24 Dundas Street, Seatoun, Wellington 6022
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Seatoun
+address: 24 Dundas Street, Seatoun, Wellington 6022
 website: https://www.arcimboldi.net/
 ---
 Beetroot, honey, pecan and basil bruschetta  

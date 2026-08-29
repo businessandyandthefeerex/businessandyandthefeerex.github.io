@@ -161,6 +161,94 @@ countries.each do |country|
         end
 
         puts "Created: _country/#{country_slug}/#{region_slug}/#{suburb_slug}/"
+
+        # Create city pages within this suburb (if any)
+        city_groups = suburb_posts.group_by { |post| post.data['city'] }
+        city_groups.each do |city, city_posts|
+          city_name = normalize_text(city)
+          next if city_name.empty?
+
+          city_slug = city_name.downcase.gsub(" ", "-")
+          city_folder = "#{suburb_folder}/#{suburb_slug}"
+          city_filename = "#{city_folder}/#{city_slug}.md"
+
+          FileUtils.mkdir_p(city_folder) unless File.exist?(city_folder)
+
+          File.open(city_filename, "w") do |city_file|
+            city_file.puts <<~MARKDOWN
+              ---
+              layout: page
+              title: #{city_name}, #{suburb_name}, #{region_name}, #{country}
+              country: #{country}
+              region: #{region_name}
+              suburb: #{suburb_name}
+              city: #{city_name}
+              permalink: /country/#{country_slug}/#{region_slug}/#{suburb_slug}/#{city_slug}/
+              ---
+              [↑ Go to #{suburb_name}](/country/#{country_slug}/#{region_slug}/#{suburb_slug}/)
+
+              {% assign posts = site.posts | where: "country", "#{country}" | where: "region", "#{region}" | where: "suburb", "#{suburb}" | where: "city", "#{city}" %}
+              {% assign grouped_posts = posts | group_by: "rating" %}
+              {% assign sorted_grouped_posts = grouped_posts | sort: "name" %}
+
+              {% for group in sorted_grouped_posts reversed %}
+                <h4>Rating: {{ group.name }}</h4>
+                <ul>
+                  {% for post in group.items %}
+                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              {% endfor %}
+            MARKDOWN
+          end
+
+          puts "Created: _country/#{country_slug}/#{region_slug}/#{suburb_slug}/#{city_slug}/"
+        end
+      end
+      
+      # Also create city pages for posts in this region that have no suburb
+      region_no_suburb = region_posts.select { |p| normalize_text(p.data['suburb']).empty? }
+      if region_no_suburb.any?
+        region_city_groups = region_no_suburb.group_by { |post| post.data['city'] }
+        region_city_groups.each do |city, city_posts|
+          city_name = normalize_text(city)
+          next if city_name.empty?
+
+          city_slug = city_name.downcase.gsub(" ", "-")
+          city_folder = "#{country_folder}/#{region_slug}"
+          city_filename = "#{city_folder}/#{city_slug}.md"
+
+          FileUtils.mkdir_p(city_folder) unless File.exist?(city_folder)
+
+          File.open(city_filename, "w") do |city_file|
+            city_file.puts <<~MARKDOWN
+              ---
+              layout: page
+              title: #{city_name}, #{region_name}, #{country}
+              country: #{country}
+              region: #{region_name}
+              city: #{city_name}
+              permalink: /country/#{country_slug}/#{region_slug}/#{city_slug}/
+              ---
+              [↑ Go to #{region_name}](/country/#{country_slug}/#{region_slug}/)
+
+              {% assign posts = site.posts | where: "country", "#{country}" | where: "region", "#{region}" | where: "city", "#{city}" %}
+              {% assign grouped_posts = posts | group_by: "rating" %}
+              {% assign sorted_grouped_posts = grouped_posts | sort: "name" %}
+
+              {% for group in sorted_grouped_posts reversed %}
+                <h4>Rating: {{ group.name }}</h4>
+                <ul>
+                  {% for post in group.items %}
+                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              {% endfor %}
+            MARKDOWN
+          end
+
+          puts "Created: _country/#{country_slug}/#{region_slug}/#{city_slug}/"
+        end
       end
     end
 

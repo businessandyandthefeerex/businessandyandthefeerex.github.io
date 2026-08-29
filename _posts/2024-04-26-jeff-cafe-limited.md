@@ -5,10 +5,11 @@ title: Jeff Cafe Limited
 date: 2024-04-26
 rating: 1
 meal: dinner
-address: 163 The Terrace, Wellington Central, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Wellington Central
+address: 163 The Terrace, Wellington Central, Wellington 6011
 website: https://www.jeffcafe.co.nz/
 ---
 Kung pao chicken  

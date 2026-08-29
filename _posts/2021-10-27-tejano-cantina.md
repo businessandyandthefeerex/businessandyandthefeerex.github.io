@@ -5,10 +5,11 @@ title: Tejano Cantina
 date: 2021-10-27
 rating: 3
 meal: lunch
-address: 7 Tūwharetoa Street, Taupō 3330
 country: New Zealand
 region: Waikato
+city: Taupō
 suburb: Taupō
+address: 7 Tūwharetoa Street, Taupō 3330
 website: https://www.tejanocantina.com/home
 ---
 Jalapeno poppers  

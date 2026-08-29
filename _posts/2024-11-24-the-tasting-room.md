@@ -5,10 +5,11 @@ title: The Tasting Room
 date: 2024-11-24
 rating: 3
 meal: dinner
-address: 2 Courtenay Place, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
+address: 2 Courtenay Place, Te Aro, Wellington 6011
 website: https://www.thetastingroom.co.nz/
 ---
 Onion rings  

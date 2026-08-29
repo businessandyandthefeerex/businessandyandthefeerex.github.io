@@ -5,10 +5,11 @@ title: 1841 Bar and Restaurant
 date: 2024-12-06
 rating: 1
 meal: dinner
-address: 1 Disraeli Street, Johnsonville, Wellington 6037
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Johnsonville
+address: 1 Disraeli Street, Johnsonville, Wellington 6037
 website: http://www.1841.co.nz/
 ---
 Roast vege salad  

@@ -5,10 +5,11 @@ title: Parrotdog Bar
 date: 2023-05-03
 rating: 2
 meal: dinner
-address: 60/66 Kingsford Smith Street, Rongotai, Wellington 6022
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Lyall Bay
+address: 60/66 Kingsford Smith Street, Rongotai, Wellington 6022
 website: https://parrotdog.co.nz/pages/parrotdog-bar
 ---
 Caesar salad with haloumi added  

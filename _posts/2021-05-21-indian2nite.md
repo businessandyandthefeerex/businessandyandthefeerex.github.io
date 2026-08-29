@@ -5,10 +5,11 @@ title: Indian2nite
 date: 2021-05-21
 rating: 1
 meal: dinner
-address: 22 George Street, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: 22 George Street
 suburb: 22 George Street
+address: 22 George Street, Palmerston North Central, Palmerston North 4410
 website: https://www.indian2niterestaurant.co.nz/
 ---
 Malai kofta  

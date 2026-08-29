@@ -5,10 +5,11 @@ title: Reflections
 date: 2023-08-06
 rating: 2
 meal: dinner
-address: State Highway 8, Lake Tekapo 7999
 country: New Zealand
 region: Canterbury
+city: Lake Tekapo
 suburb: Lake Tekapo
+address: State Highway 8, Lake Tekapo 7999
 website: https://www.reflectionsrestaurant.co.nz/
 ---
 Oxtail ragu with broccolini and parmesan gnocchi  

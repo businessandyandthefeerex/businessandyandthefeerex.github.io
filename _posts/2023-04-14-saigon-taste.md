@@ -5,10 +5,11 @@ title: Saigon Taste
 date: 2023-04-14
 rating: 2
 meal: dinner
-address: 17 Majoribanks Street, Mount Victoria, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Mount Victoria
+address: 17 Majoribanks Street, Mount Victoria, Wellington 6011
 website: https://www.saigontaste.co.nz/contact
 ---
 Beef and vegetable stir fry with crispy noodles  

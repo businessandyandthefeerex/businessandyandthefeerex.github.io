@@ -5,10 +5,11 @@ title: Delish Cafe
 date: 2021-11-27
 rating: 3
 meal: lunch
-address: 90 Fergusson Street, Feilding 4702
 country: New Zealand
 region: Manawatu
+city: Feilding
 suburb: Feilding
+address: 90 Fergusson Street, Feilding 4702
 website: https://m.facebook.com/Delish-Cafe-475330452646182/
 ---
 Big breakfast  

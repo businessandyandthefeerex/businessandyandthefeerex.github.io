@@ -5,10 +5,11 @@ title: Joseph Street Kitchen
 date: 2022-07-02
 rating: 3
 meal: lunch
-address: 55A Joseph Street, West End, Palmerston North 4412
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
+address: 55A Joseph Street, West End, Palmerston North 4412
 website: https://www.instagram.com/josephstreetkitchen/
 ---
 Feta and blue cheese tart  

@@ -5,10 +5,11 @@ title: The Botanist
 date: 2024-11-16
 rating: 3
 meal: dinner
-address: 219 Onepu Road, Lyall Bay, Wellington 6022
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Lyall Bay
+address: 219 Onepu Road, Lyall Bay, Wellington 6022
 website: http://thebotanistlyallbay.co.nz/
 ---
 Okonomiyaki  
