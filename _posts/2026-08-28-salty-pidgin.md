@@ -9,7 +9,7 @@ address: 5 Todman Street, Brooklyn, Wellington 6021
 country: New Zealand
 region: Wellington
 city: Wellington
-suburb: Briooklyn
+suburb: Brooklyn
 website: https://www.saltypidgin.nz/
 ---  
 Eye fillet with roast potatoes, caramelised onion puree, and rocket  
