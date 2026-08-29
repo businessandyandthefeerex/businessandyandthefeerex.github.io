@@ -14,10 +14,10 @@ permalink: /country/new-zealand/wellington/berhampore/wellington/
 {% assign sorted_grouped_posts = grouped_posts | sort: "name" %}
 
 {% for group in sorted_grouped_posts reversed %}
-  <h4>Rating: {{ group.name }}</h4>
-  <ul>
-    {% for post in group.items %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+#### Rating: {{ group.name }}
+
+{% for post in group.items %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
 {% endfor %}

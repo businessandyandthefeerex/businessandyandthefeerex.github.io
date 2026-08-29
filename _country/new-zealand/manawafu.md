@@ -12,36 +12,34 @@ permalink: /country/new-zealand/manawafu/
 {% assign sorted_city_groups = city_groups | sort: "name" %}
 
 {% for city_group in sorted_city_groups %}
-  {% assign city_slug = city_group.name | downcase | slugify %}
-  {% if city_group.name != "" %}
-    <h3><a href="/country/new-zealand/manawafu/{{ city_slug }}/" style="color: var(--heading-color);">{{ city_group.name }}</a></h3>
-  {% else %}
-    <h3>Unspecified city</h3>
-  {% endif %}
+{% assign city_slug = city_group.name | downcase | slugify %}
+{% if city_group.name != "" %}
+### [{{ city_group.name }}](/country/new-zealand/manawafu/{{ city_slug }}/){: style="color: var(--heading-color);"}
+{% else %}
+### Unspecified city
+{% endif %}
 
-  {% assign suburb_groups = city_group.items | group_by: "suburb" %}
-  {% assign sorted_suburb_groups = suburb_groups | sort: "name" %}
+{% assign suburb_groups = city_group.items | group_by: "suburb" %}
+{% assign sorted_suburb_groups = suburb_groups | sort: "name" %}
 
-  {% for group in sorted_suburb_groups %}
-    {% assign suburb_slug = group.name | downcase | slugify %}
-    {% if group.name != "" %}
-      <h4><a href="/country/new-zealand/manawafu/{{ suburb_slug }}/" style="color: var(--heading-color);">{{ group.name }}</a></h4>
-    {% else %}
-      <h4>Unspecified suburb</h4>
-    {% endif %}
+{% for group in sorted_suburb_groups %}
+{% assign suburb_slug = group.name | downcase | slugify %}
+{% if group.name != "" %}
+#### [{{ group.name }}](/country/new-zealand/manawafu/{{ suburb_slug }}/){: style="color: var(--heading-color);"}
+{% else %}
+#### Unspecified suburb
+{% endif %}
 
-    {% assign rating_groups = group.items | group_by: "rating" %}
-    {% assign sorted_rating_groups = rating_groups | sort: "name" %}
+{% assign rating_groups = group.items | group_by: "rating" %}
+{% assign sorted_rating_groups = rating_groups | sort: "name" %}
 
-    {% for rating_group in sorted_rating_groups reversed %}
-      <h5>Rating: {{ rating_group.name }}</h5>
-      <ul>
-        {% for post in rating_group.items %}
-          <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-    {% endfor %}
-  {% endfor %}
+{% for rating_group in sorted_rating_groups reversed %}
+##### Rating: {{ rating_group.name }}
+
+{% for post in rating_group.items %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+{% endfor %}
+{% endfor %}
 {% endfor %}
