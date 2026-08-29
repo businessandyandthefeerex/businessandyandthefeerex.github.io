@@ -138,128 +138,19 @@ countries.each do |country|
           {% for city_group in sorted_city_groups %}
           {% assign city_slug = city_group.name | downcase | slugify %}
           {% if city_group.name != "" %}
-          ### [{{ city_group.name }}](/country/#{country_slug}/#{region_slug}/{{ city_slug }}/){: style="color: var(--heading-color);"}
+          - [{{ city_group.name }}](/country/#{country_slug}/#{region_slug}/{{ city_slug }}/)
           {% else %}
-          ### Unspecified city
+          - Unspecified city
           {% endif %}
-
-          {% assign suburb_groups = city_group.items | group_by: "suburb" %}
-          {% assign sorted_suburb_groups = suburb_groups | sort: "name" %}
-
-          {% for group in sorted_suburb_groups %}
-          {% assign suburb_slug = group.name | downcase | slugify %}
-          {% if group.name != "" %}
-          #### [{{ group.name }}](/country/#{country_slug}/#{region_slug}/{{ suburb_slug }}/){: style="color: var(--heading-color);"}
-          {% else %}
-          #### Unspecified suburb
-          {% endif %}
-
-          {% assign rating_groups = group.items | group_by: "rating" %}
-          {% assign sorted_rating_groups = rating_groups | sort: "name" %}
-
-          {% for rating_group in sorted_rating_groups reversed %}
-          ##### Rating: {{ rating_group.name }}
-
-          {% for post in rating_group.items %}
-          - [{{ post.title }}]({{ post.url }})
-          {% endfor %}
-
-          {% endfor %}
-          {% endfor %}
           {% endfor %}
         MARKDOWN
       end
       puts "Created: _country/#{country_slug}/#{region_slug}/"
 
-      # Create suburb pages
-      suburb_groups = region_posts.group_by { |post| post[:data]['suburb'] }
-
-      suburb_groups.each do |suburb, suburb_posts|
-        suburb_name = normalize_text(suburb)
-        next if suburb_name.empty?
-
-        suburb_slug = slugify(suburb_name)
-        suburb_folder = "#{country_folder}/#{region_slug}"
-        suburb_filename = "#{suburb_folder}/#{suburb_slug}.md"
-
-        FileUtils.mkdir_p(suburb_folder) unless File.exist?(suburb_folder)
-
-        File.open(suburb_filename, "w") do |suburb_file|
-          suburb_file.puts <<~MARKDOWN
-            ---
-            layout: page
-            title: #{suburb_name}, #{region_name}, #{country}
-            country: #{country}
-            region: #{region_name}
-            suburb: #{suburb_name}
-            permalink: /country/#{country_slug}/#{region_slug}/#{suburb_slug}/
-            ---
-            [↑ Go to #{region_name}](/country/#{country_slug}/#{region_slug}/)
-
-            {% assign posts = site.posts | where: "country", "#{country}" | where: "region", "#{region}" | where: "suburb", "#{suburb}" %}
-            {% assign grouped_posts = posts | group_by: "rating" %}
-            {% assign sorted_grouped_posts = grouped_posts | sort: "name" %}
-
-            {% for group in sorted_grouped_posts reversed %}
-            #### Rating: {{ group.name }}
-
-            {% for post in group.items %}
-            - [{{ post.title }}]({{ post.url }})
-            {% endfor %}
-
-            {% endfor %}
-          MARKDOWN
-        end
-
-        puts "Created: _country/#{country_slug}/#{region_slug}/#{suburb_slug}/"
-
-        # Create city pages within this suburb (if any)
-        city_groups = suburb_posts.group_by { |post| post[:data]['city'] }
-        city_groups.each do |city, city_posts|
-          city_name = normalize_text(city)
-          next if city_name.empty?
-
-          city_slug = slugify(city_name)
-          city_folder = "#{suburb_folder}/#{suburb_slug}"
-          city_filename = "#{city_folder}/#{city_slug}.md"
-
-          FileUtils.mkdir_p(city_folder) unless File.exist?(city_folder)
-
-          File.open(city_filename, "w") do |city_file|
-            city_file.puts <<~MARKDOWN
-              ---
-              layout: page
-              title: #{city_name}, #{suburb_name}, #{region_name}, #{country}
-              country: #{country}
-              region: #{region_name}
-              suburb: #{suburb_name}
-              city: #{city_name}
-              permalink: /country/#{country_slug}/#{region_slug}/#{suburb_slug}/#{city_slug}/
-              ---
-              [↑ Go to #{suburb_name}](/country/#{country_slug}/#{region_slug}/#{suburb_slug}/)
-
-              {% assign posts = site.posts | where: "country", "#{country}" | where: "region", "#{region}" | where: "suburb", "#{suburb}" | where: "city", "#{city}" %}
-              {% assign grouped_posts = posts | group_by: "rating" %}
-              {% assign sorted_grouped_posts = grouped_posts | sort: "name" %}
-
-              {% for group in sorted_grouped_posts reversed %}
-              #### Rating: {{ group.name }}
-
-              {% for post in group.items %}
-              - [{{ post.title }}]({{ post.url }})
-              {% endfor %}
-
-              {% endfor %}
-            MARKDOWN
-          end
-
-          puts "Created: _country/#{country_slug}/#{region_slug}/#{suburb_slug}/#{city_slug}/"
-        end
-      end
-
-      # Create region-level city pages for all cities (aggregate across suburbs)
-      region_city_groups_all = region_posts.group_by { |post| post[:data]['city'] }
-      region_city_groups_all.each do |city, city_posts|
+      # Create city pages: each city page lists its suburbs, each suburb's
+      # posts grouped by rating.
+      city_groups = region_posts.group_by { |post| post[:data]['city'] }
+      city_groups.each do |city, city_posts|
         city_name = normalize_text(city)
         next if city_name.empty?
 
@@ -287,7 +178,7 @@ countries.each do |country|
 
             {% for group in sorted_suburb_groups %}
             {% if group.name != "" %}
-            #### [{{ group.name }}](/country/#{country_slug}/#{region_slug}/{{ group.name | downcase | slugify }}/){: style="color: var(--heading-color);"}
+            #### {{ group.name }}
             {% else %}
             #### Unspecified suburb
             {% endif %}
