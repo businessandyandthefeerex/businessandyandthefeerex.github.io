@@ -8,6 +8,7 @@ meal: lunch
 address: 7 Moxham Avenue, Hataitai, Wellington 6021
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Hataitai
 website: https://www.therealm.co.nz
 ---  

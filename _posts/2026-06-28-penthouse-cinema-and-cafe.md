@@ -8,6 +8,7 @@ meal: lunch
 address: 205 Ohiro Road, Brooklyn, Wellington 6021
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Brookyn
 website: https://www.penthousecinema.co.nz/
 ---  

@@ -8,6 +8,7 @@ meal: dinner
 address: 60 Cambridge Terrace, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
 website: https://www.whiskyandwood.co.nz/little-whisky
 ---  

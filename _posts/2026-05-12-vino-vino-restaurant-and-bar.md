@@ -8,6 +8,7 @@ meal: dinner
 address: 153 Ocean View Road, Oneroa, Auckland 1081
 country: New Zealand
 region: Waiheke Island
+city: Waiheke Island
 suburb: Oneroa
 website: https://www.vinovino.co.nz
 ---  

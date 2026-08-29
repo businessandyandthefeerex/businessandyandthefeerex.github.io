@@ -1,9 +1,42 @@
-require 'jekyll'
 require 'fileutils'
+require 'yaml'
+require 'date'
 
-config = Jekyll.configuration({})
-site = Jekyll::Site.new(config)
-site.read
+# Read posts directly from _posts/*.md and parse front matter robustly (avoid Jekyll parsing errors)
+def read_posts_from_files
+  posts = []
+  Dir["_posts/*.md"].sort.each do |f|
+    raw = File.binread(f)
+    clean = raw.sub(/\A\xEF\xBB\xBF/n, "".b).gsub(/\r\n?/, "\n".b)
+    # find all front-matter blocks
+    blocks = clean.scan(/\A---\n(.*?)\n---\s*/m).map{|m| m[0]}
+    fm = nil
+    blocks.each do |b|
+      begin
+        data = YAML.safe_load(b, permitted_classes: [Date, Time], aliases: true) || {}
+      rescue
+        next
+      end
+      # pick first block that has at least one non-empty key value
+      if data.is_a?(Hash) && data.values.any?{|v| v && v.to_s.strip != ''}
+        fm = data
+        break
+      end
+    end
+    # fallback: try first block parse
+    if fm.nil? && blocks.any?
+      begin
+        fm = YAML.safe_load(blocks.first, permitted_classes: [Date, Time], aliases: true) || {}
+      rescue
+        fm = {}
+      end
+    end
+    posts << {path: f, data: (fm || {})}
+  end
+  posts
+end
+
+site_posts = read_posts_from_files
 
 def delete_all_files_in_directory(directory)
   if Dir.exist?(directory)
@@ -36,7 +69,7 @@ def normalize_text(value)
   value.to_s.strip
 end
 
-countries = site.posts.docs.map { |post| post.data['country'] }.uniq
+countries = site_posts.map { |post| post[:data]['country'] }.uniq
 
 countries.each do |country|
   next if country.nil? || country.empty?
@@ -61,8 +94,8 @@ countries.each do |country|
       <ul>
     MARKDOWN
 
-    country_posts = site.posts.docs.select { |post| post.data['country'] == country }
-    grouped_by_region = country_posts.group_by { |post| normalize_text(post.data['region']) }
+    country_posts = site_posts.select { |post| post[:data]['country'] == country }
+    grouped_by_region = country_posts.group_by { |post| normalize_text(post[:data]['region']) }
 
     grouped_by_region
       .sort_by { |region, _| normalize_text(region).downcase }
@@ -91,15 +124,29 @@ countries.each do |country|
           permalink: /country/#{country_slug}/#{region_slug}/
           ---
           [↑ Go to #{country} regions](/country/#{country_slug}/)
-          <ul>
-            {% assign posts = site.posts | where: "region", "#{region}" | where: "country", "#{country}" %}
-            {% assign grouped_posts = posts | group_by: "suburb" %}
 
-            {% assign sorted_grouped_posts = grouped_posts | sort: "name" %}
-            {% for group in sorted_grouped_posts %}
+          {% assign posts = site.posts | where: "region", "#{region}" | where: "country", "#{country}" %}
+          {% assign city_groups = posts | group_by: "city" %}
+          {% assign sorted_city_groups = city_groups | sort: "name" %}
 
+          {% for city_group in sorted_city_groups %}
+            {% assign city_slug = city_group.name | downcase | slugify %}
+            {% if city_group.name != "" %}
+              <h3><a href="/country/#{country_slug}/#{region_slug}/{{ city_slug }}" style="color: var(--heading-color);">{{ city_group.name }}</a></h3>
+            {% else %}
+              <h3>Unspecified city</h3>
+            {% endif %}
+
+            {% assign suburb_groups = city_group.items | group_by: "suburb" %}
+            {% assign sorted_suburb_groups = suburb_groups | sort: "name" %}
+
+            {% for group in sorted_suburb_groups %}
               {% assign suburb_slug = group.name | downcase | slugify %}
-              <h4><a href="/country/#{country_slug}/#{region_slug}/{{ suburb_slug }}" style="color: var(--heading-color);">{{ group.name }}</a></h4>
+              {% if group.name != "" %}
+                <h4><a href="/country/#{country_slug}/#{region_slug}/{{ suburb_slug }}" style="color: var(--heading-color);">{{ group.name }}</a></h4>
+              {% else %}
+                <h4>Unspecified suburb</h4>
+              {% endif %}
 
               {% assign rating_groups = group.items | group_by: "rating" %}
               {% assign sorted_rating_groups = rating_groups | sort: "name" %}
@@ -115,13 +162,13 @@ countries.each do |country|
                 </ul>
               {% endfor %}
             {% endfor %}
-          </ul>
+          {% endfor %}
         MARKDOWN
       end
       puts "Created: _country/#{country_slug}/#{region_slug}/"
 
       # Create suburb pages
-      suburb_groups = region_posts.group_by { |post| post.data['suburb'] }
+      suburb_groups = region_posts.group_by { |post| post[:data]['suburb'] }
 
       suburb_groups.each do |suburb, suburb_posts|
         suburb_name = normalize_text(suburb)
@@ -163,7 +210,7 @@ countries.each do |country|
         puts "Created: _country/#{country_slug}/#{region_slug}/#{suburb_slug}/"
 
         # Create city pages within this suburb (if any)
-        city_groups = suburb_posts.group_by { |post| post.data['city'] }
+        city_groups = suburb_posts.group_by { |post| post[:data]['city'] }
         city_groups.each do |city, city_posts|
           city_name = normalize_text(city)
           next if city_name.empty?
@@ -206,49 +253,57 @@ countries.each do |country|
         end
       end
       
-      # Also create city pages for posts in this region that have no suburb
-      region_no_suburb = region_posts.select { |p| normalize_text(p.data['suburb']).empty? }
-      if region_no_suburb.any?
-        region_city_groups = region_no_suburb.group_by { |post| post.data['city'] }
-        region_city_groups.each do |city, city_posts|
-          city_name = normalize_text(city)
-          next if city_name.empty?
+      # Create region-level city pages for all cities (aggregate across suburbs)
+      region_city_groups_all = region_posts.group_by { |post| post[:data]['city'] }
+      region_city_groups_all.each do |city, city_posts|
+        city_name = normalize_text(city)
+        next if city_name.empty?
 
-          city_slug = city_name.downcase.gsub(" ", "-")
-          city_folder = "#{country_folder}/#{region_slug}"
-          city_filename = "#{city_folder}/#{city_slug}.md"
+        city_slug = city_name.downcase.gsub(" ", "-")
+        city_folder = "#{country_folder}/#{region_slug}"
+        city_filename = "#{city_folder}/#{city_slug}.md"
 
-          FileUtils.mkdir_p(city_folder) unless File.exist?(city_folder)
+        FileUtils.mkdir_p(city_folder) unless File.exist?(city_folder)
 
-          File.open(city_filename, "w") do |city_file|
-            city_file.puts <<~MARKDOWN
-              ---
-              layout: page
-              title: #{city_name}, #{region_name}, #{country}
-              country: #{country}
-              region: #{region_name}
-              city: #{city_name}
-              permalink: /country/#{country_slug}/#{region_slug}/#{city_slug}/
-              ---
-              [↑ Go to #{region_name}](/country/#{country_slug}/#{region_slug}/)
+        File.open(city_filename, "w") do |city_file|
+          city_file.puts <<~MARKDOWN
+            ---
+            layout: page
+            title: #{city_name}, #{region_name}, #{country}
+            country: #{country}
+            region: #{region_name}
+            city: #{city_name}
+            permalink: /country/#{country_slug}/#{region_slug}/#{city_slug}/
+            ---
+            [↑ Go to #{region_name}](/country/#{country_slug}/#{region_slug}/)
 
-              {% assign posts = site.posts | where: "country", "#{country}" | where: "region", "#{region}" | where: "city", "#{city}" %}
-              {% assign grouped_posts = posts | group_by: "rating" %}
-              {% assign sorted_grouped_posts = grouped_posts | sort: "name" %}
+            {% assign posts = site.posts | where: "country", "#{country}" | where: "region", "#{region}" | where: "city", "#{city}" %}
+            {% assign suburb_groups = posts | group_by: "suburb" %}
+            {% assign sorted_suburb_groups = suburb_groups | sort: "name" %}
 
-              {% for group in sorted_grouped_posts reversed %}
-                <h4>Rating: {{ group.name }}</h4>
+            {% for group in sorted_suburb_groups %}
+              {% if group.name != "" %}
+                <h4><a href="/country/#{country_slug}/#{region_slug}/{{ group.name | downcase | slugify }}" style="color: var(--heading-color);">{{ group.name }}</a></h4>
+              {% else %}
+                <h4>Unspecified suburb</h4>
+              {% endif %}
+
+              {% assign rating_groups = group.items | group_by: "rating" %}
+              {% assign sorted_rating_groups = rating_groups | sort: "name" %}
+
+              {% for rating_group in sorted_rating_groups reversed %}
+                <h5>Rating: {{ rating_group.name }}</h5>
                 <ul>
-                  {% for post in group.items %}
+                  {% for post in rating_group.items %}
                     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
                   {% endfor %}
                 </ul>
               {% endfor %}
-            MARKDOWN
-          end
-
-          puts "Created: _country/#{country_slug}/#{region_slug}/#{city_slug}/"
+            {% endfor %}
+          MARKDOWN
         end
+
+        puts "Created: _country/#{country_slug}/#{region_slug}/#{city_slug}/"
       end
     end
 

@@ -8,6 +8,7 @@ meal: dinner
 address: 72 George Street, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Manawatu
+city: Palmerston North
 suburb: Palmerston North
 website: https://afghandarbarrestaurant.co.nz
 ---  

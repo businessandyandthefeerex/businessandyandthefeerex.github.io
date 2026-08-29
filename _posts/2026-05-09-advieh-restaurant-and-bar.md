@@ -8,6 +8,7 @@ meal: dinner
 address: 1 Queen Street, Auckland CBD, Auckland 1010
 country: New Zealand
 region: Auckland
+city: Auckland
 suburb: Auckland CBD
 website: https://www.adviehrestaurant.com/menus
 ---  

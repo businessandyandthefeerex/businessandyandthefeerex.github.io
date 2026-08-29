@@ -3,20 +3,31 @@ layout: page
 title: Mount Maunganui, Bay of Plenty, New Zealand
 country: New Zealand
 region: Bay of Plenty
-suburb: Mount Maunganui
+city: Mount Maunganui
 permalink: /country/new-zealand/bay-of-plenty/mount-maunganui/
 ---
 [↑ Go to Bay of Plenty](/country/new-zealand/bay-of-plenty/)
 
-{% assign posts = site.posts | where: "country", "New Zealand" | where: "region", "Bay of Plenty" | where: "suburb", "Mount Maunganui" %}
-{% assign grouped_posts = posts | group_by: "rating" %}
-{% assign sorted_grouped_posts = grouped_posts | sort: "name" %}
+{% assign posts = site.posts | where: "country", "New Zealand" | where: "region", "Bay of Plenty" | where: "city", "Mount Maunganui" %}
+{% assign suburb_groups = posts | group_by: "suburb" %}
+{% assign sorted_suburb_groups = suburb_groups | sort: "name" %}
 
-{% for group in sorted_grouped_posts reversed %}
-  <h4>Rating: {{ group.name }}</h4>
-  <ul>
-    {% for post in group.items %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+{% for group in sorted_suburb_groups %}
+  {% if group.name != "" %}
+    <h4><a href="/country/new-zealand/bay-of-plenty/{{ group.name | downcase | slugify }}" style="color: var(--heading-color);">{{ group.name }}</a></h4>
+  {% else %}
+    <h4>Unspecified suburb</h4>
+  {% endif %}
+
+  {% assign rating_groups = group.items | group_by: "rating" %}
+  {% assign sorted_rating_groups = rating_groups | sort: "name" %}
+
+  {% for rating_group in sorted_rating_groups reversed %}
+    <h5>Rating: {{ rating_group.name }}</h5>
+    <ul>
+      {% for post in rating_group.items %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
 {% endfor %}

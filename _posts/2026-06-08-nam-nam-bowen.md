@@ -8,6 +8,7 @@ meal: lunch
 address: unit 2/40 Bowen Street, Pipitea, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Pipitea
 website: https://www.namnam.nz/
 ---  

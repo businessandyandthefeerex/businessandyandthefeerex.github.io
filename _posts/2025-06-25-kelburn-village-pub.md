@@ -8,6 +8,7 @@ meal: dinner
 address: 87 Upland Road, Kelburn, Wellington 6012
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Kelburn
 website: http://kelburnvillagepub.co.nz/
 ---  

@@ -8,6 +8,7 @@ meal: breakfast
 address: Park Hyatt Auckland 99 Halsey Street, Auckland CBD, Auckland 1010
 country: New Zealand
 region: Auckland
+city: Auckland
 suburb: Auckland CBD
 website: https://hyattpantry.co.nz/menu/
 ---  

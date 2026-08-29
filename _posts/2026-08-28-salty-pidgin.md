@@ -8,6 +8,7 @@ meal: dinner
 address: 5 Todman Street, Brooklyn, Wellington 6021
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Briooklyn
 website: https://www.saltypidgin.nz/
 ---  

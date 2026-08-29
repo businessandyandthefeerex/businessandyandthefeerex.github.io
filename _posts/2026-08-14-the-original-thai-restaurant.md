@@ -8,6 +8,7 @@ meal: dinner
 address: 155 The Parade, Island Bay, Wellington 6023
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Island Bay
 website: https://www.facebook.com/p/The-Original-Thai-Restaurant-In-Island-Bay-100054229371081/
 ---  

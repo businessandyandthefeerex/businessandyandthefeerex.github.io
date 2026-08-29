@@ -8,6 +8,7 @@ meal: lunch
 address: 4/72 Main Road, Tawa, Wellington 5028
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Tawa
 website: https://www.nadabakery.co.nz/
 ---  

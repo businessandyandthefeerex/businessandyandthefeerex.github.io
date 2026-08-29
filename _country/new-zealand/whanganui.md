@@ -6,15 +6,29 @@ region: Whanganui
 permalink: /country/new-zealand/whanganui/
 ---
 [↑ Go to New Zealand regions](/country/new-zealand/)
-<ul>
-  {% assign posts = site.posts | where: "region", "Whanganui" | where: "country", "New Zealand" %}
-  {% assign grouped_posts = posts | group_by: "suburb" %}
 
-  {% assign sorted_grouped_posts = grouped_posts | sort: "name" %}
-  {% for group in sorted_grouped_posts %}
+{% assign posts = site.posts | where: "region", "Whanganui" | where: "country", "New Zealand" %}
+{% assign city_groups = posts | group_by: "city" %}
+{% assign sorted_city_groups = city_groups | sort: "name" %}
 
+{% for city_group in sorted_city_groups %}
+  {% assign city_slug = city_group.name | downcase | slugify %}
+  {% if city_group.name != "" %}
+    <h3><a href="/country/new-zealand/whanganui/{{ city_slug }}" style="color: var(--heading-color);">{{ city_group.name }}</a></h3>
+  {% else %}
+    <h3>Unspecified city</h3>
+  {% endif %}
+
+  {% assign suburb_groups = city_group.items | group_by: "suburb" %}
+  {% assign sorted_suburb_groups = suburb_groups | sort: "name" %}
+
+  {% for group in sorted_suburb_groups %}
     {% assign suburb_slug = group.name | downcase | slugify %}
-    <h4><a href="/country/new-zealand/whanganui/{{ suburb_slug }}" style="color: var(--heading-color);">{{ group.name }}</a></h4>
+    {% if group.name != "" %}
+      <h4><a href="/country/new-zealand/whanganui/{{ suburb_slug }}" style="color: var(--heading-color);">{{ group.name }}</a></h4>
+    {% else %}
+      <h4>Unspecified suburb</h4>
+    {% endif %}
 
     {% assign rating_groups = group.items | group_by: "rating" %}
     {% assign sorted_rating_groups = rating_groups | sort: "name" %}
@@ -30,4 +44,4 @@ permalink: /country/new-zealand/whanganui/
       </ul>
     {% endfor %}
   {% endfor %}
-</ul>
+{% endfor %}

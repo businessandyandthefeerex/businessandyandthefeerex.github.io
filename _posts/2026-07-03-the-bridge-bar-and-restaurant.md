@@ -8,6 +8,7 @@ meal: dinner
 address: 28 Cambridge Terrace, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
 website: https://cambridgehotel.co.nz/the-bridge-restaurant-and-bar-wellington/
 ---  

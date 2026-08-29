@@ -8,6 +8,7 @@ meal: dinner
 address: 152 Riddiford Street, Newtown, Wellington 6021
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Newtown
 website: https://baobab.co.nz/
 ---  

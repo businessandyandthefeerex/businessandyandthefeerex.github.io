@@ -8,6 +8,7 @@ meal: dinner
 address: 120 Victoria Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
 website: https://soulshackhotchicken.co.nz/
 ---  

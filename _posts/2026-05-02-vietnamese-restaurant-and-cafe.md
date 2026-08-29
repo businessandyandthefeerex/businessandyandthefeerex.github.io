@@ -8,6 +8,7 @@ meal: lunch
 address: 143 Jackson Street, Petone, Lower Hutt 5012
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Petone
 website: https://www.vietnameserestaurantandcafe.co.nz/menu
 ---  

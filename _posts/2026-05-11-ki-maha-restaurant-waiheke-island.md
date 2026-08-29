@@ -8,6 +8,7 @@ meal: lunch
 address: 1 Fourth Avenue, Onetangi Beach, Waiheke Island 1081
 country: New Zealand
 region: Waiheke Island
+city: Waiheke Island
 suburb: Onetangi Beach
 website: https://kimaha.nz
 ---  

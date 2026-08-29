@@ -8,6 +8,7 @@ meal: dinner
 address: 68 The Square, Palmerston North Central, Palmerston North 4410
 country: New Zealand
 region: Palmerston North
+city: Palmerston North
 suburb: Palmerston North Central
 website: https://www.facebook.com/phonemkiwi/
 ---  

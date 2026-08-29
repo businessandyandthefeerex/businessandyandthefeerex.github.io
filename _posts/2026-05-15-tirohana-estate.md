@@ -8,6 +8,7 @@ meal: dinner
 address: 42 Puruatanga Road, Wairarapa 5711
 country: New Zealand
 region: Wairarapa
+city: Wairarapa
 suburb: Wairarapa
 website: https://www.tirohanaestate.com/
 ---  

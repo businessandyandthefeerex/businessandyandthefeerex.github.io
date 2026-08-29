@@ -8,6 +8,7 @@ meal: dinner
 address: 38 Cambridge Terrace, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
 website: http://phuthaiesarn.co.nz/
 ---  

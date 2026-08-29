@@ -8,6 +8,7 @@ meal: lunch
 address: 80 Plimmer Terrace, Shannon 4821
 country: New Zealand
 region: Manawatu
+city: Shannon
 suburb: Shannon
 website: https://www.facebook.com/CafeHorsemans/
 ---  

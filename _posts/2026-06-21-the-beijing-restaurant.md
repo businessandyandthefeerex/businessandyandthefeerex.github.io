@@ -8,6 +8,7 @@ meal: lunch
 address: 164 Riddiford Street, Newtown, Wellington 6021
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Newtown
 website: 
 ---  

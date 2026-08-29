@@ -8,6 +8,7 @@ meal: dinner
 address: 253 Waimarama Road, Havelock North 4230
 country: New Zealand
 region: Hawkes Bay
+city: Havelock North
 suburb: Havelock North
 website: http://www.craggyrange.com/
 ---  

@@ -8,6 +8,7 @@ meal: dinner
 address: 100 Tory Street, Te Aro, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Te Aro
 website: https://khaosoi.nz/
 ---  

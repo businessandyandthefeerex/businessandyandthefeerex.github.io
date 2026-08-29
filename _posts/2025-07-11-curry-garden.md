@@ -8,6 +8,7 @@ meal: dinner
 address: 324 Tinakori Road, Thorndon, Wellington 6011
 country: New Zealand
 region: Wellington
+city: Wellington
 suburb: Thorndon
 website: https://www.currygarden.co.nz/
 ---  

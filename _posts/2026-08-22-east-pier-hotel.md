@@ -8,6 +8,7 @@ meal: lunch
 address: 50 Nelson Quay, Ahuriri, Napier 4110
 country: New Zealand
 region: Hawkes Bay
+city: Napier
 suburb: Napier
 website: http://eastpierhotel.co.nz/
 ---  

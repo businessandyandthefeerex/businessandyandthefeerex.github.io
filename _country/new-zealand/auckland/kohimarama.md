@@ -3,20 +3,31 @@ layout: page
 title: Kohimarama, Auckland, New Zealand
 country: New Zealand
 region: Auckland
-suburb: Kohimarama
+city: Kohimarama
 permalink: /country/new-zealand/auckland/kohimarama/
 ---
 [↑ Go to Auckland](/country/new-zealand/auckland/)
 
-{% assign posts = site.posts | where: "country", "New Zealand" | where: "region", "Auckland" | where: "suburb", "Kohimarama" %}
-{% assign grouped_posts = posts | group_by: "rating" %}
-{% assign sorted_grouped_posts = grouped_posts | sort: "name" %}
+{% assign posts = site.posts | where: "country", "New Zealand" | where: "region", "Auckland" | where: "city", "Kohimarama" %}
+{% assign suburb_groups = posts | group_by: "suburb" %}
+{% assign sorted_suburb_groups = suburb_groups | sort: "name" %}
 
-{% for group in sorted_grouped_posts reversed %}
-  <h4>Rating: {{ group.name }}</h4>
-  <ul>
-    {% for post in group.items %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+{% for group in sorted_suburb_groups %}
+  {% if group.name != "" %}
+    <h4><a href="/country/new-zealand/auckland/{{ group.name | downcase | slugify }}" style="color: var(--heading-color);">{{ group.name }}</a></h4>
+  {% else %}
+    <h4>Unspecified suburb</h4>
+  {% endif %}
+
+  {% assign rating_groups = group.items | group_by: "rating" %}
+  {% assign sorted_rating_groups = rating_groups | sort: "name" %}
+
+  {% for rating_group in sorted_rating_groups reversed %}
+    <h5>Rating: {{ rating_group.name }}</h5>
+    <ul>
+      {% for post in rating_group.items %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
 {% endfor %}
