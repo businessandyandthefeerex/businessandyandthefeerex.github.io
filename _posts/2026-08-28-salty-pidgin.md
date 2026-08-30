@@ -1,23 +1,25 @@
 ---
 category: Reviews
 layout: post
-title: Salty Pidgin
-date: 2026-08-28
-rating: 3
-meal: dinner
-address: 5 Todman Street, Brooklyn, Wellington 6021
+title: Caribe Coffee
+date: 2026-08-30
+rating: 2
+meal: lunch
+address: 54 Cleveland Street, Brooklyn, Wellington 6021
 country: New Zealand
 region: Wellington
 city: Wellington
 suburb: Brooklyn
-website: https://www.saltypidgin.nz/
+website: https://www.cafecaribe.co.nz/
 ---  
-Eye fillet with roast potatoes, caramelised onion puree, and rocket  
-Lamb shoulder pide  
-Bay leaf and cinnamon creme caramel  
+Reuben sandwich  
+Pulled pork and bacon burrito  
+Banana bread  
+Banana & honey smoothie  
+Americano  
 
-Salty Pidgin is a fancy-ish dinner place with cloth napkins and friendly, prompt service. Unfortunately, they don't know how to cook a steak. That's a pretty big issue. When it comes to ordering a steak, aside of the quality of the meat (which was excellent), the cook is the main thing you need to get right. Especially for a $50 meal that is a bit on the small side. We ordered a medium steak, but what we got was on the rare side of medium-rare. The other major issue was the potatoes, which were definitely underdone. When we bit that potato, it bit back. We're not talking rock hard spuds, but it was noticeable.
+Caribe coffee is a roastery cafe with an interesting, Caribbean forward menu. The food looked pretty good with multiple options that seemed worth going back to. It's bigger than it looks too, with a extra seating area out the back (which is also where they are hiding the water, by the way). Out of the gate we started strong. The reuben was very satisfying, well constructed, flavourful, had plenty of filling without being silly, and we were excited. Then the burrito happened. With the Caribbean influences we thought we were in for a taste sensation. It also contained rice and beans, adding further fuel to the "ooh see it's Caribbean yum yum" fire. What a devastating let down. Most of the flavour came with the accompanying BBQ sauce, which was dip-for-kids-nuggets standard. The pulled pork was very dry and bland. The heating was uneven, with the beans tepid and the rice magma. 
 
-Luckily, Salty Pidgin does know how to cook a pide. It was bloody good. The lamb shoulder was tender and the other flavours perfectly balanced. We could have done with a steak knife, as our standard knife struggled to deal with the pide crust. Maybe we should have just used the steak knife we got with the eye fillet? Think again. No steak knife was provided for either meal, tsk tsk. 
+You won't believe what came with the banana loaf. Big ole' scoop of full on margarine. We're talking 5kg catering tub here. When it came out we weren't sure what was happening - was this a luxury whipped butter? It was so soft! We ate some on its own. The Fee-Rex was so confused she tried it a few times, and each time it tasted like absolutely nothing. It was a shame as the loaf itself was decent. 
 
-If the review ended here, Salty Pidgin would be cruisin' for a two-sin'. Luckily we had the space to share a dessert, and we were glad we did. The creme caramel hit all the right notes - great flavour, some interest from the bay leaf, crunchy biscuity bits providing some texture, we were very pleased indeed. 
+Onto the smoothie. The flavour was good, subtle with real banana and detectable honey. However, it was too thin, and foamy as well. The thinness was exacerbated by serving it with a very fat straw. We don't usually mention coffee, but as this is a roastery we thought it deserved to be part of the review. Business Andy isn't a coffee snob, so he won't speak to notes of that or undertones of this. But it was a good coffee. 
