@@ -1,7 +1,7 @@
 ---
 category: Reviews
 layout: post
-title: Cellar-vate Bottle Shop - Espresso
+title: Cellar-vate
 date: 2026-09-16
 rating: 1
 meal: lunch
