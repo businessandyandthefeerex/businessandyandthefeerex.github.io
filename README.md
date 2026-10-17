@@ -87,6 +87,7 @@ To do:
  - decide what to do about palmerston north & fix the city/region/suburb listings
  - look through all the suburbs and fix the ones that are wrong
  - find places reviewed multiple times in wellington before the switch to the new website and check that they are all here
+ - retrieve other missing reviews from the old website somehow, perhaps scrape the index and then check against the file list, bad pizza in exmouth is missing
 
 Links to be added:
  - Hyderabadi House

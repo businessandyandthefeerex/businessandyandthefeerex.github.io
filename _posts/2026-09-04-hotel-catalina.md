@@ -4,7 +4,7 @@ layout: post
 title: Hotel Catalina
 date: 2026-09-04
 rating: 3
-meal: Dinner
+meal: dinner
 address: 30 Cochrane Street, Rongotai, Wellington 6011
 country: New Zealand
 region: Wellington
