@@ -81,6 +81,12 @@ To do:
  - add rest of the old reviews, separate out repeat reviews into their own files
  - categories table page for filtering by arbitrary category labels (low priority)
  - stats on ratings and also ratings by regions maybe (low priority)
+ - fix the regions page
+ - change to manawatu-whanganui, take out the macron
+ - change all the manawatu region posts to manawatu-whanganui
+ - decide what to do about palmerston north & fix the city/region/suburb listings
+ - look through all the suburbs and fix the ones that are wrong
+ - find places reviewed multiple times in wellington before the switch to the new website and check that they are all here
 
 Links to be added:
  - Hyderabadi House
