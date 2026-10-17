@@ -62,7 +62,13 @@ If you make a post that is in a new region or country, new country and region di
 But you don't need to run the generate scripts yourself, the after_reset script in the plugins folder ensures that they are all called when jekyll build runs.
 And Githib has a workflow built in that runs a jekyll build command whenever there is a new commit to the main branch, so just push or merge to main, and the site will be rebuilt completely.
 
-The generate_geocoded_locations_json and the generate_leaflet_markers scripts can't be run in github pages natively, so instead, they run locally with a githook on commit, but if you're just building locally then they run as part of the after_reset script. Git hooks are located in the .githooks/ directory. If you're using VSCode you'll need the githooks extension to ensure it runs because windows doesn't really play nice with git, and you'll need to change your local git hooks directory to .githooks too, this can be done from the extension. Note that some variables have been set absolutely in this script, so check this before running.
+Some generated files are updated locally because GitHub Pages does not run all of the site's generator scripts. The pre-commit hook is in `.githooks/pre-commit`. Enable it for this repository from the repository root with:
+
+```sh
+git config core.hooksPath .githooks
+```
+
+This is a repository-local setting; the hook then runs automatically before each `git commit`. On Linux and macOS, no VS Code extension is needed. The current hook runs the post-filename fixer and Leaflet marker generator; its geocoding step is commented out because it is currently broken. Some scripts contain absolute paths, so review those assumptions before using the generators on another machine.
 
 The main branch is intended to be ready for deployment at all times, so pushes directly to main really should only be for tiny changes like new pages. The development workflow for new features is intended to be branching from main into a new branch for the development of the feature, developing locally using `bundle exec jekyll serve` (or `bundle exec jekyll build` followed by `python3 -m http.server -d _site` to inspect the generated site on localhost:8000), pushing commits to the remote repository, and then merging back into main via a pull request.
 
