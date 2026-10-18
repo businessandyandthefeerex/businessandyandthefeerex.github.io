@@ -88,6 +88,7 @@ To do:
  - look through all the suburbs and fix the ones that are wrong
  - find places reviewed multiple times in wellington before the switch to the new website and check that they are all here
  - retrieve other missing reviews from the old website somehow, perhaps scrape the index and then check against the file list, bad pizza in exmouth is missing
+ - fix generation scripts to make them case insensitive (ie: Dinner = dinner)
 
 Links to be added:
  - Hyderabadi House
