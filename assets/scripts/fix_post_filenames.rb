@@ -47,8 +47,10 @@ post_files.each do |file|
   new_file_path = File.join(File.dirname(file), new_filename)
 
   # Check if the new filename already exists
-  if File.expand_path(file) == File.expand_path(new_file_path)
-    # Same path, but maybe different case — force rename using a temp file
+  if filename == new_filename
+    next
+  elsif filename.casecmp?(new_filename)
+    # Force case-only renames through a temporary path on case-insensitive filesystems.
     temp_file_path = new_file_path + ".tmp"
     FileUtils.mv(file, temp_file_path)
     FileUtils.mv(temp_file_path, new_file_path)
