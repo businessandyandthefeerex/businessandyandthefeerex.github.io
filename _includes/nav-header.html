@@ -30,7 +30,7 @@
   // Hide nav and apply toggle
   const collapseNav = () => {
     if (document.body.clientWidth < 640) {
-      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight + button.offsetHeight}px`)
     } else {
       navList.removeAttribute('style')
     }
@@ -40,7 +40,7 @@
       if (navList.style.getPropertyValue('--listHeight')) {
         navList.style.removeProperty('--listHeight')
       } else {
-        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight + button.offsetHeight}px`)
       }
     }
   }
