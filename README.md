@@ -89,6 +89,12 @@ To do:
  - find places reviewed multiple times in wellington before the switch to the new website and check that they are all here
  - retrieve other missing reviews from the old website somehow, perhaps scrape the index and then check against the file list, bad pizza in exmouth is missing
  - fix generation scripts to make them case insensitive (ie: Dinner = dinner)
+ - add a make new post script, probably just a sh
+ - migration to 11ty
+ - make generation scripts read suburb, city, region from address
+ - make generation scripts work with a single pass instead of looping through every post for every script
+ - make fix post filename script work as part of the after_reset script in the _plugin folder
+ - make the generate geocoded locaitons script work from the cloud, save the api key as a github secret, also make it only work for missing locations, and then make the generate leaflet markers script also work incrementally and work in github's build action
 
 Links to be added:
  - Hyderabadi House
