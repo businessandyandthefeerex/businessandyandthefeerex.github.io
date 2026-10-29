@@ -101,3 +101,4 @@ Links to be added:
  - Ohtel Pantry
  - Tandoori Dhaba
  this is a test of spck editor
+ this is a test of git and helix in termux
