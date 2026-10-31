@@ -49,10 +49,11 @@ precedence ::ffff:0:0/96 100
 
 This changes address preference system-wide while the line is present. Remove or comment out the line to undo the workaround after installing the gems.
 
-Add new reviews to the _posts folder in the root of this repository.
-Name them with a date at the start in yyyy-mm-dd format for clarity, to avoid duplicates, and to make the automatic date folders work.
-It's important to get the front matter right for each post, that's the stuff between the two lines of --- at the start of the file.
-If in doubt, just copy a file and then overwrite what's there with the new values for the new post.
+To start a new review, double-click `assets/scripts/new-review.sh`. It creates a draft with the required front matter in `_posts`, using a filename such as `yyyy-mm-dd-new-review.md`, and opens it in your default text editor. Rename the file when you have the restaurant name and fill in the blank front matter fields before saving.
+
+Once the review is complete, double-click `assets/scripts/publish-review.sh`. It uses the newest review draft by default, adds the review to Git, creates a commit, and pushes it to the current branch. The repository's pre-commit hook handles review filename and map marker generation. You can also run the script with a review path when publishing a specific draft.
+
+Add new reviews to the `_posts` folder in the root of this repository. Name them with a date at the start in yyyy-mm-dd format for clarity, to avoid duplicates, and to make the automatic date folders work. It's important to get the front matter right for each post, that's the stuff between the two lines of `---` at the start of the file. If in doubt, copy a file and overwrite its contents with the values for the new post.
 
 Posts are organised by date by default, but they have a secondary organisation, by country/region/suburb/rating.
 This ensures that posts are automatically put into the right lists that filter through to the Browse by Region pages.
@@ -89,7 +90,6 @@ To do:
  - find places reviewed multiple times in wellington before the switch to the new website and check that they are all here
  - retrieve other missing reviews from the old website somehow, perhaps scrape the index and then check against the file list, bad pizza in exmouth is missing
  - fix generation scripts to make them case insensitive (ie: Dinner = dinner)
- - add a make new post script, probably just a sh
  - migration to 11ty
  - make generation scripts read suburb, city, region from address
  - make generation scripts work with a single pass instead of looping through every post for every script
