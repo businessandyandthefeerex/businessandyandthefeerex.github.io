@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="{{ lang or site.lang }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% if indexing == false %}
+      <meta name="robots" content="noindex">
+    {% endif %}
+
+    {% set pageTitle = title or site.title %}
+    <title>{{ pageTitle }}{% if title and title != site.title %} - {{ site.title }}{% endif %}</title>
+    <meta name="description" content="{{ description or site.description }}">
+    <meta property="og:title" content="{{ pageTitle }}">
+    <meta property="og:description" content="{{ description or site.description }}">
+
+    {% for url in site.fonts.preconnectUrls %}
+      <link rel="preconnect" href="{{ url }}" crossorigin>
+    {% endfor %}
+
+    <link rel="manifest" href="/assets/manifest.json">
+    <meta name="theme-color" content="{{ site.manifestThemeColor }}">
+
+    {% if site.logo %}
+      <link rel="preload" as="image" href="{{ site.logo }}" fetchpriority="high">
+    {% endif %}
+
+    <link rel="stylesheet" href="/assets/styles.css">
+
+    {% for icon in site.favicons %}
+      <link rel="icon" type="image/png" href="{{ icon.path }}" sizes="{{ icon.size }}x{{ icon.size }}">
+      <link rel="apple-touch-icon" sizes="{{ icon.size }}x{{ icon.size }}" href="{{ icon.path }}">
+    {% endfor %}
+
+    {% for url in site.fonts.fontUrls %}
+      <link rel="preload" as="style" href="{{ url }}">
+      <link rel="stylesheet" href="{{ url }}" media="print" onload="this.media='all'">
+    {% endfor %}
+  </head>
+
+  <body class="layout-{{ layout | default('default') }}{% if title %} {{ title | slugify }}{% endif %}">
+    {{ content | safe }}
+  </body>
+</html>
