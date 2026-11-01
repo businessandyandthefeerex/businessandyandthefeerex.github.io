@@ -1,41 +1,31 @@
 #!/bin/bash
+cd "$(git rev-parse --show-toplevel)" || exit 1
 
-# Define the relative paths to the scripts
-FIX_SCRIPT="./assets/scripts/fix_post_filenames.rb"
-GEOLOC_SCRIPT="./assets/scripts/generate_geocoded_locations_json.rb"
-LEAFLET_SCRIPT="./assets/scripts/generate_leaflet_markers.rb"
+# Only run when a review is part of this commit.
+if ! git diff --cached --name-only | grep -q '^src/posts/'; then
+  exit 0
+fi
 
-# Check if Ruby is installed
-if ! command -v ruby &> /dev/null; then
-  echo "Ruby is not installed. Please install Ruby and try again."
+if ! command -v node &> /dev/null; then
+  echo "Node is not installed. Commit aborted."
   exit 1
 fi
 
-# Run the filename fixing script
-echo "Running filename fix script..."
-ruby "$FIX_SCRIPT"
-if [ $? -ne 0 ]; then
-  echo "Filename fix script failed. Push aborted."
-  exit 1
+# 1. Filenames: needs no API key, always runs.
+echo "Fixing post filenames..."
+npm run --silent fix-filenames || { echo "Filename fix failed. Commit aborted."; exit 1; }
+git add -A src/posts
+
+# 2. Geocoding: only if a key is available.
+if [ -f .env ] && grep -q '^LOCATIONIQ_KEY=.\+' .env; then
+  echo "Geocoding any new addresses..."
+  npm run --silent geocode || { echo "Geocoding failed. Commit aborted."; exit 1; }
+else
+  echo "No LOCATIONIQ_KEY in .env, skipping geocoding. New addresses won't be on the map yet."
 fi
 
-# this is broken right now
-# # Run the geocoding script
-# echo "Running geocoding script..."
-# ruby "$GEOLOC_SCRIPT"
-# if [ $? -ne 0 ]; then
-#   echo "Geocoding script failed. Push aborted."
-#   exit 1
-# fi
+# 3. Markers: offline, uses whatever is already geocoded.
+echo "Regenerating map markers..."
+npm run --silent markers || { echo "Markers script failed. Commit aborted."; exit 1; }
 
-# Run the leaflet markers script
-echo "Running leaflet markers script..."
-ruby "$LEAFLET_SCRIPT"
-if [ $? -ne 0 ]; then
-  echo "Leaflet markers script failed. Push aborted."
-  exit 1
-fi
-
-# Allow the push to continue
-echo "All scripts executed successfully. Push allowed."
-exit 0
+git add assets/geocoded_locations.json assets/markers.json

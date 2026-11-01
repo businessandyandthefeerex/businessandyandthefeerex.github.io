@@ -1,0 +1,21 @@
+---
+category: Reviews
+layout: post
+title: Gorilla Burger
+date: 2021-12-22
+rating: 2
+meal: dinner
+country: New Zealand
+region: Wellington
+city: Wellington
+suburb: Island Bay
+address: 163 The Parade, Island Bay, Wellington
+website: https://www.gorillaburger.co.nz/
+dishes:
+  - Kong burger - beef patty, brisket, cheese, pickle, red onion, BBQ sauce
+  - Flying Monkey burger - fried chicken, lettuce, pickle, cheese, spicy sauce
+---
+
+Sometimes it's hard to say a lot about a burger joint, especially if they did most of everything right. 
+
+The brisket was a bit on the dry side, and perhaps there was too much red onion, but otherwise the Kong burger was very good. The Flying Monkey burger was our preferred burger of the evening. Both burgers were super saucy; it came out everywhere right from the first bite, all over our hands, all over the table. You do expect a bit of drippage, and the alternative, a dry burger, is a cardinal sin. It's just that these had gone a bit far. 

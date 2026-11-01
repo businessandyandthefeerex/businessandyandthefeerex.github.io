@@ -1,0 +1,23 @@
+module.exports = {
+  "New Zealand": [
+    "Northland",
+    "Auckland",
+    "Waikato",
+    "Bay of Plenty",
+    "Coromandel",
+    "Gisborne",
+    "Hawkes Bay",
+    "Taranaki",
+    "Manawatū-Whanganui",
+    "Wellington",
+    "Tasman",
+    "Nelson",
+    "Marlborough",
+    "West Coast",
+    "Canterbury",
+    "Otago",
+    "Fiordland",
+    "Southland",
+    "Stewart Island",
+  ],
+};
