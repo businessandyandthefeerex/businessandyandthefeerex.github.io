@@ -11,9 +11,10 @@ region: Manawatu
 city: Palmerston North
 suburb: Palmerston North
 website: https://afghandarbarrestaurant.co.nz
+dishes:
+  - Banjan boranee
+  - Karahi lamb
 ---
-Banjan boranee  
-Karahi lamb  
 
 We dined at Afghan Darbar early in our relationship, before we were keeping BAATFR records. We do not remember it fondly. So when the gods of randomisation brought Afghan Darbar to us again tonight, our emotions were mixed. On one hand, we were quite pleased to see they were still going. Afghani is not a well-represented cuisine in NZ, so we liked that there was support for something different. On the other hand, we were nervous to return to a previous unpleasant dining experience. 
 

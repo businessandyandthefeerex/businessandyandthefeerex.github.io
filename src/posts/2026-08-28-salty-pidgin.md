@@ -11,10 +11,11 @@ region: Wellington
 city: Wellington
 suburb: Brooklyn
 website: https://www.saltypidgin.nz/
+dishes:
+  - Eye fillet with roast potatoes, caramelised onion puree, and rocket
+  - Lamb shoulder pide
+  - Bay leaf and cinnamon creme caramel
 ---
-Eye fillet with roast potatoes, caramelised onion puree, and rocket  
-Lamb shoulder pide  
-Bay leaf and cinnamon creme caramel  
 
 Salty Pidgin is a fancy-ish dinner place with cloth napkins and friendly, prompt service. Unfortunately, they don't know how to cook a steak. That's a pretty big issue. When it comes to ordering a steak, aside of the quality of the meat (which was excellent), the cook is the main thing you need to get right. Especially for a $50 meal that is a bit on the small side. We ordered a medium steak, but what we got was on the rare side of medium-rare. The other major issue was the potatoes, which were definitely underdone. When we bit that potato, it bit back. We're not talking rock hard spuds, but it was noticeable.
 

@@ -11,9 +11,10 @@ region: Wellington
 city: Wellington
 suburb: Newtown
 website: https://vivamexico.co.nz/
+dishes:
+  - Enchiladas de birria
+  - Feta and spinach quesadilla
 ---
-Enchiladas de birria  
-Feta and spinach quesadilla  
 
 We weren't upset to be visiting Viva Mexico, they are already in our regular takeaway rotation, and they didn't disappoint. Plus the feijoa margarita, an off menu suggestion from the waiter, was a triumph. 
 

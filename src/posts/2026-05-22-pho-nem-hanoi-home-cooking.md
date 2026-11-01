@@ -11,11 +11,12 @@ region: Palmerston North
 city: Palmerston North
 suburb: Palmerston North Central
 website: https://www.facebook.com/phonemkiwi/
+dishes:
+  - Vegetable spring rolls
+  - Pork spring rolls
+  - Chicken with ginger rice and coleslaw
+  - Caramelised pork belly with rice and coleslaw
 ---
-Vegetable spring rolls  
-Pork spring rolls  
-Chicken with ginger rice and coleslaw  
-Caramelised pork belly with rice and coleslaw  
 
 Before we tear Pho Nem a new one, we’ll point out that we suspect we got a below average showing from the Hanoi Home Cooks tonight. Business Andy’s mum comes here every week, and this place was packed, so we don’t reckon they could be stuffing up this hard every night. However, we can only judge the experience that we had. And the experience that we had sucked. 
 

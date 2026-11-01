@@ -11,9 +11,10 @@ region: Wellington
 city: Wellington
 suburb: Te Aro
 website: http://phuthaiesarn.co.nz/
+dishes:
+  - Khao soi chicken
+  - Tofu pad Thai
 ---
-Khao soi chicken  
-Tofu pad Thai  
 
 When Business Andy came here for a work do a couple of years ago, he wasn't that impressed. He had a great time, but he also drank far too much soju - perhaps this was a contributing factor. At any rate, two years later PhuThai Esarn Restaurant is still here, and continues to meh. 
 

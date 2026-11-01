@@ -11,9 +11,10 @@ region: Wellington
 city: Lower Hutt
 suburb: Hutt Central
 website: 
+dishes:
+  - Pulled pork and pickle toastie
+  - Ham, cheese, aioli, and cranberry toastie
 ---
-Pulled pork and pickle toastie  
-Ham, cheese, aioli, and cranberry toastie  
 
 Outside the workshop they advertise three things. Burgers. Toasties. Bourbon. Sounds like lunch, in we go. Well, you can forget the burgers for a start, there are no burgers on the limited lunch menu. You can almost forget the toasties. The woman at the bar was livid that we were ordering food. She indicated we could only have the top half of the menu, eliminating the salad and the macaroni cheese. That shrinks our offerings to just the four toasties, all of which were pork-based. Okay, we'll play your game. Two toasties please, and two surprisingly expensive drinks. 
 

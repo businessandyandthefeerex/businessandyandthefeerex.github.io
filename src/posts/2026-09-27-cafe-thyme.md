@@ -11,10 +11,11 @@ region: Wellington
 city: Wellington
 suburb: Glenside
 website: https://www.facebook.com/CafeThymeWellington/
+dishes:
+  - Pumpkin soup
+  - Roast kumara salad
+  - Banana smoothie
 ---
-Pumpkin soup  
-Roast kumara salad  
-Banana smoothie  
 
 On a blustery spring day, the open fire in Cafe Thyme gives an impression of warmth, and we excitedly moved to the table closest to the hearth. When we looked up and saw the giant curated hole in the roof, exposing the rafters and uninsulated corrugate, we understood why the fire was providing the impression of warmth, rather than making the cafe actually warm. On the subject of the fire, it's time to get out the elbow grease and clean off the soot which was coating the hearth, wall and ceiling. 
 

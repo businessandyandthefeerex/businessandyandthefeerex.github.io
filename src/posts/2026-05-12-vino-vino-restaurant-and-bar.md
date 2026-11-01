@@ -11,9 +11,10 @@ region: Waiheke Island
 city: Waiheke Island
 suburb: Oneroa
 website: https://www.vinovino.co.nz
+dishes:
+  - Beef burger with coleslaw and chips
+  - Eye fillet with chimichurri, roast potatoes, salad and portobello mushroom
 ---
-Beef burger with coleslaw and chips  
-Eye fillet with chimichurri, roast potatoes, salad and portobello mushroom  
 
 Vino vino serves European fare with some South American influences. the eye fillet was a very nice piece of meat, well cooked, and the mushroom went well. The chimichurri was a non-event, a sprinkle of some green stuff which you could see but not taste, it may as well not have been there. The salad was a time-waste and the potatoes were nice but more like wedges than roast, and there weren't many to boot.
 

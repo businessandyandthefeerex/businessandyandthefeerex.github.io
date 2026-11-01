@@ -11,11 +11,12 @@ region: Wellington
 city: Wellington
 suburb: Tawa
 website: https://www.nadabakery.co.nz/
+dishes:
+  - Steak, confit garlic, and parmesan pie
+  - Pumpkin and bacon quiche
+  - Apple danish
+  - Carrot cake
 ---
-Steak, confit garlic, and parmesan pie  
-Pumpkin and bacon quiche  
-Apple danish  
-Carrot cake  
 
 Nada Bakery is a pretty popular place, especially for a rainy Sunday lunchtime. They were doing a steady trade in both dine-in and takeaway. We can see why. The cabinet had plenty of options and almost everything looked good. Their walls were covered in pie-related accolades, and having sampled their wares these seem deserved. The pie was quite special, although the pastry top was slightly over done. 
 

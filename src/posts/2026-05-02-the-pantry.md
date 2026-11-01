@@ -11,10 +11,11 @@ region: Auckland
 city: Auckland
 suburb: Auckland CBD
 website: https://hyattpantry.co.nz/menu/
+dishes:
+  - Salted caramel apple crumble waffles
+  - Tofu pad Thai
+  - Baked cheesecake
 ---
-Salted caramel apple crumble waffles  
-Tofu pad Thai  
-Baked cheesecake  
 
 Considering how busy these guys were, this food came out fast. Great service. Good food. And they had an excellent menu, especially for a brunch menu which can often be really boring. They had all sorts, there was a ramen dish, a curry, eggs benedict, it was really refreshing.
 

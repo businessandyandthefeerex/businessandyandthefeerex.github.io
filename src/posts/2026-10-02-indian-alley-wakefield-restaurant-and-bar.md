@@ -11,12 +11,13 @@ city: Wellington
 suburb: Te Aro
 address: 3/290 Wakefield Street, Te Aro, Wellington 6011
 website: https://indianalley.co.nz/
+dishes:
+  - Gol gappa
+  - Chicken kastoori kebabs
+  - Amritsari paneer bhurji
+  - Cheese naan
+  - Aloo onion paratha
 ---
-Gol gappa  
-Chicken kastoori kebabs  
-Amritsari paneer bhurji  
-Cheese naan  
-Aloo onion paratha  
 
 You're welcome, Indian Alley. Three reviews ago, we gave you some timely advice. We let you know that it was unacceptable practice to charge for rice. Two reviews ago, we acknowledged that you'd changed your ways, 100% due to our advice. And look at you now, proud recipients of the Michelin Bib Gourmand, which is awarded for quality food at affordable prices. We don't think it's a coincidence that you are a lot busier now - in fact, last week we were turned away when we showed up without a reservation. 
 

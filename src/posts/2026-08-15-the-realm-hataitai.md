@@ -11,9 +11,10 @@ region: Wellington
 city: Wellington
 suburb: Hataitai
 website: https://www.therealm.co.nz
+dishes:
+  - Chicken burger
+  - Margherita pizza
 ---
-Chicken burger  
-Margherita pizza  
 
 There is an unspoken rule in hospitality around warning customers about wait times. Some may even call it a duty. An imperative. A mandate. When we walked in and saw two large tables and the rest of the restaurant empty, we weren't concerned. We saw they had some food and figured we were in the clear. This was reinforced by the waitress saying flat zero about any extended waits. 
 

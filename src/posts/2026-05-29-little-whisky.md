@@ -11,9 +11,10 @@ region: Wellington
 city: Wellington
 suburb: Te Aro
 website: https://www.whiskyandwood.co.nz/little-whisky
+dishes:
+  - Fig, feta, and  walnut pizza
+  - Basque cheesecake with cherries and sliced almonds
 ---
-Fig, feta, and  walnut pizza  
-Basque cheesecake with cherries and sliced almonds  
 
 We really weren't expecting much from Little Whisky, which is essentially an add on extra thing to Sweet Axe and their upstairs function room, Whisky & Wood. But my god, that pizza. Absolutely fantastic. The cheese was so stringy and cheesy, like those ads you see for Pizza Hutt with the big strings and go "pfft their pizza never strings like that" - this pizza strings like that. Our only complaint is that it came in a box instead of on a board, and had no side plates. Treat us like diners, not students avoiding eating in the rain. 
 

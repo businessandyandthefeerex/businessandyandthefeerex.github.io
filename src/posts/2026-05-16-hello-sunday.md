@@ -11,9 +11,10 @@ region: Canterbury
 city: Christchurch
 suburb: Christchurch
 website: https://www.hellosunday.co.nz/
+dishes:
+  - Mushrooms on toast
+  - Beef burger with chips
 ---
-Mushrooms on toast  
-Beef burger with chips  
 
 Hello Sunday is a very popular brunch spot, and we can see why. The menu looks fab, we’d love to go back and try more 
 

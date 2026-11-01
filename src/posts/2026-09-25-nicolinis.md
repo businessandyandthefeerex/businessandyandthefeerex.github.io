@@ -11,10 +11,11 @@ region: Wellington
 city: Wellington
 suburb: Te Aro
 website: http://www.nicolinis.co.nz/
+dishes:
+  - Garlic mushrooms
+  - Mushroom risotto
+  - Baked cheesecake
 ---
-Garlic mushrooms  
-Mushroom risotto  
-Baked cheesecake  
 
 That's amore! Was but one of the absolute bangers crooned by the oustanding pianist we were privleged to sit next to. The live dinner accompaniment is a dying art, and when it's bad, it's bad. But when it's good, sweet heavens how good it is. The pianist was hands down the best part of the night, we exchanged a little chitchat, he even fielded a request from us (Burt Bacharach, which he absolutely killed). He was so good we left him a tip, which is unheard of for BAATFR.
 

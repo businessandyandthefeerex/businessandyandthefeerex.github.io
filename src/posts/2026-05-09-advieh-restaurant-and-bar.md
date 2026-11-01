@@ -11,12 +11,13 @@ region: Auckland
 city: Auckland
 suburb: Auckland CBD
 website: https://www.adviehrestaurant.com/menus
+dishes:
+  - Lamb dumpings
+  - Carrots
+  - Chips
+  - Pide
+  - Lamb neck with flatbread
 ---
-Lamb dumpings  
-Carrots  
-Chips  
-Pide  
-Lamb neck with flatbread  
 
 Advieh serves Middle Eastern food with sophistication and flair. We loved everything. Even the chips were exceptional - super thick, hand cut, crispy, piping hot, perfectly seasoned, some kind of creamy dipping sauce, sweet heaven it was ecstasy. The dumplings were well structured and flavourful, the lamb neck absolutely falling off the bone. Every single dish was perfectly cooked and exciting. 
 

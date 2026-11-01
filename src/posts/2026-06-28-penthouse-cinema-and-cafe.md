@@ -11,10 +11,11 @@ region: Wellington
 city: Wellington
 suburb: Brookyn
 website: https://www.penthousecinema.co.nz/
+dishes:
+  - Mince & cheese pie
+  - Fish & chips
+  - Caramel slice
 ---
-Mince & cheese pie  
-Fish & chips  
-Caramel slice  
 
 On a wintery Sunday at lunchtime, Penthouse Cinema & Cafe was absolutely heaving. The cinema tickets and cafe queue is shared and the line was almost out the door. Thanks to the recent release of Toy Story 5 and the latest Minions movie, there were kids everywhere, plus tonnes of senior citizens. The staff were rushed off their feet, but were still friendly and were clearly trying their best amidst difficult circumstances. 
 

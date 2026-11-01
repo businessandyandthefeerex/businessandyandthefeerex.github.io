@@ -11,11 +11,12 @@ region: Wellington
 city: Wellington
 suburb: Wellington Central
 website: http://www.boulcottstreetbistro.co.nz/
+dishes:
+  - Crumbed calamari
+  - Crumbed lamb tongue
+  - Kumara gnocchi
+  - Moroccan lamb shank with couscous
 ---
-Crumbed calamari  
-Crumbed lamb tongue  
-Kumara gnocchi  
-Moroccan lamb shank with couscous  
 
 We are pleased to see Boulcott St Bistro doing so well. After 35 years in business, it's something to still be packed at early dining time. The calamari was well executed but a bit uninspired. The lambs tongue was a very pleasant surprise. The Fee-Rex was very nervous, in fact there was a minor kerfuffle when Business Andy blurted out his lamb tongue order, but the waitress very expertly massaged away the concerns and we're glad she did. Firstly, and most importantly, you wouldn't know it was a tongue (although they had made it tongue shaped). We're not 100% sure how it was prepared, but the experience was more akin to eating a spicy crumbed sausage. As an aside, where the crumbed sausages at, world? Crumbed sausages are delicious, but when did you last see one? Bring them back, we say! 
 

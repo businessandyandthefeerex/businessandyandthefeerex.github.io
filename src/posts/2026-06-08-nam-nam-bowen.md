@@ -11,9 +11,10 @@ region: Wellington
 city: Wellington
 suburb: Pipitea
 website: https://www.namnam.nz/
+dishes:
+  - Tofu bahn mi
+  - Chicken fried rice
 ---
-Tofu bahn mi  
-Chicken fried rice  
 
 Nam nam caters to the business crowd, tired workers who just want to nip out for a bite as close to the office as possible. To that end the service and food delivery were fast, and the effort put into the dishes was acceptable but not more. Both meals were fine, you weren't angry to eat them, but they hadn't tried to climb the highest mountain. 
 

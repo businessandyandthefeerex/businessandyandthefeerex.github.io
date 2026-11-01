@@ -11,13 +11,14 @@ region: Manawatu
 city: Shannon
 suburb: Shannon
 website: https://www.facebook.com/CafeHorsemans/
+dishes:
+  - Banana smoothie
+  - Macchiato (?)
+  - Chicken and spinach filo
+  - Stuffed kumara
+  - Citrus tart
+  - Melting moment
 ---
-Banana smoothie  
-Macchiato (?)  
-Chicken and spinach filo  
-Stuffed kumara  
-Citrus tart  
-Melting moment  
 
 Horseman cafe is a Shannon institution, with The Fee-Rex remembering visiting 15 years ago. They continue to be popular, running a steady Sunday lunch trade which the kitchen seemed to be struggling with. “It’ll be 20 minutes for cooked food” they said. While we don’t mind a time warning, actually we appreciate it and adjusted our order accordingly, her tone was clear: “Don’t order any cooked food, I’m overwhelmed”. 
 

@@ -11,11 +11,12 @@ region: Wellington
 city: Wellington
 suburb: Petone
 website: https://www.vietnameserestaurantandcafe.co.nz/menu
+dishes:
+  - Spring rolls
+  - Roti with peanut sauce
+  - Popcorn chicken
+  - Pork dumplings
 ---
-Spring rolls  
-Roti with peanut sauce  
-Popcorn chicken  
-Pork dumplings  
 
 It was busy in the Vietnamese Restaurant and Cafe on this Saturday afternoon.  But they were clearly used to it, because our food came fast, they cleared tables fast, we watched in awe as their well oiled machine just turned over and turned over.
 

@@ -11,11 +11,12 @@ region: Wellington
 city: Wellington
 suburb: Island Bay
 website: https://www.facebook.com/p/The-Original-Thai-Restaurant-In-Island-Bay-100054229371081/
+dishes:
+  - Peanut satay chicken
+  - Thick red curry beef
+  - Roti
+  - Rice
 ---
-Peanut satay chicken  
-Thick red curry beef  
-Roti  
-Rice  
 
 It can be quite intimidating when you realise that you've walked into a local fixture unprepared, unknowing, wide-eyed and not expecting to see multiple hugs handed out, several different instances of plans made between customer and proprietor, and promises to return left, right, and centre. 
 

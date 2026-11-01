@@ -11,11 +11,11 @@ region: Wellington
 city: Wellington
 suburb: Rongotai
 website: http://www.hotelcatalina.co.nz/
+dishes:
+  - Beef cheek fettucine
+  - Steak with chips, salad and cafe de Paris butter
+  - Sticky toffee pudding
 ---
-
-Beef cheek fettucine 
-Steak with chips, salad and cafe de Paris butter 
-Sticky toffee pudding 
 
 Well. 
 

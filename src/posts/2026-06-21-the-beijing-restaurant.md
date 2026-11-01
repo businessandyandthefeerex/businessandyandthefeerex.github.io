@@ -11,10 +11,11 @@ region: Wellington
 city: Wellington
 suburb: Newtown
 website: 
+dishes:
+  - Orange beef fried rice
+  - Fried chicken
+  - Fried dumplings
 ---
-Orange beef fried rice  
-Fried chicken  
-Fried dumplings  
 
 After something off a revamp, there's some new additions to the menu at the Beijing, some new furniture, and a bit of a new vibe. We are long time Beijing patrons, with it being in our takeaway rotation. It made us nervous when we saw the revamp, which included the edition of a bunch of non-Chinese fried options (fried chicken and fish and chip shop options like nuggets and sausages). Is the Beijing struggling? We suggest the new menu, and the fact that they are generally not very busy when we get our takeaway, implies that they are.
 

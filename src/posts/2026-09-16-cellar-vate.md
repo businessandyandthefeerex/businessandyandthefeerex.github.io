@@ -11,10 +11,11 @@ region: Wellington
 city: Wellington
 suburb: Thorndon
 website: https://www.instagram.com/cellarvate/?hl=en
+dishes:
+  - Cheese, onion and ham toasted sandwich
+  - Mince and cheese pie
+  - Lemon slice
 ---
-Cheese, onion and ham toasted sandwich  
-Mince and cheese pie  
-Lemon slice  
 
 At 11.30 on a Wednesday, in central Wellington, at an eatery self-described as “kitchen & espresso” we found ourselves wondering – where is the food? There was no menu apparent at the counter. We later found a menu on our table, but that’s irrelevant as we were in a mysterious dead zone between breakfast (served til 11) and lunch (served from 12). There was a cabinet, but it had very little inside. Half of the cabinet was hot and it contained one pie. Not one kind of pie. Literally a single pie. On the cold side for savoury options there were two types of toasted sandwich, one not-toasted sandwich, and one wrap. We’ll emphasise again, this was 11.30, before lunch had even started. Very strange. So the kitchen was a little MIA, the espresso at least was front and centre, but as you’ll read later, this turned out not to be a good thing.
 

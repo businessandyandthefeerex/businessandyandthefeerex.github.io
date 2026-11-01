@@ -11,10 +11,11 @@ region: Wellington
 city: Wellington
 suburb: Newtown
 website: https://opsposweb.azurewebsites.net/home?merchantid=61&merchantname=newtownseafood
+dishes:
+  - Two chicken burgers
+  - Battered fish
+  - Battered pineapple ring
 ---
-Two chicken burgers  
-Battered fish
-Battered pineapple ring  
 
 The following is a true story. Two days ago , waiting for a bus, we were discussing dine in fish and chips shops and why they weren't a thing. Today, the first place we saw to eat in Newtown was a dine in fish and chip shop that had just opened. Did we manifest this I to existence,? We see no other plausible explanation. 
 

@@ -11,10 +11,11 @@ region: Waiheke Island
 city: Waiheke Island
 suburb: Onetangi Beach
 website: https://kimaha.nz
+dishes:
+  - Goat cheese fritters
+  - Duck croquettes
+  - Olive flatbread
 ---
-Goat cheese fritters  
-Duck croquettes  
-Olive flatbread  
 
 ki maha has lovely staff. We made Ki Maha home for a couple of hours, sipping cocktails and nibbling snacks, straddling the lunch to dinner shifts which meant we had two servers. Both were attentive, but not hovery, friendly but not overbearing, and decidedly chill.
 

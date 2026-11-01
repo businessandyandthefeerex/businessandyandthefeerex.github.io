@@ -11,13 +11,14 @@ region: Wellington
 city: Wellington
 suburb: Te Aro
 website: https://lebelair.nz/
+dishes:
+  - French sausage in brioche pastry with pistachio mayonnaise
+  - Butternut millefeuille
+  - Roast celeriac with truffle peppercorn sauce
+  - Beef and root vegetable stew
+  - Cinnamon blondie with rhubarb, meringe, mousseline, and berry sorbet
+  - Sticky date pudding with coconut sorbet
 ---
-French sausage in brioche pastry with pistachio mayonnaise  
-Butternut millefeuille  
-Roast celeriac with truffle peppercorn sauce  
-Beef and root vegetable stew  
-Cinnamon blondie with rhubarb, meringe, mousseline, and berry sorbet  
-Sticky date pudding with coconut sorbet  
 
 Five weeks ago we attempted to walk into the Bel Air and were turned away as they were full. This happens less frequently than you might think, and it always piques our interest. Tonight when we showed up to our reservation they were full again, even on a stormy winters night. We were shown to a lovely table on the balcony, and the person who booked us over a month ago remembered who we were, which was well above the level of service that you see basically anywhere. It's fair to say our hopes were high. 
 
