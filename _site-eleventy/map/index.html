@@ -142,7 +142,6 @@
 <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 <!-- Leaflet Marker Cluster -->
 <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
 <script>
     // Initialize the map with a default view
     var map = L.map('map').setView([-41.3, 174.8], 13); // New Zealand's approximate latitude and longitude, with a suitable zoom level
@@ -153,38 +152,42 @@
         maxZoom: 19
     }).addTo(map);
 
+    var esc = function (s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+        return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+    };
+
     // Fetch markers data from the assets folder
-    fetch('/assets/markers.yml')
-        .then(response => response.text())  // Get the text content of the file
-        .then(yamlText => {
-            // Parse the YAML data into a JavaScript object
-            var markersData = jsyaml.load(yamlText);
+    fetch('/assets/markers.json')
+    .then(response => response.json())
+    .then(markersData => {
 
-            // Loop through markersData and add each marker to the map
-            markersData.forEach(function(marker) {
-                var lat = marker.lat;
-                var lon = marker.lon;
-                var title = marker.title;
-                var address = marker.address;
-                var rating = marker.rating;
-                var link = marker.link;
+        // Loop through markersData and add each marker to the map
+        markersData.forEach(function(marker) {
+            var lat = marker.lat;
+            var lon = marker.lon;
+            var title = marker.title;
+            var address = marker.address;
+            var rating = marker.rating;
+            var link = marker.link;
 
-                if (lat > -50 && lat < 0 && lon < -150) { lon += 360; }
+            if (lat > -50 && lat < 0 && lon < -150) { lon += 360; }
 
-                // Ensure that the link is properly escaped
-                var safeLink = link.replace(/'/g, '%27');  // Escape single quotes in the URL
+            // Ensure that the link is properly escaped
+            var safeLink = link.replace(/'/g, '%27');  // Escape single quotes in the URL
 
-                // Create a marker for each location
-                var popupContent = "<strong>" + title + "</strong><br>" +
-                                   "Rating: " + rating + "<br>" +
-                                   address + "<br>" +
-                                   "<a href='" + safeLink + "' target='_blank'>View Post</a>";
+            // Create a marker for each location
+            var popupContent = "<strong>" + esc(title) + "</strong><br>" +
+                "Rating: " + esc(rating) + "<br>" +
+                esc(address) + "<br>" +
+                "<a href='" + safeLink + "' target='_blank'>View Post</a>";
 
-                var newMarker = L.marker([lat, lon]).bindPopup(popupContent);
-                newMarker.addTo(map); // Directly add the marker to the map
-            });
-        })
-        .catch(error => console.error("Error loading markers data:", error));
+            var newMarker = L.marker([lat, lon]).bindPopup(popupContent);
+            newMarker.addTo(map); // Directly add the marker to the map
+        });
+    })
+    .catch(error => console.error("Error loading markers data:", error));
 </script>
 
   </article>

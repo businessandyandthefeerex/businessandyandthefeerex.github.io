@@ -1,0 +1,3266 @@
+[
+  {
+    "lat": -38.2637689,
+    "lon": 175.142449,
+    "title": "Cafe Huhu",
+    "address": "10 Waitomo Caves Road, Waitomo Caves 3943, New Zealand",
+    "rating": "4",
+    "link": "/posts/2020-11-07-Cafe-Huhu/"
+  },
+  {
+    "lat": -37.6317509,
+    "lon": 176.1773567,
+    "title": "The Coffee Club",
+    "address": "1 Marine Parade, Mount Maunganui 3116, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-01-23-The-Coffee-Club/"
+  },
+  {
+    "lat": -37.687695,
+    "lon": 176.169271,
+    "title": "Jumpstart Cafe",
+    "address": "120 Devonport Road, CBD, Tauranga 3110, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-01-24-Jumpstart-Cafe/"
+  },
+  {
+    "lat": -38.977801,
+    "lon": 175.817901,
+    "title": "Tongariro Lodge",
+    "address": "83 Grace Road, RD 2, Tūrangi 3382, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-01-25-Tongariro-Lodge/"
+  },
+  {
+    "lat": -36.8506452,
+    "lon": 174.8421143,
+    "title": "Der Metz",
+    "address": "5/11 Averill Avenue, Kohimarama, Auckland 1071, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-02-10-Der-Metz/"
+  },
+  {
+    "lat": -36.8489282,
+    "lon": 174.7624718,
+    "title": "Federal Delicatessen",
+    "address": "86 Federal Street, Auckland City, Auckland 1010, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-02-11-Federal-Delicatessen/"
+  },
+  {
+    "lat": -36.871883,
+    "lon": 174.776204,
+    "title": "New York Grill",
+    "address": "309 Broadway, Newmarket Rooftop on Braodway, Westfield Newmarket, Auckland 1023, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-02-11-New-York-Grill/"
+  },
+  {
+    "lat": -36.849193,
+    "lon": 174.764111,
+    "title": "Soul Bar & Bistro",
+    "address": "Corner of Lower Hobson Street, Customs Street West, Auckland 1010, New Zealand",
+    "rating": "4",
+    "link": "/posts/2021-02-12-Soul-Bar-&-Bistro/"
+  },
+  {
+    "lat": -39.5183252,
+    "lon": 176.8428179,
+    "title": "Mission Estate Winery",
+    "address": "198 Church Road, Poraiti, Napier 4112, New Zealand",
+    "rating": "4",
+    "link": "/posts/2021-03-15-Mission-Estate-Winery/"
+  },
+  {
+    "lat": -45.8820853,
+    "lon": 170.4991241,
+    "title": "The Black Dog Kitchen & Bar",
+    "address": "109 Princes Street, Dunedin 9016, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-07-31-The-Black-Dog-Kitchen-&-Bar/"
+  },
+  {
+    "lat": -45.8813718,
+    "lon": 170.4992059,
+    "title": "Dunedin Social Club",
+    "address": "1 Princes Street, Central Dunedin, Dunedin 9016, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-08-01-Dunedin-Social-Club/"
+  },
+  {
+    "lat": -45.9113516,
+    "lon": 170.4901242,
+    "title": "Salt Bar & Restaurant",
+    "address": "240 Forbury Road, St Clair, Dunedin 9012, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-08-01-Salt-Bar-&-Restaurant/"
+  },
+  {
+    "lat": -46.449337,
+    "lon": 169.6614807,
+    "title": "Catlins Inn",
+    "address": "21 Ryley Street, Owaka 9535, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-08-02-Catlins-Inn/"
+  },
+  {
+    "lat": -45.8664408,
+    "lon": 170.5089755,
+    "title": "Sal's Authentic New York Pizza",
+    "address": "354 Great King Street, Dunedin North, Dunedin 9016, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-08-02-Sal's-Authentic-New-York-Pizza/"
+  },
+  {
+    "lat": -46.4113369,
+    "lon": 168.3708827,
+    "title": "Curry Guru The Malabar Kitchen",
+    "address": "356 Tay Street, Richmond, Invercargill 9810, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-08-03-Curry-Guru-The-Malabar-Kitchen/"
+  },
+  {
+    "lat": -46.8973948,
+    "lon": 168.1285028,
+    "title": "South Sea Hotel",
+    "address": "26 Elgin Terrace, Oban 9846, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-08-03-South-Sea-Hotel/"
+  },
+  {
+    "lat": -45.2555589,
+    "lon": 169.3924235,
+    "title": "The Courthouse Cafe",
+    "address": "8 Centennial Avenue, Alexandra 9320, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-08-06-The-Courthouse-Cafe/"
+  },
+  {
+    "lat": -37.00621615,
+    "lon": 174.79207576524618,
+    "title": "The Gipsy Moth",
+    "address": "Domestic Terminal, Auckland Airport, Auckland 2022, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-08-07-The-Gipsy-Moth/"
+  },
+  {
+    "lat": -44.6953344,
+    "lon": 169.1371008,
+    "title": "Kika",
+    "address": "2 Dunmore Street, Wānaka 9305, New Zealand",
+    "rating": "4",
+    "link": "/posts/2021-08-08-Kika/"
+  },
+  {
+    "lat": -38.9809285,
+    "lon": 175.8114356,
+    "title": "Hydro Eatery",
+    "address": "277 Te Rangitautahanga Road, Tūrangi 3334, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-10-25-Hydro-Eatery/"
+  },
+  {
+    "lat": -38.9226532,
+    "lon": 175.75249197206398,
+    "title": "Oreti Restaurant",
+    "address": "Oreti Village 88 Pūkawa Road, Pukawa 3381, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-10-25-Oreti-Restaurant/"
+  },
+  {
+    "lat": -38.6844801,
+    "lon": 176.0707796,
+    "title": "Pauly's Diner",
+    "address": "3 Pāora Hapi Street, Taupō 3330, New Zealand",
+    "rating": "4",
+    "link": "/posts/2021-10-26-Pauly's-Diner/"
+  },
+  {
+    "lat": -38.6896413,
+    "lon": 176.0741555,
+    "title": "Tejano Cantina",
+    "address": "7 Tūwharetoa Street, Taupō 3330, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-10-27-Tejano-Cantina/"
+  },
+  {
+    "lat": -38.9339116,
+    "lon": 175.8726375,
+    "title": "Licorice Cafe",
+    "address": "57 State Highway 1, Motuoapa 3382, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-12-20-Licorice-Cafe/"
+  },
+  {
+    "lat": -38.9910776,
+    "lon": 175.8110658,
+    "title": "Riverside Bar & Restaurant",
+    "address": "25 Te Arahori Street, Tūrangi 3334, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-12-20-Riverside-Bar-&-Restaurant/"
+  },
+  {
+    "lat": -38.600538,
+    "lon": 176.081545,
+    "title": "Wairakei Resort Taupo",
+    "address": "640 Wairakei Drive, Tourist Park, Wairakei, Taupō 3384, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-12-20-Wairakei-Resort-Taupo/"
+  },
+  {
+    "lat": -38.9863735,
+    "lon": 175.81792415,
+    "title": "Turangi Bridge Motel, Bar & Restaurant",
+    "address": "4600 State Highway 1, Tūrangi 3334, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-12-21-Turangi-Bridge-Motel,-Bar-&-Restaurant/"
+  },
+  {
+    "lat": -38.9868623,
+    "lon": 175.8183836,
+    "title": "Creel Tackle House & Cafe",
+    "address": "189 Taupahi Road, Tūrangi 3334, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-12-30-Creel-Tackle-House-&-Cafe/"
+  },
+  {
+    "lat": -41.290317,
+    "lon": 173.99999,
+    "title": "Bay of Many Coves Resort",
+    "address": "Queen Charlotte Sound, Private Bag 382, Picton 7250, New Zealand",
+    "rating": "4",
+    "link": "/posts/2022-01-28-Bay-of-Many-Coves-Resort/"
+  },
+  {
+    "lat": -41.2888902,
+    "lon": 174.0073136,
+    "title": "London Quay Cafe",
+    "address": "20 London Quay, Picton 7220, New Zealand",
+    "rating": "1",
+    "link": "/posts/2022-01-28-London-Quay-Cafe/"
+  },
+  {
+    "lat": -41.288935,
+    "lon": 174.0077045,
+    "title": "Toastie Lords - Picton",
+    "address": "10 London Quay, Picton 7220, New Zealand",
+    "rating": "4",
+    "link": "/posts/2022-01-28-Toastie-Lords---Picton/"
+  },
+  {
+    "lat": -46.5992567,
+    "lon": 168.3441539,
+    "title": "Hayz at the Anchorage",
+    "address": "86 Gore Street, Bluff 9814, New Zealand",
+    "rating": "1",
+    "link": "/posts/2022-02-13-Hayz-at-the-Anchorage/"
+  },
+  {
+    "lat": -45.5661512,
+    "lon": 167.6092492,
+    "title": "Manapouri Cafe & Dairy",
+    "address": "29 Waiau Street, Manapouri 9679, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-02-13-Manapouri-Cafe-&-Dairy/"
+  },
+  {
+    "lat": -46.413523,
+    "lon": 168.347031,
+    "title": "Pinch of Spice",
+    "address": "7 Clyde Street, City Centre, Invercargill 9810, New Zealand",
+    "rating": "3",
+    "link": "/posts/2022-02-14-Pinch-of-Spice/"
+  },
+  {
+    "lat": -31.8644266,
+    "lon": 116.0004034,
+    "title": "Homestead Brewery",
+    "address": "10 Harris Rd, Caversham WA 6055, Australia, Australia",
+    "rating": "2",
+    "link": "/posts/2022-07-28-Homestead-Brewery/"
+  },
+  {
+    "lat": -31.95539,
+    "lon": 115.860498,
+    "title": "Wildflower",
+    "address": "COMO The Treasury Level 4, 1 Cathedral Ave, Perth WA 6000, Australia, Australia",
+    "rating": "3",
+    "link": "/posts/2022-07-28-Wildflower/"
+  },
+  {
+    "lat": -38.9809285,
+    "lon": 175.8114356,
+    "title": "Turangi Tavern",
+    "address": "277 Te Rangitautahanga Road, Tūrangi 3334, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-10-25-Turangi-Tavern/"
+  },
+  {
+    "lat": -38.9887347,
+    "lon": 175.8089539,
+    "title": "Valentino's Italian Restaurant",
+    "address": "Tūrangi 3334, New Zealand",
+    "rating": "1",
+    "link": "/posts/2023-01-19-Valentino's-Italian-Restaurant/"
+  },
+  {
+    "lat": -38.987563,
+    "lon": 175.803738,
+    "title": "Rust Licensed Gourmet Burger Bar",
+    "address": "shop 6, Tūrangi 3353, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-01-20-Rust-Licensed-Gourmet-Burger-Bar/"
+  },
+  {
+    "lat": -37.6632447,
+    "lon": 176.2202875,
+    "title": "Autobahn Cafe",
+    "address": "181 Maunganui Road, Mount Maunganui 3116, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-01-26-Autobahn-Cafe/"
+  },
+  {
+    "lat": -37.9702816,
+    "lon": 177.0537334,
+    "title": "The Quay Cafe",
+    "address": "22 Pohutukawa Avenue, Ōhope 3121, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-01-26-The-Quay-Cafe/"
+  },
+  {
+    "lat": -21.232115,
+    "lon": -159.779726,
+    "title": "Captain Andy's Beach Bar & Grill",
+    "address": "Aroa Rd, Arorangi, Cook Islands, Cook Islands",
+    "rating": "1",
+    "link": "/posts/2023-05-14-Captain-Andy's-Beach-Bar-&-Grill/"
+  },
+  {
+    "lat": -21.20778,
+    "lon": -159.775,
+    "title": "Kai & Co",
+    "address": "Kenwall Gallery, Ara Tapu, Avarua, Cook Islands, Cook Islands",
+    "rating": "3",
+    "link": "/posts/2023-05-16-Kai-&-Co/"
+  },
+  {
+    "lat": -21.246289,
+    "lon": -159.730703,
+    "title": "Vaima Restaurant & Bar",
+    "address": "Ara Tapu, Takitumu District, Cook Islands, Cook Islands",
+    "rating": "1",
+    "link": "/posts/2023-05-16-Vaima-Restaurant-&-Bar/"
+  },
+  {
+    "lat": -21.232115,
+    "lon": -159.779726,
+    "title": "Little Polynesian Resort",
+    "address": "Main Road - Titikaveka, Rarotonga, Cook Islands, Cook Islands",
+    "rating": "3",
+    "link": "/posts/2023-05-17-Little-Polynesian-Resort/"
+  },
+  {
+    "lat": -21.206219,
+    "lon": -159.78017,
+    "title": "The Plaza",
+    "address": "St Joseph's Rd, Avarua, Cook Islands, Cook Islands",
+    "rating": "2",
+    "link": "/posts/2023-05-20-The-Plaza/"
+  },
+  {
+    "lat": -43.5330933,
+    "lon": 172.6399036,
+    "title": "Coffee Culture",
+    "address": "158 Cashel Street, Christchurch Central City, Christchurch 8011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-06-18-Coffee-Culture/"
+  },
+  {
+    "lat": -44.9537573,
+    "lon": 171.0852139,
+    "title": "Riverstone Kitchen",
+    "address": "1431 Glenavy-Hilderthorpe Road, Waitaki Bridge 9493, New Zealand",
+    "rating": "4",
+    "link": "/posts/2023-06-19-Riverstone-Kitchen/"
+  },
+  {
+    "lat": -43.5423688,
+    "lon": 172.5257941,
+    "title": "Valentines",
+    "address": "7/11 Chalmers Street, Hornby, Christchurch 8042, New Zealand",
+    "rating": "1",
+    "link": "/posts/2023-06-19-Valentines/"
+  },
+  {
+    "lat": -36.994189,
+    "lon": 174.883856,
+    "title": "Rainbow Playlab Cafe",
+    "address": "2 Clist Crescent, Manukau City Centre, Auckland 2104, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-07-19-Rainbow-Playlab-Cafe/"
+  },
+  {
+    "lat": -36.8877972,
+    "lon": 174.7210836,
+    "title": "Taco Loco Cantina",
+    "address": "179 Mount Albert Road, Mount Albert, Auckland 1025, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-07-19-Taco-Loco-Cantina/"
+  },
+  {
+    "lat": -45.0333942,
+    "lon": 168.6616236,
+    "title": "Botswana Butchery",
+    "address": "17 Marine Parade, Queenstown 9300, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-08-04-Botswana-Butchery/"
+  },
+  {
+    "lat": -44.6962387,
+    "lon": 169.1358815,
+    "title": "The Spice Room",
+    "address": "43 Helwick Street, Wānaka 9305, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-08-04-The-Spice-Room/"
+  },
+  {
+    "lat": -44.6952813,
+    "lon": 169.1346557,
+    "title": "Kai Whakapai",
+    "address": "121 Ardmore Street, Wānaka 9305, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-08-05-Kai-Whakapai/"
+  },
+  {
+    "lat": -45.0305211,
+    "lon": 168.6599878,
+    "title": "Miss Lucy's",
+    "address": "Rooftop/47 Camp Street, Queenstown 9300, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-08-05-Miss-Lucy's/"
+  },
+  {
+    "lat": -44.6834044,
+    "lon": 169.1889267,
+    "title": "Pembroke Patisserie",
+    "address": "20 Alison Avenue, Albert Town 9382, New Zealand",
+    "rating": "4",
+    "link": "/posts/2023-08-05-Pembroke-Patisserie/"
+  },
+  {
+    "lat": -44.056496,
+    "lon": 170.892468,
+    "title": "Reflections",
+    "address": "State Highway 8, Lake Tekapo 7999, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-08-06-Reflections/"
+  },
+  {
+    "lat": -44.8372942,
+    "lon": 169.4113868,
+    "title": "Tarras Country Cafe",
+    "address": "2792 Tarras-Cromwell Road, Tarras 9383, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-08-06-Tarras-Country-Cafe/"
+  },
+  {
+    "lat": -38.685322549999995,
+    "lon": 176.07192896419116,
+    "title": "Baked With Love Cafe & Cakery",
+    "address": "11 Gascoigne Street, Taupō 3330, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-10-21-Baked-With-Love-Cafe-&-Cakery/"
+  },
+  {
+    "lat": -38.9751381,
+    "lon": 175.8188704,
+    "title": "Hare & Copper Eatery",
+    "address": "2/134 Grace Road, Tūrangi 3382, New Zealand",
+    "rating": "4",
+    "link": "/posts/2023-10-21-Hare-&-Copper-Eatery/"
+  },
+  {
+    "lat": -36.8725526,
+    "lon": 174.7434936,
+    "title": "Nanny's Eatery",
+    "address": "492 New North Road, Kingsland, Auckland 1021, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-12-06-Nanny's-Eatery/"
+  },
+  {
+    "lat": -34.8151391,
+    "lon": 173.1174911,
+    "title": "Pukenui Pacific",
+    "address": "4 Lamb Road, Pukenui 0484, New Zealand",
+    "rating": "1",
+    "link": "/posts/2023-12-07-Pukenui-Pacific/"
+  },
+  {
+    "lat": -36.3452468,
+    "lon": 174.7334174,
+    "title": "Rothko",
+    "address": "40 Omaha Flats Road, Matakana 0986, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-12-07-Rothko/"
+  },
+  {
+    "lat": -35.7265193,
+    "lon": 174.3204411,
+    "title": "Braaihut",
+    "address": "12 Vine Street, Whangārei 0110, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-12-08-Braaihut/"
+  },
+  {
+    "lat": -35.23336825,
+    "lon": 173.94313374996213,
+    "title": "Madly Indian",
+    "address": "342 Kerikeri Road, Kerikeri 0230, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-12-08-Madly-Indian/"
+  },
+  {
+    "lat": -35.2815503,
+    "lon": 174.092867,
+    "title": "Zane Grey's Restaurant & Bar",
+    "address": "69 Marsden Road, Paihia 0200, New Zealand",
+    "rating": "1",
+    "link": "/posts/2023-12-09-Zane-Grey's-Restaurant-&-Bar/"
+  },
+  {
+    "lat": -38.8907639,
+    "lon": 175.7609691,
+    "title": "Floating Rock Cafe",
+    "address": "30 Riverpark Drive, Kuratau 3381, New Zealand",
+    "rating": "3",
+    "link": "/posts/2024-02-19-Floating-Rock-Cafe/"
+  },
+  {
+    "lat": -38.1382865,
+    "lon": 176.2485884,
+    "title": "The Rusty Bros",
+    "address": "1263 Amohia Street, Rotorua 3010, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-02-19-The-Rusty-Bros/"
+  },
+  {
+    "lat": -41.286704,
+    "lon": 174.7763157,
+    "title": "Bambina Pizzeria",
+    "address": "1 Willis Street, Wellington Central, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-02-20-Bambina-Pizzeria/"
+  },
+  {
+    "lat": -38.1108373,
+    "lon": 176.2167171,
+    "title": "Stratosfare Restaurant & Bar",
+    "address": "178 Fairy Springs Road, Fairy Springs, Rotorua 3015, New Zealand",
+    "rating": "1",
+    "link": "/posts/2024-02-22-Stratosfare-Restaurant-&-Bar/"
+  },
+  {
+    "lat": -38.1453802,
+    "lon": 176.281356,
+    "title": "NZ Kebab & Pizza House",
+    "address": "346/352 Te Ngae Road, Lynmore, Rotorua 3010, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-02-23-NZ-Kebab-&-Pizza-House/"
+  },
+  {
+    "lat": -38.1379298,
+    "lon": 176.2514245,
+    "title": "Urban Gusto",
+    "address": "1122 Tutanekai Street, Rotorua 3010, New Zealand",
+    "rating": "3",
+    "link": "/posts/2024-02-24-Urban-Gusto/"
+  },
+  {
+    "lat": -37.336996,
+    "lon": 175.062685,
+    "title": "Autobahn Cafe",
+    "address": "State Highway 1, Rosehill, Auckland 2113, New Zealand",
+    "rating": "1",
+    "link": "/posts/2024-03-20-Autobahn-Cafe/"
+  },
+  {
+    "lat": -36.888788,
+    "lon": 175.823485,
+    "title": "Hotties Beachfront Eatery",
+    "address": "29 Pye Place Hot Water Beach, Whitianga 3591, New Zealand",
+    "rating": "3",
+    "link": "/posts/2024-03-20-Hotties-Beachfront-Eatery/"
+  },
+  {
+    "lat": -36.8405902,
+    "lon": 175.8024211,
+    "title": "Little Blue Kitchen",
+    "address": "48 Hahei Beach Road, Hahei 3591, New Zealand",
+    "rating": "3",
+    "link": "/posts/2024-03-20-Little-Blue-Kitchen/"
+  },
+  {
+    "lat": -37.213301,
+    "lon": 175.6182071,
+    "title": "The Cheese Barn at Matatoki",
+    "address": "4 Wainui Road, Matatoki 3578, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-03-20-The-Cheese-Barn-at-Matatoki/"
+  },
+  {
+    "lat": -36.8389412,
+    "lon": 175.7424864,
+    "title": "The Vessel",
+    "address": "37 Captain Cook Road, Cooks Beach 3591, New Zealand",
+    "rating": "3",
+    "link": "/posts/2024-03-20-The-Vessel/"
+  },
+  {
+    "lat": -40.2072139,
+    "lon": 176.591254,
+    "title": "Wallingford Homestead",
+    "address": "2914 Porangahau Road, Wallingford 4284, New Zealand",
+    "rating": "4",
+    "link": "/posts/2024-06-16-Wallingford-Homestead/"
+  },
+  {
+    "lat": -31.9887901,
+    "lon": 115.8750924,
+    "title": "Ayhan’s Turkish Cafe",
+    "address": "51 George St, Kensington WA 6151, Australia",
+    "rating": "3",
+    "link": "/posts/2024-07-19-Ayhan’s-Turkish-Cafe/"
+  },
+  {
+    "lat": -33.939759,
+    "lon": 151.147771,
+    "title": "Embers Woodfired Pizza Restaurant",
+    "address": "State Highway 1, Rosehill, Auckland 2113, Australia",
+    "rating": "4",
+    "link": "/posts/2024-07-21-Embers-Woodfired-Pizza-Restaurant/"
+  },
+  {
+    "lat": -31.8450796,
+    "lon": 116.007327,
+    "title": "Oakover Grounds",
+    "address": "80 Yukich Cl, Middle Swan WA 6056, Australia, Australia",
+    "rating": "2",
+    "link": "/posts/2024-07-21-Oakover-Grounds/"
+  },
+  {
+    "lat": -33.9685833,
+    "lon": 115.0812241,
+    "title": "Sidekick Cafe",
+    "address": "5/110 Bussell Hwy, Margaret River WA 6285, Australia, Australia",
+    "rating": "3",
+    "link": "/posts/2024-07-21-Sidekick-Cafe/"
+  },
+  {
+    "lat": -33.953615,
+    "lon": 115.0730438,
+    "title": "The River",
+    "address": "40 Wallcliffe Rd, Margaret River WA 6285, Australia, Australia",
+    "rating": "3",
+    "link": "/posts/2024-07-21-The-River/"
+  },
+  {
+    "lat": -33.9526981,
+    "lon": 115.0735822,
+    "title": "Golden Dragon Chinese Restaurant",
+    "address": "133 Bussell Hwy, Margaret River WA 6285, Australia, Australia",
+    "rating": "3",
+    "link": "/posts/2024-07-22-Golden-Dragon-Chinese-Restaurant/"
+  },
+  {
+    "lat": -33.973313,
+    "lon": 115.084845,
+    "title": "Sons of Naples",
+    "address": "5/2 Andrews Way, Margaret River WA 6285, Australia, Australia",
+    "rating": "2",
+    "link": "/posts/2024-07-23-Sons-of-Naples/"
+  },
+  {
+    "lat": -33.9597168,
+    "lon": 115.0765952,
+    "title": "Better Choice Cafe",
+    "address": "211 Bussell Hwy, Margaret River WA 6285, Australia, Australia",
+    "rating": "1",
+    "link": "/posts/2024-07-24-Better-Choice-Cafe/"
+  },
+  {
+    "lat": -31.9761327,
+    "lon": 116.0569578,
+    "title": "Red Rooster",
+    "address": "1 Canning Rd, Kalamunda WA 6076, Australia, Australia",
+    "rating": "1",
+    "link": "/posts/2024-07-24-Red-Rooster/"
+  },
+  {
+    "lat": -21.935196,
+    "lon": 114.1285555,
+    "title": "The BBQ Father & Deli",
+    "address": "1112 Murat Rd, Exmouth WA 6707, Australia, Australia",
+    "rating": "2",
+    "link": "/posts/2024-07-24-The-BBQ-Father-&-Deli/"
+  },
+  {
+    "lat": -21.9318825,
+    "lon": 114.1231614,
+    "title": "Exhale Exmouth",
+    "address": "1 Thew St, Exmouth WA 6707, Australia, Australia",
+    "rating": "4",
+    "link": "/posts/2024-07-26-Exhale-Exmouth/"
+  },
+  {
+    "lat": -44.8522706,
+    "lon": 168.3899415,
+    "title": "The Dining Room at The Headwaters Eco Lo",
+    "address": "42 Oban Street, Glenorchy 9372, New Zealand",
+    "rating": "4",
+    "link": "/posts/2024-08-09-The-Dining-Room-at-The-Headwaters-Eco-Lo/"
+  },
+  {
+    "lat": -44.8499583,
+    "lon": 168.3851509,
+    "title": "Mr Glen's Taphouse & Tapas",
+    "address": "25 Argyle Street, Glenorchy 9372, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-08-10-Mr-Glen's-Taphouse-&-Tapas/"
+  },
+  {
+    "lat": -38.9889672,
+    "lon": 175.8117167,
+    "title": "Golden Crust Pizza",
+    "address": "22 Ngawaka Place, Tūrangi 3334, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-10-25-Golden-Crust-Pizza/"
+  },
+  {
+    "lat": -38.6888426,
+    "lon": 176.0848886,
+    "title": "Suncourt Indian",
+    "address": "19 Tamamutu Street, Taupō 3330, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-10-26-Suncourt-Indian/"
+  },
+  {
+    "lat": -41.3179812,
+    "lon": 174.7947157,
+    "title": "A1 Takeaways Hong Kong Style BBQ",
+    "address": "36 Rongotai Road, Kilbirnie, Wellington 6022, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-11-08-A1-Takeaways-Hong-Kong-Style-BBQ/"
+  },
+  {
+    "lat": -41.286704,
+    "lon": 174.776316,
+    "title": "Crack Chicken",
+    "address": "1 Willis Street, Wellington, New Zealand, New Zealand",
+    "rating": "2",
+    "link": "/posts/2025-02-07-Crack-Chicken/"
+  },
+  {
+    "lat": -39.629848949999996,
+    "lon": 176.9700396590483,
+    "title": "Clearview Estate",
+    "address": "194 Clifton Road, Te Awanga 4180, New Zealand",
+    "rating": "3",
+    "link": "/posts/2025-02-20-Clearview-Estate/"
+  },
+  {
+    "lat": -41.2226313,
+    "lon": 174.8070923,
+    "title": "Kaimak",
+    "address": "20 Johnsonville Road, Johnsonville, Wellington 6037, New Zealand",
+    "rating": "3",
+    "link": "/posts/2025-04-24-Kaimak/"
+  },
+  {
+    "lat": -41.3280722,
+    "lon": 174.7742896,
+    "title": "Sprig + Fern Berhampore",
+    "address": "461 Adelaide Road, Berhampore, Wellington 6023, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-11-12-Sprig-+-Fern-Berhampore/"
+  },
+  {
+    "lat": -41.3280722,
+    "lon": 174.7742896,
+    "title": "Araucaria",
+    "address": "462 Adelaide Road, Berhampore, Wellington 6023, New Zealand",
+    "rating": "1",
+    "link": "/posts/2024-02-23-Araucaria/"
+  },
+  {
+    "lat": -41.24656,
+    "lon": 174.790357,
+    "title": "Khandallah Trading Company",
+    "address": "Agra Crescent and, Ganges Road, Khandallah, Wellington 6035, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-07-25-Khandallah-Trading-Company/"
+  },
+  {
+    "lat": -41.3175309,
+    "lon": 174.7937929,
+    "title": "Kanama Kopi Kadai",
+    "address": "1 Rongotai Road, Kilbirnie, Wellington 6022, New Zealand",
+    "rating": "3",
+    "link": "/posts/2022-09-30-Kanama-Kopi-Kadai/"
+  },
+  {
+    "lat": -41.3307472,
+    "lon": 174.7915807,
+    "title": "Queen Sally's Diamond Deli",
+    "address": "6022/200 Queens Drive, Lyall Bay, Wellington 6022, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-10-12-Queen-Sally's-Diamond-Deli/"
+  },
+  {
+    "lat": -41.32888465,
+    "lon": 174.79550945558634,
+    "title": "The Botanist",
+    "address": "219 Onepu Road, Lyall Bay, Wellington 6022, New Zealand",
+    "rating": "3",
+    "link": "/posts/2022-11-16-The-Botanist/"
+  },
+  {
+    "lat": -41.3051496,
+    "lon": 174.7636497,
+    "title": "Swagat India Brooklyn",
+    "address": "60 Cleveland Street, Brooklyn, Wellington 6021, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-02-03-Swagat-India-Brooklyn/"
+  },
+  {
+    "lat": -41.2219287,
+    "lon": 174.8075807,
+    "title": "KFC",
+    "address": "1 Johnsonville Road, Johnsonville, Wellington 6037, New Zealand",
+    "rating": "1",
+    "link": "/posts/2023-02-17-KFC/"
+  },
+  {
+    "lat": -41.3273056,
+    "lon": 174.8001291,
+    "title": "Parrotdog Bar",
+    "address": "60/66 Kingsford Smith Street, Rongotai, Wellington 6022, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-03-07-Parrotdog-Bar/"
+  },
+  {
+    "lat": -41.316052,
+    "lon": 174.818569,
+    "title": "Double Vision Brewery",
+    "address": "128A Unit E, Park Road, Miramar, Wellington 6022, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-03-26-Double-Vision-Brewery/"
+  },
+  {
+    "lat": -41.2099394,
+    "lon": 174.9090641,
+    "title": "Pickles Perch",
+    "address": "5 Cornwall Street, Hutt Central, Lower Hutt 5040, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-04-08-Pickles-Perch/"
+  },
+  {
+    "lat": -41.2224375,
+    "lon": 174.8074776,
+    "title": "Wilson Barbeque",
+    "address": "17 Johnsonville Road, Johnsonville, Wellington 6037, New Zealand",
+    "rating": "1",
+    "link": "/posts/2023-05-05-Wilson-Barbeque/"
+  },
+  {
+    "lat": -41.2245612,
+    "lon": 174.8056676,
+    "title": "The Inn Keeper of Johnsonville",
+    "address": "11-13 Broderick Road, Johnsonville, Wellington 6037, New Zealand",
+    "rating": "1",
+    "link": "/posts/2023-05-27-The-Inn-Keeper-of-Johnsonville/"
+  },
+  {
+    "lat": -41.3343443,
+    "lon": 174.7736807,
+    "title": "Kopi-Tiam Cafe",
+    "address": "131 The Parade, Island Bay, Wellington 6023, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-05-29-Kopi-Tiam-Cafe/"
+  },
+  {
+    "lat": -41.2104781,
+    "lon": 174.904912,
+    "title": "Sierra Coffee Queensgate",
+    "address": "Bunny Street, Hutt Central, Lower Hutt 5010, New Zealand",
+    "rating": "1",
+    "link": "/posts/2023-06-16-Sierra-Coffee-Queensgate/"
+  },
+  {
+    "lat": -41.2981105,
+    "lon": 174.8321372,
+    "title": "Scorch O Rama",
+    "address": "497 Karaka Bay Road, Karaka Bays, Wellington 6022, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-07-16-Scorch-O-Rama/"
+  },
+  {
+    "lat": -41.3158392,
+    "lon": 174.8162766,
+    "title": "CoCo at The Roxy",
+    "address": "5 Park Road, Miramar, Wellington 6022, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-09-02-CoCo-at-The-Roxy/"
+  },
+  {
+    "lat": -41.2035339,
+    "lon": 174.9110106,
+    "title": "Pandan Asian Cuisine",
+    "address": "5 Melling Road, Hutt Central, Lower Hutt 5010, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-09-22-Pandan-Asian-Cuisine/"
+  },
+  {
+    "lat": -41.3051159,
+    "lon": 174.7664966,
+    "title": "Burger Wisconsin",
+    "address": "57 Cleveland Street, Brooklyn, Wellington 6021, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-10-06-Burger-Wisconsin/"
+  },
+  {
+    "lat": -41.2889594,
+    "lon": 174.7618148,
+    "title": "Upesh Kitchen",
+    "address": "97B Upland Road, Kelburn, Wellington 6012, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-10-13-Upesh-Kitchen/"
+  },
+  {
+    "lat": -41.327798,
+    "lon": 174.798503,
+    "title": "Maranui Cafe",
+    "address": "Lvl1, 7A Lyall Parade, Lyall Bay, Wellington 6022, New Zealand",
+    "rating": "4",
+    "link": "/posts/2024-01-29-Maranui-Cafe/"
+  },
+  {
+    "lat": -41.2891454,
+    "lon": 174.7624509,
+    "title": "Yellow Chilli Indian Restarant",
+    "address": "92 Upland Road, Kelburn, Wellington 6012, New Zealand",
+    "rating": "3",
+    "link": "/posts/2024-05-08-Yellow-Chilli-Indian-Restarant/"
+  },
+  {
+    "lat": -41.3152891,
+    "lon": 174.8151392,
+    "title": "Alasia Seafood (Joe's Cook Miramar)",
+    "address": "37 Miramar Avenue, Miramar, Wellington 6022, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-06-08-Alasia-Seafood-(Joe's-Cook-Miramar)/"
+  },
+  {
+    "lat": -41.3181346,
+    "lon": 174.7953571,
+    "title": "Chilli Peppers",
+    "address": "48 Rongotai Road, Kilbirnie, Wellington 6022, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-06-27-Chilli-Peppers/"
+  },
+  {
+    "lat": -41.2122384,
+    "lon": 174.890488,
+    "title": "Rizzo's Pizzeria & Kitchen",
+    "address": "499 Hutt Road, Alicetown, Lower Hutt 5010, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-10-18-Rizzo's-Pizzeria-&-Kitchen/"
+  },
+  {
+    "lat": -41.2252007,
+    "lon": 174.8076891,
+    "title": "1841 Bar and Restaurant",
+    "address": "1 Disraeli Street, Johnsonville, Wellington 6037, New Zealand",
+    "rating": "1",
+    "link": "/posts/2024-12-06-1841-Bar-and-Restaurant/"
+  },
+  {
+    "lat": -41.2231033,
+    "lon": 174.807526,
+    "title": "Babaili Hot Pot Restaurant",
+    "address": "Shop 2/33 Johnsonville Road, Johnsonville, Wellington 6037, New Zealand",
+    "rating": "2",
+    "link": "/posts/2025-02-14-Babaili-Hot-Pot-Restaurant/"
+  },
+  {
+    "lat": -41.2240459,
+    "lon": 174.8739117,
+    "title": "Mexico Petone",
+    "address": "136 Jackson Street, Petone, Wellington 5021, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-02-01-Mexico-Petone/"
+  },
+  {
+    "lat": -41.2239715,
+    "lon": 174.8746216,
+    "title": "Kilim Petone",
+    "address": "87 Jackson Street, Petone, Lower Hutt 5012, New Zealand",
+    "rating": "3",
+    "link": "/posts/2022-01-12-Kilim-Petone/"
+  },
+  {
+    "lat": -41.3138468,
+    "lon": 174.779693,
+    "title": "Indian Sweets & Snacks",
+    "address": "176 Riddiford Street, Newtown, Wellington 6021, New Zealand",
+    "rating": "1",
+    "link": "/posts/2022-02-13-Indian-Sweets-&-Snacks/"
+  },
+  {
+    "lat": -41.2228005,
+    "lon": 174.8048436,
+    "title": "Common Ground Cafe",
+    "address": "34 Moorefield Road, Johnsonville, Wellington 6037, New Zealand",
+    "rating": "3",
+    "link": "/posts/2022-06-30-Common-Ground-Cafe/"
+  },
+  {
+    "lat": -41.2138613,
+    "lon": 174.817705,
+    "title": "Tandoori Dhaba",
+    "address": "5 Mark Avenue, Paparangi, Wellington 6037, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-10-07-Tandoori-Dhaba/"
+  },
+  {
+    "lat": -41.2242019,
+    "lon": 174.8744053,
+    "title": "The Victoria Tavern, Petone",
+    "address": "140 Jackson Street, Petone, Lower Hutt 5012, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-10-07-The-Victoria-Tavern,-Petone/"
+  },
+  {
+    "lat": -41.2290621,
+    "lon": 174.8927412,
+    "title": "Spice Traders",
+    "address": "45 Jackson Street, Petone, Lower Hutt 5012, New Zealand",
+    "rating": "1",
+    "link": "/posts/2022-11-05-Spice-Traders/"
+  },
+  {
+    "lat": -41.2929675,
+    "lon": 174.7849948,
+    "title": "Bay Plaza Hotel Restaurant",
+    "address": "40-44 Oriental Parade, Oriental Bay, Wellington 6011, New Zealand",
+    "rating": "1",
+    "link": "/posts/2023-01-10-Bay-Plaza-Hotel-Restaurant/"
+  },
+  {
+    "lat": -41.2244586,
+    "lon": 174.8752967,
+    "title": "Adzuki Bean Cafe & Restaurant",
+    "address": "164 Jackson Street, Petone, Lower Hutt 5012, New Zealand",
+    "rating": "1",
+    "link": "/posts/2023-02-25-Adzuki-Bean-Cafe-&-Restaurant/"
+  },
+  {
+    "lat": -41.2940651,
+    "lon": 174.7841932,
+    "title": "Saigon Taste",
+    "address": "17 Majoribanks Street, Mount Victoria, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-04-14-Saigon-Taste/"
+  },
+  {
+    "lat": -41.291993,
+    "lon": 174.7770266,
+    "title": "Mexico Te Aro",
+    "address": "41 Dixon Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-04-21-Mexico-Te-Aro/"
+  },
+  {
+    "lat": -41.3370854,
+    "lon": 174.7725119,
+    "title": "Empire Cinema & Eatery",
+    "address": "214 The Parade, Island Bay, Wellington 6023, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-05-03-Empire-Cinema-&-Eatery/"
+  },
+  {
+    "lat": -41.29230065,
+    "lon": 174.78618396052246,
+    "title": "Ohtel Pantry",
+    "address": "66 Oriental Parade, Oriental Bay, Wellington 6011, New Zealand",
+    "rating": "1",
+    "link": "/posts/2023-08-25-Ohtel-Pantry/"
+  },
+  {
+    "lat": -41.2940651,
+    "lon": 174.7841932,
+    "title": "Genghis Khan",
+    "address": "25 Majoribanks Street, Mount Victoria, Wellington 6011, New Zealand",
+    "rating": "1",
+    "link": "/posts/2024-03-02-Genghis-Khan/"
+  },
+  {
+    "lat": -41.2251481,
+    "lon": 174.8074813,
+    "title": "The Ramen Shop",
+    "address": "109 Johnsonville Road, Johnsonville, Wellington 6037, New Zealand",
+    "rating": "3",
+    "link": "/posts/2024-03-21-The-Ramen-Shop/"
+  },
+  {
+    "lat": -41.3123147,
+    "lon": 174.7792263,
+    "title": "Office Bar",
+    "address": "124 Riddiford Street, Newtown, Wellington 6021, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-06-02-Office-Bar/"
+  },
+  {
+    "lat": -41.3155259,
+    "lon": 174.8139007,
+    "title": "The Cutting Sports Cafe & Long Thai",
+    "address": "32 Miramar Avenue, Miramar, Wellington 6022, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-07-05-The-Cutting-Sports-Cafe-&-Long-Thai/"
+  },
+  {
+    "lat": -41.3353795,
+    "lon": 174.7739743,
+    "title": "The Walrus' Bucket List",
+    "address": "163 The Parade, Island Bay, Wellington 6023, New Zealand",
+    "rating": "1",
+    "link": "/posts/2024-07-12-The-Walrus'-Bucket-List/"
+  },
+  {
+    "lat": -41.225743,
+    "lon": 174.8069325,
+    "title": "Hyderabadi House",
+    "address": "128 Johnsonville Road, Johnsonville, Wellington 6037, New Zealand",
+    "rating": "3",
+    "link": "/posts/2024-10-11-Hyderabadi-House/"
+  },
+  {
+    "lat": -41.314515,
+    "lon": 174.783424,
+    "title": "Aroy Thai Eatery",
+    "address": "Newtown Countdown 3 John Street, Newtown, Wellington 6021, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-10-31-Aroy-Thai-Eatery/"
+  },
+  {
+    "lat": -41.2953394,
+    "lon": 174.7834875,
+    "title": "Saffron Haveli",
+    "address": "25 Kent Terrace, Mount Victoria, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-12-07-Saffron-Haveli/"
+  },
+  {
+    "lat": -41.3019636,
+    "lon": 174.7793396,
+    "title": "Basin Noodle House",
+    "address": "20 Adelaide Road, Mount Cook, Wellington 6021, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-12-20-Basin-Noodle-House/"
+  },
+  {
+    "lat": -41.2893387,
+    "lon": 174.7622361,
+    "title": "Kelburn Village Pub",
+    "address": "87 Upland Road, Kelburn, Wellington 6012, New Zealand",
+    "rating": "3",
+    "link": "/posts/2022-10-29-Kelburn-Village-Pub/"
+  },
+  {
+    "lat": -41.2222601,
+    "lon": 174.807528,
+    "title": "The Roast Canteen",
+    "address": "7 Johnsonville Road, Johnsonville, Wellington 6037, New Zealand",
+    "rating": "2",
+    "link": "/posts/2025-05-02-The-Roast-Canteen/"
+  },
+  {
+    "lat": -41.2915544,
+    "lon": 174.7822852,
+    "title": "Ozeki Cafe & Bar",
+    "address": "161 Tory Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2025-05-09-ozeki-cafe-and-bar/"
+  },
+  {
+    "lat": -41.3246192,
+    "lon": 174.8208046,
+    "title": "Muthus South Indian & Malaysian",
+    "address": "504 Broadway, Strathmore Park, Wellington 6022, New Zealand",
+    "rating": "2",
+    "link": "/posts/2025-05-23-muthus-south-indian-and-malaysian/"
+  },
+  {
+    "lat": -41.2906542,
+    "lon": 174.7753906,
+    "title": "Soul Shack",
+    "address": "120 Victoria Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2025-05-24-soul-shack/"
+  },
+  {
+    "lat": -41.2950413,
+    "lon": 174.7800641,
+    "title": "Grand Century",
+    "address": "84 Tory Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2025-05-30-Grand-Century/"
+  },
+  {
+    "lat": -41.2956177,
+    "lon": 174.7797346,
+    "title": "Khao Soi Welly Eatery",
+    "address": "100 Tory Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "4",
+    "link": "/posts/2025-06-06-khao-soi-welly-eatery/"
+  },
+  {
+    "lat": -41.2915544,
+    "lon": 174.7822852,
+    "title": "Le Bouillon Bel Air",
+    "address": "88 Tory Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2025-07-04-Le-Bouillon-Bel-Air/"
+  },
+  {
+    "lat": -41.2783172,
+    "lon": 174.7696021,
+    "title": "Curry Garden",
+    "address": "324 Tinakori Road, Thorndon, Wellington 6011, New Zealand",
+    "rating": "1",
+    "link": "/posts/2025-07-11-curry-garden/"
+  },
+  {
+    "lat": -41.2940651,
+    "lon": 174.7841932,
+    "title": "Koji",
+    "address": "12 Majoribanks Street, Mount Victoria, Wellington 6011, New Zealand",
+    "rating": "4",
+    "link": "/posts/2025-07-12-koji/"
+  },
+  {
+    "lat": -41.3248171,
+    "lon": 174.8212432,
+    "title": "Mystic Kitchen",
+    "address": "4 Glamis Avenue, Strathmore, Wellington 6022, New Zealand",
+    "rating": "3",
+    "link": "/posts/2025-07-27-mystic-kitchen/"
+  },
+  {
+    "lat": -41.2889913,
+    "lon": 174.7743861,
+    "title": "Dumpling'd",
+    "address": "7 Boulcott Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2025-07-27-dumplingd/"
+  },
+  {
+    "lat": -41.2852055,
+    "lon": 174.7740939,
+    "title": "Lazy Juan",
+    "address": "155 The Terrace, Wellington Central, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2025-08-01-lazy-juan/"
+  },
+  {
+    "lat": -41.2915544,
+    "lon": 174.7822852,
+    "title": "Jinweide Beef Noodle Wellington",
+    "address": "82a Tory Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2025-08-08-jinweide-beef-noodle-wellington/"
+  },
+  {
+    "lat": -41.3046848,
+    "lon": 174.7750642,
+    "title": "Mount Cook Kitchen & Takeaway",
+    "address": "75 Wallace Street, Mount Cook, Wellington 6021, New Zealand",
+    "rating": "2",
+    "link": "/posts/2025-08-15-mount-cook-kitchen-and-takeaway/"
+  },
+  {
+    "lat": -41.2802913,
+    "lon": 174.7754749,
+    "title": "Colonial Cafe",
+    "address": "41 The Terrace, Wellington Central, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2025-08-20-colonial-cafe/"
+  },
+  {
+    "lat": -41.29212085,
+    "lon": 174.7875196323722,
+    "title": "One80 Restaurant & Lounge Bar, Wellington",
+    "address": "100 Oriental Parade, Oriental Bay, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2025-08-22-one80-restaurant-and-lounge-bar-wellington/"
+  },
+  {
+    "lat": -41.27970285000001,
+    "lon": 174.7761376703374,
+    "title": "Go Vietnam",
+    "address": "92 Lambton Quay, Wellington Central, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2025-09-10-go-vietnam/"
+  },
+  {
+    "lat": -41.3251314,
+    "lon": 174.8207938,
+    "title": "Strathmore Local",
+    "address": "3/5 Strathmore Avenue, Strathmore Park, Wellington 6022, New Zealand",
+    "rating": "1",
+    "link": "/posts/2025-09-12-strathmore-local/"
+  },
+  {
+    "lat": -41.2961856,
+    "lon": 174.7803426,
+    "title": "Caffe L'affare",
+    "address": "27 College Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "4",
+    "link": "/posts/2025-09-13-caffe-laffare/"
+  },
+  {
+    "lat": -41.2944312,
+    "lon": 174.7804671,
+    "title": "Mean Doses",
+    "address": "66 Tory Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2025-09-13-mean-doses/"
+  },
+  {
+    "lat": -41.3043879,
+    "lon": 174.7948477,
+    "title": "Nakhon Thai",
+    "address": "23 Waitoa Road, Hataitai, Wellington 6021, New Zealand",
+    "rating": "2",
+    "link": "/posts/2025-10-02-nakhon-thai/"
+  },
+  {
+    "lat": -40.3512185,
+    "lon": 175.613127,
+    "title": "Little Savannah",
+    "address": "45/47 Princess Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2025-10-23-little-savannah/"
+  },
+  {
+    "lat": -38.99109195,
+    "lon": 175.80919978078663,
+    "title": "Raw Balance Vegan Deli & Health Shop",
+    "address": "19 Ohuanga Road, Tūrangi 3334, New Zealand",
+    "rating": "1",
+    "link": "/posts/2025-10-24-raw-balance-vegan-deli-and-health-shop/"
+  },
+  {
+    "lat": -38.737843749999996,
+    "lon": 176.07256415248918,
+    "title": "Cafe Lacus",
+    "address": "650 Lake Terrace, Wharewaka, Taupō 3330, New Zealand",
+    "rating": "1",
+    "link": "/posts/2025-10-25-cafe-lacus/"
+  },
+  {
+    "lat": -38.8903193,
+    "lon": 175.7610858,
+    "title": "Floating Rock Cafe",
+    "address": "36 Riverpark Drive, Kuratau 3381, New Zealand",
+    "rating": "3",
+    "link": "/posts/2025-10-25-floating-rock-cafe/"
+  },
+  {
+    "lat": -38.9884798,
+    "lon": 175.8094222,
+    "title": "Time For Food Cafe",
+    "address": "35 Turangi Town Centre, Tūrangi 3334, New Zealand",
+    "rating": "2",
+    "link": "/posts/2025-10-26-time-for-food-cafe/"
+  },
+  {
+    "lat": -41.294638,
+    "lon": 174.77140826440294,
+    "title": "Jano Bistro",
+    "address": "270 Willis Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2025-10-31-jano-bistro/"
+  },
+  {
+    "lat": -41.2924324,
+    "lon": 174.7787223,
+    "title": "The Old Quarter",
+    "address": "39 Dixon Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-01-06-the-old-quarter/"
+  },
+  {
+    "lat": -41.2960694,
+    "lon": 174.7753503,
+    "title": "Havana Bar",
+    "address": "32a/34 Wigan Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-01-16-havana-bar/"
+  },
+  {
+    "lat": -40.3477052,
+    "lon": 175.6264924,
+    "title": "Saigon Restaurant",
+    "address": "327 Broadway Avenue, Palmerston North Central, Palmerston North 4414, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-01-22-saigon-restaurant/"
+  },
+  {
+    "lat": -41.2913966,
+    "lon": 174.7800342,
+    "title": "Indian Alley Wakefield Restaurant and Bar",
+    "address": "3/290 Wakefield Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-01-30-indian-alley-wakefield-restaurant-and-bar/"
+  },
+  {
+    "lat": -41.2931069,
+    "lon": 174.7806102,
+    "title": "Dragonfly",
+    "address": "70 Courtenay Place, Te Aro, Wellington 6011, New Zealand",
+    "rating": "4",
+    "link": "/posts/2026-02-03-dragonfly/"
+  },
+  {
+    "lat": -41.2899067,
+    "lon": 174.7744698,
+    "title": "Burger Liquor",
+    "address": "129 Willis Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "4",
+    "link": "/posts/2026-02-19-burger-liquor/"
+  },
+  {
+    "lat": -39.6458871,
+    "lon": 176.8474414,
+    "title": "Mondo Cafe",
+    "address": "400 Heretaunga Street East, Hastings 4122, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-02-27-mondo-cafe/"
+  },
+  {
+    "lat": -39.6695644,
+    "lon": 176.8780298,
+    "title": "Diva Bar and Eatery",
+    "address": "Shop 2/10 Napier Road, Havelock North 4130, New Zealand",
+    "rating": "1",
+    "link": "/posts/2026-03-07-diva-bar-and-eatery/"
+  },
+  {
+    "lat": -39.6711358,
+    "lon": 176.8782056,
+    "title": "Mary's",
+    "address": "15 Joll Road, Havelock North 4130, New Zealand",
+    "rating": "4",
+    "link": "/posts/2026-03-09-marys/"
+  },
+  {
+    "lat": -39.6702253,
+    "lon": 176.8763681,
+    "title": "Malo",
+    "address": "4 Te Aute Road, Havelock North 4130, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-03-14-malo/"
+  },
+  {
+    "lat": -41.2890801,
+    "lon": 174.7620075,
+    "title": "Graze Wine Bar",
+    "address": "95 Upland Road, Kelburn, Wellington 6012, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-03-27-graze-wine-bar/"
+  },
+  {
+    "lat": -41.2942063,
+    "lon": 174.7827127,
+    "title": "Hideout",
+    "address": "11C Courtenay Place, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-04-18-hideout/"
+  },
+  {
+    "lat": -36.8419061,
+    "lon": 174.7584849,
+    "title": "The Pantry",
+    "address": "Park Hyatt Auckland 99 Halsey Street, Auckland CBD, Auckland 1010, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-05-02-the-pantry/"
+  },
+  {
+    "lat": -41.2247009,
+    "lon": 174.876923,
+    "title": "Vietnamese Restaurant and Cafe",
+    "address": "143 Jackson Street, Petone, Lower Hutt 5012, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-05-02-vietnamese-restaurant-and-cafe/"
+  },
+  {
+    "lat": -36.8433766,
+    "lon": 174.7664887,
+    "title": "Advieh Restaurant and Bar",
+    "address": "1 Queen Street, Auckland CBD, Auckland 1010, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-05-09-advieh-restaurant-and-bar/"
+  },
+  {
+    "lat": -36.869642,
+    "lon": 174.740187,
+    "title": "Ki Maha Restaurant Waiheke Island",
+    "address": "1 Fourth Avenue, Onetangi Beach, Waiheke Island 1081, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-05-11-ki-maha-restaurant-waiheke-island/"
+  },
+  {
+    "lat": -36.7827036,
+    "lon": 175.0100052,
+    "title": "Vino Vino Restaurant & Bar",
+    "address": "153 Ocean View Road, Oneroa, Auckland 1081, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-05-12-vino-vino-restaurant-and-bar/"
+  },
+  {
+    "lat": -41.2163332,
+    "lon": 175.4701161,
+    "title": "Tirohana Estate",
+    "address": "42 Puruatanga Road, Wairarapa 5711, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-05-15-tirohana-estate/"
+  },
+  {
+    "lat": -43.5459603,
+    "lon": 172.6341439,
+    "title": "Hello Sunday",
+    "address": "6 Elgin Street, Sydenham, Christchurch 8023, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-05-16-hello-sunday/"
+  },
+  {
+    "lat": -40.3572735,
+    "lon": 175.6124243,
+    "title": "Pho Nem Hanoi Home Cooking",
+    "address": "68 The Square, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2026-05-22-pho-nem-hanoi-home-cooking/"
+  },
+  {
+    "lat": -39.692838,
+    "lon": 176.923028,
+    "title": "Craggy Range",
+    "address": "253 Waimarama Road, Havelock North 4230, New Zealand",
+    "rating": "4",
+    "link": "/posts/2026-05-23-craggy-range/"
+  },
+  {
+    "lat": -40.5460165,
+    "lon": 175.4128115,
+    "title": "The Horseman's Cafe",
+    "address": "80 Plimmer Terrace, Shannon 4821, New Zealand",
+    "rating": "1",
+    "link": "/posts/2026-05-24-the-horsemans-cafe/"
+  },
+  {
+    "lat": -41.2973729,
+    "lon": 174.7816155,
+    "title": "Little Whisky",
+    "address": "60 Cambridge Terrace, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-05-29-little-whisky/"
+  },
+  {
+    "lat": -41.3130816,
+    "lon": 174.7794712,
+    "title": "Baobab Cafe",
+    "address": "152 Riddiford Street, Newtown, Wellington 6021, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-05-31-baobab-cafe/"
+  },
+  {
+    "lat": -41.2956346,
+    "lon": 174.7825951,
+    "title": "PhuThai Esarn Restaurant",
+    "address": "38 Cambridge Terrace, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-06-05-phuthai-esarn-restaurant/"
+  },
+  {
+    "lat": -41.3127988,
+    "lon": 174.779738,
+    "title": "Newtown Seafood",
+    "address": "157 Riddiford Street, Newtown, Wellington 6021, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-06-07-newtown-seafood/"
+  },
+  {
+    "lat": -41.278063,
+    "lon": 174.774498,
+    "title": "Nam Nam Bowen",
+    "address": "unit 2/40 Bowen Street, Pipitea, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-06-08-nam-nam-bowen/"
+  },
+  {
+    "lat": -41.3128832,
+    "lon": 174.7797385,
+    "title": "Viva Mexico",
+    "address": "161 Riddiford Street, Newtown, Wellington 6021, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-06-14-viva-mexico/"
+  },
+  {
+    "lat": -41.2927874,
+    "lon": 174.7823817,
+    "title": "Masala Cafe & Bar",
+    "address": "12 Allen Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-06-19-masala-cafe-and-bar/"
+  },
+  {
+    "lat": -41.3136009,
+    "lon": 174.7796237,
+    "title": "The Beijing Restaurant",
+    "address": "164 Riddiford Street, Newtown, Wellington 6021, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-06-21-the-beijing-restaurant/"
+  },
+  {
+    "lat": -41.3058294,
+    "lon": 174.7637101,
+    "title": "Penthouse Cinema and Cafe",
+    "address": "205 Ohiro Road, Brooklyn, Wellington 6021, New Zealand",
+    "rating": "1",
+    "link": "/posts/2026-06-28-penthouse-cinema-and-cafe/"
+  },
+  {
+    "lat": -41.2951329,
+    "lon": 174.7828783,
+    "title": "The Bridge Bar & Restaurant",
+    "address": "28 Cambridge Terrace, Te Aro, Wellington 6011, New Zealand",
+    "rating": "1",
+    "link": "/posts/2026-07-03-the-bridge-bar-and-restaurant/"
+  },
+  {
+    "lat": -41.1779854,
+    "lon": 174.8254964,
+    "title": "Nada Bakery",
+    "address": "4/72 Main Road, Tawa, Wellington 5028, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-07-05-nada-bakery/"
+  },
+  {
+    "lat": -41.2933398,
+    "lon": 174.7755372,
+    "title": "1154 Pastaria",
+    "address": "132 Cuba Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-07-10-1154-pastaria/"
+  },
+  {
+    "lat": -40.3525662,
+    "lon": 175.6089155,
+    "title": "Fresh Bowl",
+    "address": "5 Grey Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2020-11-14-fresh-bowl/"
+  },
+  {
+    "lat": -40.363404,
+    "lon": 175.6336478,
+    "title": "The Fat Farmer",
+    "address": "360 Albert Street, Hokowhitu, Palmerston North 4410, New Zealand",
+    "rating": "4",
+    "link": "/posts/2020-11-14-the-fat-farmer/"
+  },
+  {
+    "lat": -40.353444,
+    "lon": 175.6136854,
+    "title": "Black Pearl Cafe",
+    "address": "91 Broadway Avenue, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2020-11-17-black-pearl-cafe/"
+  },
+  {
+    "lat": -40.3540989,
+    "lon": 175.6098396,
+    "title": "The Royal Hotel",
+    "address": "44 Rangitikei Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2020-11-20-the-royal-hotel/"
+  },
+  {
+    "lat": -40.2271068,
+    "lon": 175.5661636,
+    "title": "Murray's Irish Public House",
+    "address": "78/80 Fergusson Street, Feilding 4702, New Zealand",
+    "rating": "1",
+    "link": "/posts/2020-11-21-murrays-irish-public-house/"
+  },
+  {
+    "lat": -40.3527058,
+    "lon": 175.6153729,
+    "title": "Aberdeen On Broadway",
+    "address": "161 Broadway Avenue, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "4",
+    "link": "/posts/2020-11-27-aberdeen-on-broadway/"
+  },
+  {
+    "lat": -40.3522616,
+    "lon": 175.6201991,
+    "title": "Castle 789",
+    "address": "789 Main Street, Hokowhitu, Palmerston North 4414, New Zealand",
+    "rating": "1",
+    "link": "/posts/2020-11-27-castle-789/"
+  },
+  {
+    "lat": -40.3503009,
+    "lon": 175.6245783,
+    "title": "The Cooperage Cafe",
+    "address": "723 Main Street, Palmerston North Central, Palmerston North 4414, New Zealand",
+    "rating": "1",
+    "link": "/posts/2020-11-28-the-cooperage-cafe/"
+  },
+  {
+    "lat": -40.3521614,
+    "lon": 175.6156179,
+    "title": "Nero Restaurant",
+    "address": "36 Amesbury Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2020-12-04-nero-restaurant/"
+  },
+  {
+    "lat": -40.3373537,
+    "lon": 175.8683254,
+    "title": "Yummy Mummys Cheesecakes",
+    "address": "67 Vogel Street, Woodville 4920, New Zealand",
+    "rating": "2",
+    "link": "/posts/2020-12-05-yummy-mummys-cheesecakes/"
+  },
+  {
+    "lat": -40.3542751,
+    "lon": 175.6127831,
+    "title": "O'Briens Irish sandwich Cafe",
+    "address": "44 Broadway Avenue, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2020-12-12-obriens-irish-sandwich-cafe/"
+  },
+  {
+    "lat": -40.3568025,
+    "lon": 175.6092444,
+    "title": "Moxie's Cafe",
+    "address": "67 George Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2020-12-13-moxies-cafe/"
+  },
+  {
+    "lat": -40.3537341,
+    "lon": 175.6139865,
+    "title": "The Bean Cafe",
+    "address": "92 Broadway Avenue, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2020-12-18-the-bean-cafe/"
+  },
+  {
+    "lat": -40.360243,
+    "lon": 175.601564,
+    "title": "Shake Out",
+    "address": "Shop 2/199 Main Street, Takaro, Palmerston North 4412, New Zealand",
+    "rating": "3",
+    "link": "/posts/2020-12-19-shake-out/"
+  },
+  {
+    "lat": -40.370112,
+    "lon": 175.6192263,
+    "title": "Master Bakery & Coffee Shop",
+    "address": "6 Manawaroa Street, West End, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2020-12-28-master-bakery-and-coffee-shop/"
+  },
+  {
+    "lat": -40.3622,
+    "lon": 175.604835,
+    "title": "Brew Union",
+    "address": "Centre 41 Broadway Avenue, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "4",
+    "link": "/posts/2020-12-31-brew-union/"
+  },
+  {
+    "lat": -40.2218035,
+    "lon": 175.5741369,
+    "title": "Fast Food House",
+    "address": "70-72 Kimbolton Road, Feilding 4702, New Zealand",
+    "rating": "1",
+    "link": "/posts/2020-12-31-fast-food-house/"
+  },
+  {
+    "lat": -40.3433111,
+    "lon": 175.6017408,
+    "title": "Angkor Wat Bakery & Cafe",
+    "address": "689 Tremaine Avenue, Palmerston North Central, Palmerston North 4414, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-01-04-angkor-wat-bakery-and-cafe/"
+  },
+  {
+    "lat": -40.352876,
+    "lon": 175.615001,
+    "title": "Little India",
+    "address": "157 Broadway Avenue, City Centre, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-01-08-little-india/"
+  },
+  {
+    "lat": -40.3508912,
+    "lon": 175.6203825,
+    "title": "Local",
+    "address": "240 Broadway Avenue, Palmerston North Central, Palmerston North 4414, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-01-10-local/"
+  },
+  {
+    "lat": -40.3570014,
+    "lon": 175.6106976,
+    "title": "Arranged Marriage",
+    "address": "32 B The Square, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-01-14-arranged-marriage/"
+  },
+  {
+    "lat": -40.3530378,
+    "lon": 175.6131935,
+    "title": "Tikka Talks",
+    "address": "126 King Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-01-15-tikka-talks/"
+  },
+  {
+    "lat": -40.3533846,
+    "lon": 175.6124374,
+    "title": "Stage Door Cafe",
+    "address": "96 King Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-01-16-stage-door-cafe/"
+  },
+  {
+    "lat": -40.357554,
+    "lon": 175.610564,
+    "title": "Cafe Express",
+    "address": "The Grand Building, 41 The Square, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-01-22-cafe-express/"
+  },
+  {
+    "lat": -39.6734946,
+    "lon": 175.7928289,
+    "title": "Rustic Steakhouse",
+    "address": "21 Mataroa Road, Taihape 4720, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-01-25-rustic-steakhouse/"
+  },
+  {
+    "lat": -40.3572603,
+    "lon": 175.5706022,
+    "title": "Cloverlea Tavern",
+    "address": "01 Tremaine Avenue, Highbury, Palmerston North 4412, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-01-29-cloverlea-tavern/"
+  },
+  {
+    "lat": -40.3312974,
+    "lon": 175.6072222,
+    "title": "Cafe Ignition",
+    "address": "Milson, Palmerston North 4414, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-01-30-cafe-ignition/"
+  },
+  {
+    "lat": -40.2270678,
+    "lon": 175.5671891,
+    "title": "Empire Sports & Garden Bar Restaurant",
+    "address": "8 Stafford Street, Feilding 4702, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-02-05-empire-sports-and-garden-bar-restaurant/"
+  },
+  {
+    "lat": -40.3189867,
+    "lon": 175.5745587,
+    "title": "Orlando Country Club",
+    "address": "748 Rangitikei Line, Newbury, Palmerston North 4475, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-02-11-orlando-country-club/"
+  },
+  {
+    "lat": -40.2258117,
+    "lon": 175.5638691,
+    "title": "Subway",
+    "address": "90 Manchester Street, Feilding 4702, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-02-12-subway/"
+  },
+  {
+    "lat": -40.2260094,
+    "lon": 175.5656308,
+    "title": "4Flames",
+    "address": "69 Kimbolton Road, Feilding, Feilding 4702, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-02-19-4flames/"
+  },
+  {
+    "lat": -40.3567313,
+    "lon": 175.6087715,
+    "title": "Trio Cafe",
+    "address": "60 George Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-02-20-trio-cafe/"
+  },
+  {
+    "lat": -40.2977941,
+    "lon": 175.750383,
+    "title": "Ashhurst Inn",
+    "address": "81 York Street, Ashhurst 4810, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-02-27-ashhurst-inn/"
+  },
+  {
+    "lat": -40.3597549,
+    "lon": 175.6135883,
+    "title": "Burger King",
+    "address": "100 Fitzherbert Avenue, West End, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-03-06-burger-king/"
+  },
+  {
+    "lat": -40.3472345,
+    "lon": 175.6275511,
+    "title": "Coffee On The Terrace",
+    "address": "361 Broadway Avenue, Terrace End, Roslyn, Palmerston North 4414, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-03-06-coffee-on-the-terrace/"
+  },
+  {
+    "lat": -38.263931,
+    "lon": 175.12584,
+    "title": "Long Black Cafe",
+    "address": "585 Waitomo Caves Road, Otorohanga 3977, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-03-15-long-black-cafe/"
+  },
+  {
+    "lat": -40.3472732,
+    "lon": 175.6124988,
+    "title": "Yatai Japanese Izakaya Restaurant",
+    "address": "316 Featherston Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "4",
+    "link": "/posts/2021-03-19-yatai-japanese-izakaya-restaurant/"
+  },
+  {
+    "lat": -40.2267776,
+    "lon": 175.5651193,
+    "title": "Focal Point Cinema & Cafe",
+    "address": "81 Manchester Street, Feilding 4702, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-03-20-focal-point-cinema-and-cafe/"
+  },
+  {
+    "lat": -40.3503009,
+    "lon": 175.6245783,
+    "title": "Tasty Restaurant",
+    "address": "700 Main Street, Palmerston North Central, Palmerston North 4414, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-03-26-tasty-restaurant/"
+  },
+  {
+    "lat": -41.2928649,
+    "lon": 174.7788397,
+    "title": "Burgerfuel",
+    "address": "101 Courtenay Place, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-04-05-burgerfuel/"
+  },
+  {
+    "lat": -41.2943657,
+    "lon": 174.7729171,
+    "title": "Counter Culture",
+    "address": "211 Victoria Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-04-05-counter-culture/"
+  },
+  {
+    "lat": -41.2929255,
+    "lon": 174.7836055,
+    "title": "Thai Chef's Restaurant",
+    "address": "1 Blair Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-04-05-thai-chefs-restaurant/"
+  },
+  {
+    "lat": -40.3555778,
+    "lon": 175.6089298,
+    "title": "Noodles & Dumplings",
+    "address": "21 Coleman Place, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-04-09-noodles-and-dumplings/"
+  },
+  {
+    "lat": -40.3482746,
+    "lon": 175.6047907,
+    "title": "Wendy's Hamburgers",
+    "address": "313 Rangitikei Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-04-10-wendys-hamburgers/"
+  },
+  {
+    "lat": -40.1380458,
+    "lon": 175.6606695,
+    "title": "Cheltenham Hotel",
+    "address": "1469 Kimbolton Road, Feilding 4777, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-04-16-cheltenham-hotel/"
+  },
+  {
+    "lat": -40.2256545,
+    "lon": 175.5637725,
+    "title": "Gold Kebabs",
+    "address": "92 Manchester Street, Feilding 4702, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-04-17-gold-kebabs/"
+  },
+  {
+    "lat": -40.3629189,
+    "lon": 175.6338256,
+    "title": "Indian Love Story",
+    "address": "7A/358 Albert Street, Hokowhitu, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-04-23-indian-love-story/"
+  },
+  {
+    "lat": -40.363654,
+    "lon": 175.6168859,
+    "title": "Red Lantern",
+    "address": "Fitzherbert Avenue, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-04-24-red-lantern/"
+  },
+  {
+    "lat": -40.3583483,
+    "lon": 175.6059015,
+    "title": "Bangkok Thai",
+    "address": "287 Main Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-04-30-bangkok-thai/"
+  },
+  {
+    "lat": -40.3573994,
+    "lon": 175.6141096,
+    "title": "Shamiana",
+    "address": "Shop 24, The Plaza Shopping Centre, 84 The Square, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-05-02-shamiana/"
+  },
+  {
+    "lat": -40.2277058,
+    "lon": 175.5653068,
+    "title": "Essence Cafe & Bar",
+    "address": "46 Manchester Street, Feilding 4702, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-05-03-essence-cafe-and-bar/"
+  },
+  {
+    "lat": -40.354766,
+    "lon": 175.6098,
+    "title": "Viva Cafe & Bar",
+    "address": "21 Rangitikei Street, City Center, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-05-07-viva-cafe-and-bar/"
+  },
+  {
+    "lat": -40.3551864,
+    "lon": 175.6118329,
+    "title": "Columbus Cafe",
+    "address": "34/84 The Square, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-05-08-columbus-cafe/"
+  },
+  {
+    "lat": -40.3542302,
+    "lon": 175.6118959,
+    "title": "Gengy's Mongolian BBQ Buffet",
+    "address": "21 Broadway Avenue, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-05-14-gengys-mongolian-bbq-buffet/"
+  },
+  {
+    "lat": -40.3628908,
+    "lon": 175.6335991,
+    "title": "The Bees Knees Cafe",
+    "address": "352 Albert Street, Hokowhitu, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-05-15-the-bees-knees-cafe/"
+  },
+  {
+    "lat": -40.3559605,
+    "lon": 175.6081812,
+    "title": "Indian2nite",
+    "address": "22 George Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-05-21-indian2nite/"
+  },
+  {
+    "lat": -40.330172,
+    "lon": 175.6135534,
+    "title": "Cafe 116",
+    "address": "91 Milson Line, Milson, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-05-22-cafe-116/"
+  },
+  {
+    "lat": -40.3560868,
+    "lon": 175.6087138,
+    "title": "Angkor",
+    "address": "4 Coleman Place, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-05-28-angkor/"
+  },
+  {
+    "lat": -40.362727,
+    "lon": 175.626441,
+    "title": "Kabbaba",
+    "address": "Kabbaba, Food Court, Plaza Shopping Centre, 84 The Square, Manawatu, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-05-29-kabbaba/"
+  },
+  {
+    "lat": -40.3593902,
+    "lon": 175.6132677,
+    "title": "Rosie O'Grady's Irish Pub",
+    "address": "96 Fitzherbert Avenue, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-06-01-rosie-ogradys-irish-pub/"
+  },
+  {
+    "lat": -40.3590977,
+    "lon": 175.6130272,
+    "title": "Bing House",
+    "address": "84 Fitzherbert Avenue, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-06-06-bing-house/"
+  },
+  {
+    "lat": -40.3599649,
+    "lon": 175.6137883,
+    "title": "Jimmy Cook's Kiwi Kitchen",
+    "address": "110 Fitzherbert Avenue, West End, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-06-11-jimmy-cooks-kiwi-kitchen/"
+  },
+  {
+    "lat": -40.3565883,
+    "lon": 175.6086619,
+    "title": "Cyclista",
+    "address": "54 George Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-06-12-cyclista/"
+  },
+  {
+    "lat": -40.3502792,
+    "lon": 175.6212454,
+    "title": "LA Bakery & Coffee Lounge",
+    "address": "325 Broadway Avenue, Palmerston North Central, Palmerston North 4414, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-06-19-la-bakery-and-coffee-lounge/"
+  },
+  {
+    "lat": -40.3694926,
+    "lon": 175.62136,
+    "title": "La Patio Cafe & Bar",
+    "address": "140 Fitzherbert Avenue, West End, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-06-20-la-patio-cafe-and-bar/"
+  },
+  {
+    "lat": -40.355464,
+    "lon": 175.6091781,
+    "title": "Pompeii Pizza",
+    "address": "163 The Square, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-06-25-pompeii-pizza/"
+  },
+  {
+    "lat": -40.3571447,
+    "lon": 175.6127063,
+    "title": "Robert Harris Cafe",
+    "address": "73 The Square, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-06-26-robert-harris-cafe/"
+  },
+  {
+    "lat": -40.3576291,
+    "lon": 175.6073945,
+    "title": "Asia Restaurant",
+    "address": "319 Main Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-07-02-asia-restaurant/"
+  },
+  {
+    "lat": -40.3561835,
+    "lon": 175.6083485,
+    "title": "Cafe 40",
+    "address": "32 George Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-07-03-cafe-40/"
+  },
+  {
+    "lat": -40.3571766,
+    "lon": 175.6180337,
+    "title": "McDonald's",
+    "address": "117 Princess Street, Palmerston North Central, Palmerston North 4412, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-07-07-mcdonalds/"
+  },
+  {
+    "lat": -40.3594589,
+    "lon": 175.6131316,
+    "title": "Thai Orchid Restaurant",
+    "address": "345 Ferguson Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-07-09-thai-orchid-restaurant/"
+  },
+  {
+    "lat": -40.3547717,
+    "lon": 175.6107151,
+    "title": "Double Shotz",
+    "address": "138 The Square, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-07-10-double-shotz/"
+  },
+  {
+    "lat": -40.3838059,
+    "lon": 175.5436893,
+    "title": "White Horse Inn Motel, Bar & Restaurant",
+    "address": "2180 State Highway 56, Longburn 4412, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-07-23-white-horse-inn-motel-bar-and-restaurant/"
+  },
+  {
+    "lat": -40.355989,
+    "lon": 175.61266,
+    "title": "Muffin Break",
+    "address": "The Plaza Shopping Centre 100 The Square, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-07-24-muffin-break/"
+  },
+  {
+    "lat": -40.354185,
+    "lon": 175.6150865,
+    "title": "Indian Flavours",
+    "address": "529 Main Street, Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-07-30-indian-flavours/"
+  },
+  {
+    "lat": -40.3576536,
+    "lon": 175.6107214,
+    "title": "Dejeuner",
+    "address": "44 The Square, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-08-13-dejeuner/"
+  },
+  {
+    "lat": -40.3567712,
+    "lon": 175.6088018,
+    "title": "Kapadokya Mediterranean & Turkish Cuisine",
+    "address": "64 George Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-09-10-kapadokya-mediterranean-and-turkish-cuisine/"
+  },
+  {
+    "lat": -40.225565,
+    "lon": 175.5648643,
+    "title": "Spring Patisserie & Cafe",
+    "address": "25 Manchester Square, Feilding 4702, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-09-11-spring-patisserie-and-cafe/"
+  },
+  {
+    "lat": -40.3575722,
+    "lon": 175.6125095,
+    "title": "Saigon Lunch Bar",
+    "address": "15 Fitzherbert Avenue, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-09-18-saigon-lunch-bar/"
+  },
+  {
+    "lat": -40.3793032,
+    "lon": 175.6301566,
+    "title": "Indian Summer",
+    "address": "194/200 Ruapehu Drive, Fitzherbert, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-09-24-indian-summer/"
+  },
+  {
+    "lat": -40.3867328,
+    "lon": 175.6389015,
+    "title": "Sony Cafe",
+    "address": "190 Ruapehu Drive, Fitzherbert, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-09-25-sony-cafe/"
+  },
+  {
+    "lat": -40.3575602,
+    "lon": 175.6117818,
+    "title": "Namaste Bharat Indian Restaurant",
+    "address": "61 The Square, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-10-01-namaste-bharat-indian-restaurant/"
+  },
+  {
+    "lat": -40.355065,
+    "lon": 175.608225,
+    "title": "Pita Pit",
+    "address": "235 Cuba Street, Milson, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-10-02-pita-pit/"
+  },
+  {
+    "lat": -40.3565918,
+    "lon": 175.6097191,
+    "title": "Lone Star",
+    "address": "359 Main Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-10-08-lone-star/"
+  },
+  {
+    "lat": -40.355734,
+    "lon": 175.6080248,
+    "title": "Cafe Jacko",
+    "address": "8 George Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-10-10-cafe-jacko/"
+  },
+  {
+    "lat": -40.353989,
+    "lon": 175.613431,
+    "title": "Thai House Express",
+    "address": "70 Broadway Avenue, Fitzherbert, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-10-15-thai-house-express/"
+  },
+  {
+    "lat": -40.3395937,
+    "lon": 175.6220284,
+    "title": "The Daily Grind",
+    "address": "79-81 Ruahine Street, Palmerston North, New Zealand, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-10-16-the-daily-grind/"
+  },
+  {
+    "lat": -39.6766924,
+    "lon": 175.7988314,
+    "title": "Le Cafe Telephonique",
+    "address": "8 Huia Street, Taihape 4720, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-10-25-le-cafe-telephonique/"
+  },
+  {
+    "lat": -40.361963,
+    "lon": 175.601601,
+    "title": "Phil and Jo's Cafe",
+    "address": "Plaza Shopping Centre, Church Street, Palmerston North Central, Palmerston North 4412, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-10-30-phil-and-jos-cafe/"
+  },
+  {
+    "lat": -40.3558737,
+    "lon": 175.6092962,
+    "title": "Table 188",
+    "address": "2 The Square, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-10-30-table-188/"
+  },
+  {
+    "lat": -40.3511837,
+    "lon": 175.6073302,
+    "title": "Breakers",
+    "address": "168-190 Rangitikei Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-11-05-breakers/"
+  },
+  {
+    "lat": -40.3729543,
+    "lon": 175.5927831,
+    "title": "Boho Cafe",
+    "address": "2 Pitama Road, Awapuni, Palmerston North 4412, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-11-06-boho-cafe/"
+  },
+  {
+    "lat": -40.3516454,
+    "lon": 175.6028939,
+    "title": "Beaver & Bear",
+    "address": "3 Campbell Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "4",
+    "link": "/posts/2021-11-19-beaver-and-bear/"
+  },
+  {
+    "lat": -40.3492277,
+    "lon": 175.6055366,
+    "title": "Rumour Has It",
+    "address": "305 Rangitikei Street, Takaro, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-11-21-rumour-has-it/"
+  },
+  {
+    "lat": -40.3554444,
+    "lon": 175.6092422,
+    "title": "Hanamizuki Japanese Restaurant",
+    "address": "161 The Square, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-11-26-hanamizuki-japanese-restaurant/"
+  },
+  {
+    "lat": -40.2268635,
+    "lon": 175.5665185,
+    "title": "Delish Cafe",
+    "address": "90 Fergusson Street, Feilding 4702, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-11-27-delish-cafe/"
+  },
+  {
+    "lat": -40.349988,
+    "lon": 175.618742,
+    "title": "Amayjen",
+    "address": "17 Victoria Avenue, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "4",
+    "link": "/posts/2021-12-04-amayjen/"
+  },
+  {
+    "lat": -40.3521486,
+    "lon": 175.6170668,
+    "title": "Fire Home",
+    "address": "38/60 Broadway Avenue, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-12-04-fire-home/"
+  },
+  {
+    "lat": -40.357504,
+    "lon": 175.6175049,
+    "title": "Carl's Jr",
+    "address": "415 Ferguson Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-12-08-carls-jr/"
+  },
+  {
+    "lat": -41.2964996,
+    "lon": 174.7744694,
+    "title": "Southern Cross Garden Bar Restaurant",
+    "address": "39 Abel Smith Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-12-12-southern-cross-garden-bar-restaurant/"
+  },
+  {
+    "lat": -39.6724913,
+    "lon": 175.8011499,
+    "title": "Coffee Plus +",
+    "address": "59 Hautapu Street, Taihape 4720, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-12-20-coffee-plus-/"
+  },
+  {
+    "lat": -41.3353795,
+    "lon": 174.7739743,
+    "title": "Gorilla Burger",
+    "address": "163 The Parade, Island Bay, Wellington, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-12-22-gorilla-burger/"
+  },
+  {
+    "lat": -39.8385633,
+    "lon": 175.7480923,
+    "title": "Flat Hills Cafe & Tourist Park",
+    "address": "5733 State Highway 1, Ōhingaiti 4774, New Zealand",
+    "rating": "1",
+    "link": "/posts/2021-12-30-flat-hills-cafe-and-tourist-park/"
+  },
+  {
+    "lat": -40.3554649,
+    "lon": 175.6082374,
+    "title": "Cafe Cuba",
+    "address": "236 Cuba Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2022-01-01-cafe-cuba/"
+  },
+  {
+    "lat": -40.353555,
+    "lon": 175.6134715,
+    "title": "Chada Thai",
+    "address": "81 Broadway Avenue, Palmerston North Central, Palmerston North 5301, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-01-01-chada-thai/"
+  },
+  {
+    "lat": -40.351644,
+    "lon": 175.618692,
+    "title": "Cafe Brie",
+    "address": "218 Broadway Avenue, City Centre, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2022-01-08-cafe-brie/"
+  },
+  {
+    "lat": -40.3556726,
+    "lon": 175.6083667,
+    "title": "Libre",
+    "address": "9 George Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2022-01-21-libre/"
+  },
+  {
+    "lat": -40.3527837,
+    "lon": 175.6151862,
+    "title": "Provenance",
+    "address": "159 Broadway Avenue, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "4",
+    "link": "/posts/2022-01-21-provenance/"
+  },
+  {
+    "lat": -40.3413904,
+    "lon": 175.6236015,
+    "title": "Cravings Cafe",
+    "address": "117 Ruahine Street, Roslyn, Palmerston North 4414, New Zealand",
+    "rating": "3",
+    "link": "/posts/2022-01-22-cravings-cafe/"
+  },
+  {
+    "lat": -40.3567413,
+    "lon": 175.6049708,
+    "title": "Chinatown Chinese Restaurant",
+    "address": "156 Cuba Street, Takaro, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2022-01-28-chinatown-chinese-restaurant/"
+  },
+  {
+    "lat": -40.3512067,
+    "lon": 175.5848637,
+    "title": "Hungry Horse Cafe",
+    "address": "4 Botanical Road, Highbury, Palmerston North 4412, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-01-29-hungry-horse-cafe/"
+  },
+  {
+    "lat": -40.357898,
+    "lon": 175.611041,
+    "title": "Cafe Royale",
+    "address": "Square Edge, 47 The Square, Palmerston North 4410, New Zealand",
+    "rating": "1",
+    "link": "/posts/2022-02-12-cafe-royale/"
+  },
+  {
+    "lat": -41.293919,
+    "lon": 174.775713,
+    "title": "Best Ugly Bagels",
+    "address": "Best Ugly Bagels, 5 Swan Lane, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-02-13-best-ugly-bagels/"
+  },
+  {
+    "lat": -40.3534717,
+    "lon": 175.6145825,
+    "title": "ReBurger",
+    "address": "44 Princess Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "3",
+    "link": "/posts/2022-02-19-reburger/"
+  },
+  {
+    "lat": -40.3537123,
+    "lon": 175.6140563,
+    "title": "Cafe Eminem",
+    "address": "94 Broadway Avenue, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-04-02-cafe-eminem/"
+  },
+  {
+    "lat": -40.3566811,
+    "lon": 175.6104388,
+    "title": "The Verdict",
+    "address": "32a The Square, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-04-09-the-verdict/"
+  },
+  {
+    "lat": -40.3534112,
+    "lon": 175.6173725,
+    "title": "Flavour Bistro",
+    "address": "493 Main Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-04-21-flavour-bistro/"
+  },
+  {
+    "lat": -40.3521486,
+    "lon": 175.6170668,
+    "title": "Nourish Cafe & Deli",
+    "address": "38-60 Broadway Avenue, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-04-30-nourish-cafe-and-deli/"
+  },
+  {
+    "lat": -40.2266709,
+    "lon": 175.5650565,
+    "title": "Beyond Coffee",
+    "address": "32 Manchester Square, Feilding 4702, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-05-07-beyond-coffee/"
+  },
+  {
+    "lat": -41.2850241,
+    "lon": 174.7760189,
+    "title": "Leuven Belgium Beer Cafe",
+    "address": "135-137 Featherston Street, Wellington Central, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2022-05-20-leuven-belgium-beer-cafe/"
+  },
+  {
+    "lat": -40.3625004,
+    "lon": 175.6034219,
+    "title": "Joseph Street Kitchen",
+    "address": "55A Joseph Street, West End, Palmerston North 4412, New Zealand",
+    "rating": "3",
+    "link": "/posts/2022-07-02-joseph-street-kitchen/"
+  },
+  {
+    "lat": -41.329395,
+    "lon": 174.8111443,
+    "title": "Best Ugly Bagels",
+    "address": "Best Ugly, Rongotai, Wellington 6022, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-07-13-best-ugly-bagels/"
+  },
+  {
+    "lat": -41.125817,
+    "lon": 175.054482,
+    "title": "Yatra Restaurant",
+    "address": "shop 5/687 Fergusson Drive, Elderslea, Upper Hutt 5018, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-09-10-yatra-restaurant/"
+  },
+  {
+    "lat": -40.21674,
+    "lon": 175.4188933,
+    "title": "Vivs Kitchen",
+    "address": "9 Dundas Road, Sanson 4817, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-10-21-vivs-kitchen/"
+  },
+  {
+    "lat": 33.122035,
+    "lon": -107.264685,
+    "title": "The Mess Tent",
+    "address": "Military museum, Waiouru 4861, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-10-24-the-mess-tent/"
+  },
+  {
+    "lat": -41.2742893,
+    "lon": 174.7790562,
+    "title": "Wholly Bagels & Pizza",
+    "address": "39 Murphy Street, Thorndon, Wellington 6001, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-12-02-wholly-bagels-and-pizza/"
+  },
+  {
+    "lat": -41.279394,
+    "lon": 174.77998,
+    "title": "Trax Cafe & Bar",
+    "address": "Wellington Railway Station, Cnr Featherston Street & Platform, 1 Bunny Street, Pipitea, Wellington 6011, New Zealand",
+    "rating": "1",
+    "link": "/posts/2022-12-13-trax-cafe-and-bar/"
+  },
+  {
+    "lat": -41.2729623,
+    "lon": 174.7829483,
+    "title": "Where's Charlie",
+    "address": "186 Thorndon Quay, Thorndon, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2022-12-16-wheres-charlie/"
+  },
+  {
+    "lat": -41.2905886,
+    "lon": 174.7772324,
+    "title": "Gorilla Burger",
+    "address": "131/133 Cuba Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-12-22-gorilla-burger/"
+  },
+  {
+    "lat": -41.2936308,
+    "lon": 174.7763688,
+    "title": "Lunch Money",
+    "address": "35 Ghuznee Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-12-31-lunch-money/"
+  },
+  {
+    "lat": -41.2942558,
+    "lon": 174.7805408,
+    "title": "Wildfire Churrascaria",
+    "address": "60 Tory Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2022-12-31-wildfire-churrascaria/"
+  },
+  {
+    "lat": -41.292428,
+    "lon": 174.775114,
+    "title": "Mother Of Coffee",
+    "address": "210A left bank, Cuba Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-01-26-mother-of-coffee/"
+  },
+  {
+    "lat": -41.1735758,
+    "lon": 174.8249266,
+    "title": "Yum Yum House",
+    "address": "2 Oxford Street, Tawa, Wellington 5028, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-02-24-yum-yum-house/"
+  },
+  {
+    "lat": -41.1575585,
+    "lon": 174.8322168,
+    "title": "English Dhaba",
+    "address": "6 Collins Avenue, Tawa, Wellington 5028, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-05-12-english-dhaba/"
+  },
+  {
+    "lat": -41.2783198,
+    "lon": 174.7700018,
+    "title": "The Shepherd's Arms Hotel",
+    "address": "285 Tinakori Road, Thorndon, Wellington 6011, New Zealand",
+    "rating": "1",
+    "link": "/posts/2023-06-09-the-shepherds-arms-hotel/"
+  },
+  {
+    "lat": -41.292621,
+    "lon": 174.7795166,
+    "title": "Nando's",
+    "address": "116 Courtenay Place, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-07-07-nandos/"
+  },
+  {
+    "lat": -41.2940634,
+    "lon": 174.7777478,
+    "title": "Whistling Sisters Beer Co",
+    "address": "100 Taranaki Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-07-08-whistling-sisters-beer-co/"
+  },
+  {
+    "lat": -41.2817163,
+    "lon": 174.7756219,
+    "title": "Kebabs On Queen",
+    "address": "174-180 Lambton Quay, Wellington Central, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-07-21-kebabs-on-queen/"
+  },
+  {
+    "lat": -41.2962726,
+    "lon": 174.7792829,
+    "title": "Tequila Joe's",
+    "address": "43 Vivian Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-07-28-tequila-joes/"
+  },
+  {
+    "lat": -41.295523,
+    "lon": 174.779776,
+    "title": "Damascus Genuine Syrian Flavours",
+    "address": "shop 4/100 Tory Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "4",
+    "link": "/posts/2023-07-29-damascus-genuine-syrian-flavours/"
+  },
+  {
+    "lat": -41.2769397,
+    "lon": 174.771588,
+    "title": "Hillside Kitchen",
+    "address": "241 Tinakori Road, Thorndon, Wellington 6011, New Zealand",
+    "rating": "4",
+    "link": "/posts/2023-08-11-hillside-kitchen/"
+  },
+  {
+    "lat": -41.295854,
+    "lon": 174.7744327,
+    "title": "Romans Kitchen",
+    "address": "245 Cuba Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-08-11-romans-kitchen/"
+  },
+  {
+    "lat": -41.2925722,
+    "lon": 174.7794256,
+    "title": "The Residence",
+    "address": "122 Courtenay Place, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-08-25-the-residence/"
+  },
+  {
+    "lat": -41.2962669,
+    "lon": 174.7810003,
+    "title": "Orient",
+    "address": "29b College Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-08-26-orient/"
+  },
+  {
+    "lat": -41.2924864,
+    "lon": 174.7784006,
+    "title": "Jack Hackett's Irish Pub",
+    "address": "52 Taranaki Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-10-18-jack-hacketts-irish-pub/"
+  },
+  {
+    "lat": -39.4780385,
+    "lon": 175.6687527,
+    "title": "Rustic Eating House",
+    "address": "27 State Highway 1, Waiouru 4825, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-10-20-rustic-eating-house/"
+  },
+  {
+    "lat": -39.6776703,
+    "lon": 175.7985187,
+    "title": "Taihape Bakery & Cafe",
+    "address": "79 Hautapu Street, Taihape 4720, New Zealand",
+    "rating": "3",
+    "link": "/posts/2023-10-22-taihape-bakery-and-cafe/"
+  },
+  {
+    "lat": -41.1342865,
+    "lon": 174.839474,
+    "title": "Top Taste Restaurant",
+    "address": "1 Hagley Street, Porirua City Centre, Porirua 5022, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-11-03-top-taste-restaurant/"
+  },
+  {
+    "lat": -41.3227966,
+    "lon": 174.8305972,
+    "title": "Arcimboldi",
+    "address": "24 Dundas Street, Seatoun, Wellington 6022, New Zealand",
+    "rating": "4",
+    "link": "/posts/2023-11-24-arcimboldi/"
+  },
+  {
+    "lat": -41.28821,
+    "lon": 174.774582,
+    "title": "Amador",
+    "address": "Kiosk 4/80A Willis Street, Wellington Central, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2023-12-15-amador/"
+  },
+  {
+    "lat": -41.2963165,
+    "lon": 174.7794162,
+    "title": "Spice Paradise",
+    "address": "39 Vivian Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "1",
+    "link": "/posts/2024-01-04-spice-paradise/"
+  },
+  {
+    "lat": -41.2892855,
+    "lon": 174.7759863,
+    "title": "Concord Bistro & Bar",
+    "address": "81 Victoria Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-01-19-concord-bistro-and-bar/"
+  },
+  {
+    "lat": -41.286236,
+    "lon": 174.7739022,
+    "title": "Boulcott Street Bistro",
+    "address": "99 Boulcott Street, Wellington Central, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2024-01-29-boulcott-street-bistro/"
+  },
+  {
+    "lat": -41.288578,
+    "lon": 174.774628,
+    "title": "Hey Ramen",
+    "address": "The Majestic Centre, Ground Floor/100 Willis Street, Wellington Central, Wellington 6011, New Zealand",
+    "rating": "1",
+    "link": "/posts/2024-03-15-hey-ramen/"
+  },
+  {
+    "lat": -41.2776965,
+    "lon": 174.7796332,
+    "title": "Thistle Inn",
+    "address": "3 Mulgrave Street, Thorndon, Wellington 6011, New Zealand",
+    "rating": "1",
+    "link": "/posts/2024-04-05-thistle-inn/"
+  },
+  {
+    "lat": -41.2921615,
+    "lon": 174.7775393,
+    "title": "El Barrio",
+    "address": "35 Dixon Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-04-19-el-barrio/"
+  },
+  {
+    "lat": -41.2852927,
+    "lon": 174.7740442,
+    "title": "Jeff Cafe Limited",
+    "address": "163 The Terrace, Wellington Central, Wellington 6011, New Zealand",
+    "rating": "1",
+    "link": "/posts/2024-04-26-jeff-cafe-limited/"
+  },
+  {
+    "lat": -41.2917658,
+    "lon": 174.7780198,
+    "title": "Shanghai Restaurant",
+    "address": "121 Manners Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-04-29-shanghai-restaurant/"
+  },
+  {
+    "lat": -41.2845498,
+    "lon": 174.7745352,
+    "title": "Whitby's Restaurant & Bar",
+    "address": "147 The Terrace, Wellington Central, Wellington 6011, New Zealand",
+    "rating": "1",
+    "link": "/posts/2024-05-10-whitbys-restaurant-and-bar/"
+  },
+  {
+    "lat": -41.2783994,
+    "lon": 174.7695627,
+    "title": "Daisy's",
+    "address": "328 Tinakori Road, Thorndon, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2024-06-07-daisys/"
+  },
+  {
+    "lat": -40.2096805,
+    "lon": 176.095917,
+    "title": "The Pizza Castle - Dannevirke",
+    "address": "25 High Street, Dannevirke 4930, New Zealand",
+    "rating": "1",
+    "link": "/posts/2024-06-14-the-pizza-castle-dannevirke/"
+  },
+  {
+    "lat": -41.1830562,
+    "lon": 174.8245799,
+    "title": "Chipmunks Playland & Cafe",
+    "address": "24 Main Road, Tawa, Wellington 5028, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-06-30-chipmunks-playland-and-cafe/"
+  },
+  {
+    "lat": -41.2926907,
+    "lon": 174.7783105,
+    "title": "Dirty Little Secret",
+    "address": "54 Taranaki Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-07-02-dirty-little-secret/"
+  },
+  {
+    "lat": -41.2869369,
+    "lon": 174.7771568,
+    "title": "The Green Man Pub",
+    "address": "25 Victoria Street, Wellington Central, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-08-24-the-green-man-pub/"
+  },
+  {
+    "lat": -41.294934,
+    "lon": 174.775798,
+    "title": "Mekong Cafe",
+    "address": "138 Vivian Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-09-07-mekong-cafe/"
+  },
+  {
+    "lat": -41.2911072,
+    "lon": 174.77653,
+    "title": "Taco Bell",
+    "address": "94 Manners Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-09-13-taco-bell/"
+  },
+  {
+    "lat": -41.2933921,
+    "lon": 174.7757952,
+    "title": "Scopa Pizzeria",
+    "address": "141 Cuba Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2024-10-04-scopa-pizzeria/"
+  },
+  {
+    "lat": -39.4794113,
+    "lon": 175.6684449,
+    "title": "Fast Lane Restaurant",
+    "address": "16, State Highway 1, Waiouru 4825, New Zealand",
+    "rating": "1",
+    "link": "/posts/2024-10-27-fast-lane-restaurant/"
+  },
+  {
+    "lat": -41.2938018,
+    "lon": 174.7836613,
+    "title": "The Tasting Room",
+    "address": "2 Courtenay Place, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2024-11-24-the-tasting-room/"
+  },
+  {
+    "lat": -41.2780969,
+    "lon": 174.7699048,
+    "title": "Wei",
+    "address": "318 Tinakori Road, Thorndon, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2024-11-29-wei/"
+  },
+  {
+    "lat": -40.6280557,
+    "lon": 175.2808575,
+    "title": "Firebird",
+    "address": "58 Oxford Street, Levin 5510, New Zealand",
+    "rating": "3",
+    "link": "/posts/2024-12-28-firebird/"
+  },
+  {
+    "lat": -39.8729204,
+    "lon": 174.9923383,
+    "title": "Windermere Berry Farm",
+    "address": "313 State Highway 3, Whanganui 4574, New Zealand",
+    "rating": "3",
+    "link": "/posts/2024-12-28-windermere-berry-farm/"
+  },
+  {
+    "lat": -40.3567641,
+    "lon": 175.6092207,
+    "title": "Indian Indulgence",
+    "address": "63 George Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2025-01-04-indian-indulgence/"
+  },
+  {
+    "lat": -40.354106,
+    "lon": 175.613176,
+    "title": "King Cafe",
+    "address": "Down Town Food Court Shop 6/60 Broadway Avenue, Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2025-01-04-king-cafe/"
+  },
+  {
+    "lat": -41.112341,
+    "lon": 174.842487,
+    "title": "Thai Country Cafe",
+    "address": "Tawa Barber Shop 124 Main Road, Tawa, Wellington 5028, New Zealand",
+    "rating": "2",
+    "link": "/posts/2025-01-31-thai-country-cafe/"
+  },
+  {
+    "lat": -41.3153517,
+    "lon": 174.7805143,
+    "title": "Chicking",
+    "address": "225 Riddiford Street, Newtown, Wellington 6021, New Zealand",
+    "rating": "1",
+    "link": "/posts/2025-03-01-chicking/"
+  },
+  {
+    "lat": -41.2910893,
+    "lon": 174.0058565,
+    "title": "Thai Panda",
+    "address": "58 Auckland Street, Marlborough, Picton 7220, New Zealand",
+    "rating": "1",
+    "link": "/posts/2026-07-17-thai-panda/"
+  },
+  {
+    "lat": -41.2950975,
+    "lon": 174.7816621,
+    "title": "Aries Restaurant",
+    "address": "1/7 Tennyson Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-07-26-aries-restaurant/"
+  },
+  {
+    "lat": -41.2907427,
+    "lon": 174.776939,
+    "title": "Highwater Eatery",
+    "address": "54 Cuba Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "4",
+    "link": "/posts/2026-07-31-highwater-eatery/"
+  },
+  {
+    "lat": -41.3053214,
+    "lon": 174.7639899,
+    "title": "1852 Pub & Kitchen",
+    "address": "55 Cleveland Street, Brooklyn, Wellington 6021, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-08-07-1852-pub-and-kitchen/"
+  },
+  {
+    "lat": -41.2024933,
+    "lon": 174.807573,
+    "title": "Simmer Cafe",
+    "address": "103 Westchester Drive, Churton Park, Wellington 6037, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-08-08-simmer-cafe/"
+  },
+  {
+    "lat": -41.3350499,
+    "lon": 174.7735509,
+    "title": "The Original Thai Restaurant",
+    "address": "155 The Parade, Island Bay, Wellington 6023, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-08-14-the-original-thai-restaurant/"
+  },
+  {
+    "lat": -41.3046766,
+    "lon": 174.7940804,
+    "title": "The Realm Hataitai",
+    "address": "7 Moxham Avenue, Hataitai, Wellington 6021, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-08-15-the-realm-hataitai/"
+  },
+  {
+    "lat": -40.3569515,
+    "lon": 175.6089897,
+    "title": "Afghan Darbar Restaurant & Takeaway",
+    "address": "72 George Street, Palmerston North Central, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-08-21-afghan-darbar-restaurant-and-takeaway/"
+  },
+  {
+    "lat": -39.4789825,
+    "lon": 176.8970724,
+    "title": "East Pier Hotel",
+    "address": "50 Nelson Quay, Ahuriri, Napier 4110, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-08-22-east-pier-hotel/"
+  },
+  {
+    "lat": -40.5479419,
+    "lon": 175.4111637,
+    "title": "Highway 57 Bakery & Cafe",
+    "address": "6 Ballance Street, Shannon 4821, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-08-23-highway-57-bakery-and-cafe/"
+  },
+  {
+    "lat": -41.3056088,
+    "lon": 174.7631322,
+    "title": "Salty Pidgin",
+    "address": "5 Todman Street, Brooklyn, Wellington 6021, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-08-28-salty-pidgin/"
+  },
+  {
+    "lat": -41.305056,
+    "lon": 174.7639495,
+    "title": "Caribe Coffee",
+    "address": "54 Cleveland Street, Brooklyn, Wellington 6021, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-08-30-caribe-coffee/"
+  },
+  {
+    "lat": -41.327545,
+    "lon": 174.8037157,
+    "title": "Hotel Catalina",
+    "address": "30 Cochrane Street, Rongotai, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-09-04-hotel-catalina/"
+  },
+  {
+    "lat": -41.210889,
+    "lon": 174.9013363,
+    "title": "The Workshop",
+    "address": "18 Laings Road, Hutt Central, Lower Hutt 5010, New Zealand",
+    "rating": "1",
+    "link": "/posts/2026-09-06-the-workshop/"
+  },
+  {
+    "lat": -41.2120963,
+    "lon": 174.891003,
+    "title": "Sin Bin",
+    "address": "499/501 Hutt Road, Alicetown, Lower Hutt 5010, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-09-11-sin-bin/"
+  },
+  {
+    "lat": -41.2776408,
+    "lon": 174.7779731,
+    "title": "Cellar-vate",
+    "address": "34 Molesworth Street, Thorndon, Wellington 6011, New Zealand",
+    "rating": "1",
+    "link": "/posts/2026-09-16-cellar-vate/"
+  },
+  {
+    "lat": -41.2931021,
+    "lon": 174.7834936,
+    "title": "Nicolini's",
+    "address": "9 Blair Street, Te Aro, Wellington 6001, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-09-25-nicolinis/"
+  },
+  {
+    "lat": -41.2058295,
+    "lon": 174.8120804,
+    "title": "Cafe Thyme",
+    "address": "238 Middleton Road, Glenside, Wellington 6037, New Zealand",
+    "rating": "1",
+    "link": "/posts/2026-09-27-cafe-thyme/"
+  },
+  {
+    "lat": -41.3267244,
+    "lon": 174.8042489,
+    "title": "Mint Cafe",
+    "address": "8/10 George Bolt Street, Rongotai, Wellington 6022, New Zealand",
+    "rating": "1",
+    "link": "/posts/2026-10-04-mint-cafe/"
+  },
+  {
+    "lat": -41.3029622,
+    "lon": 174.7640554,
+    "title": "Chimichurri Argentinian Restaurant & Cafe",
+    "address": "199/201 Ohiro Road, Brooklyn, Wellington 6021, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-10-11-chimichurri-argentinian-restaurant-and-cafe/"
+  },
+  {
+    "lat": -41.3373666,
+    "lon": 174.7723434,
+    "title": "Parla",
+    "address": "216 The Parade, Island Bay, Wellington 6023, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-10-16-parla/"
+  },
+  {
+    "lat": -41.2791862,
+    "lon": 174.7686051,
+    "title": "Mali Takeaway",
+    "address": "356 Tinakori Road, Thorndon, Wellington 6011, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-10-18-mali-takeaway/"
+  },
+  {
+    "lat": -38.685822,
+    "lon": 176.071765,
+    "title": "Dough Bros Pizzas Taupo",
+    "address": "30 Tamamutu Street, Town Centre, Taupō 3330, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-10-24-dough-bros-pizzas-taupo/"
+  },
+  {
+    "lat": -39.676857,
+    "lon": 175.7976677,
+    "title": "Brown Sugar Cafe",
+    "address": "1 Huia Street, Taihape 4720, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-10-26-brown-sugar-cafe/"
+  }
+]

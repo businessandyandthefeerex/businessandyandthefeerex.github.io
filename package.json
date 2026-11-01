@@ -7,7 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "11ty": "eleventy",
     "11ty:serve": "eleventy --serve",
-    "11ty:build": "eleventy"
+    "11ty:build": "eleventy",
+    "geocode": "node --env-file=.env scripts/geocode.js",
+    "markers": "node scripts/markers.js",
+    "map-data": "npm run geocode && npm run markers"
   },
   "repository": {
     "type": "git",
