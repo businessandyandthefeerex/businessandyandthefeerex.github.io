@@ -86,7 +86,11 @@ LOCATIONIQ_KEY=your-key-here
 
 `geocoded_locations.json` is a cache, keyed on address and country, and it is committed to the repository because the deploy build has no API key. If an address was geocoded wrongly, correct the post and delete the bad entry from the JSON by hand.
 
-## Search
+To start a new review, double-click `assets/scripts/new-review.sh`. It creates a draft with the required front matter in `_posts`, using a filename such as `yyyy-mm-dd-new-review.md`, and opens it in your default text editor. Rename the file when you have the restaurant name and fill in the blank front matter fields before saving.
+
+Once the review is complete, double-click `assets/scripts/publish-review.sh`. It uses the newest review draft by default, adds the review to Git, creates a commit, and pushes it to the current branch. The repository's pre-commit hook handles review filename and map marker generation. You can also run the script with a review path when publishing a specific draft.
+
+Add new reviews to the `_posts` folder in the root of this repository. Name them with a date at the start in yyyy-mm-dd format for clarity, to avoid duplicates, and to make the automatic date folders work. It's important to get the front matter right for each post, that's the stuff between the two lines of `---` at the start of the file. If in doubt, copy a file and overwrite its contents with the values for the new post.
 
 `src/search-index.11ty.js` generates `/assets/search.json` from every review (title, body, dishes, location, rating, meal, date). `assets/scripts/search.js` fetches it and filters in the browser.
 
@@ -98,54 +102,32 @@ The hook is `.githooks/pre-commit`. Enable it once per clone from the repository
 git config core.hooksPath .githooks
 ```
 
-When a commit includes anything in `src/posts/`, the hook:
+This is a repository-local setting; the hook then runs automatically before each `git commit`. On Linux and macOS, no VS Code extension is needed. The current hook runs the post-filename fixer and Leaflet marker generator; its geocoding step is commented out because it is currently broken. Some scripts contain absolute paths, so review those assumptions before using the generators on another machine.
 
-1. Runs `npm run fix-filenames`, which renames posts to `yyyy-mm-dd-title.md` (using `git mv`) and stages the renames.
-2. Runs `npm run geocode` if `.env` contains a `LOCATIONIQ_KEY`. Without a key it prints a warning and skips this step.
-3. Runs `npm run markers` and stages `assets/geocoded_locations.json` and `assets/markers.json`.
+The main branch is intended to be ready for deployment at all times, so pushes directly to main really should only be for tiny changes like new pages. The development workflow for new features is intended to be branching from main into a new branch for the development of the feature, developing locally using `bundle exec jekyll serve` (or `bundle exec jekyll build` followed by `python3 -m http.server -d _site` to inspect the generated site on localhost:8000), pushing commits to the remote repository, and then merging back into main via a pull request.
 
-Commits that don't touch posts skip the hook entirely. To preview filename changes without applying them: `node tools/fix-post-filenames.js --dry-run`.
+Additional tools used:
+ - openstreetmaps & leaflet maps - generate and embed maps from location data, using a theme from maptiler
+ - mailerlite - stores subscriber email addresses, formats and sends emails to subscribers
+ - pipedream - automation workflows for adding subscribers to mailerlite from the subscribe form, for triggering emails on new posts via rss, and for uploading new map csv files to google drive
 
-## Deployment
-
-The site is built and deployed by a GitHub Actions workflow (`.github/workflows/eleventy.yml`) that runs `npm ci` and `npm run 11ty:build`, then publishes `_site/`. In the repository settings, Pages must use **GitHub Actions** as its source. The custom domain comes from the `CNAME` file and the Pages settings.
-
-The main branch should be ready to deploy at all times, so push directly to main only for tiny changes like new reviews. For new features, branch from main, develop locally with `npm run 11ty:serve`, push the branch, and merge via a pull request.
-
-## Other services
-
-- OpenStreetMap, Leaflet and MapTiler provide the map tiles and display.
-- MailerLite stores subscribers and sends emails to them.
-- Pipedream receives the subscribe form's webhook and adds subscribers to MailerLite, triggers emails for new posts, and handles the other automations.
-- `/latest/` redirects to the newest review, and is the link used in subscriber emails. It updates on each build.
-- `sw.js` is a retirement script for the old Jekyll site's service worker. It clears the old caches in returning visitors' browsers. It can be removed after a few months.
-
-## To do
-
-Migration:
-
-- Decide how to keep old Jekyll URLs (`/reviews/yyyy/mm/dd/slug/`) working now that posts live at `/posts/...`
-- Check whether the old site served a feed, sitemap or `robots.txt`, and port them
-- Add `dishes` to the posts the migration script skipped, and fix double-encoded characters (`grep -rn "Ã" src/posts`)
-- Replace the repeated `src/posts/**/*.md` glob with a `posts.json` directory data file and the built-in `reviews` tag
-- Rotate the old LocationIQ key (it is in git history) and restrict the MapTiler key to this domain
-
-Content:
-
-- Add the rest of the old reviews, and separate out repeat reviews into their own files
-- Retrieve other missing reviews from the old website (bad pizza in Exmouth is missing)
-- Find places reviewed multiple times in Wellington before the switch to the new website and check they are all here
-- Change Manawatu to Manawatu-Whanganui across the posts, and take out the macron
-- Decide what to do about Palmerston North and fix the city, region and suburb listings
-- Look through all the suburbs and fix the wrong ones
-- Fix the Mess Tent location in Waiouru
-
-Features (low priority):
-
-- Categories page for filtering by arbitrary category labels
-- Stats on ratings, and ratings by region
-- Make the tools read suburb, city and region from the address
-- A make-new-post script, probably just a shell script
+To do:
+ - add rest of the old reviews, separate out repeat reviews into their own files
+ - categories table page for filtering by arbitrary category labels (low priority)
+ - stats on ratings and also ratings by regions maybe (low priority)
+ - fix the regions page
+ - change to manawatu-whanganui, take out the macron
+ - change all the manawatu region posts to manawatu-whanganui
+ - decide what to do about palmerston north & fix the city/region/suburb listings
+ - look through all the suburbs and fix the ones that are wrong
+ - find places reviewed multiple times in wellington before the switch to the new website and check that they are all here
+ - retrieve other missing reviews from the old website somehow, perhaps scrape the index and then check against the file list, bad pizza in exmouth is missing
+ - fix generation scripts to make them case insensitive (ie: Dinner = dinner)
+ - migration to 11ty
+ - make generation scripts read suburb, city, region from address
+ - make generation scripts work with a single pass instead of looping through every post for every script
+ - make fix post filename script work as part of the after_reset script in the _plugin folder
+ - make the generate geocoded locaitons script work from the cloud, save the api key as a github secret, also make it only work for missing locations, and then make the generate leaflet markers script also work incrementally and work in github's build action
 
 Links to be added:
 
