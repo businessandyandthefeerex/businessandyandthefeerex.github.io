@@ -11,7 +11,7 @@ region: Wellington
 city: Wellington
 suburb: Te Aro
 website: https://masala.gen.nz/
----  
+---
 Wellington lamb curry  
 Kadai paneer  
 Masala special naan  

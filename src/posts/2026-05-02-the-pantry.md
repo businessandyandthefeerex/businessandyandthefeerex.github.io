@@ -11,7 +11,7 @@ region: Auckland
 city: Auckland
 suburb: Auckland CBD
 website: https://hyattpantry.co.nz/menu/
----  
+---
 Salted caramel apple crumble waffles  
 Tofu pad Thai  
 Baked cheesecake  

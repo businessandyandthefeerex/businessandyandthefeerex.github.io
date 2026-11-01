@@ -11,7 +11,7 @@ region: Wellington
 city: Wellington
 suburb: Te Aro
 website: https://cambridgehotel.co.nz/the-bridge-restaurant-and-bar-wellington/
----  
+---
 Cauliflower steak with mash and salad  
 Korean fried chicken with rice and slaw  
 

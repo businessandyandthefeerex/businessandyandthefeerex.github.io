@@ -11,7 +11,7 @@ region: Hawkes Bay
 city: Havelock North
 suburb: Havelock North
 website: http://www.craggyrange.com/
----  
+---
 Bread with apple cider butter and honey  
 Raw lamb and beetroot tart  
 Confit duck pastry  

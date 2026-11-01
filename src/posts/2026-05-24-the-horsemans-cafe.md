@@ -11,7 +11,7 @@ region: Manawatu
 city: Shannon
 suburb: Shannon
 website: https://www.facebook.com/CafeHorsemans/
----  
+---
 Banana smoothie  
 Macchiato (?)  
 Chicken and spinach filo  

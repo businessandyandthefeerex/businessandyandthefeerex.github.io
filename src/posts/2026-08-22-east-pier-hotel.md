@@ -11,7 +11,7 @@ region: Hawkes Bay
 city: Napier
 suburb: Napier
 website: http://eastpierhotel.co.nz/
----  
+---
 Bread with dips  
 Korean chicken  
 Fried halloumi  

@@ -11,7 +11,7 @@ region: Wellington
 city: Wellington
 suburb: Glenside
 website: https://www.facebook.com/CafeThymeWellington/
----  
+---
 Pumpkin soup  
 Roast kumara salad  
 Banana smoothie  

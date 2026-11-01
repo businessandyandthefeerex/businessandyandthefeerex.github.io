@@ -11,7 +11,7 @@ region: Waiheke Island
 city: Waiheke Island
 suburb: Onetangi Beach
 website: https://kimaha.nz
----  
+---
 Goat cheese fritters  
 Duck croquettes  
 Olive flatbread  

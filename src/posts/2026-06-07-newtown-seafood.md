@@ -11,7 +11,7 @@ region: Wellington
 city: Wellington
 suburb: Newtown
 website: https://opsposweb.azurewebsites.net/home?merchantid=61&merchantname=newtownseafood
----  
+---
 Two chicken burgers  
 Battered fish
 Battered pineapple ring  

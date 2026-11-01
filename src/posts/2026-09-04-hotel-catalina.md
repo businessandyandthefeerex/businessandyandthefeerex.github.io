@@ -11,7 +11,7 @@ region: Wellington
 city: Wellington
 suburb: Rongotai
 website: http://www.hotelcatalina.co.nz/
----  
+---
 
 Beef cheek fettucine 
 Steak with chips, salad and cafe de Paris butter 

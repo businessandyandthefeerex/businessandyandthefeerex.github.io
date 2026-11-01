@@ -11,7 +11,7 @@ region: Manawatu
 city: Palmerston North
 suburb: Palmerston North
 website: https://afghandarbarrestaurant.co.nz
----  
+---
 Banjan boranee  
 Karahi lamb  
 
