@@ -1,0 +1,42 @@
+---
+layout: page.njk
+pagination:
+  data: collections.locationCountries
+  size: 1
+  alias: country
+permalink: "{% if country.name %}/country/{{ country.name | slugify }}/{% else %}/country/{% endif %}"
+eleventyComputed:
+  title: "{% if country.name %}{{ country.name }}{% else %}All Countries{% endif %}"
+---
+
+{% if country.name %}
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+  <a href="/country/">All countries</a> &rsaquo;
+  <span aria-current="page">{{ country.name }}</span>
+  </nav>  
+
+  <h3>Regions</h3>
+  <ul>
+  {% for region in country.regions %}
+    <li>
+    <a href="/country/{{ country.name | slugify }}/region/{{ region.name | slugify }}/">
+    {{ region.name }}
+    </a>
+    </li>
+  {% endfor %}
+  </ul>
+{% else %}
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <span aria-current="page">All countries</span>
+  </nav>
+
+  {# tried putting in a non breaking space here to keep the spacing consistent but it didn't look right #}
+  {# <h3>&nbsp;</h3> #} 
+  <ul>
+  {% for countryItem in country.regions %}
+    <li>
+    <a href="/country/{{ countryItem.name | slugify }}/">{{ countryItem.name }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+{% endif %}

@@ -1,0 +1,18 @@
+---
+layout: page.njk
+pagination:
+  data: collections.category
+  size: 1
+  alias: category
+permalink: "/category/{{ category | slugify }}/"
+eleventyComputed:
+  title: "{{ category }}"
+---
+
+<ul>
+  {% for review in collections.reviews %}
+    {% if review.data.category == category %}
+      <li><a href="{{ review.url }}">{{ review.data.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>

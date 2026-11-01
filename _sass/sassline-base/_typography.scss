@@ -47,17 +47,15 @@ a {
 
   // Nice underlines for text links.
   p a, li a {
-    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,settings.$linkColour 50%);
-    background-position: 0 93%;
-    background-repeat: repeat-x;
-    background-size: 100% 0.15rem;
-    text-shadow: 0.1rem 0 settings.$backgroundColour,
-                 0.15rem 0 settings.$backgroundColour,
-                -0.1rem 0 settings.$backgroundColour,
-                -0.15rem 0 settings.$backgroundColour;
+    text-decoration: underline;
+    text-decoration-thickness: 0.12rem;
+    text-decoration-color: settings.$linkColour;
+    text-underline-offset: 0.15rem;
 
-    &:hover, &:active, &:focus {
-      background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,settings.$hoverColour 50%);
+    &:hover,
+    &:active,
+    &:focus {
+      text-decoration-color: settings.$hoverColour;
     }
   }
 

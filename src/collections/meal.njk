@@ -1,0 +1,18 @@
+---
+layout: page.njk
+pagination:
+  data: collections.meal
+  size: 1
+  alias: meal
+permalink: "/meal/{{ meal | slugify }}/"
+eleventyComputed:
+  title: "{{ meal | capitalize }}"
+---
+
+<ul>
+  {% for review in collections.reviews %}
+    {% if review.data.meal == meal %}
+      <li><a href="{{ review.url }}">{{ review.data.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>

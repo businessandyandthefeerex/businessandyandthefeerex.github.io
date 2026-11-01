@@ -1,0 +1,37 @@
+---
+layout: page.njk
+pagination:
+  data: collections.locationCities
+  size: 1
+  alias: city
+permalink: "/country/{{ city.country | slugify }}/region/{{ city.region | slugify }}/city/{{ city.name | slugify }}/"
+eleventyComputed:
+  title: "{{ city.name }}"
+---
+
+{% set countryUrl = "/country/" + (city.country | slugify) + "/" %}
+{% set regionUrl = countryUrl + "region/" + (city.region | slugify) + "/" %}
+<nav class="breadcrumb" aria-label="Breadcrumb">
+<a href="/country/">All countries</a> &rsaquo;
+<a href="{{ countryUrl }}">{{ city.country }}</a> &rsaquo;
+<a href="{{ regionUrl }}">{{ city.region }}</a> &rsaquo;
+<span aria-current="page">{{ city.name }}</span>
+</nav>
+
+{% for suburb in city.suburbs %}
+    <section>
+    {% if suburb.name != "Unlisted suburb" %}
+    <h3><a href="/country/{{ city.country | slugify }}/region/{{ city.region | slugify }}/city/{{ city.name | slugify }}/suburb/{{ suburb.name | slugify }}/">{{ suburb.name }}</a></h3>
+    {% elif city.suburbs.length > 1 %}
+    <h3>Other</h3>
+    {% endif %}
+    {% for rating in suburb.ratings %}
+    <h3>Rating: {{ rating.name }}</h3>
+    <ul>
+    {% for review in rating.reviews %}
+    <li><a href="{{ review.url }}">{{ review.data.title }}</a></li>
+    {% endfor %}
+    </ul>
+    {% endfor %}
+    </section>
+{% endfor %}

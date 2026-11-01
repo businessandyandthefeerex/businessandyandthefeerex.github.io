@@ -2,3 +2,10 @@
 permalink: /assets/styles.css
 ---
 @use "alembic";
+.article .plain-link {
+  color: inherit;
+  text-decoration: none;
+}
+.article .plain-link:hover {
+  text-decoration: underline;
+}

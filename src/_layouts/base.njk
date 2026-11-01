@@ -39,6 +39,9 @@
   </head>
 
   <body class="layout-{{ layout | default('default') }}{% if title %} {{ title | slugify }}{% endif %}">
+    <svg xmlns="http://www.w3.org/2000/svg" style="height: 0; position: absolute" aria-hidden="true">
+      <symbol id="nav" viewBox="0 0 16 11"><path d="M0 12h16v-2H0v2zm0-5h16V5H0v2zm0-7v2h16V0H0z"/></symbol>
+    </svg>
     {{ content | safe }}
   </body>
 </html>

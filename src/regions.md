@@ -1,0 +1,36 @@
+---
+layout: page.njk
+title: Browse by Region
+permalink: /regions/
+templateEngineOverride: njk
+---
+
+{% for country in collections.locationCountries %}
+  {% if country.name == "New Zealand" %}
+    <section>
+      <h2>
+        <a href="/country/{{ country.name | slugify }}/">{{ country.name }}</a>
+      </h2>
+      <ul>
+        {% for region in country.regions | orderRegions(country.name, locationOrder) %}
+          <li>
+            <a href="/country/{{ country.name | slugify }}/region/{{ region.name | slugify }}/">
+              {{ region.name }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+{% endfor %}
+
+<h2>Other Countries</h2>
+<ul>
+  {% for country in collections.locationCountries %}
+    {% if country.name and country.name != "New Zealand" %}
+      <li>
+        <a href="/country/{{ country.name | slugify }}/">{{ country.name }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

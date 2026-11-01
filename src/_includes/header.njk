@@ -10,12 +10,29 @@
       <nav class="nav nav--header">
         <ul class="list list--nav">
           {% for item in site.navigationHeader %}
-            <li class="item item--nav{% if page.url == item.url %} item--current{% endif %}">
-              <a href="{{ item.url }}">{{ item.title }}</a>
+            {% set current = page.url == item.url %}
+            <li class="item item--nav{% if current %} item--current{% endif %}">
+              <a href="{{ item.url }}"{% if current %} aria-current="page"{% endif %}>{{ item.title }}</a>
             </li>
           {% endfor %}
         </ul>
+        <button class="button button--nav" type="button" aria-label="Menu toggle" aria-expanded="false">
+          {% include "nav-icon.njk" %}
+        </button>
       </nav>
+
+      <script>
+        const navList = document.querySelector(".header .list--nav");
+        const navButton = document.querySelector(".header .button--nav");
+
+        if (navList && navButton) {
+          navButton.addEventListener("click", () => {
+            const expanded = navButton.getAttribute("aria-expanded") === "true";
+            navButton.setAttribute("aria-expanded", String(!expanded));
+            navList.classList.toggle("list--nav-open", !expanded);
+          });
+        }
+      </script>
     {% endif %}
   </div>
 </header>
