@@ -9,7 +9,7 @@ templateEngineOverride: njk
   {% if country.name == "New Zealand" %}
     <section>
       <h2>
-        <a href="/country/{{ country.name | slugify }}/">{{ country.name }}</a>
+        {{ country.name }}
       </h2>
       <ul>
         {% for region in country.regions | orderRegions(country.name, locationOrder) %}

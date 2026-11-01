@@ -29,12 +29,6 @@ eleventyComputed:
   <nav class="breadcrumb" aria-label="Breadcrumb">
     <span aria-current="page">All countries</span>
   </nav>
-
-  {# tried putting in a non breaking space here to keep the spacing consistent but it didn't look right #}
-  {# <h3>&nbsp;</h3> #} 
-  
-  {# trying another approach to keep the spacing consistent with a heading that links to the regions page #}
-  <h3><a href="/regions/">Click here to go back to the Regions page</a></h3>
   <ul>
   {% for countryItem in country.regions %}
     <li>
