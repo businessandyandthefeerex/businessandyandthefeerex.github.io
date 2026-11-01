@@ -7,6 +7,25 @@ module.exports = function (eleventyConfig) {
   // ------------------------------------------------------------            // Custom filters
   // ------------------------------------------------------------
 
+  // 1. Create a cache map and grab the existing slugify filter
+  const slugCache = new Map();
+  const originalSlugify = eleventyConfig.getFilter("slugify");
+
+  // 2. Override the filter with a memoized wrapper
+  eleventyConfig.addFilter("slugify", function(str) {
+    if (!str) return "";
+    
+    // Return cached result if it exists
+    if (slugCache.has(str)) {
+      return slugCache.get(str);
+    }
+    
+    // Otherwise, compute, cache, and return
+    const slug = originalSlugify(str);
+    slugCache.set(str, slug);
+    return slug;
+  });
+
   // Converts a review date into a readable month and year, for example "November 2020".
   eleventyConfig.addFilter("formatReviewDate", (date) => {
     const value = new Date(date);
