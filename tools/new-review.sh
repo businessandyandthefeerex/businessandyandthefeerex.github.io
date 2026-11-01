@@ -7,7 +7,7 @@ SCRIPT_DIR="$(cd "$(dirname "$SCRIPT_PATH")" && pwd)"
 REPO_DIR=""
 SEARCH_DIR="$SCRIPT_DIR"
 while [[ "$SEARCH_DIR" != / ]]; do
-  if [[ -d "$SEARCH_DIR/_posts" ]]; then
+  if [[ -d "$SEARCH_DIR/src/posts" ]]; then
     REPO_DIR="$SEARCH_DIR"
     break
   fi
@@ -15,10 +15,10 @@ while [[ "$SEARCH_DIR" != / ]]; do
 done
 
 if [[ -z "$REPO_DIR" ]]; then
-  printf 'Could not find the repository containing the _posts folder from: %s\n' "$SCRIPT_DIR" >&2
+  printf 'Could not find the repository containing the src/posts folder from: %s\n' "$SCRIPT_DIR" >&2
   exit 1
 fi
-POSTS_DIR="$REPO_DIR/_posts"
+POSTS_DIR="$REPO_DIR/src/posts"
 
 if [[ ! -d "$POSTS_DIR" ]]; then
   printf 'Could not find the posts folder: %s\n' "$POSTS_DIR" >&2
@@ -49,6 +49,8 @@ city:
 suburb:
 address:
 website:
+dishes:
+  -
 ---
 
 EOF

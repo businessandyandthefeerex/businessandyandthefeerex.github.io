@@ -86,11 +86,11 @@ LOCATIONIQ_KEY=your-key-here
 
 `geocoded_locations.json` is a cache, keyed on address and country, and it is committed to the repository because the deploy build has no API key. If an address was geocoded wrongly, correct the post and delete the bad entry from the JSON by hand.
 
-To start a new review, double-click `assets/scripts/new-review.sh`. It creates a draft with the required front matter in `_posts`, using a filename such as `yyyy-mm-dd-new-review.md`, and opens it in your default text editor. Rename the file when you have the restaurant name and fill in the blank front matter fields before saving.
+To start a new review, double-click `tools/new-review.sh`. It creates a draft with the required front matter in `src/posts`, using a filename such as `yyyy-mm-dd-new-review.md`, and opens it in your default text editor. Rename the file when you have the restaurant name and fill in the blank front matter fields before saving.
 
-Once the review is complete, double-click `assets/scripts/publish-review.sh`. It uses the newest review draft by default, adds the review to Git, creates a commit, and pushes it to the current branch. The repository's pre-commit hook handles review filename and map marker generation. You can also run the script with a review path when publishing a specific draft.
+Once the review is complete, double-click `tools/publish-new-reviews.sh`. It finds changed and new reviews under `src/posts`, adds them to Git, creates a commit, and pushes it to the current branch. The repository's pre-commit hook handles review filename and map marker generation. You can also run the script with one or more review paths when publishing specific drafts.
 
-Add new reviews to the `_posts` folder in the root of this repository. Name them with a date at the start in yyyy-mm-dd format for clarity, to avoid duplicates, and to make the automatic date folders work. It's important to get the front matter right for each post, that's the stuff between the two lines of `---` at the start of the file. If in doubt, copy a file and overwrite its contents with the values for the new post.
+Add new reviews to the `src/posts` folder. Name them with a date at the start in yyyy-mm-dd format for clarity, to avoid duplicates, and to make the automatic date folders work. It's important to get the front matter right for each post, that's the stuff between the two lines of `---` at the start of the file. If in doubt, copy a file and overwrite its contents with the values for the new post.
 
 `src/search-index.11ty.js` generates `/assets/search.json` from every review (title, body, dishes, location, rating, meal, date). `assets/scripts/search.js` fetches it and filters in the browser.
 
