@@ -16,6 +16,7 @@ dishes:
   - Chicken cashew nut in a basket  
   - Rice for two 
 ---
+
 In a basket you say? Chicken cashew nut can be a bit of a boring dish, but if it comes in a cute basket, then maybe there might be more to it. We waited with bated breath for our dishes to turn up. All the while, our core temperatures dropping in their cavernous, icy dining space. 
 
 It turns out that the basket was made of crispy fried noodles, they had plonked it on a plate, filled it with food, then poured some sauce over the whole thing. Sauce that oozed out the bottom a bit, softening the base of the noodle basket, and forming a little lake. Great presentation. Eating the noodles was quite fun at first but rapidly wore thin, especially when it came to the dry peripheries of the basket. The chicken cashew nut inside the basket didn't quite manage to wow us, unfortunately, it was just a bit bland, but there were lots of cashews.

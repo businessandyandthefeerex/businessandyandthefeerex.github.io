@@ -15,6 +15,7 @@ dishes:
   - The black hole - poached eggs on wilted spinach, black pudding, and hashed potato cakes with a mustard hollandaise  
   - Cinnamon sugar croissant French toast with caramel sauce, banana, berry compote, oreo crumble, and chocolate chip mascarpone  
 ---
+
 Scorch O Rama continues to be the home of some of the finest thickshakes in the land. We tried a 'build your own' one this time, and it was great. 
 
 The eggs were a bit over, but the whole black hole dish was just excellent overall. The mustard hollandaise really elevated this dish, it was quite a different flavour to your average boring egg dish. 

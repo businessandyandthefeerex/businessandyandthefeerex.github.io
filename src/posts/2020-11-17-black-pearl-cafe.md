@@ -17,4 +17,5 @@ dishes:
   - Japanese curry with rice
   - Warm sesame milk bubble tea
 ---
+
 The bubble tea was great, but all the vegetables were badly undercooked, and the meat was really chewy.

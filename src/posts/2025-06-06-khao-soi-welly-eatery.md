@@ -17,6 +17,7 @@ dishes:
   - Classic thai satay chicken skewers
   - Herbal grilled chicken 
 ---
+
 While you never expect a 4 to show up on a dark and stormy winter's night, they seem to arrive just in time. It's been a while, and it makes you wonder if it's not them, it's us, are we too picky? Then somone comes along and just knocks it out of the park with simple food done right.
 
 Their specialty and their namesake, the khao soi, was super rich and hearty, a curry to warm your heart with no gigantic ice cold bok choy or other such nonsense mixed in to ruin it. Every addition had its place, including all the various condiments like the unidentified paste, the lime wedge, the red onion and pickle, and the tiny jar of coconut cream. It was really easy to just trust them, and they delivered big time on flavour. 
