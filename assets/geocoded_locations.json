@@ -3670,5 +3670,14 @@
     "lon": "175.7976677",
     "title": "Brown Sugar Cafe",
     "rating": 2
+  },
+  {
+    "file": "2026-10-31-chow.md",
+    "address": "45 Tory Street, Te Aro, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.2937289",
+    "lon": "174.7811345",
+    "title": "Chow",
+    "rating": 3
   }
 ]
