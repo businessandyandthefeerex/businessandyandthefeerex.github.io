@@ -29,7 +29,18 @@ for (const file of fs.readdirSync(dir).filter((f) => f.endsWith(".md"))) {
   console.log(`${apply ? "UPDATE" : "WOULD  "}  ${file}: ${lines.join(" | ")}`);
 
   if (apply) {
-    const list = lines.map((l) => `  - ${JSON.stringify(l)}`).join("\n");
+    // Quote a dish only when plain YAML would misread it.
+    const needsQuotes = (s) =>
+      /^[\s\-?:,\[\]{}#&*!|>'"%@`]/.test(s) || // starts with a special character
+      /:(\s|$)/.test(s) ||                     // "key: value" look, or trailing colon
+      /\s#/.test(s) ||                         // would start a comment
+      /^(true|false|yes|no|on|off|null|~)$/i.test(s) ||
+      /^[-+]?[\d.,_:]+$/.test(s);              // looks like a number
+
+    const list = lines
+      .map((l) => `  - ${needsQuotes(l) ? JSON.stringify(l) : l}`)
+      .join("\n");
+
     fs.writeFileSync(
       full,
       `---\n${frontMatter}\ndishes:\n${list}\n---\n\n${rest}`
