@@ -32,7 +32,7 @@ SCRIPT_DIR="$(cd "$(dirname "$SCRIPT_PATH")" && pwd)"
 REPO_DIR=""
 SEARCH_DIR="$SCRIPT_DIR"
 while [[ "$SEARCH_DIR" != / ]]; do
-  if [[ -d "$SEARCH_DIR/_posts" ]]; then
+  if [[ -d "$SEARCH_DIR/src/posts" ]]; then
     REPO_DIR="$SEARCH_DIR"
     break
   fi
@@ -40,7 +40,7 @@ while [[ "$SEARCH_DIR" != / ]]; do
 done
 
 if [[ -z "$REPO_DIR" ]]; then
-  fail "Could not find the repository containing the _posts folder from: $SCRIPT_DIR"
+  fail "Could not find the repository containing the src/posts folder from: $SCRIPT_DIR"
 fi
 
 cd "$REPO_DIR" || fail "Could not open the repository: $REPO_DIR"
@@ -54,11 +54,11 @@ if [[ $# -gt 0 ]]; then
 else
   while IFS= read -r POST_FILE; do
     [[ -n "$POST_FILE" ]] && POST_FILES+=("$REPO_DIR/$POST_FILE")
-  done < <({ git diff --name-only -- _posts; git ls-files --others --exclude-standard -- _posts; } | sort -u)
+  done < <({ git diff --name-only -- src/posts; git ls-files --others --exclude-standard -- src/posts; } | sort -u)
 fi
 
 if [[ ${#POST_FILES[@]} -eq 0 ]]; then
-  fail "No changed review files found in _posts."
+  fail "No changed review files found in src/posts."
 fi
 
 TITLES=()
@@ -101,7 +101,7 @@ for POST_FILE in "${VALID_VALIDATIONS[@]}"; do
   git add -- "$POST_FILE" || fail "Git could not stage $(basename "$POST_FILE")."
 done
 
-if git diff --cached --quiet -- _posts; then
+if git diff --cached --quiet -- src/posts; then
   fail "There are no review changes to publish."
 fi
 
