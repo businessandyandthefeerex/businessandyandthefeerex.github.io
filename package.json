@@ -8,10 +8,11 @@
     "11ty": "eleventy",
     "11ty:serve": "eleventy --serve",
     "11ty:build": "eleventy",
-    "geocode": "node --env-file=.env scripts/geocode.js",
-    "markers": "node scripts/markers.js",
+    "geocode": "node --env-file=.env tools/geocode.js",
+    "markers": "node tools/markers.js",
     "map-data": "npm run geocode && npm run markers",
-    "fix-post-filenames": "node tools/fix-post-filenames.js"
+    "fix-post-filenames": "node tools/fix-post-filenames.js",
+    "fix-filenames": "npm run --silent fix-post-filenames"
   },
   "repository": {
     "type": "git",

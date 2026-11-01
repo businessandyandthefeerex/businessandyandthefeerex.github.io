@@ -3262,5 +3262,13 @@
     "address": "1 Huia Street, Taihape 4720, New Zealand",
     "rating": "2",
     "link": "/posts/2026-10-26-brown-sugar-cafe/"
+  },
+  {
+    "lat": -41.2937289,
+    "lon": 174.7811345,
+    "title": "Chow",
+    "address": "45 Tory Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "3",
+    "link": "/posts/2026-10-31-chow/"
   }
 ]
