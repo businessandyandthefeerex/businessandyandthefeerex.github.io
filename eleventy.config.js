@@ -55,15 +55,18 @@ module.exports = function (eleventyConfig) {
     outputFileExtension: "css",
     compile: async function (inputContent) {
       return async () => sass.compileString(inputContent, {
-        loadPaths: ["_sass"],
+        loadPaths: ["src/_sass"],
         style: "compressed",
       }).css;
     },
   });
 
-  // Eleventy does not otherwise watch a Sass include directory during --serve,
-  // so changes in _sass explicitly trigger a rebuild and stylesheet recompilation.
-  eleventyConfig.addWatchTarget("_sass");
+  // Only src/styles.scss is an Eleventy stylesheet entry point. Sass partials are
+  // imported by that entry point and must not be built as standalone Eleventy files.
+  eleventyConfig.ignores.add("src/_sass/**/*.scss");
+
+  // Eleventy does not watch imported Sass directories by default.
+  eleventyConfig.addWatchTarget("src/_sass");
 
   // ------------------------------------------------------------            // Static asset copying
   // ------------------------------------------------------------
@@ -248,7 +251,7 @@ module.exports = function (eleventyConfig) {
     }));
   });
 
-// ------------------------------------------------------------            // City pagination and review grouping data
+  // ------------------------------------------------------------            // City pagination and review grouping data
   // ------------------------------------------------------------
 
   eleventyConfig.addCollection("locationCities", (collectionApi) => {
