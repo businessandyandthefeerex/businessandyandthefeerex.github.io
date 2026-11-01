@@ -11,11 +11,12 @@ city: Havelock North
 suburb: Havelock North
 address: Shop 2/10 Napier Road, Havelock North 4130
 website: https://www.divabar.co.nz/
+dishes:
+  - Arancini balls
+  - Bruschetta
+  - Chicken bao buns
+  - Fish tacos
 ---
-Arancini balls  
-Bruschetta  
-Chicken bao buns  
-Fish tacos  
 
 Let’s dive straight in. How many olives should be on bruschetta? If you answered 1000 black and 1000000 green then you must work at Divas. What was that all about? Furthermore, the bread was doughy and not toasted with unwelcome raw big pieces of red onion. Booooo. 
 

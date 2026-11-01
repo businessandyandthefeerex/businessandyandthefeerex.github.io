@@ -11,9 +11,10 @@ city: Wellington
 suburb: Oriental Bay
 address: 40-44 Oriental Parade, Oriental Bay, Wellington 6011
 website: https://www.bayplaza.co.nz/restaurant-and-bar
+dishes:
+  - Nut crusted fish with new potatoes, green beans, spring onions and olives with butter sauce
+  - Chicken burger and chips
 ---
-Nut crusted fish with new potatoes, green beans, spring onions and olives with butter sauce  
-Chicken burger and chips  
 
 There is something woefully sad about an empty hotel restaurant. Phil the duty manager was a true delight, but the place smelt like a bus and we were the only ones there. We've experienced this in other failing restaurants and cafes, where the emptiness itself fills the space and you feel embarrassed just walking in. Phil asked us which room we were from - it is clear he understands nobody who isn't staying at the hotel would choose to dine there, especially with so many other restaurants in walking distance. 
 

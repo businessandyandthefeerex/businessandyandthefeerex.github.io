@@ -11,10 +11,11 @@ city: Feilding
 suburb: Feilding
 address: 32 Manchester Square, Feilding 4702
 website: https://beyond3.odoo.com/
+dishes:
+  - Fish tacos with salad
+  - Fried mushrooms on toast
+  - Passionfruit and orange smoothie
 ---
-Fish tacos with salad  
-Fried mushrooms on toast  
-Passionfruit and orange smoothie  
 
 We were surprised to see a clientele of 80%+ grey tops when we walked in, but don't let that paint a picture of one of those old lady cafes with the pie warmers and red plastic trays. The cabinet was actually quite interesting, although we elected to order off the menu. 
 

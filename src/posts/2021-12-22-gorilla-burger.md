@@ -11,9 +11,10 @@ city: Wellington
 suburb: Island Bay
 address: 163 The Parade, Island Bay, Wellington
 website: https://www.gorillaburger.co.nz/
+dishes:
+  - Kong burger - beef patty, brisket, cheese, pickle, red onion, BBQ sauce
+  - Flying Monkey burger - fried chicken, lettuce, pickle, cheese, spicy sauce
 ---
-Kong burger: beef patty, brisket, cheese, pickle, red onion, BBQ sauce  
-Flying Monkey burger: fried chicken, lettuce, pickle, cheese, spicy sauce  
 
 Sometimes it's hard to say a lot about a burger joint, especially if they did most of everything right. 
 

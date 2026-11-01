@@ -11,10 +11,11 @@ city: Wellington
 suburb: Te Aro
 address: 138 Vivian Street, Te Aro, Wellington 6011
 website: https://mekongonline.co.nz/
+dishes:
+  - Chicken curry with rice
+  - Beef brisket with rice
+  - Roti
 ---
-Chicken curry with rice  
-Beef brisket with rice  
-Roti  
 
 Honestly, we wish we could rate it higher based on just the friendliness of the hostess. She was something else, we were just superbly looked after. And the meals came out fast too. 
 

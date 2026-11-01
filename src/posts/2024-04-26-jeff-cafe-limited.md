@@ -11,9 +11,10 @@ city: Wellington
 suburb: Wellington Central
 address: 163 The Terrace, Wellington Central, Wellington 6011
 website: https://www.jeffcafe.co.nz/
+dishes:
+  - Kung pao chicken
+  - Orange beef
 ---
-Kung pao chicken  
-Orange beef  
 
 Sometimes, our quest to bring you raw unfettered reviews takes us to grand locations. And other times, it takes us to the cold unforgiving lobby of an apartment building with non stop foot traffic of pizza-carrying residents. We didn't know what to expect when we saw Jeff Cafe. It looked closed, and the name gave us no clues. 
 

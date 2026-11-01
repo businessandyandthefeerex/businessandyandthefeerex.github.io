@@ -11,10 +11,11 @@ city: 3 Campbell Street
 suburb: 3 Campbell Street
 address: 3 Campbell Street, Palmerston North Central, Palmerston North 4410
 website: https://www.beaverandbear.co.nz/
+dishes:
+  - Newfie poutine
+  - Northern spice chicken wings with blue cheese dip
+  - Fried cauliflower with ranch and spicy dips
 ---
-Newfie poutine  
-Northern spice chicken wings with blue cheese dip  
-Fried cauliflower with ranch and spicy dips  
 
 Beaver & Bear used to be a fairly successful food truck, so most of what's on the menu is deep fried and delicious. 
 

@@ -11,11 +11,12 @@ city: Christchurch
 suburb: Christchurch
 address: 158 Cashel Street, Christchurch Central City, Christchurch 8011
 website: https://coffeeculture.co.nz/
+dishes:
+  - Halloumi bagel
+  - Spinach and mushroom filo
+  - Lemon syrup cake
+  - Banana smoothie
 ---
-Halloumi bagel  
-Spinach and mushroom filo  
-Lemon syrup cake  
-Banana smoothie  
 
 Coffee Culture seems to exist solely to prove that books shouldn't be judged by their covers. They have all the trappings of a nice cafe, bustling central city location, chic decor, a line of busy people collecting coffees, and a nice looking cabinet. But all of this was just fluff to distract you from what they really have going on, which isn't much. We weren't surprised to learn later that Coffee Culture is just another big cafe chain.
 

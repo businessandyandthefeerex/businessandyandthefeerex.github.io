@@ -11,12 +11,13 @@ city: Taupō
 suburb: Taupō
 address: 11 Gascoigne Street, Taupō 3330
 website: https://bakedwithlove.co.nz/
+dishes:
+  - Pumpkin tart
+  - Pork belly bao buns
+  - Lemon curd cheesecake
+  - Passionfruit, mango, pineapple, and banana smoothie
+  - Berry, banana, and date smoothie
 ---
-Pumpkin tart  
-Pork belly bao buns  
-Lemon curd cheesecake  
-Passionfruit, mango, pineapple, and banana smoothie  
-Berry, banana, and date smoothie  
 
 It's hard to follow the excellent pork bao buns of Hare and Copper just twelve hours later, it's a bit like walking on the stage after Elton John has absolutely lit a crowd on fire. But these were still good. Unfortunately, the pumpkin tart was a bit more Sad Songs, and a bit less Rocket Man. The base was definitely too dry, and the filling was a bit bland to make up for it.
 

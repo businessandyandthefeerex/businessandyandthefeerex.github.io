@@ -11,8 +11,9 @@ city: Christchurch
 suburb: Christchurch
 address: 7/11 Chalmers Street, Hornby, Christchurch 8042
 website: https://valentines.co.nz/
+dishes:
+  - Buffet style meals
 ---
-Buffet style meals  
 
 Oh my god Valentine's still exists! We all have fond memories of birthdays at Valentine's. The fee,-rexs mum used to fill a serviette with jellybeans and stuff it in her purse. We were thrilled to see the old classics were still there, even the traffic light and pink panther. 
 

@@ -11,9 +11,10 @@ city: Paihia
 suburb: Paihia
 address: 69 Marsden Road, Paihia 0200
 website: N/A
+dishes:
+  - Fish chips and salad
+  - Cheese burger with chips
 ---
-Fish chips and salad  
-Cheese burger with chips
 
 Screw you Zane. We’ve been to places like this before, tourist traps with a great location who then don’t need to try because they know people will come in thanks to the location, and with most just passing through return business is no concern. 
 

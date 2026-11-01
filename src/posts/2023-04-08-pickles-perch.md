@@ -11,9 +11,10 @@ city: Wellington
 suburb: Lower Hutt
 address: 5 Cornwall Street, Hutt Central, Lower Hutt 5040
 website: https://www.facebook.com/picklesperchlowerhutt/
+dishes:
+  - Halloumi salad
+  - Mushrooms on toast with poached egg
 ---
-Halloumi salad  
-Mushrooms on toast with poached egg  
 
 Let's attend to the grammatical elephant in the room. It's clearly meant to be Pickle's Perch. The company branding makes it obvious that this eatery is affiliated with a sulfur crested cockatoo named Pickles. The eatery is his Perch. Pickle's Perch. The Facebook page even has a picture of a cockatoo at the bar. 
 

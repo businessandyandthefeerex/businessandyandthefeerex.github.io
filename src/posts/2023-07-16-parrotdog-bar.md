@@ -11,9 +11,10 @@ city: Wellington
 suburb: Lyall Bay
 address: 60/66 Kingsford Smith Street, Rongotai, Wellington 6022
 website: https://parrotdog.co.nz/pages/parrotdog-bar
+dishes:
+  - Cheese burger
+  - Fish burger
 ---
-Cheese burger  
-Fish burger  
 
 After only a few outings, we have again finished the Parrotdog menu and are ready to once more issue an overall rating. While Parrotdog's performance has improved a bit, it wasn't enough to push them out of the overall 2 category. Keep reaching for that rainbow, Parrotdog. We look forward to giving you another chance when your menu changes again. 
 

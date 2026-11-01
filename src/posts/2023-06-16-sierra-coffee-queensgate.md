@@ -11,10 +11,11 @@ city: Wellington
 suburb: Lower Hutt
 address: Bunny Street, Hutt Central, Lower Hutt 5010
 website: https://www.sierracoffee.co.nz/
+dishes:
+  - Bacon and egg pie
+  - Feta, pumpkin and caramelised onion tart
+  - Banana smoothie
 ---
-Bacon and egg pie  
-Feta, pumpkin and caramelised onion tart  
-Banana smoothie  
 
 Hey, Sierra Cafe. If you offer banana smoothies, but all you have is unripe green bananas, take the smoothie off the menu for a few days until those bad boys yellow up. How dare you serve us what tasted like a banana skin smoothie. Unripe bananas are not sweet, and they have a very distinctive, in a bad way, flavour. The coldness and texture of the smoothie was at least correct, but we can't get past that flavour. 
 

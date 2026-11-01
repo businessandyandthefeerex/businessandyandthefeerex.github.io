@@ -11,9 +11,10 @@ city: Wellington
 suburb: Berhampore
 address: 462 Adelaide Road, Berhampore, Wellington 6023
 website: 
+dishes:
+  - Margherita pizza
+  - Gnocchi with red sauce
 ---
-Margherita pizza  
-Gnocchi with red sauce  
 
 Well dang. It's not normally our place to tell you how to run your business. But Araucaria, here's how to significantly improve your food while costing you nothing. 
 

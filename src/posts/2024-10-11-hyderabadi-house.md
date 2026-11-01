@@ -11,11 +11,12 @@ city: Wellington
 suburb: Johnsonville
 address: 128 Johnsonville Road, Johnsonville, Wellington 6037
 website: https://www.hyderabadihouse.nz/
+dishes:
+  - Chicken biryani
+  - Paneer butter masala
+  - Plain naan
+  - Butter naan
 ---
-Chicken biryani  
-Paneer butter masala  
-Plain naan  
-Butter naan  
 
 Is there a more universal human desire than to innovate? To push the boundaries of what is possible? Da Vinci, Newton, Turing, and the dude at Hyderabadi House who thought to put the biryani in a bucket. Visionaries. 
 

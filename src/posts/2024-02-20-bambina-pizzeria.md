@@ -11,9 +11,10 @@ city: Wellington
 suburb: Wellington Central
 address: 1 Willis Street, Wellington Central, Wellington 6011
 website: https://www.bambinapizzeria.co.nz/
+dishes:
+  - Italian sausage and hot honey pizza
+  - Shoestring fries with aioli
 ---
-Italian sausage and hot honey pizza  
-Shoestring fries with aioli  
 
 While we were having a great night, the staff at Bambina Pizzeria were plagued by problems. It was impossible not to eavesdrop on them as they went on about needing Steve to come and take a look at the docket printer, which was apparently just churning out a zillion wrong dockets every few minutes. They tried to encourage us to dine elsewhere with that old trick "it'll be at least a 25 minute wait" which it wasn't. They obviously didn't know who they were dealing with, so we settled in to wait in their rather comfortable but wonky booth.
 

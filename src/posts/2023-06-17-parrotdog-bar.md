@@ -11,10 +11,11 @@ city: Wellington
 suburb: Lyall Bay
 address: 60/66 Kingsford Smith Street, Rongotai, Wellington 6022
 website: https://parrotdog.co.nz/pages/parrotdog-bar
+dishes:
+  - Fried chicken
+  - Chicken burger
+  - Roast pumpkin salad
 ---
-Fried chicken  
-Chicken burger  
-Roast pumpkin salad  
 
 A better showing tonight, but to be fair, the best two thirds of our meal was essentially the same thing: fried chicken. 
 

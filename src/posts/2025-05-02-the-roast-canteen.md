@@ -11,9 +11,10 @@ city: Wellington
 suburb: Johnsonville
 address: 7 Johnsonville Road, Johnsonville, Wellington 6037
 website: 
+dishes:
+  - Roast lamb with mint sauce, gravy, and veges
+  - Fried chicken with gravy and veges
 ---
-Roast lamb with mint sauce, gravy, and veges  
-Fried chicken with gravy and veges  
 
 He's been watching us come and go from Johnsonville. Waiting. Ready to pounce with entire buckets of dry chicken and bad mint sauce at his disposal. He knew he would have us eventually. Last week he thought he had us, The Roast Canteen was the first place we saw, after all. But in a surprise twist (reprisal?) there was not a single table free when we tried to eat there last week and we had to go elsewhere. We readied ourselves for the return to one of our less preferred dining modalities; the roast house.
 

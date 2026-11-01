@@ -11,10 +11,11 @@ city: Wellington
 suburb: Wellington Central
 address: 1 Willis Street, Wellington Central, Wellington 6011
 website: https://archiebrothers.co.nz/
+dishes:
+  - Fried cauliflower
+  - Chicken bites
+  - Nachos
 ---
-Fried cauliflower  
-Chicken bites  
-Nachos  
 
 Archie Bros is an arcade chain with bowling, mini putt and arcade games. Their menu is exactly what you'd expect - a variety of fried stuff, burgers and pizza, all a little bit overpriced. What you wouldn't expect is the vessels for their cocktails. Our drinks came in an elephant and a rollerskate, and we were living for it. What we weren't living for was the flavour - talk about sweet! One of them was literally topped with candyfloss, so perhaps the eye-blistering levels of sugar weren't unexpected. 
 

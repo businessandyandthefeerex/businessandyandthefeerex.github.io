@@ -11,10 +11,11 @@ city: Wellington
 suburb: Island Bay
 address: 131 The Parade, Island Bay, Wellington 6023
 website: 
+dishes:
+  - Tofu goreng
+  - Hokkien style noodles
+  - Curry puffs
 ---
-Tofu goreng  
-Hokkien style noodles  
-Curry puffs  
 
 Kopi-Tiam is a sleepy looking Southeast Asian takeaway joint that also has a few tables for dine in. You never know what you’re going to get in a place like this, but you can colour us pleasantly surprised. The curry puffs were hot and fresh with soft innards and no unwelcome peas. Our only complaint would be that they didn’t come with a sauce. 
 

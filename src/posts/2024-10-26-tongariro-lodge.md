@@ -11,14 +11,15 @@ city: Tūrangi
 suburb: Tūrangi
 address: 83 Grace Road, RD 2, Tūrangi 3382
 website: https://www.tongarirolodge.co.nz/
+dishes:
+  - Flatbread with hummus and harissa seed oil
+  - Honey roasted carrots
+  - Cauliflower steak
+  - Fries with truffle aioli
+  - Halloumi, grapes and chorizo
+  - Fried chicken with wasabi mayo and sweet soy
+  - Burnt New York style cheesecake with parmesan and yuzu
 ---
-Flatbread with hummus and harissa seed oil  
-Honey roasted carrots  
-Cauliflower steak  
-Fries with truffle aioli  
-Halloumi, grapes and chorizo  
-Fried chicken with wasabi mayo and sweet soy  
-Burnt New York style cheesecake with parmesan and yuzu  
 
 What a glow up. It's hard to believe that 3 years ago we slapped this place with a 2 after being served one of the worst fish dishes of all time (perhaps it's a three-way tie with White Horse Inn and LA Bakery & Coffee Lounge). Tonight, they have achieved our highest accolade, the coveted 4 rating. 
 

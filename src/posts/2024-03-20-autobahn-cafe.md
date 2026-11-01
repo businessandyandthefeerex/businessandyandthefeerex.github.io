@@ -11,10 +11,11 @@ city: Rosehill
 suburb: Rosehill
 address: State Highway 1, Rosehill, Auckland 2113
 website: http://www.autobahncafe.co.nz/
+dishes:
+  - Beef nachos
+  - Lamb burger with chips
+  - Banana smoothie
 ---
-Beef nachos  
-Lamb burger with chips  
-Banana smoothie  
 
 It’s a bad sign if your establishment reminds us of Burger King. Both eateries were happy to spend big bucks on making the air conditioning freezing cold if it meant that punters would be in and out as fast as they could. And neither establishment had spared a dime to make the food any good. 
 

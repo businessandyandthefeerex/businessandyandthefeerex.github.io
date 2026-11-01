@@ -11,11 +11,12 @@ city: Glenorchy
 suburb: Glenorchy
 address: 42 Oban Street, Glenorchy 9372
 website: https://theheadwatersecolodge.com/dining
+dishes:
+  - Curry puff
+  - Tomato and lentil soup with paratha and raita
+  - Roast chicken with pistachio, cranberry and sage stuffing and roast vegetables
+  - Banana souffle with chocolate and kahlua ice cream
 ---
-Curry puff  
-Tomato and lentil soup with paratha and raita  
-Roast chicken with pistachio, cranberry and sage stuffing and roast vegetables  
-Banana souffle with chocolate and kahlua ice cream  
 
 The Dining Room is the restaurant of the very lovely Headwaters Eco Lodge. While diners tonight were exclusively guests at the accommodation, the restaurant is open to the general public. They serve a chefs choice menu, where you get what you're given but they will work around dietary requirements. Because of this, bookings are essential. 
 

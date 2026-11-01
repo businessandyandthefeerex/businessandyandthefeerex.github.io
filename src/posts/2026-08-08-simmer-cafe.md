@@ -11,10 +11,11 @@ city: Wellington
 suburb: Churton Park
 address: 103 Westchester Drive, Churton Park, Wellington 6037
 website: https://www.facebook.com/pages/category/Coffee-Shop/Simmer-100247992175891/
+dishes:
+  - Roast vegetable salad
+  - Pumpkin soup
+  - Coffee eclair
 ---
-Roast vegetable salad  
-Pumpkin soup  
-Coffee eclair  
 
 At 1 on a Saturday afternoon, Simmer Cafe was pumping. There was one available table, still with the previous diners' dishes on it, and we had to lunge to it to mercilessly outcompete another couple. But as we have experienced on multiple occasions, popularity does not necessarily correlate with quality. 
 

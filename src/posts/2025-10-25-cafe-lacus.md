@@ -11,12 +11,13 @@ city: Taupō
 suburb: Taupō
 address: 650 Lake Terrace, Wharewaka, Taupō 3330
 website: http://cafelacus.co.nz/
+dishes:
+  - Mushroom arancini ball
+  - Kumara and feta crepe cup
+  - Coffee walnut slice
+  - Banoffee shake
+  - Biscoff shake
 ---
-Mushroom arancini ball  
-Kumara and feta crepe cup  
-Coffee walnut slice  
-Banoffee shake  
-Biscoff shake  
 
 This cafe is part of a complex which has popped up recently near the airport, with a few eateries, a shower/laundry station, and a bunch of time-filler entertainment (mini golf, trampoline park etc). And they serve bad food and even worse drinks. 
 

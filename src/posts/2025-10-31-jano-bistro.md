@@ -11,8 +11,9 @@ city: Wellington
 suburb: Te Aro
 address: 270 Willis Street, Te Aro, Wellington 6011
 website: http://www.janobistro.co.nz/
+dishes:
+  - Eight course degustation
 ---
-Eight course degustation  
 
 Why was this meal not a 4? Was it that Jano Bistro went too hard on the earthy, nutty, smoky flavours? Perhaps we're just not sophisticated enough for them? Every dish tonight had been cheffed to within an inch of its life - there were confits, gels, foams, reductions, compressed vegetables, a panna cotta, and multiple different powders. Everything had been put together with great care and fine tweezers, but despite all the engineering and passion, it just didn't translate into jaw dropping flavours. 
 

@@ -11,11 +11,12 @@ city: Wellington
 suburb: Wellington Central
 address: 99 Boulcott Street, Wellington Central, Wellington 6011
 website: http://www.boulcottstreetbistro.co.nz/
+dishes:
+  - Calamari with garlic mash and rocket
+  - Lamb rack with roast potato
+  - Vegetarian saffron rice cake
+  - Baklava
 ---
-Calamari with garlic mash and rocket  
-Lamb rack with roast potato  
-Vegetarian saffron rice cake  
-Baklava  
 
 Boulcott Street Bistro knows service. The maitre d' was a true delight, he made you feel extremely welcome and like family, and while this restaurant is a bit snooty he certainly wasn't. When our buoyant family party of 11 was leaving, he gave a warm handshake and just seemed thrilled to have met us. He even earned a tip, a very rare occurrence within our family. The bartender was also spot on, friendly and funny, and all the staff were just generally great.
 

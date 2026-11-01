@@ -11,10 +11,11 @@ city: Tūrangi
 suburb: Tūrangi
 address: 22 Ngawaka Place, Tūrangi 3334
 website: https://goldencrust.co.nz/index.html
+dishes:
+  - Peri-peri paneer pizza
+  - Chicken tenders with chips and sweet chilli sauce
+  - Caramel thickshake
 ---
-Peri-peri paneer pizza  
-Chicken tenders with chips and sweet chilli sauce  
-Caramel thickshake  
 
 What is it to 'dine-in'? Business Andy and the Fee-Rex only review dine-establishments. Golden Crust Pizza's signage states dine-in. And there are some tables and chairs, with salt and pepper at the tables. Sounds like dine-in so far. There was no table service, you had to order at the counter, but that's fine. Failure to provide water (except purchased bottled water) is unpleasant, but certainly not unprecedented, plenty of dingy cafe's do the same thing. The stickiness of the table was a clue that other patrons had also chosen to dine-in. 
 

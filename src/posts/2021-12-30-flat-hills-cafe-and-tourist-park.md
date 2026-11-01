@@ -11,10 +11,11 @@ city: Ōhingaiti
 suburb: Ōhingaiti
 address: 5733 State Highway 1, Ōhingaiti 4774
 website: http://www.flathills.co.nz/
+dishes:
+  - Crumbed chicken burger
+  - Curly fries
+  - Mince & cheese pie
 ---
-Crumbed chicken burger  
-Curly fries  
-Mince & cheese pie  
 
 Flat Hills Cafe caters to the passing through crowd - cars travelling north from Palmy who are too hungry or lazy to wait for Taihape, families who need somewhere to stop for the kids to burn off some energy, and Intercity buses. Credit where credit is due, Flat Hills knows what it is and has provided. Heaps of parking for buses, motorhomes etc. A sizeable selection of cooked, cabinet, and readymade food (ice creams, chocolate bars etc). Accessible, plentiful and clean bathrooms. Fun stuff for children - animals to look at, a bouncy castle, swings, even a maze. 
 

@@ -11,10 +11,11 @@ city: Palmerston North Central
 suburb: Palmerston North Central
 address: 36 Amesbury Street, Palmerston North Central, Palmerston North 4410
 website: http://www.nerorestaurant.co.nz/
+dishes:
+  - 3 cheese souffle
+  - Pumpkin risotto with stir-fried vegetables
+  - Pork belly with arancini, broccoli and pear
+  - Sticky date pudding with ice cream
 ---
-3 cheese souffle  
-Pumpkin risotto with stir-fried vegetables  
-Pork belly with arancini, broccoli and pear  
-Sticky date pudding with ice cream  
 
 Nice place, intimate setting, good for couples. Very good service and meals were out really fast, complementary amuse bouche was a nice touch. The stir-fried vegetables were a poorly matched accompaniment to the risotto, which was otherwise nice. The pork belly was fantastic, mad props to the crackling. However the standout of the meal was the sticky date pudding, which is definitely the best we've had. 

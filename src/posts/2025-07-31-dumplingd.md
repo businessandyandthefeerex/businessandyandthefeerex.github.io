@@ -11,14 +11,15 @@ city: Wellington
 suburb: Te Aro
 address:  7 Boulcott Street, Te Aro, Wellington 6011
 website: 
+dishes:
+  - Seasame dumplings
+  - Sticker dumplings
+  - Korean fried chicken
+  - Fried tofu
+  - Chinese pancakes
+  - Pork bao bun
+  - Chicken bao bun
 ---
-Seasame dumplings  
-Sticker dumplings  
-Korean fried chicken  
-Fried tofu  
-Chinese pancakes  
-Pork bao bun
-Chicken bao bun  
 
 We can imagine it isn’t easy being a 3. Sure, you’re thrilled to have the seal of approval, but being a 3 means we could well come back at some point. Then you need to keep up your standards, and it doesn’t take too much to drop from a 3 to a 2 (although we have also seen glorious rises from 3 to 4). 
 

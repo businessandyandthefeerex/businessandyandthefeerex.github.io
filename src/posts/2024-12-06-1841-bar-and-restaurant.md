@@ -11,9 +11,10 @@ city: Wellington
 suburb: Johnsonville
 address: 1 Disraeli Street, Johnsonville, Wellington 6037
 website: http://www.1841.co.nz/
+dishes:
+  - Roast vege salad
+  - Vege burger and chips
 ---
-Roast vege salad  
-Vege burger and chips  
 
 How much not-roast-vege can you include in a roast vegetable salad before it isn't a roast vegetable salad anymore? Philosophers have pondered this question for centuries. 30%? 50? Where is the line? 1841 decided to test the limits. We estimate tonight's dish to have been 20% roast vegetables at the absolute most. 
 

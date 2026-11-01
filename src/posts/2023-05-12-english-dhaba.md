@@ -11,9 +11,10 @@ city: Wellington
 suburb: Tawa
 address: 6 Collins Avenue, Tawa, Wellington 5028
 website: https://englishdhaba.co.nz/
+dishes:
+  - Malai kofta with rice and plain naan
+  - Bombay aloo with rice and cheese & garlic naan
 ---
-Malai kofta with rice and plain naan  
-Bombay aloo with rice and cheese & garlic naan  
 
 The decor in this place was ðŸ”¥. Literally. As in, the place had been on fire. There were smoke stains up the walls and soot all over the ceiling. Perhaps this was why they left the door open sweeping in icy night air for the entire meal. They didn't really seem to give any consideration to the idea that people might like to dine in. To be fair, take away is clearly their bread and butter and they were doing a very steady trade. 
 

@@ -11,12 +11,13 @@ city: Wellington
 suburb: Petone
 address: 140 Jackson Street, Petone, Lower Hutt 5012
 website: http://www.thevictoriatavern.co.nz/
+dishes:
+  - Sourdough with truffle butter
+  - Battered calamari
+  - Beef skewers with satay sauce
+  - Roast half chicken with duck fat potatoes, broccolini and crispy capers
+  - Pan fried gurnard with saffron risotto and crispy capers
 ---
-Sourdough with truffle butter  
-Battered calamari  
-Beef skewers with satay sauce  
-Roast half chicken with duck fat potatoes, broccolini and crispy capers  
-Pan fried gurnard with saffron risotto and crispy capers  
 
 Friday night and The Vic was pumping. It's another up-market pub, but had a killer cocktail selection (shout out to the Ginger Kiss) and an interesting menu. The meals were a mixed, but mostly positive, bag. Top of the pile was the sourdough with truffle butter. The butter was salty and delicious and there was tonnes of it. They had also presented it thickly smeared across half the plate, allowing the option to dip or spread. Genius. The loaf was thickly sliced and piping hot. Worst of the batch was the beef skewers. Some pieces were rare, some well done, and the satay sauce was disappointingly bland. The calamari had a tasty batter and sauce, and wasn't chewy, but wasn't silky smooth perfect either. 
 

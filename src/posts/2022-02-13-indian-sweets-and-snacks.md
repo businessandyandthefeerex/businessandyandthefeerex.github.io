@@ -11,12 +11,13 @@ city: Wellington
 suburb: Newtown
 address: 176 Riddiford Street, Newtown, Wellington 6021
 website: 
+dishes:
+  - Chicken jalfrezi
+  - Malai kofta
+  - Plain naan
+  - Jalebi
+  - Gulab Jamun
 ---
-Chicken jalfrezi  
-Malai kofta  
-Plain naan  
-Jalebi  
-Gulab Jamun  
 
 Indian sweets and snacks offers a full curry and naan menu as well as some Thai and Chinese options. However we theorise that all these main meals are really an afterthought, with the sweets and snacks (of which there is a wide variety across two deli cases and are sold by the kilo) being the star. It would certainly explain the quality. 
 

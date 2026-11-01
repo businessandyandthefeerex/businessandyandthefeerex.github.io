@@ -11,8 +11,9 @@ city: Palmerston North
 suburb: Palmerston North
 address: 156 Cuba Street, Takaro, Palmerston North 4410
 website: https://www.chinatownrestaurant.co.nz/
+dishes:
+  - Buffet
 ---
-Buffet  
 
 Chinatown Chinese Restaurant offers both a buffet and an a la carte menu. As we walked in the dude said "buffet?" We didn't know better so we went with it, but when we looked out into the restaurant, we saw a bit of a trend appear. There was a few tables where people had ordered off the menu, and all but one was Asian diners. We suspect that they knew something that we didn't.
 

@@ -11,12 +11,13 @@ city: Invercargill
 suburb: Invercargill
 address: 7 Clyde Street, City Centre, Invercargill 9810
 website: https://pinchofspicetakeaway.co.nz/
+dishes:
+  - Onion bhaji
+  - Methi paneer
+  - Chicken nilgiri
+  - Plain naan
+  - Cheese and garlic naan
 ---
-Onion bhaji  
-Methi paneer  
-Chicken nilgiri  
-Plain naan  
-Cheese and garlic naan  
 
 We've only eaten out twice on Invercargill and by coincidence both have been Indian restaurants, for the record, Pinch of Spice is superior to Curry Guru the Malabar Kitchen in every way apart from the paneer. 
 

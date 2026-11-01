@@ -11,12 +11,13 @@ city: Mount Maunganui
 suburb: Mount Maunganui
 address: 181 Maunganui Road, Mount Maunganui 3116
 website: https://latitude37restaurant.co.nz/
+dishes:
+  - Arancini balls
+  - Pork belly
+  - Fried cauliflower
+  - Duck liver pate
+  - Chocolatete mousse dome
+  - Creme brûlée
 ---
-Arancini balls  
-Pork belly  
-Fried cauliflower  
-Duck liver pate  
-Chocolatete mousse dome  
-Creme brûlée  
 
 At Latitude 37 everything was good, but nothing was excellent. Across the board there were no standouts in either direction, it was just universally enjoyable. They could do with turning the music down a few decibels as you definitely had to shout especially once the live music started. And shout out to their cocktail menu, especially the clockwork orange. 

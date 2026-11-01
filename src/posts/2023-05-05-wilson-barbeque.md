@@ -11,10 +11,11 @@ city: Wellington
 suburb: Johnsonville
 address: 17 Johnsonville Road, Johnsonville, Wellington 6037
 website: http://www.wilsonbarbecue.com/
+dishes:
+  - Brisket
+  - Pulled pork burger with chips
+  - Cornbread with whipped honey butter
 ---
-Brisket  
-Pulled pork burger with chips  
-Cornbread with whipped honey butter  
 
 Dry. There's a word you don't want or expect to associate with a BBQ joint. But it was the number one descriptor of both the cornbread and the brisket. That is a crime. And especially after this restaurant waxed lyrical, harped on, in fact, about how much they love BBQ. We think they actually hate BBQ, and we hate them. 
 

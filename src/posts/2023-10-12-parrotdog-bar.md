@@ -11,11 +11,12 @@ city: Wellington
 suburb: Lyall Bay
 address: 60/66 Kingsford Smith Street, Rongotai, Wellington 6022
 website: https://parrotdog.co.nz/pages/parrotdog-bar
+dishes:
+  - Fried cauliflower
+  - Vegetarian burger
+  - Broccolini salad
+  - Bean salad
 ---
-Fried cauliflower  
-Vegetarian burger  
-Broccolini salad  
-Bean salad  
 
 Broccollini salad hrough and finished the updated Parrotdog menu again, sampling two different salads tonight. The broccolini was marvellous, it had a sesame dressing which tasted great and puffed rice for a fun texture. Very happy to have that again. 
 

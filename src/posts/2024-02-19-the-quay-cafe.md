@@ -11,10 +11,11 @@ city: Ōhope
 suburb: Ōhope
 address: 22 Pohutukawa Avenue, Ōhope 3121
 website:
+dishes:
+  - Beef burger and chips
+  - Chicken burger and chips
+  - Iced mocha
 ---
-Beef burger and chips  
-Chicken burger and chips  
-Iced mocha  
 
 Last time we were here, quay cafe gave with one hand, and tooth away with the other. This time, things were on a much more even keel, and that keel was decidedly meh.
 

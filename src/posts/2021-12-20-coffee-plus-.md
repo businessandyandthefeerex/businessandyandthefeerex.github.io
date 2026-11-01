@@ -11,10 +11,11 @@ city: Taihape
 suburb: Taihape
 address: 59 Hautapu Street, Taihape 4720
 website: 
+dishes:
+  - Beef sausage roll
+  - Potato top pie
+  - Churros
 ---
-Beef sausage roll  
-Potato top pie  
-Churros  
 
 The decor at Coffee Plus + makes it look like a cross between a bar, a second hand furniture shop, and someone's rumpus room. There is also a very sweet and very obese dog called Brie whom we liked very much. They didn't make any of their food, they just heated it up for us. But that said, they had taken some care. 
 

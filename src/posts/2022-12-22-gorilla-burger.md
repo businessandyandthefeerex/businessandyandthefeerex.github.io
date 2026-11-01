@@ -11,11 +11,12 @@ city: Wellington
 suburb: Te Aro
 address: 131/133 Cuba Street, Te Aro, Wellington 6011
 website: https://www.gorillaburger.co.nz/
+dishes:
+  - Harambe burger
+  - Snowflake burger
+  - Onion rings
+  - Fried cauliflower
 ---
-Harambe burger  
-Snowflake burger  
-Onion rings  
-Fried cauliflower  
 
 Back at Gorilla Burger for the second time. The location has changed - last time we were at the now defunct Island Bay store, this time we were on Leeds Street. And while the location has changed, we had hoped for the same tasty burgers. But it simply wasn't to be. 
 

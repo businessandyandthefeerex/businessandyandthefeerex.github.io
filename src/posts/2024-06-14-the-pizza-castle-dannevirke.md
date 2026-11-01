@@ -11,9 +11,10 @@ city: Dannevirke
 suburb: Dannevirke
 address: 25 High Street, Dannevirke 4930
 website: http://www.thepizzacastle.co.nz/
+dishes:
+  - Italian pizza (salami, ham, olives, mushroom, onion)
+  - Cheesy jalapeno bites
 ---
-Italian pizza (salami, ham, olives, mushroom, onion)  
-Cheesy jalapeno bites  
 
 Pizza Castle? Pizza dungeon more like it. Well, maybe that's a bit harsh, it wasn't damp or dark. But it was cold and bad stuff happened here. 
 

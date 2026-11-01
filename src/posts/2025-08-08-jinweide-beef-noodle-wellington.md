@@ -11,10 +11,11 @@ city: Wellington
 suburb: Te Aro
 address:  82a Tory Street, Te Aro, Wellington 6011
 website: https://www.instagram.com/jinweidebeefnoodlewellington/?hl=en
+dishes:
+  - Secret recipe beef sauced noodle
+  - Pork steamed buns
+  - Potato skewers
 ---
-Secret recipe beef sauced noodle  
-Pork steamed buns  
-Potato skewers  
 
 Let's start on a positive - points for hand pulling your own noodles. We saw the guy doing it and it was both enjoyable and impressive. The results were fresh and a good amount of chewy. Were they too long? We suppose that's a question of personal preference, but noodle cutting scissors were provided (once we were seen biting through them like animals). While the flavour of the beef was good, it all went down to the bottom big time. Even though we used the fork to try and mix everything through, this was ineffective. However their biggest crime was the bok choy, including two pieces with a chunky ice cold base. Talk about unpleasant. 
 

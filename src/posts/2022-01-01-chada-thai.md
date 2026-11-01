@@ -11,11 +11,12 @@ city: Palmerston North
 suburb: Palmerston North
 address: 81 Broadway Avenue, Palmerston North Central, Palmerston North 5301
 website: http://www.chadathai.co.nz/
+dishes:
+  - Curry puffs
+  - Tofu pad thai
+  - Lamb massaman curry with rice
+  - Caramel bubble tea
 ---
-Curry puffs  
-Tofu pad thai  
-Lamb massaman curry with rice  
-Caramel bubble tea  
 
 What a weird pad thai. Admittedly it was a vegan pad thai, so we were prepared for it to be a little different (no egg, maybe a little different flavour from no fish sauce). But veganism doesn't preclude the pad thai staples of peanuts and lemon, both of which were absent. And you certainly don't make up for a lack of animal products by drowning the dish in oil, which this was. Very disappointing. 
 

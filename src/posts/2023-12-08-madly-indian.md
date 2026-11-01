@@ -11,11 +11,12 @@ city: Kerikeri
 suburb: Kerikeri
 address: 342 Kerikeri Road, Kerikeri 0230
 website: https://madlyindian.co.nz/
+dishes:
+  - Lamb do pyaza
+  - Paneer chettinaud
+  - Butter naan
+  - Cheese naan
 ---
-Lamb do pyaza  
-Paneer chettinaud  
-Butter naan  
-Cheese naan  
 
 While it can be hard to stand out when you're an Indian restaurant, doing the basics right can take you a long way. So while they didn't quite take us to the moon and back, truly Madly deeply Indian certainly didn't crash and burn. 
 

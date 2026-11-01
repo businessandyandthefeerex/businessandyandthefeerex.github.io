@@ -11,11 +11,12 @@ city: Palmerston North
 suburb: Palmerston North
 address: 55A Joseph Street, West End, Palmerston North 4412
 website: https://www.instagram.com/josephstreetkitchen/
+dishes:
+  - Feta and blue cheese tart
+  - Calzone with meat
+  - New York cheesecake
+  - Banoffee (banana and coffee) smoothie
 ---
-Feta and blue cheese tart  
-Calzone with meat  
-New York cheesecake  
-Banoffee (banana and coffee) smoothie  
 
 The Joseph Street Kitchen, or JSK as the locals say, was a bit frantic. It was being staffed by two stressed out older ladies who informed us they were very short staffed and that only the cabinet menu and eggs were available. Luckily the cabinet was brimming with good-looking choices. 
 

@@ -11,11 +11,12 @@ city: Taihape
 suburb: Taihape
 address: 8 Huia Street, Taihape 4720
 website: https://www.facebook.com/LeCafeTaihape/
+dishes:
+  - Onion bhaji
+  - Cheese scone
+  - Milly filly
+  - Creamy mushrooms on toast with egg and hash brown
 ---
-Onion bhaji  
-Cheese scone  
-Milly filly  
-Creamy mushrooms on toast with egg and hash brown  
 
 This is a crushing blow for Le Cafe Telephonique, and for Taihape too. The first time we came here (not reviewed, pre-BAATFR) we had a pulled pork burger which absolutely blew us away. It's five years later and we're still talking about it. Then we went in October 2021, and it was pretty good. Three years later, standards have slipped. 
 

@@ -11,12 +11,13 @@ city: Wellington
 suburb: Lyall Bay
 address: 6022/200 Queens Drive, Lyall Bay, Wellington 6022
 website: http://www.queens.co.nz/
+dishes:
+  - Banana smoothie
+  - Halloumi bagel
+  - Roast potato salad with Indian spices
+  - Lemon and poppy seed cupcake
+  - Anzac oaty caramel slice
 ---
-Banana smoothie  
-Halloumi bagel  
-Roast potato salad with Indian spices  
-Lemon and poppy seed cupcake  
-Anzac oaty caramel slice  
 
 It's always interesting revisiting places that we've eaten, there's a potential for them to rise from the ashes like a flavourful phoenix, but that potential lives right alongside another phoenix that is about to just burst into flames and die. Sadly, Queen Sally is the latter case.
 

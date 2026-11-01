@@ -11,9 +11,10 @@ city: Wellington
 suburb: Karaka Bays
 address: 497 Karaka Bay Road, Karaka Bays, Wellington 6022
 website: https://www.scorchorama.co.nz/
+dishes:
+  - Vegetarian big breakfast
+  - Pulled pork nachos
 ---
-Vegetarian big breakfast  
-Pulled pork nachos  
 
 Despite its name, Scorch O Rama is a very popular cafe. We went on Matariki and it was heaving. It took a while to make our order and a while for our drinks to arrive, but once we had ordered, the wait for food was pretty reasonable considering how busy it was. Luckily we had some entertainment while we waited. It was impossible not to eavesdrop on the table next door where there was seated a guy who was just the best mix of entitled and naive. The whole time we were there, he was regaling his patient dining partner with how he was going to get a sweet inheritance of "some assets" which sounded like it included a valuable car. We struggled not to laugh out loud as he described his plan to cut his brother and sister out of the inheritance, how he was the only one who could be trusted to care for the assets, how he and the hopefully-soon-to-be-deceased weren't really that close yet, but how he was going to suck up to him, and that his old relative was only going to get more old and senile. His dining partner was painfully sick of his nonsense, and when he described how his siblings couldn't be trusted with the assets she hilariously pointed out "that's probably what they think of you, that you'll let your mates use it or sell it for drugs". 
 

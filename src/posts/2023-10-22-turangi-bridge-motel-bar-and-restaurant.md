@@ -11,11 +11,12 @@ city: Tūrangi
 suburb: Tūrangi
 address: 4600 State Highway 1, Tūrangi 3334
 website: https://turangibridgemotel.co.nz/restaurant/
+dishes:
+  - Bread and dips
+  - Fried camembert with plum sauce
+  - Grilled fish, chips and salad
+  - Steak, eggs and chips
 ---
-Bread and dips  
-Fried camembert with plum sauce  
-Grilled fish, chips and salad  
-Steak, eggs and chips  
 
 Turangi Bridge Motel did not want us around. We showed up and asked for a table and were asked whether we had a reservation. Mate, this is a crap motel in Turangi which we can see is over half empty. No, we don't have a reservation. The people at the nearby table even said "who needs a reservation in Turangi?!" The hostess' message was clear: "Go home, we don't want to serve you." Her reservation trick hadn't worked, but she had another weapon in her arsenal. "It'll be an hours wait". Lady if you think that's putting us off, you haven't met Business Andy and the Fee-Rex. Yes, we will wait. 
 

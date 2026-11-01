@@ -11,10 +11,11 @@ city: Manukau City Centre
 suburb: Manukau City Centre
 address: 2 Clist Crescent, Manukau City Centre, Auckland 2104
 website: https://rainbowsend.co.nz/rainbow-playlab/cafe
+dishes:
+  - Feta and spinach roll
+  - Kumara chips
+  - Fish burger
 ---
-Feta and spinach roll  
-Kumara chips  
-Fish burger  
 
 Playlab Cafe is a more sophisticated dining establishment at rainbows end, which they describe as "our allergen and cultural friendly dining zone". Ooh lah lah. 
 

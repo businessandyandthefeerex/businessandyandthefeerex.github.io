@@ -11,12 +11,13 @@ city: Wellington
 suburb: Te Aro
 address: 39 Abel Smith Street, Te Aro, Wellington 6011
 website: https://stargroup.nz/venues/southerncross
+dishes:
+  - Pita bread and hummus
+  - Fondue and pretzels
+  - Salt and pepper squid
+  - Polenta chips
+  - Korean fried chicken
 ---
-Pita bread and hummus  
-Fondue and pretzels  
-Salt and pepper squid  
-Polenta chips  
-Korean fried chicken  
 
 Last time we ate here, we described the service as "Capital S Speedy". Something has changed, as this time we waited 20 minutes for four drinks and the restaurant was <20% full. 
 

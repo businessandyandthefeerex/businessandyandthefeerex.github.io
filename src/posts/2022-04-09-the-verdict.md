@@ -11,10 +11,11 @@ city: Palmerston North
 suburb: Palmerston North
 address: 32a The Square, Palmerston North Central, Palmerston North 4410
 website: https://www.theverdictcafe.com/
+dishes:
+  - Banana smoothie
+  - Beef stroganoff with rice
+  - Beef burger and chips
 ---
-Banana smoothie  
-Beef stroganoff with rice  
-Beef burger and chips  
 
 The Verdict has been around since 1989 and has recently moved to a cursed building opposite Palmerston North City Council. Will they be able to survive atop the corpses of so many unfortunate cafe's? While we weren't impressed by The Verdict, there were plenty of people there who apparently were. 
 

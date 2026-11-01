@@ -11,10 +11,11 @@ city: Palmerston North
 suburb: Palmerston North
 address: Plaza Shopping Centre, Church Street, Palmerston North Central, Palmerston North 4412
 website: http://www.philandjoscafe.co.nz/
+dishes:
+  - Steak and mushroom gourmet pie
+  - Cheese and pineapple toasted sandwich
+  - Banana cake
 ---
-Steak and mushroom gourmet pie  
-Cheese and pineapple toasted sandwich  
-Banana cake  
 
 Options for good dining in the Plaza are limited. So far, the best we've found is Shamiana, and that's not saying much. Phil and Jo's was very popular, in fact many of the cabinet options were all gone by 1 o'clock when we arrived. Unfortunately, this didn't prove to be an indicator that the food was good. 
 

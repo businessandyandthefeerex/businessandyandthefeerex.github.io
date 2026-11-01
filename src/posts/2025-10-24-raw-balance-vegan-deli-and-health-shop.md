@@ -11,10 +11,11 @@ city: Tūrangi
 suburb: Tūrangi
 address: 19 Ohuanga Road, Tūrangi 3334
 website: http://www.instagram.com/rawbalancenz
+dishes:
+  - Mac’n’cheese
+  - Tofu potato gherkin salad
+  - Almond finger
 ---
-Mac’n’cheese  
-Tofu potato gherkin salad  
-Almond finger 
 
 It ain’t easy being Business Andy & The Fee-Rex. We eat a lot of bad food. But today something very rare occurred - we walked in, took a look around, thought ‘yeah nah’ and walked out. What followed was an emotionally tumultuous episode, wrestling with our integrity and commitment to randomness on one hand, and our desire to not eat disgusting food on the other hand. Integrity won, and in we went. 
 

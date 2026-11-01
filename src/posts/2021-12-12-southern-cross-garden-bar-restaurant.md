@@ -11,11 +11,12 @@ city: Wellington
 suburb: Te Aro
 address: 39 Abel Smith Street, Te Aro, Wellington 6011
 website: https://stargroup.nz/venues/southerncross
+dishes:
+  - Pork belly bites
+  - Haloumi fries
+  - Pan fried fish with asparagus, Anna potatoes, and lemon caper butter
+  - Lamb shoulder with kumara mash, broccolini, and port wine jus
 ---
-Pork belly bites  
-Haloumi fries  
-Pan fried fish with asparagus, Anna potatoes, and lemon caper butter  
-Lamb shoulder with kumara mash, broccolini, and port wine jus  
 
 The service at Southern Cross is capital S Speedy. The entrees came out so fast that we assumed that there had been a mistake. The pork belly bites were tasty, but could have been better rendered, and the haloumi fries were delicious but came with an underwhelming sauce. They really did come out fast though.
 

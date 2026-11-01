@@ -11,10 +11,11 @@ city: Wellington
 suburb: Te Aro
 address: 211 Victoria Street, Te Aro, Wellington 6011
 website: https://counterculture.co.nz/
+dishes:
+  - Chicken burger and chips
+  - Macaroni cheese
+  - Fried chicken gravy fries
 ---
-Chicken burger and chips  
-Macaroni cheese  
-Fried chicken gravy fries  
 
 We were pleased to see that Counter Culture read our review from two years ago, and has removed both of the items we didn't like from the menu. In a cruel twist of fate, the new menu didn't fare any better. In fact, the burger was worse. The bun wasn't a bun, it was a section of ciabatta loaf. Wow. So dry, so chewy, so bready, so bad. Impossible to eat, way too tall, initial mouthfuls were bread only. It was clear the person who invented this burger was more concerned about appearance on the 'gram than flavour in the hand. 
 

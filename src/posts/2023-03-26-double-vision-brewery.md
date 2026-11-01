@@ -11,8 +11,9 @@ city: Wellington
 suburb: Miramar
 address: 128A Unit E, Park Road, Miramar, Wellington 6022
 website: https://doublevisionbrewing.com/
+dishes:
+  - Philly cheese steak sandwich
+  - Haloumi sandwich
 ---
-Philly cheese steak sandwich  
-Haloumi sandwich  
 
 DVB has a simple menu of bar snacks, burgers and sandwiches. The haloumi sandwich was okay - plenty of haloumi, enough to fall out on the floor, and the pesto and sundried tomatoes paired well with it. The Philly cheese steak sandwich was controversial. Everyone could agree there was too much cheese and that the meat was chewy. Business Andy still somehow thought it was good. The Fee-Rex thought it was a soggy abomination. 

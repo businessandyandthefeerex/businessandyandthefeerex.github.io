@@ -11,8 +11,9 @@ city: Wellington
 suburb: Thorndon
 address: 241 Tinakori Road, Thorndon, Wellington 6011
 website: http://www.hillsidekitchen.co.nz/
+dishes:
+  - Degustation
 ---
-Degustation  
 
 Hillside Kitchen is all about locally grown this, sustainable that, organic the other. That's all well and good, as long as the food delivers. And oh boy, did it deliver. This was a 10 course vegetarian degustation, and absolutely everything was made with great care, skill, and a little bit of style. 
 

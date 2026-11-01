@@ -11,8 +11,9 @@ city: Feilding
 suburb: Feilding
 address: 78/80 Fergusson Street, Feilding 4702
 website: https://murraysirishbar.com/
+dishes:
+  - Murray's pub burger
+  - Fish & chips
 ---
-Murray's pub burger  
-Fish & chips  
 
 The fish was a bit too fishy, the burger was dry and flavourless, although it did hold itself together well.

@@ -11,11 +11,12 @@ city: Wellington
 suburb: Lyall Bay
 address: 219 Onepu Road, Lyall Bay, Wellington 6022
 website: http://thebotanistlyallbay.co.nz/
+dishes:
+  - Okonomiyaki
+  - Poutine
+  - Roast eggplant with Szechuan sauce and edamame beans
+  - Gyros
 ---
-Okonomiyaki  
-Poutine  
-Roast eggplant with Szechuan sauce and edamame beans  
-Gyros  
 
 Frankly, we're disappointed that two years later, the service hasn't improved. We sat with our empty plates for too long, forgot to bring a drinks menu when we asked, and then forgot to come and actually take a drinks order after we flagged down a second waitress to finally get a drinks menu. We had to ask for more water, even though the empty bottle was sitting right on the end of the table, and on the whole, the service left us feeling not super well cared for. They were friendly, but quite inattentive. 
 

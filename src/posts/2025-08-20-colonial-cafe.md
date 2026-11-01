@@ -11,12 +11,13 @@ city: Wellington
 suburb: Wellington Central
 address: 41 The Terrace, Wellington Central, Wellington 6011
 website: https://colonialcafelounge.com/
+dishes:
+  - Loaded wedges
+  - Carrot cake
+  - Steak and jalapeño pie
+  - Banana smoothie
+  - Chai latte
 ---
-Loaded wedges  
-Carrot cake  
-Steak and jalapeño pie  
-Banana smoothie  
-Chai latte  
 
 A weekday lunch out in the CBD? Now we are into an unusual dining experience for Business Andy and the Fee-Rex. But when first aid course and a work-from-office day collide, lunch at Colonial Cafe is what results. There were plenty of working-in-the-city types frequenting the cafe, but based on our experience today they could probably get better food elsewhere 
 

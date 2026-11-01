@@ -11,11 +11,12 @@ city: Margaret River
 suburb: Margaret River
 address: 5/110 Bussell Hwy, Margaret River WA 6285, Australia
 website: https://www.sidekickcafe.com.au/
+dishes:
+  - Mozzarella and prosciutto toasted sandwich
+  - Everything bagel with jalapeno cream cheese
+  - Orange and almond cake
+  - Peanut butter banana smoothie
 ---
-Mozzarella and prosciutto toasted sandwich  
-Everything bagel with jalapeno cream cheese  
-Orange and almond cake  
-Peanut butter banana smoothie  
 
 Sidekick cafe is keeping it simple with a small cabinet and no cooked menu. Sometimes this is a disaster, but when everything is good, you don’t need much to choose from. 
 

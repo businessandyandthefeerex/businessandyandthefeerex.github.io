@@ -11,13 +11,14 @@ city: Wellington
 suburb: Miramar
 address: 5 Park Road, Miramar, Wellington 6022
 website: http://www.cocoattheroxy.co.nz/
+dishes:
+  - Arancini balls
+  - Fried feta
+  - Brisket and cheddar croquettes
+  - Roast brussels sprouts and parsnip
+  - Dark chocolate terrine
+  - Caramel flan
 ---
-Arancini balls  
-Fried feta  
-Brisket and cheddar croquettes  
-Roast brussels sprouts and parsnip  
-Dark chocolate terrine  
-Caramel flan  
 
 CoCo at The Roxy is a restaurant attached to a cinema. Unlike most cinema restaurants, this one is actually good. The vibe was nice, the menu interesting, and the service exceptional. Yes, sometimes you can hear rumbling explosions from the latest action movie, but this doesn't detract from the experience. 
 

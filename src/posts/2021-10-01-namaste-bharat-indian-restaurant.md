@@ -11,9 +11,10 @@ city: 61 The Square
 suburb: 61 The Square
 address: 61 The Square, Palmerston North Central, Palmerston North 4410
 website: https://namastebharat.co.nz/
+dishes:
+  - Sahi paneer with butter naan and rice
+  - Malai kofta with cheese & garlic naan and rice
 ---
-Sahi paneer with butter naan and rice  
-Malai kofta with cheese & garlic naan and rice  
 
 Namaste Bharat was cold, both in temperature and in the disposition of the wait staff. The Fee-Rex ordered a sahi paneer, wondering if it would be different to the shahi paneer she had last week at Indian Summer. The menu described the sahi paneer as 'paneer with sauces and special spices' which didn't offer much of a clue. Turns out sahi paneer is the same as a shahi paneer, in that they are both essentially kormas. It may be that sahi was a typo in the menu. The only noteworthy thing about this otherwise boring curry was that it came with a bizarre sprinkle of grated cheese on top.
 

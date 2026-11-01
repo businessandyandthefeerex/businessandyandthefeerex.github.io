@@ -11,14 +11,15 @@ city: Tūrangi
 suburb: Tūrangi
 address: 83 Grace Road, RD 2, Tūrangi 3382
 website: https://www.tongarirolodge.co.nz/
+dishes:
+  - Breads and dips
+  - Crispy skin salmon with potato and courgette
+  - Mushroom, walnut, feta, and truffle oil risotto
+  - Broccoli with sesame and soy
+  - Chips
+  - Chocolate brownie
+  - Sticky date pudding
 ---
-Breads and dips  
-Crispy skin salmon with potato and courgette  
-Mushroom, walnut, feta, and truffle oil risotto  
-Broccoli with sesame and soy  
-Chips  
-Chocolate brownie  
-Sticky date pudding  
 
 The last time we had the misfortune of dining at Tongoriro Lodge, they crushed us with a disgusting lump of clammy John Dory, and we crushed them with a fittingly poor review. What a turnaround. This meal was really good overall, with a couple of truly great dishes sprinkled in. Unfortunately they didn't quite do enough to rise to the highest levels in our rating system, but they were knocking on the four door. 
 

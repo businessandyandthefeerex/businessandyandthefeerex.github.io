@@ -11,13 +11,14 @@ city: Wellington
 suburb: Te Aro
 address: 1/7 Tennyson Street, Te Aro, Wellington 6011
 website: https://www.ariesrestaurant.co.nz/
+dishes:
+  - Sweet pork pastries
+  - Spring rolls
+  - BBQ pork buns
+  - Fried pork dumplings
+  - Soupy pork dumplings
+  - Sweet coconut breads
 ---
-Sweet pork pastries  
-Spring rolls  
-BBQ pork buns  
-Fried pork dumplings  
-Soupy pork dumplings  
-Sweet coconut breads  
 
 We hadn't expected to run into Yum Cha, but we should have. It's a classic Sunday lunch, and we're in the business of eating lunch on Sundays, so that's on us for not putting 2 and 2 together. But it was with some trepidation that we approached Aries Restaurant, it's been well over a decade since either of us has had Yum Cha, and we don't remember it fondly. 
 

@@ -11,10 +11,11 @@ city: Wellington
 suburb: Wellington Central
 address: 135-137 Featherston Street, Wellington Central, Wellington 6011
 website: https://www.restauranthub.co.nz/rh2/eats/in-region/wellington-region/in-city/wellington-city/in-suburb/wellington-central/belgian-beer-cafe-leuven/
+dishes:
+  - Venison meatballs
+  - Cheese fondue with bread
+  - Chips
 ---
-Venison meatballs  
-Cheese fondue with bread  
-Chips 
 
 Leuven is very Belgian, and they are taking their beer game seriously. This isn't just some bar that's serving Stella and calling it a day, there were literally dozens of different beers.  
 

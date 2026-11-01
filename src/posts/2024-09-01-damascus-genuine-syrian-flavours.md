@@ -11,18 +11,19 @@ city: Wellington
 suburb: Te Aro
 address: shop 4/100 Tory Street, Te Aro, Wellington 6011
 website: https://www.damascusnz.com/
+dishes:
+  - Banquet
+  - Labneh
+  - Hummus with chickpeas
+  - Pickled vegetables
+  - Bean salad
+  - Coleslaw
+  - Olives
+  - Roast potatoes
+  - Dry fried cauliflower
+  - Lamb shoulder
+  - Chicken leg
 ---
-Banquet:  
-Labneh  
-Hummus with chickpeas  
-Pickled vegetables  
-Bean salad  
-Coleslaw  
-Olives  
-Roast potatoes  
-Dry fried cauliflower  
-Lamb shoulder  
-Chicken leg  
 
 A damn shame to see a former 4 fall down to a 3 like this. But it's not their first time falling down like this. Turns out that Damascus is always good but only sometimes great. Tonight we went with the "just feed me" option, a set menu essentially, but this turned out to be something of a mistake. But that's on them, if you're making a set menu, then you should be putting your best foot forward. 
 

@@ -11,9 +11,10 @@ city: Wellington
 suburb: Tawa
 address: 2 Oxford Street, Tawa, Wellington 5028
 website: https://yumyumhouse.co.nz/
+dishes:
+  - Orange beef & rice
+  - Mee goreng
 ---
-Orange beef & rice  
-Mee goreng  
 
 Yum Yum House is your typical westernised Chinese joint. They have dispensed with the chicken feet and jellyfish, but have kept all your fried favourites. The decor was, to put it generously, dated. We're talking floral embroidered chairs with shiny thread, plastic grapes and valences hanging from the ceiling. It was none too clean either, with the Fee-Rex finding a used serviette on her seat and plenty of rice under the table. Perhaps as a result of this, dine-in was empty and the restaurant was quiet except for the owners child being entertained by the young teenage wait staff. 
 

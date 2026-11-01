@@ -11,9 +11,10 @@ city: Perth
 suburb: Perth
 address: 10 Harris Rd, Caversham WA 6055, Australia
 website: https://mandoonestate.com.au/eat-drink/homestead-brewery
+dishes:
+  - Chicken and veal burger with chips
+  - Fish and chips
 ---
-Chicken and veal burger with chips  
-Fish and chips  
 
 We would argue that fish and chips should come with a salad. We think it’s pretty normal, and having something to cut through the grease is valuable. Looks like Homestead Brewery doesn't agree. That said, the chips were great, but the fish was very crisp. Too crisp. 
 

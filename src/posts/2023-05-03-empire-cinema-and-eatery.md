@@ -11,9 +11,10 @@ city: Wellington
 suburb: Island Bay
 address: 214 The Parade, Island Bay, Wellington 6023
 website: http://www.empirecinema.nz/
+dishes:
+  - Pizza capricciosa
+  - Fried chicken
 ---
-Pizza capricciosa  
-Fried chicken  
 
 While we thoroughly enjoyed seeing The Goose in his latest smash hit, we didn't enjoy our meal quite as much. Much like The Goose, the toppings on the pizza were truly larger than life itself. Too large, in fact. But had they been smaller, the pizza sauce would still have been bad. The base was pretty good at least. 
 

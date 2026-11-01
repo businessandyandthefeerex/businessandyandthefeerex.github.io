@@ -11,10 +11,11 @@ city: Wellington
 suburb: Lower Hutt
 address: 499 Hutt Road, Alicetown, Lower Hutt 5010
 website: https://www.stargroup.nz/venues/rizzos-pizzeria-kitchen
+dishes:
+  - Deep fried spaghetti
+  - Calexican pizza - Birria beef, onions, garlic butter, coriander,
+  - spicy beef consomme, mozzarella
 ---
-Deep fried spaghetti  
-Calexican pizza - Birria beef, onions, garlic butter, coriander,
-spicy beef consomme, mozzarella  
 
 Yes you read that right. Deep fried spaghetti.
 

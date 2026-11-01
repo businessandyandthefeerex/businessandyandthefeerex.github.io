@@ -11,20 +11,21 @@ city: Wellington
 suburb: Johnsonville
 address: Shop 2/33 Johnsonville Road, Johnsonville, Wellington 6037
 website: https://babaili.co.nz/
+dishes:
+  - Satay broth
+  - Spicy beef bone broth
+  - Lotus root
+  - Fried dough
+  - Fried tofu
+  - Hand pulled noodles
+  - Dried noodles
+  - Mushroom medley
+  - Pork and cabbage dumplings
+  - Wagyu beef
+  - Pork belly roll
+  - Noodle mushrooms
+  - (this is four people's worth btw)
 ---
-Satay broth  
-Spicy beef bone broth  
-Lotus root  
-Fried dough  
-Fried tofu  
-Hand pulled noodles  
-Dried noodles  
-Mushroom medley  
-Pork and cabbage dumplings  
-Wagyu beef  
-Pork belly roll  
-Noodle mushrooms  
-(this is four people's worth btw)  
 
 Our second time having Hot Pot, and we can officially declare that it's fun, especially with a larger group. Is it stressful? Yeah, sure. You're gonna drop wagyu beef in the broth, then lose it, dig for it amongst the bubbling goodness and eventually fish it out once it's way overcooked. You're gonna drop dumplings in it which will break apart and merge with the broth, appearing only as occasional debris (we recommend not putting the dumplings in the broth at all). Not everything you buy is going to be a winner - the lotus root took absolutely forever to cook. It was eventually nice, but we'd eaten almost all of it as raw root before realising it just needed longer. We really liked how the tofu, fried dough, and some of the mushrooms and noodles really imbibed the flavour of the broth, which is what it's all about. Conversely, the meat is the most expensive, hardest to cook properly, and doesn't bring that much to the table. 
 

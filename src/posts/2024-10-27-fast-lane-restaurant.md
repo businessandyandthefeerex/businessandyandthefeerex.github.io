@@ -11,11 +11,12 @@ city: Waiouru
 suburb: Waiouru
 address: 16, State Highway 1, Waiouru 4825
 website: https://restaurantguru.com/Fast-Lane-Restaurant-Waiouru
+dishes:
+  - Battered fish
+  - Chips
+  - Fried chicken
+  - Carrot cake
 ---
-Battered fish  
-Chips  
-Fried chicken  
-Carrot cake  
 
 Fast Lane Restaurant caters to the passing-through-Waiouru-wanna-stop-for-less-than-five-minutes crowd, right next to the public rest rooms where the off-brand air blade hand dryers emitted a strangely unpleasant odour. Fast Lane Restaurant offers various fried foods in a warmer, a chilled cabinet of sandwiches and cakes, as well as a fish and chips shop style cooked menu. 
 

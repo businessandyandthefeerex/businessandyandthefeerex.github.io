@@ -11,11 +11,12 @@ city: Palmerston North
 suburb: Palmerston North
 address: 79-81 Ruahine Street, Palmerston North, New Zealand
 website: https://www.facebook.com/thedailygrindpalmy/
+dishes:
+  - Beef burger with chips
+  - Bruschetta
+  - Caramel and chocolate slice
+  - Banana smoothie
 ---
-Beef burger with chips  
-Bruschetta  
-Caramel and chocolate slice  
-Banana smoothie  
 
 Let's start with the positives. The bruschetta was good, maybe a bit much pesto but it fresh, well put together, and we would happily eat this again. The same cannot be said for anything else that we ordered. The banana smoothie came out promptly and was a good temperature, however it was too milky, it didn't taste much like banana, or really anything else except milk. 
 

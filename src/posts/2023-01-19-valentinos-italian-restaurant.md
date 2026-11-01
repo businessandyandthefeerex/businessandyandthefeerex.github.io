@@ -11,9 +11,10 @@ city: Tūrangi
 suburb: Tūrangi
 address: Tūrangi 3334
 website: https://www.facebook.com/ettoreandkarena1/
+dishes:
+  - Penne cacciatore
+  - Eye fillet with rosemary and red wine sauce and chips
 ---
-Penne cacciatore  
-Eye fillet with rosemary and red wine sauce and chips  
 
 Their tagline reads "The ultimate Italian venue for Pizza, Pasta, Seafood and Steaks." So you could colour us surprised when we found there were no pizzas on the menu and the steak was one of the worst we've ever had. 
 

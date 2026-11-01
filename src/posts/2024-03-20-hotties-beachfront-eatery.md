@@ -11,10 +11,11 @@ city: Whitianga
 suburb: Whitianga
 address: 29 Pye Place Hot Water Beach, Whitianga 3591
 website: https://www.hottieseatery.co.nz/
+dishes:
+  - Sourdough with oil and balsamic
+  - Fish tacos
+  - Fish and chips
 ---
-Sourdough with oil and balsamic  
-Fish tacos  
-Fish and chips  
 
 Hotties is a more upmarket establishment than its name would suggest and has a lovely location right by the beach. The sourdough was a triumph. While not baked on site, it is purchased from a local bread maker and was clearly very fresh, served in thick, perfectly toasted slices with quality oil. Yum. 
 

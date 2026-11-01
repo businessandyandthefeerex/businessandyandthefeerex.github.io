@@ -11,12 +11,13 @@ city: Wellington
 suburb: Te Aro
 address: 39 Vivian Street, Te Aro, Wellington 6011
 website: http://www.spiceparadise.co.nz/
+dishes:
+  - Malai kofta
+  - Paneer jalfrezi
+  - Plain naan
+  - Naan makhani
+  - Rice
 ---
-Malai kofta  
-Paneer jalfrezi  
-Plain naan  
-Naan makhani  
-Rice  
 
 This place will be closed within 3 months. It has zero street appeal. It's sad inside. It looks like it's only been open for a few weeks and already it was just us and one other table there. They didn't do a single takeaway order the whole time we were dining, nor do they have a website or any affiliation with delivery services that could help their takeaway trade. In other words, they're doomed. 
 

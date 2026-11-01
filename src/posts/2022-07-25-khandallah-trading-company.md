@@ -11,11 +11,12 @@ city: Wellington
 suburb: Khandallah
 address: Agra Crescent and, Ganges Road, Khandallah, Wellington 6035
 website: https://www.stargroup.nz/venues/khandallah-trading-company
+dishes:
+  - Haloumi fries with chilli sour cream
+  - Korean pork belly bites
+  - Vegetarian lasagne with salad
+  - Double beef burger with chips and aioli
 ---
-Haloumi fries with chilli sour cream  
-Korean pork belly bites  
-Vegetarian lasagne with salad  
-Double beef burger with chips and aioli  
 
 Tonight Khandallah Trading Company served us two good meals, one great meal, and one absolute clanger that can burn in the pits of hell as far as we are concerned. 
 

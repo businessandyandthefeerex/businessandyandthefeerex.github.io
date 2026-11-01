@@ -11,12 +11,13 @@ city: Wellington
 suburb: Kilbirnie
 address: 48 Rongotai Road, Kilbirnie, Wellington 6022
 website: http://www.chillipeppers.co.nz/
+dishes:
+  - Butter chicken with rice
+  - Malai kofta with rice
+  - Battered paneer in chilli yoghurt sauce
+  - Butter naan
+  - Plain naan
 ---
-Butter chicken with rice  
-Malai kofta with rice  
-Battered paneer in chilli yoghurt sauce  
-Butter naan  
-Plain naan  
 
 Someone alert the Michelin Guide, the definition of 'fine dining' has been expanded to include flashing coloured lights, unchilled water, fake flowers, springy plastic streamers and waitresses wearing "Dog Mom" t-shirts. Or so we assume, as Chilli Peppers proudly advertises itself using this terminology. 
 

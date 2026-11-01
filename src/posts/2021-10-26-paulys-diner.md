@@ -11,12 +11,13 @@ city: Taupō
 suburb: Taupō
 address: 3 Pāora Hapi Street, Taupō 3330
 website: https://www.paulysdiner.co.nz/
+dishes:
+  - Chicken burger
+  - Honey butter fried chicken basket
+  - Blue cheese & hot sauce fried chicken basket
+  - Potato fries
+  - Banana shake
 ---
-Chicken burger  
-Honey butter fried chicken basket  
-Blue cheese & hot sauce fried chicken basket  
-Potato fries  
-Banana shake  
 
 Note that this meal was shared between four people.
 

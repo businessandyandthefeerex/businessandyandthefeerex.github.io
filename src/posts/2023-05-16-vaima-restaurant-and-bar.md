@@ -11,9 +11,10 @@ city: Takitumu District
 suburb: Takitumu District
 address: Ara Tapu, Takitumu District, Cook Islands
 website: http://www.vaimarestaurant.com/
+dishes:
+  - Roast pork belly with honey glazed carrots and dauphinoise potato
+  - Pepperoni pizza
 ---
-Roast pork belly with honey glazed carrots and dauphinoise potato  
-Pepperoni pizza  
 
 With our hired bikes, and clear weather, we thought we’d strike out and free ourselves from the clutches of Captain Andy. But it turns out that the devil you know is better than the devil you don’t. Nothing good was waiting for us here. 
 

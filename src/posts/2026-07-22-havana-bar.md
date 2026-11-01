@@ -11,12 +11,13 @@ city: Wellington
 suburb: Te Aro
 address: 32a/34 Wigan Street, Te Aro, Wellington 6011
 website: https://www.havanabar.co.nz/
+dishes:
+  - Croquettes with jamón, béchamel, and parmesan
+  - Sourdough with salted butter
+  - Roast squash with orange mascarpone and pomegranate seeds
+  - Beef brisket burger with fries
+  - Fried chicken with cilantro sour cream
 ---
-Croquettes with jamón, béchamel, and parmesan
-Sourdough with salted butter  
-Roast squash with orange mascarpone and pomegranate seeds  
-Beef brisket burger with fries  
-Fried chicken with cilantro sour cream  
 
 Havana Bar, Havana Bar, Havana Bar. I wish we could say we were surprised or disappointed to see you fall out of the fours and down to the threes. But the truth is that your record is spotty, you've yo-yo'd three to four on each of the 4 occasions we've dined with you. 
 

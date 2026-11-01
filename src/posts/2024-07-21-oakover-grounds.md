@@ -11,9 +11,10 @@ city: Swan Valley
 suburb: Swan Valley
 address: 80 Yukich Cl, Middle Swan WA 6056, Australia
 website: https://oakovergrounds.com.au/pages/cafe
+dishes:
+  - Fried chicken burger with chips
+  - Pumpkin salad
 ---
-Fried chicken burger with chips  
-Pumpkin salad  
 
 This is some of the fastest food service we’ve ever had. We’re talking Thai House Express levels of speed. We could see our cocktails being made behind the bar straight after ordering, yet somehow our cooked meals still got there first. How, you might ask? By doing everything quite poorly. 
 

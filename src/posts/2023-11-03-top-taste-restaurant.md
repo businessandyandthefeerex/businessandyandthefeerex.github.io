@@ -11,10 +11,11 @@ city: Wellington
 suburb: Porirua City Centre
 address: 1 Hagley Street, Porirua City Centre, Porirua 5022
 website: http://www.toptaste.co.nz/
+dishes:
+  - Orange steak
+  - Satay hot plate with beef
+  - Rice
 ---
-Orange steak  
-Satay hot plate with beef  
-Rice  
 
 Delusions of grandeur; the restaurant. They had the checklist of things that made you fancy, and boy howdy they checked every single one off it. Tasteless chandelier, check, smooth jazz playing, check, "leather" seats, check. Top Taste serves a mish-mash of Asian cuisines, with Chinese, Korean, Singaporean and Malaysian all featuring on the menu. This is generally a red flag for someone just trying to cherry pick the dishes from each culture that most appeal to kiwi tastes. 
 

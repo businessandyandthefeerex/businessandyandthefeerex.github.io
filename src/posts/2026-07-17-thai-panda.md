@@ -11,9 +11,10 @@ city: Picton
 suburb: Picton
 address: 58 Auckland Street, Marlborough, Picton 7220
 website: https://m.facebook.com/thai.panda.picton/
+dishes:
+  - Massaman curry with slow cooked beef
+  - Beef pad Thai
 ---
-Massaman curry with slow cooked beef  
-Beef pad Thai  
 
 Thai Panda is a Chinese-Thai restaurant on the town edge of Picton. At 7:15 on a Friday night, nobody was there. This didn't help the ambiance, which was already a bit grim. Restaurants in converted villas can come across homely and warm, or they can come across sad and cheap. This was the latter. The decor was very Facebook Marketplace. Every table was different, with different chairs, like they'd just grabbed whatever was going for $35 or less. Ours was a circular glass topped outdoor table. They did at least have the heat pump cranking. 
 

@@ -11,11 +11,12 @@ region: Manwatu
 city: Shannon
 suburb: Shannon
 website: 
----  
-Butter chicken pie  
-Tandoori chicken croissant  
-Apricot almond tartlet  
-Banana smoothie  
+dishes:
+  - Butter chicken pie  
+  - Tandoori chicken croissant  
+  - Apricot almond tartlet  
+  - Banana smoothie  
+---
 
 When is a banana smoothie not a banana smoothie? When it’s a banana milkshake. We’ve said it before, but clearly it bears repeating - if there is no real banana in your smoothie, it is a milkshake. Today's beverage was cold, sweet, banana-ey, by all accounts a decent banana milkshake, but a smoothie it was not, no Sir. And they have been penalised accordingly. But this was hardly their only foible. 
 

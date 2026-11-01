@@ -11,9 +11,10 @@ city: Wellington
 suburb: Newtown
 address: 124 Riddiford Street, Newtown, Wellington 6021
 website: https://www.officebar.co.nz/
+dishes:
+  - BBQ bacon & beef burger
+  - Loaded waffle fries
 ---
-BBQ bacon & beef burger  
-Loaded waffle fries  
 
 Neither the Fee-Rex nor Business Andy knows why we keep ordering loaded fries and hoping for something different. There's a problem with the distribution of the load every single time. We yearn for a day where cheese, sauce, bacon, and sour cream aren't all contained in a single giant slug resting in the middle of the plate. 
 

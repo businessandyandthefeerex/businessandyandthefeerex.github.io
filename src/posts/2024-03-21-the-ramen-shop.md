@@ -11,9 +11,10 @@ city: Wellington
 suburb: Johnsonville
 address: 109 Johnsonville Road, Johnsonville, Wellington 6037
 website: https://theramenshop.co.nz/
+dishes:
+  - Dan dan chicken ramen
+  - Tofu rice bowl
 ---
-Dan dan chicken ramen  
-Tofu rice bowl  
 
 There's not a lot of ramen shops out there, or at least there aren't a lot in our neck of the woods. But if anything, going to another ramen joint right after Hey Ramen just throws the differences between them into a sharper relief. 
 

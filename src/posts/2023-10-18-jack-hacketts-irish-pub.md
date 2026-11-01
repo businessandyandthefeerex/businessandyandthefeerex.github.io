@@ -11,9 +11,10 @@ city: Wellington
 suburb: Te Aro
 address: 52 Taranaki Street, Te Aro, Wellington 6011
 website: https://gibbonshotel.co.nz/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_term=plcid_2151525032168407815
+dishes:
+  - Steak, eggs and chips
+  - Jackfruit burger with chips and aioli
 ---
-Steak, eggs and chips  
-Jackfruit burger with chips and aioli  
 
 The best part about our experience at Jack Hackett's was undoubtedly the live music. We are certainly not always fans of live music in bars/restaurants. Sometimes the music is just plain bad, at other times they're just oppressively loud, and sometimes it just doesn't work. But this was spot on. Music volume very clearly audible but you could still hold a conversation, she had a great voice, and the songs were familiar bangers all the way down (except Heart of Glass, sorry not sorry, Blondie). 
 

@@ -11,10 +11,11 @@ city: Palmerston North
 suburb: Palmerston North
 address: 493 Main Street, Palmerston North Central, Palmerston North 4410
 website: https://www.facebook.com/FlavourBistro/
+dishes:
+  - Bruschetta
+  - Panfried fish on Greek salad with potatoes
+  - Coconut bubble tea with blueberry bubbles
 ---
-Bruschetta  
-Panfried fish on Greek salad with potatoes  
-Coconut bubble tea with blueberry bubbles  
 
 What is Flavour? A restaurant that kind of thinks it's fancy? A karaoke bar? A brunch spot? An ice cream parlour? A takeaway coffee joint?  Yes, yes, yes, yes, and yes. As is almost always the case, when somewhere tries to be all things to all people, it ends up being not much. 
 

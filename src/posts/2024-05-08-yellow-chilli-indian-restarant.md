@@ -11,11 +11,12 @@ city: Wellington
 suburb: Kelburn
 address: 92 Upland Road, Kelburn, Wellington 6012
 website: https://www.theyellowchilli.co.nz/#menu
+dishes:
+  - Paneer lahori with rice
+  - Old Delhi butter chicken with rice
+  - Plain naan
+  - Butter naan
 ---
-Paneer lahori with rice  
-Old Delhi butter chicken with rice  
-Plain naan  
-Butter naan  
 
 Oops, we did it again. We were intrigued when we saw Yellow Chilli had a specialty Indian cocktail menu. You'll recall we were impressed by this when we saw it at Indian Alley Wakefield, and you may recall that we hated what we got there, it was basically a glass of farts. This time around we were cautious. We spotted the jaljeera mohito on the menu and avoided that cup of smelly toilet water, ordering something completely different. Alas, we were fooled. The "secret spices" they used were just jaljeera, and we had another cup of Satan's sphincter to trudge through. 
 

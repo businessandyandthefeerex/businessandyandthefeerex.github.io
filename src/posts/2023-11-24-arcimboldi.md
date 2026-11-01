@@ -11,10 +11,11 @@ city: Wellington
 suburb: Seatoun
 address: 24 Dundas Street, Seatoun, Wellington 6022
 website: https://www.arcimboldi.net/
+dishes:
+  - Beetroot, honey, pecan and basil bruschetta
+  - Blue cheese polenta chips with buffalo sauce
+  - Pizza - Half vegetariana, half salsiccie
 ---
-Beetroot, honey, pecan and basil bruschetta  
-Blue cheese polenta chips with buffalo sauce  
-Pizza: Half vegetariana, half salsiccie  
 
 We stumbled across Arcimboldi on a cold, windy Wellington night and are sure glad we did. It looks tiny from the outside, but is long and thin with most of the dining area hidden out the back, alongside their garden where we saw staff picking ingredients. 
 

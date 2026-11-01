@@ -11,9 +11,10 @@ city: Glenorchy
 suburb: Glenorchy
 address: 25 Argyle Street, Glenorchy 9372
 website: https://www.facebook.com/p/Mr-and-Mrs-Glens-GY-100091710540543/
+dishes:
+  - Pork belly tacos
+  - Tofu and mushroom bao buns
 ---
-Pork belly tacos  
-Tofu and mushroom bao buns  
 
 Don't let the name fool you, Mr Glen's is a taphouse but not a tapas bar. Their 'tapas' were things like chips, garlic bread, wings. By that definition, Lone Star is a tapas bar. 
 

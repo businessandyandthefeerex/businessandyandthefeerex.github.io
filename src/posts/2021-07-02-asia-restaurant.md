@@ -11,12 +11,12 @@ city: Palmerston North
 suburb: Palmerston North
 address: 319 Main Street, Palmerston North Central, Palmerston North 4410
 website: https://www.facebook.com/pages/Asia-Restaurant/182616851774817
+dishes:
+  - Sweet and sour fish with chips and vegetables  
+  - Roast pork and vegetable curry on rice  
+  - Glass of milk  
 ---
 UPDATE: Both the Fee-Rex and Business Andy experienced some moderate digestive symptoms within 4 hours of dining at Asia Restaurant. We're not certain that dinner was the cause, so we have not changed their rating, but it still bears mentioning. 
-
-Sweet and sour fish with chips and vegetables  
-Roast pork and vegetable curry on rice  
-Glass of milk  
 
 Asia Restaurant came from the 70's, and they don't make them like this anymore. There are several things that you need to know if you are going to eat at Asia Restaurant. 
 

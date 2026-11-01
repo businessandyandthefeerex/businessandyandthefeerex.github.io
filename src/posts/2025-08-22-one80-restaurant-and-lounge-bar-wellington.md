@@ -11,11 +11,12 @@ city: Wellington
 suburb: Oriental Bay
 address: 100 Oriental Parade, Oriental Bay, Wellington 6011
 website: https://one80restaurant.co.nz
+dishes:
+  - Wedges
+  - Tandoori chicken pizza
+  - Twin burgers for Wellington on a Plate
+  - Macarons
 ---
-Wedges  
-Tandoori chicken pizza  
-Twin burgers for Wellington on a Plate  
-Macarons    
 
 With an entire wall festooned with awards, and staff eagerly talking about how they are going for another Wellington on a Plate win (have you heard that they won last year and the year before?), One80 sets expectations high from the get go. We recently enjoyed a really fun eight course degustation that they put on as a special event in this very restaurant. But tonight they have not brought their A-game. We were informed that they had split half their staff off to attend Beervana, a beer-based food event that's more about drinking lots of beers and having a spew than it is about the appreciation of subtle flavours and food pairings. Because of this they had eliminated their usual menu and subbed in their bar snacks menu, of which a good wodge was unavailable. Plus they were offering their WOAP burger. 
 

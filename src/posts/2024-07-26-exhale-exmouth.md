@@ -11,12 +11,13 @@ city: Exmouth
 suburb: Exmouth
 address: 1 Thew St, Exmouth WA 6707, Australia
 website: https://www.exhalexmouth.com.au/
+dishes:
+  - Karaage cauliflower
+  - Calamari and chorizo
+  - Roast pumpkin with labneh
+  - Pork hock
+  - Chocolate brownie
 ---
-Karaage cauliflower  
-Calamari and chorizo  
-Roast pumpkin with labneh  
-Pork hock  
-Chocolate brownie  
 
 What an outstanding meal. We both absolutely loved everything that came out. And in a surprise twist, perhaps the most impressive thing was the chocolate brownie. Desserts are so often an afterthought, even at fancy tapas restaurants, but not here. This thing was so rich that it was almost fudge, and the sauces and ice cream accompanying it were simply 
 

@@ -11,9 +11,10 @@ city: Perth
 suburb: Perth
 address: State Highway 1, Rosehill, Auckland 2113
 website: https://www.emberswoodfired.com.au/
+dishes:
+  - Blue cheese gnocchi
+  - Mushroom risotto
 ---
-Blue cheese gnocchi  
-Mushroom risotto  
 
 Embers is an Italian restaurant who, according to local Facebook groups, is on the rise again after a severe dip in quality following two changes of ownership. Embers used to be a favourite haunt of The Fee-Rex’s friend group 6+ years ago, so it was with excitement tinged with trepidation that we returned. 
 

@@ -11,11 +11,12 @@ city: Palmerston North Central
 suburb: Palmerston North Central
 address: 45/47 Princess Street, Palmerston North Central, Palmerston North 4410
 website: http://www.littlesavanna.co.nz/
+dishes:
+  - Garlic flatbread
+  - Roast kumara salad with lamb
+  - Lamb souvlaki with chips and tobacco onion
+  - Affogato
 ---
-Garlic flatbread  
-Roast kumara salad with lamb  
-Lamb souvlaki with chips and tobacco onion  
-Affogato  
 
 It’s been a while since we’ve been to Little Savannah, and we are pleased to see they are still doing very well. On a blustery Thursday night they were really busy, but the service was still friendly and the food came out in good time. 
 

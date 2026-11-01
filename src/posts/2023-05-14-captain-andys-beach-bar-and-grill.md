@@ -11,9 +11,10 @@ city: Aorangi
 suburb: Aorangi
 address: Aroa Rd, Arorangi, Cook Islands
 website: https://www.therarotongan.com/dine/captain-andys-beach-bar-grill.html
+dishes:
+  - Hawaiian chicken burger with chips
+  - Coconut noodle salad
 ---
-Hawaiian chicken burger with chips  
-Coconut noodle salad  
 
 Captain Andy doesn’t seem to care much that such bad food is being served on his watch. We don’t even know why we keep coming back. Okay scratch that, we know exactly why we keep coming back. It’s because he’s the only food for miles in every direction, and it was raining, and we were without transport. 
 

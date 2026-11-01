@@ -11,9 +11,10 @@ city: Wellington
 suburb: Karaka Bays
 address: 497 Karaka Bay Road, Karaka Bays, Wellington 6022
 website: https://www.scorchorama.co.nz/
+dishes:
+  - Tofu scramble with cauliflower, kumara, potato, spinach
+  - Roast potatoes, haloumi, egg, smoked salmon
 ---
-Tofu scramble with cauliflower, kumara, potato, spinach  
-Roast potatoes, haloumi, egg, smoked salmon  
 
 Two more outstanding milkshakes later, the Batman and the Iron Man, Scorch O Rama is still a 3 overall. 
 

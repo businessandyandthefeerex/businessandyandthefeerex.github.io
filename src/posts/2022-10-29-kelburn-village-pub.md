@@ -11,11 +11,12 @@ city: Wellington
 suburb: Kelburn
 address: 87 Upland Road, Kelburn, Wellington 6012
 website: http://kelburnvillagepub.co.nz/wp/our-menu/
+dishes:
+  - Asian salad with carrot, vermicelli, almond, and peanut dressing
+  - Fried chicken burger with bacon and cheese
+  - Sticky date pudding with ice cream
+  - Churros with butterscotch and chocolate sauces
 ---
-Asian salad with carrot, vermicelli, almond, and peanut dressing 
-Fried chicken burger with bacon and cheese  
-Sticky date pudding with ice cream  
-Churros with butterscotch and chocolate sauces  
 
 Kelburn Village Pub has more of a restaurant ambience, dark with widely spaced tables and candles. They made some very good food ... and some very bad food. Also, they don't seem to understand what tapas are. Tapas come in smaller portions made to be shared. An Asian salad is not tapas. Neither is a steak or a piece of fish. 
 

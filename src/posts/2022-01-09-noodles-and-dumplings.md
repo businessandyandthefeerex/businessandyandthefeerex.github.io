@@ -11,10 +11,11 @@ city: Palmerston North
 suburb: Palmerston North
 address: 21 Coleman Place, Palmerston North Central, Palmerston North 4410
 website: https://www.pnnoodlesanddumplings.com/
+dishes:
+  - Sweet and sour pork
+  - Lamb stir fry with bao buns
+  - Brown sugar bubble tea
 ---
-Sweet and sour pork  
-Lamb stir fry with bao buns  
-Brown sugar bubble tea  
 
 You'd think that we would learn our lesson after ordering way too much food last time we ate here. And to be fair, we ordered half as many dishes this time, but we were similarly left with another whole meal once we had finished eating. Next time we're ordering one dish, and maybe a couple of dumplings on the side if we're really hungry.
 

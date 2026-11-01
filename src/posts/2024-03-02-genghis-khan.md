@@ -11,8 +11,9 @@ city: Wellington
 suburb: Mount Victoria
 address: 25 Majoribanks Street, Mount Victoria, Wellington 6011
 website: https://www.genghiskhanrestaurant.co.nz/
+dishes:
+  - Mongolian BBQ
 ---
-Mongolian BBQ 
 
 Genghis Khan is a cheap knock off of Gengy's, and only about a dollar cheaper at that.
 

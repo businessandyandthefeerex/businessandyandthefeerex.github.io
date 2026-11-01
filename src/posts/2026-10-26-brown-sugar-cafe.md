@@ -11,10 +11,11 @@ city: Taihape
 suburb: 
 address: 1 Huia Street, Taihape 4720
 website: http://brownsugarcafe.co.nz/
+dishes:
+  - Savoury scone
+  - Pesto danish
+  - Quince and custard cake
 ---
-Savoury scone  
-Pesto danish  
-Quince and custard cake  
 
 Brown Sugar Cafe is a Taihape staple, as the line out the door at lunchtime on Labour Day attested. We really wanted to like it. Unfortunately, while the staff were friendly and the service was prompt and professional, they just didn’t quite deliver on the food. 
 

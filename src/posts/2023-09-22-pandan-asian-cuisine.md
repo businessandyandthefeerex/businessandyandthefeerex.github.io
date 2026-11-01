@@ -11,11 +11,12 @@ city: Wellington
 suburb: Lower Hutt
 address: 5 Melling Road, Hutt Central, Lower Hutt 5010
 website: http://www.pandanasiancuisine.nz/
+dishes:
+  - Lamb tikka masala
+  - Tofu rendang
+  - Garlic chennai
+  - Butter chennai
 ---
-Lamb tikka masala  
-Tofu rendang  
-Garlic chennai  
-Butter chennai  
 
 If you are looking for excellent service, then look no further than Pandan Asian Cuisine. The guy looking after our table was downright delightful, he hit the perfect balance between attentive, charming, and professional. 
 

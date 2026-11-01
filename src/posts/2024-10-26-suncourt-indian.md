@@ -11,10 +11,11 @@ city: Taupō
 suburb: Taupō
 address: 19 Tamamutu Street, Taupō 3330
 website: https://suncourtindian.co.nz/
+dishes:
+  - Shahi paneer
+  - Butter naan
+  - Cheese naan
 ---
-Shahi paneer  
-Butter naan  
-Cheese naan  
 
 Suncourt Indian isn't part of a food court, but it has that vibe. There are bain-maries which is always concerning, however we were pleased to see that our food was made fresh. Why did they put a couple of bits of grated cheese on top of the curry? We're not quite sure. The shahi paneer was way too sweet, and the paneer was cardboardy, but we appreciated the generous serving of rice and the friendly service. 
 

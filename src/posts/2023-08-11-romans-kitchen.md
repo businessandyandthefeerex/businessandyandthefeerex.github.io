@@ -11,9 +11,10 @@ city: Wellington
 suburb: Te Aro
 address: 245 Cuba Street, Te Aro, Wellington 6011
 website: https://romanskitchen.co.nz/
+dishes:
+  - Macaroni cheese burger
+  - Chicken bites on curly fries
 ---
-Macaroni cheese burger  
-Chicken bites on curly fries  
 
 After an evening movie, it was 9.30 on a Wednesday when we went looking for a place to eat. After a couple of places had closed kitchens, we had some concerns. Luckily Romans Kitchen, with a menu appealing to the late night stoner crowd, was still pumping. Not pumping for dine-in, which seems to be a throwaway part of their business, but pumping for Uber eats certainly. 
 

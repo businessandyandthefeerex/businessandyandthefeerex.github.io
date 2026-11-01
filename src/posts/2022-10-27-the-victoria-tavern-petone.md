@@ -11,11 +11,12 @@ city: Wellington
 suburb: Petone
 address: 140 Jackson Street, Petone, Lower Hutt 5012
 website: http://www.thevictoriatavern.co.nz/
+dishes:
+  - Flatbread with beetroot hummus and dukkah
+  - Beef cheek with fried cabbage, mash, parship batons and jus
+  - Spiced cauliflower steak with cauliflower puree and pesto
+  - Peanut butter mousse and ice cream
 ---
-Flatbread with beetroot hummus and dukkah  
-Beef cheek with fried cabbage, mash, parship batons and jus  
-Spiced cauliflower steak with cauliflower puree and pesto  
-Peanut butter mousse and ice cream  
 
 Oh dear, a few mistakes made tonight. Keep going like this and you'll find yourself at a 1, Victoria Tavern. Their most glaring error was describing the cauliflower steak as spiced when what they meant was spicy-as-fuck. This thing was too hot for us to enjoy, but the menu gave no warning. Yeah, it was described as "spiced" but so is a pumpkin spice latte, and a PSL isn't going to burn your mouth house down. 
 

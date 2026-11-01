@@ -11,9 +11,10 @@ city: Whanganui
 suburb: Whanganui
 address: 313 State Highway 3, Whanganui 4574
 website: http://www.windermerefarms.co.nz/
+dishes:
+  - Pancakes with maple syrup, strawberry and cream
+  - Vegetable focaccia
 ---
-Pancakes with maple syrup, strawberry and cream  
-Vegetable focaccia  
 
 On a sunny December 27th, Windermere Berry Farm is exactly as packed as you would expect. Despite this, everything came out really fast. The vegetable focaccia was bloody good, and that is far from a given. Many veg sandwiches are thoughtless throwaways with mismatched innards, but this focaccia had been given some thought. The caramelised onion, pesto, mushroom and spinach all worked together perfectly and we would be happy to enjoy it again anytime.
 

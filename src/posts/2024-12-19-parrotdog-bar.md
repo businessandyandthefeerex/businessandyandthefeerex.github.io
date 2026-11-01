@@ -11,10 +11,11 @@ city: Wellington
 suburb: Lyall Bay
 address: 60/66 Kingsford Smith Street, Rongotai, Wellington 6022
 website: https://parrotdog.co.nz/pages/parrotdog-bar
+dishes:
+  - Vegetarian burger with fries
+  - Moroccan salad
+  - Churros with stout chocolate sauce
 ---
-Vegetarian burger with fries  
-Moroccan salad   
-Churros with stout chocolate sauce  
 
 Another strong performance from Parrotdog. The salad was the standout. We're generally nervous ordering the salads here, and for good reason as some have been clangers. But this was very nice. The kumara was soft and tasty, but there wasn't enough of it. The chickpeas were really flavourful and a good texture with a super tasty artichoke crema sauce that paired excellently. The rocket was not overbearing, just a good time all round. 
 

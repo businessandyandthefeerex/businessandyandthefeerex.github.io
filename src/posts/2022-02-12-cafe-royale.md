@@ -11,9 +11,10 @@ city: Palmerston North
 suburb: Palmerston North
 address: Square Edge, 47 The Square, Palmerston North 4410
 website: 
+dishes:
+  - Big breakfast
+  - Jackfruit burger
 ---
-Big breakfast  
-Jackfruit burger  
 
 We haven't been somewhere this shambolic since The Cooperage Cafe, and Cafe Royale was even worse. When we arrived we were fourth in the queue. Ten minutes later we were still fourth in the queue. It was immediately obvious that the cafe was disastrously understaffed, with just two servers running around with their heads on fire instead of taking the orders of the people who were waiting. As can happen when the world is ending, these two were just doing the next thing that appeared in front of them like putting chairs nicely around tables, and stacking the menus in their holder. Priorities, ladies! 
 

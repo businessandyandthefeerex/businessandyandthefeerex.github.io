@@ -11,10 +11,11 @@ city: Wellington
 suburb: Lyall Bay
 address: 219 Onepu Road, Lyall Bay, Wellington 6022
 website: http://thebotanistlyallbay.co.nz/
+dishes:
+  - Deep fried cauliflower
+  - Mushroom, coconut, and sage soup
+  - Cheeseburger and chips
 ---
-Deep fried cauliflower  
-Mushroom, coconut, and sage soup  
-Cheeseburger and chips  
 
 Before we talk food, let's talk service. We're not upset, they were short staffed, and the people who actually turned up were very friendly. But plates were left on tables an embarrassingly long time, so long that we were suffering second hand anxiety over them. The waiter at the table next door completely ignored the tidily stacked pile of plates, and tried to leave, even when they were pushed towards him. It was only when frustrated diners called out to his turned back that he reluctantly returned, and did his job. 
 

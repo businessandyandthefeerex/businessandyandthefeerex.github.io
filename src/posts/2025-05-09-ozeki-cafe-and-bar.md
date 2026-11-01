@@ -11,10 +11,11 @@ city: Wellington
 suburb: Te Aro
 address: 161 Tory Street, Te Aro, Wellington 6011
 website: https://www.ozeki.co.nz/
+dishes:
+  - Gyoza
+  - Beef udon soup
+  - Chicken katsu with curry sauce, rice, salad, and miso soup
 ---
-Gyoza  
-Beef udon soup  
-Chicken katsu with curry sauce, rice, salad, and miso soup  
 
 Ozeki is an affordable eatery that encourages BYO, the kind of place you could bring the lads. We know this as there was a table of 30 rowdy dudes in their early 20s revelling in their cheap BYO wine. Looking around Ozeki is well equipped for this, with more huge tables than there were tables for 2-4. 
 

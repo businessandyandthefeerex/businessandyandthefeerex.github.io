@@ -11,10 +11,11 @@ city: Taihape
 suburb: Taihape
 address: 79 Hautapu Street, Taihape 4720
 website: 
+dishes:
+  - Steak and pepper pie
+  - Potato stuffed sausage
+  - Banana and cream pancake
 ---
-Steak and pepper pie  
-Potato stuffed sausage  
-Banana and cream pancake  
 
 What a pleasant surprise this place was. We've been burned at cafes that look just like this in the past, with the hot and cold cabinets, the trays, the sterile seating area, and the often telling emptiness. Taihape Bakery & Cafe bucks this trend though, with very good food, although the ambiance could stand to be improved. 
 

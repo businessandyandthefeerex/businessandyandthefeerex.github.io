@@ -11,9 +11,10 @@ city: Tūrangi
 suburb: Tūrangi
 address: 277 Te Rangitautahanga Road, Tūrangi 3334
 website: https://www.facebook.com/Hydroeatery/
+dishes:
+  - Battered fish bite Turkish pocket with chips
+  - Beef burger with chips
 ---
-Battered fish bite Turkish pocket with chips  
-Beef burger with chips  
 
 Real talk, Hydro Eatery, a pocket holds things. A Turkish bun cut in half, toasted and sandwiched with hot contents is a burger. Additionally, a fish bite can be eaten by a human in one or two bites. Your bites were so big that they were basically a whole fish. Furthermore, the stake that you put through a burger is intended to hold everything together. If that stake touches neither of the two giant pieces of fish so that when you pick up your pocket/burger the fish falls out either side, then that stake is pretty blood redundant isn't it?!
 

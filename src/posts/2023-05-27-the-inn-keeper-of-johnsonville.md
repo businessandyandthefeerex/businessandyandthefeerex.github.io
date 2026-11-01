@@ -11,9 +11,10 @@ city: Wellington
 suburb: Johnsonville
 address: 11-13 Broderick Road, Johnsonville, Wellington 6037
 website: http://www.theinnkeeper.co.nz/
+dishes:
+  - Beef & Guinness pie with salad
+  - Haloumi butty with salad and chips
 ---
-Beef & Guinness pie with salad  
-Haloumi butty with salad and chips  
 
 We've been in the game for a while now, and have a hot tip to share, for all budding restaurant owners. It's very helpful for customers to know that some things are unavailable before ordering. It's less helpful to find out after ordering. The Inn Keeper actually knew this, and called out to his wife in the kitchen to find out if they were out of anything before we ordered. Points. For some reason, his wife neglected to include haloumi in the list, and that she would have to nip over the street to the supermarket to grab some. Points off. 
 

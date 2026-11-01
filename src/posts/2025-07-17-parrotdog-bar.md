@@ -11,11 +11,12 @@ city: Wellington
 suburb: Lyall Bay
 address:  60/66 Kingsford Smith Street, Rongotai, Wellington 6022
 website: https://parrotdog.co.nz/pages/parrotdog-bar 
+dishes:
+  - Crispy fried chicken bites
+  - Sticky fried cauliflower
+  - Kumara gnocchi with cashews, pesto and garlic foccacia
+  - Churros with stout chocolate sauce
 ---
-Crispy fried chicken bites  
-Sticky fried cauliflower  
-Kumara gnocchi with cashews, pesto and garlic foccacia  
-Churros with stout chocolate sauce  
 
 Back at Parrotdog for the first time in months (it's our regular quiz joint) we were excited to try all new menu offerings. Parrotdog delivered with their all time best showing. 
 

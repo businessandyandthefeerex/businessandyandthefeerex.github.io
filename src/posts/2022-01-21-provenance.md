@@ -11,13 +11,14 @@ city: Palmerston North
 suburb: Palmerston North
 address: 159 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 website: http://www.provenancemanawatu.co.nz
+dishes:
+  - Bruschetta
+  - Beef tartar
+  - Fries with truffle and parmesan
+  - Seasonal greens - cabbage
+  - Korean fried chicken
+  - "\"Lemon pie\" with sorbet"
 ---
-Bruschetta  
-Beef tartar  
-Fries with truffle and parmesan  
-Seasonal greens - cabbage  
-Korean fried chicken  
-"Lemon pie" with sorbet  
 
 This place is really made for sharing, they offer small plates, which is all we ordered, and large plates which serve two to three people. Even the desserts are made to be shared, so it's tapas really, even if they don't say that they are. Speaking of sharing, if you are hoping to share a conversation, be aware that the acoustics in Provenance are pretty bad. The general noise level was so loud that we struggled to hear each other at times.
 

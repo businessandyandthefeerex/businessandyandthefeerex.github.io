@@ -11,6 +11,9 @@ city: Palmerston North Central
 suburb: Palmerston North Central
 address: 5 Grey Street, Palmerston North Central, Palmerston North 4410
 website: https://www.instagram.com/popular/fresh-bowl-palmerston-north/
+dishes:
+  - Fried noodles, cabbage, red cabbage, red onion, carrot, garlic aioli, sweet chilli, tofu, and Singapore Steak  
+  - Roast potato, cabbage, red cabbage, carrot, pickles, red onion, cheese, sesame sauce, and won tons  
 ---
 Fried noodles, cabbage, red cabbage, red onion, carrot, garlic aioli, sweet chilli, tofu, and Singapore Steak  
 Roast potato, cabbage, red cabbage, carrot, pickles, red onion, cheese, sesame sauce, and won tons  

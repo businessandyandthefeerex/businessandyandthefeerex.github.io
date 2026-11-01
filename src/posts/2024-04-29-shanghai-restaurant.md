@@ -11,12 +11,13 @@ city: Wellington
 suburb: Te Aro
 address: 121 Manners Street, Te Aro, Wellington 6011
 website: https://www.shanghairestauranttearo.co.nz/
+dishes:
+  - Orange beef with rice
+  - Szechuan lamb with rice
+  - Fried dumplings
+  - BBQ pork
+  - Fried squid
 ---
-Orange beef with rice  
-Szechuan lamb with rice  
-Fried dumplings  
-BBQ pork  
-Fried squid  
 
 Shanghai Restaurant claims to be Wellington's oldest Chinese restaurant, being in service for over 50 years. Their decor supports that - it's proper classic Chinese restaurant stuff, with tablecloths covered with a glass panel, a crowded lobster tank and tacky art on the walls. 
 

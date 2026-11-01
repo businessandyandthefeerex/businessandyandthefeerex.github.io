@@ -11,11 +11,11 @@ region: Wellington
 city: Wellington
 suburb: Kelburn
 website: http://kelburnvillagepub.co.nz/
----  
-Korean fried chicken  
-Onion bhaji  
-Pan fried fish tacos  
-
+dishes:
+  - Korean fried chicken  
+  - Onion bhaji  
+  - Pan fried fish tacos  
+---
 It's always exciting for us to return to a previously reviewed restaurant. How will they stack up? We've had some upgrades, and we've had some downgrades. This is the latter. Interestingly when we reread the old review it became apparent that Kelburn Village Pub was a patchy performer who was lucky to have sat at a 3 for the last few years. Those days are behind you now. Welcome to the 'meh' tier. 
 
 The food wasn't very good. We wanted the fried chicken to be a lot more crisp, but at least it had acceptable flavour. The onion bhaji was passable, although the dipping sauce was very thin and what even was it? The tacos were the worst of the bunch. In what world do you put a huge piece of flat fried fish on top of a little weenie tortilla? How is that going in someone's mouth? It was a corn tortilla open fish sandwich really. Field surgery was required to get any fold. And the only flavour was coming from the pineapple - the Fee-Rex ate all the pineapple on the first bite then it was blandsville from there. Also watch out for your hands, drippies of purple cabbage juice are coming for your white shirts. 

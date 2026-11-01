@@ -11,11 +11,12 @@ city: Wellington
 suburb: Te Aro
 address: 211 Victoria Street, Te Aro, Wellington 6011
 website: https://counterculture.co.nz/
+dishes:
+  - Fried corn, japapeno, and cheese nuggets
+  - Fried tofu bites
+  - Chips
+  - Polenta chips
 ---
-Fried corn, japapeno, and cheese nuggets  
-Fried tofu bites  
-Chips  
-Polenta chips  
 
 While the meals didn't light our souls on fire, you don't go to Counter Culture for the food. You go to play board games, like a pack of huge nerds. 
 

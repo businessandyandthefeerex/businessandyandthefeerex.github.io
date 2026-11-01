@@ -11,8 +11,9 @@ city: Wallingford
 suburb: Wallingford
 address: 2914 Porangahau Road, Wallingford 4284
 website: https://www.wallingford.co.nz/restaurant-wallingford
+dishes:
+  - 9 course degustation
 ---
-9 course degustation  
 
 Wallingford is a beautiful old (1850s) country homestead converted into a B&B. In the evenings they serve gorgeous meals and while most diners are staying at the accommodation, this is not a prerequisite to eat here. 
 

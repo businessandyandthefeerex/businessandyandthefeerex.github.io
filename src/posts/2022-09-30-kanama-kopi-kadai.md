@@ -11,10 +11,11 @@ city: Wellington
 suburb: Kilbirnie
 address: 1 Rongotai Road, Kilbirnie, Wellington 6022
 website: https://www.kanamakopikadai.co.nz/
+dishes:
+  - Vegetarian mamak mee goreng
+  - Beef rendang
+  - Milo tarik
 ---
-Vegetarian mamak mee goreng  
-Beef rendang  
-Milo tarik  
 
 It's not common to get one noticeably nice server let alone two, which was the full front of house staff at Kanama Kopi Kadai. They were a delight. Also delightful was that mamak mee goreng. Holy hell, it did everything right and then some. They cut the vegetables up small, they cut the noodles up small, spicy but not too spicy, good texture combinations, excellent flavours, and pieces of semolina fritter that blew us away. We could have eaten that dish again immediately.
 

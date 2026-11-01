@@ -11,9 +11,10 @@ city: Tūrangi
 suburb: Tūrangi
 address: 25 Te Arahori Street, Tūrangi 3334
 website: https://parklandsmotorlodge.co.nz/restaurant
+dishes:
+  - Scotch fillet with chips, carrots and asparagus
+  - Crumbed terakihi with new potatoes and salad
 ---
-Scotch fillet with chips, carrots and asparagus  
-Crumbed terakihi with new potatoes and salad  
 
 You don't expect to find an elegant restaurant after driving past cabins, a trampoline, and a playground in a camp ground. It's just so incongruous and unexpected, but that's exactly what we found here. The restaurant is dressed up as a classy joint -  tablecloths, wine glasses on the tables and a dark colour palate. It was a nice setup, but just didn't quite fit in with the swing sets and pool outside. 
 

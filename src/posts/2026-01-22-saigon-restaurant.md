@@ -11,9 +11,10 @@ city: Palmerston North Central
 suburb: Palmerston North Central
 address: 327 Broadway Avenue, Palmerston North Central, Palmerston North 4414
 website: http://www.saigon.nz/
+dishes:
+  - Grilled pork wrap
+  - Lemongrass beef bao buns with fries
 ---
-Grilled pork wrap  
-Lemongrass beef bao buns with fries  
 
 A few years since our last visit to Saigon Restaurant, some things have changed and some stay the same. We were glad to see the live music was gone, but they are clearly addicted to over-loud music as their replacement pop music tunes were still excessive in volume. In the stay-the-same category, chips are still going strong at this Vietnamese restaurant. 
 

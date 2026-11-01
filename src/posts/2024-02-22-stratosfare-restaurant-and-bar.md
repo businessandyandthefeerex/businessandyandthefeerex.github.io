@@ -11,8 +11,9 @@ city: Rotorua
 suburb: Rotorua
 address: 178 Fairy Springs Road, Fairy Springs, Rotorua 3015
 website: https://rotorua.skyline.co.nz/things-to-do/stratosfare-restaurant-rotorua/?utm_source=gmb_listing&utm_medium=organic
+dishes:
+  - Buffet
 ---
-Buffet
 
 A buffet is such a rare dining experience for us that when we realise we're heading into a buffet, for a second we get a bit excited. Then the irrefutable truth of the buffet dawns on us and we remember that, while good buffets do exist, they are extremely rare. 
 

@@ -11,12 +11,13 @@ city: Albert Town
 suburb: Albert Town
 address: 20 Alison Avenue, Albert Town 9382
 website: https://www.pembrokepatisserie.co.nz/
+dishes:
+  - Caramel tart
+  - Almond, ginger, and pear tart
+  - Berry Danish
+  - Orange and almond scroll
+  - Maple tea
 ---
-Caramel tart  
-Almond, ginger, and pear tart  
-Berry Danish  
-Orange and almond scroll  
-Maple tea  
 
 Tucked away five minutes out of Wanaka, there is an excellent bakery. The locals all know, and the entrance is a cramped snake of expectant patrons. They only have about 8 tables so be prepared to sit outside or take away. 
 

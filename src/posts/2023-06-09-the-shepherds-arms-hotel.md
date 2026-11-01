@@ -11,9 +11,10 @@ city: Wellington
 suburb: Thorndon
 address: 285 Tinakori Road, Thorndon, Wellington 6011
 website: http://www.shepherds.co.nz/
+dishes:
+  - Beef fillet with mushroom sauce, potatoes and salad
+  - Pan fried gurnard with potatoes, cherry tomatoes, and broccoli
 ---
-Beef fillet with mushroom sauce, potatoes and salad  
-Pan fried gurnard with potatoes, cherry tomatoes, and broccoli 
 
 Let's talk about wait service. We appreciate that hospitality is a hard industry. The pay sucks, the hours suck, there's high turnover, and it's hard to get staff. Excellent service is a rarity, and we don't expect it. But we do hope for service to meet certain basic standards. To be offered another drink when an empty glass is cleared (don't they know that's where the restaurant makes their money?) To be offered dessert at the end of the meal. To be given a steak knife with your steak. For the server to know what is on the menu. For the server to accurately convey your order to the kitchen. Unfortunately, the service at The Shepherds Arms Hotel met none of these hopes. 
 

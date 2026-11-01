@@ -11,14 +11,15 @@ city: Queen Charlotte Sound
 suburb: Queen Charlotte Sound
 address: Queen Charlotte Sound, Private Bag 382, Picton 7250
 website: http://www.bayofmanycoves.co.nz/
+dishes:
+  - Grazing platter
+  - Duck liver parfait
+  - Tomato and mozzarella
+  - Eye fillet with roast kumara and seasonal vegetables
+  - Pan fried chicken with mashed potato and seasonal vegetables
+  - Dark chocolate tart with pop rocks
+  - Mille-feuille
 ---
-Grazing platter  
-Duck liver parfait  
-Tomato and mozzarella  
-Eye fillet with roast kumara and seasonal vegetables  
-Pan fried chicken with mashed potato and seasonal vegetables  
-Dark chocolate tart with pop rocks  
-Mille-feuille  
 
 Bay of Many Coves is a luxury resort in the Marlborough sounds. While we will confine our review to their meals, we will say that our high rating of their food reflects our opinion of the resort as a whole - absolutely fantastic. Note that we are reviewing their guest menus, available exclusively to guests of the resort. There is also a cafe on site where non-guests can visit to dine, but we didn’t eat there because we are too good to mix with that sort of riff-raff. There is no fixed menu at Bay of Many Coves, the meals change based on availability and the chef's preference. 
 

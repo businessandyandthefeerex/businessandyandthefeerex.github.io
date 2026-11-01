@@ -11,10 +11,11 @@ city: Feilding
 suburb: Feilding
 address: 90 Fergusson Street, Feilding 4702
 website: https://m.facebook.com/Delish-Cafe-475330452646182/
+dishes:
+  - Big breakfast
+  - Breakfast muffin
+  - Banana smoothie
 ---
-Big breakfast  
-Breakfast muffin  
-Banana smoothie  
 
 The staff at Delish Cafe are delightful, they complimented Business Andy's shorts, and apologised for the wait even though we hadn't been waiting very long. 
 

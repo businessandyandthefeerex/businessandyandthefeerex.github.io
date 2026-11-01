@@ -11,11 +11,12 @@ city: Wellington
 suburb: Lyall Bay
 address: 60/66 Kingsford Smith Street, Rongotai, Wellington 6022
 website: https://parrotdog.co.nz/pages/parrotdog-bar
+dishes:
+  - Marinated olives
+  - Bread, cheese and dips
+  - Salami with bread, dip and cornichons
+  - Heirloom tomato salad
 ---
-Marinated olives  
-Bread, cheese and dips  
-Salami with bread, dip and cornichons  
-Heirloom tomato salad  
 
 This is an illustrious night for Business Andy and the Fee-Rex. For the first time ever, we have finished a restaurant's menu. We have now tried every item on the Parrotdog menu, except the ceviche salad and the pickled veg (cos, gross). We now feel uniquely qualified to give a historic 'overall rating', taking into account all outings to date. 
 

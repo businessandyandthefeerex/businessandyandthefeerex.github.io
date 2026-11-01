@@ -11,15 +11,16 @@ city: Tūrangi
 suburb: Tūrangi
 address: 2/134 Grace Road, Tūrangi 3382
 website: https://www.hareandcopper.co.nz/
+dishes:
+  - Cheesy garlic bread
+  - Pork bao buns
+  - Tofu bao buns
+  - Popcorn chicken
+  - Roasted bone marrow with bacon marmalade
+  - Jalapeno poppers
+  - Apple & rhubarb crumble with ice cream
+  - Churros with dulce de leche
 ---
-Cheesy garlic bread  
-Pork bao buns  
-Tofu bao buns  
-Popcorn chicken  
-Roasted bone marrow with bacon marmalade  
-Jalapeno poppers  
-Apple & rhubarb crumble with ice cream  
-Churros with dulce de leche  
 
 It's a risk to open up a high end sharing plates joint on the outskirts of Turangi. Where will the customers come from? We thought. We're not sure where they had come from, but they were certainly there. The place was full, luckily we were able to get an outdoor table and it was a gorgeous still evening. 
 

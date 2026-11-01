@@ -11,9 +11,10 @@ city: Wellington
 suburb: Berhampore
 address: 461 Adelaide Road, Berhampore, Wellington 6023
 website: http://www.sprigandfernberhampore.co.nz/
+dishes:
+  - Margherita pizza
+  - Polenta chips
 ---
-Margherita pizza  
-Polenta chips  
 
 Someone call the exterminator, this place is infested. With kids. We've been here on multiple occasions and it's pretty normal for the inside to be teeming with young'uns. Sprig + Fern encourages this through allowing BYO food and having toys on hand. Luckily there is a nice outdoor area for adults to escape to, as long as the weather is playing ball. 
 

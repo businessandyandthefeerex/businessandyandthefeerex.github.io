@@ -11,10 +11,11 @@ city: Wellington
 suburb: Lyall Bay
 address: 60/66 Kingsford Smith Street, Rongotai, Wellington 6022
 website: https://parrotdog.co.nz/pages/parrotdog-bar
+dishes:
+  - Caesar salad with haloumi added
+  - Fried cauliflower with pickles
+  - Beef burger
 ---
-Caesar salad with haloumi added  
-Fried cauliflower with pickles  
-Beef burger  
 
 In a shocking twist, just a few short weeks after we issues our first ever Overall Rating™, Parrotdog has changed their menu. With a new menu comes a new opportunity to impress us. Have they read our review? Everything we panned is gone, but to be fair, most of the old menu is gone. 
 

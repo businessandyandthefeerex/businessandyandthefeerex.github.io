@@ -11,7 +11,8 @@ city: Wellington
 suburb: Te Aro
 address: 210A left bank, Cuba Street, Te Aro, Wellington 6011
 website: https://motherofcoffee.co.nz/
+dishes:
+  - Vegan shared meal for three
 ---
-Vegan shared meal for three 
 
 Mother of Coffee is an Ethiopian restaurant, and a new cuisine for Business Andy and the Fee-Rex. The shared meal was 4 lentil and chickpea dishes, one dish of extremely hot chilli, and a flat grey fluffyish pancake each, which you tear and dip into the curries. There was plenty of food - we bought extra pancakes which was a mistake. The flavours were good and diverse, and the pancake was a fun dining experience. It would have been nice if the pancake was made fresh, it was a bit on the cool side.

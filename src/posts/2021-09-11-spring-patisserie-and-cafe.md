@@ -11,10 +11,11 @@ city: Feilding
 suburb: Feilding
 address: 25 Manchester Square, Feilding 4702
 website: 
+dishes:
+  - Savoury scone
+  - Chicken stack
+  - Chocolate cheesecake
 ---
-Savoury scone  
-Chicken stack  
-Chocolate cheesecake  
 
 When we first walked into the Spring Patisserie, we thought it didn't look much like a patisserie. There were far too many pies and sandwiches in the cabinet, and not enough tartes and choux pastry. Are those things in the pie warmer actually delicate cakes that just look like pies and sausage rolls? The food only raised more questions.
 

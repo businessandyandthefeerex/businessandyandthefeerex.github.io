@@ -11,9 +11,10 @@ city: Wellington
 suburb: Pipitea
 address: Wellington Railway Station, Cnr Featherston Street & Platform, 1 Bunny Street, Pipitea, Wellington 6011
 website: http://www.traxbar.co.nz/
+dishes:
+  - Seasoned wedges with salsa and sour cream
+  - Nacho chips with beef mince, cheese, salsa, and sour cream
 ---
-Seasoned wedges with salsa and sour cream
-Nacho chips with beef mince, cheese, salsa, and sour cream
 
 Trax is located in the busy Wellington train station and caters to the commuter crowd. As such, their prime meal times are breakfast and lunch. In the evenings they focus on drinks for folks at the end of the day before their trip home. Figuring they will have a meal waiting for them, they only serve bar snacks in the evening. And fair enough. But Trax, there's no reason those bar snacks can't be good. 
 

@@ -11,9 +11,10 @@ city: Wellington
 suburb: Paparangi
 address: 5 Mark Avenue, Paparangi, Wellington 6037
 website: https://tandooridhaba.nz/
+dishes:
+  - Malai kofta with plain naan and rice
+  - Mughlai aloo with garlic naan and rice
 ---
-Malai kofta with plain naan and rice  
-Mughlai aloo with garlic naan and rice  
 
 We have long suspected that in most Indian restaurants there are several dishes which are exactly the same sauce but in the menu multiple times under different names. Tonight, we finally had confirmation. When we ordered the malai kofta and the mughlai aloo, we weren't suspicious they were the same. In the menu they didn't sound exactly the same. The waitress took our order, then popped back from the kitchen to tell us both dishes have the same base, and to ask if that was okay. Props to them for tackling this head on, and not acting like our shahi paneer wasn't just a korma. She did sound a bit sheepish, like we'd caught them with their pants down. 
 

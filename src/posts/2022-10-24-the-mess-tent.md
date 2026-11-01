@@ -11,10 +11,11 @@ city: Waiouru
 suburb: Waiouru
 address: Military museum, Waiouru 4861
 website: https://www.armymuseum.co.nz/visit/the-mess-tent-cafe/
+dishes:
+  - Beef nachos
+  - Cinnamon, marscapone and blueberry bagel
+  - Banana smoothie
 ---
-Beef nachos  
-Cinnamon, marscapone and blueberry bagel  
-Banana smoothie  
 
 The Mess Tent is the cafe at the Waiouru Army Museum, the kind of place you stop for lunch when you're driving down State Highway 1. It's clean and tidy, bathrooms, a big carpark and a tank that kids can play on, which is all that a lot of travelling families require. But we have more discerning tastes, and we won't stand for anywhere skating by on convenience alone. 
 

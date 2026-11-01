@@ -11,9 +11,10 @@ city: Wellington
 suburb: Miramar
 address: 37 Miramar Avenue, Miramar, Wellington 6022
 website: 
+dishes:
+  - Fried chicken nibbles with chips
+  - Orange beef with rice
 ---
-Fried chicken nibbles with chips  
-Orange beef with rice  
 
 Alasia Seafood is a suburban takeaways that does fish & chips, Chinese, and fried chicken. They also offer dine-in and may we say they did better than expected in that regard. The tables were clean. The table service was very good. The staff were friendly. They provided sharing plates and bespoke cutlery. 
 

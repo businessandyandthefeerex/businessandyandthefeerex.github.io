@@ -11,11 +11,12 @@ city: Wellington
 suburb: Oriental Bay
 address: 66 Oriental Parade, Oriental Bay, Wellington 6011
 website: https://ohtel.nz/wellington/ohtel-pantry/
+dishes:
+  - Sausage roll
+  - Prosciutto, parmesan, and cheddar toasted sandwich
+  - Orange cake
+  - Baked cheesecake
 ---
-Sausage roll
-Prosciutto, parmesan, and cheddar toasted sandwich
-Orange cake
-Baked cheesecake 
 
 Ohtel, stop it. Stop serving dinner when you are not equipped to do so. You are kidding yourself if you think tonights dinner was alright, or even passable. We get that you want to sell some evening drinks. You've got somebody sitting around at reception, might as well make use of them. Fair enough. But instead of trying to run a kitchen, do a charcuterie, or maybe just bread and dips. Then you wouldn't have to have a cook on site either. Oh wait, you didn't. Your chef didn't even show up on a Friday night, which made half the menu unavailable. 
 

@@ -11,10 +11,11 @@ city: West End
 suburb: West End
 address: 6 Manawaroa Street, West End, Palmerston North 4410
 website: https://www.facebook.com/MasterBakeryPN
+dishes:
+  - Potato top pie
+  - Pork riblet roll
+  - Cookie caramel slice
 ---
-Potato top pie  
-Pork riblet roll  
-Cookie caramel slice  
 
 This is where your Nana would take you in the 90s, right down to the red plastic tray that slides in front of the cabinets and the teeny plates. 
 

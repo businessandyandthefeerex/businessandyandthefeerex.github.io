@@ -11,10 +11,11 @@ city: Wellington
 suburb: Te Aro
 address: 141 Cuba Street, Te Aro, Wellington 6011
 website: http://www.scopa.co.nz/
+dishes:
+  - Mozzarella sticks with spicy honey
+  - Toscana pizza - Italian sausage, mushroom, scamorza, sweet onion
+  - Baked cheesecake with blackberries
 ---
-Mozzarella sticks with spicy honey  
-Toscana pizza - Italian sausage, mushroom, scamorza, sweet onion  
-Baked cheesecake with blackberries  
 
 Scopa Pizzeria is a popular place. We've clocked it before when in the area and noticed its fullness. Tonight when we showed up, as usual reservation-less to a heaving establishment, we were told we could wait for a table. We weren't the only ones waiting, but the food service was pretty fast and we only had to do about 15 minutes standing around at the bar before being seated. 
 

@@ -11,11 +11,12 @@ city: Wellington
 suburb: Brooklyn
 address: 57 Cleveland Street, Brooklyn, Wellington 6021
 website: http://www.burgerwisconsin.co.nz/
+dishes:
+  - Charlie Brown burger
+  - Vegan hemp burger
+  - Hash sticks
+  - Caramel milkshake
 ---
-Charlie Brown burger  
-Vegan hemp burger  
-Hash sticks  
-Caramel milkshake  
 
 The randomiser was in force even more than usual for this meal. Burger Wisconsin (albeit a different branch) is a takeaway destination of ours where we are working through the entire menu using the random number generator. So tonight we selected not just our destination but our meals at random. 
 

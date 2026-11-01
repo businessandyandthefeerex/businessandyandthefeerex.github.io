@@ -11,10 +11,11 @@ city: Wellington
 suburb: Tawa
 address: 24 Main Road, Tawa, Wellington 5028
 website: https://chipmunksplayland.co.nz/westgate/
+dishes:
+  - Beef burger
+  - Fish and chips
+  - Mocha
 ---
-Beef burger  
-Fish and chips  
-Mocha  
 
 As we gazed about our surrounds at Chipmunks, we saw what was perhaps the most captive audience that has ever existed. The 'Munk could have been peddling truly abysmal food and they would have still had a steady flow of bored parents and excited children ordering donuts, coffees, and "frogs in ponds" which were criminally overpriced Freddo frogs in cups of green jelly. Fortunately for us, they took the opportunity to aim a little higher than that, and served up a couple of pleasant surprises. 
 

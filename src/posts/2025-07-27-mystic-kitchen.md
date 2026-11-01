@@ -11,10 +11,11 @@ city: Wellington
 suburb: Strathmore
 address:  4 Glamis Avenue, Strathmore, Wellington 6022
 website: https://www.facebook.com/p/Mystic-Kitchen-100046589324463/ 
+dishes:
+  - Spinach & feta roll
+  - Chicken, chipotle & cheese quesadilla
+  - Apple pie
 ---
-Spinach & feta roll  
-Chicken, chipotle & cheese quesadilla  
-Apple pie  
 
 Mystic Kitchen is a cafe with a funky old scuffy wooden furniture vibe, the indoor tables were made of those big wooden cable spools and the decor was, to use the Fee-Rex's mum's terminology, "shabby chic". They had a great looking cabinet and it was hard to choose what to have. 
 

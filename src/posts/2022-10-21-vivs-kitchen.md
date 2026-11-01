@@ -11,10 +11,11 @@ city: Sanson
 suburb: Sanson
 address: 9 Dundas Road, Sanson 4817
 website: http://vivskitchen.co.nz/
+dishes:
+  - Boysenberry cream horn
+  - Pork riblet roll
+  - Chips
 ---
-Boysenberry cream horn  
-Pork riblet roll  
-Chips  
 
 Viv's Kitchen is a Sanson institution, with its iconic giant cream horn on proud display on State Highway 1. Unsurprisingly, the place was packed. Unfortunately, the experience failed to live up to the hype. The chips were particularly disappointing, they were dry and floury. Dousing them in sauce to remedy this backfired, as the sauce was the cheapest watery tomato sauce available; our friend's description of the sauce as being "straight from 1993" was apt. 
 

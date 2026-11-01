@@ -11,11 +11,12 @@ city: Wānaka
 suburb: Wānaka
 address: 43 Helwick Street, Wānaka 9305
 website: http://spiceroom.co.nz/
+dishes:
+  - Potato cake sliders
+  - Malai kofta with rice
+  - Plain naan
+  - Cheese naan
 ---
-Potato cake sliders  
-Malai kofta with rice  
-Plain naan  
-Cheese naan  
 
 What a mix! The Spice Room managed to serve us 4-worthy as well as 1-worthy dishes tonight. But before we talk about the food, we need to mention 2005s Crazy Frog. What's that? You weren’t expecting to hear Crazy Frog in an Indian restaurant? Neither were we. Yet for some reason, The Spice Room had chosen Crazy Frog as their takeaway phone's ringtone. And yes, the first time we heard it the Fee-Rex danced. She’s only human. But four or five phone calls later, the rosy sheen of nostalgia had worn off and we were mostly just perplexed. 
 

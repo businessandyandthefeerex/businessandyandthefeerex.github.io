@@ -11,11 +11,12 @@ city: Palmerston North
 suburb: Palmerston North
 address: 94 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 website: https://www.cafeeminem.co.nz/
+dishes:
+  - Banana smoothie
+  - Iced vanilla
+  - Diablo pizza
+  - Beef & lamb iskender
 ---
-Banana smoothie  
-Iced vanilla  
-Diablo pizza  
-Beef & lamb iskender  
 
 It's so strange that there are two Turkish/Italian places to eat at in Palmerston North. Similar to Viva Cafe & Bar, Cafe Eminem is trying to be equal parts Turkish restaurant and Italian restaurant, and excelling at neither. Their decor was trying-to-be-fancy-while-not-spending-any-money chic, prominently featuring a fountain right in the middle of the restaurant that was not connected to any water. 
 

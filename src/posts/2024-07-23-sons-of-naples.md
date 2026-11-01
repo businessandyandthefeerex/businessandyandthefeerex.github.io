@@ -11,9 +11,10 @@ city: Margaret River
 suburb: Margaret River
 address: 5/2 Andrews Way, Margaret River WA 6285, Australia
 website: https://www.facebook.com/SonsofNaplesmr/
+dishes:
+  - Three cheese, truffle and mushroom pizza
+  - Eggplant ravioli
 ---
-Three cheese, truffle and mushroom pizza  
-Eggplant ravioli  
 
 Something very rare happened at Sons of Naples tonight. The 4-1 split. This has only occurred a handful of times in BAATFR history, so it’s a pretty big deal. 
 

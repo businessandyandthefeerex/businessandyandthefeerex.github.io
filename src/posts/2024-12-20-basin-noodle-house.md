@@ -11,9 +11,10 @@ city: Wellington
 suburb: Mount Cook
 address: 20 Adelaide Road, Mount Cook, Wellington 6021
 website: http://www.basinnoodle.co.nz/
+dishes:
+  - DanDan Noodle
+  - Eggplant potato capsicum mix with rice
 ---
-DanDan Noodle  
-Eggplant potato capsicum mix with rice  
 
 Basin Noodle House is, as the name may suggest, right by the Basin. It's a bit of a hole in the wall, not necessarily the kind of place you'd notice or stumble upon. But it's a destination. And quite a few had made their way to this destination. Including us there were four tables dining in, and plenty of takeaway traffic, so we thought that they must be doing something right. 
 

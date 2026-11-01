@@ -11,10 +11,11 @@ city: Tarras
 suburb: Tarras
 address: 2792 Tarras-Cromwell Road, Tarras 9383
 website: https://www.facebook.com/tarrascountrycafe/
+dishes:
+  - Cheese roll
+  - Tomato and basil soup
+  - Carrot cake
 ---
-Cheese roll  
-Tomato and basil soup  
-Carrot cake  
 
 We've made some pretty bad tomato soups over the years. Our Revive Kitchen cookbooks are primarily to blame, so imagine our surprise when we were served what seemed to be one of our own terrible soups. Surely they aren't cooking the same sad recipes as us, we only cook a bad soup once then throw the recipe in the bin. And yet..... 
 

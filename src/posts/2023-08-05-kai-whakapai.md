@@ -11,9 +11,10 @@ city: Wānaka
 suburb: Wānaka
 address: 121 Ardmore Street, Wānaka 9305
 website: https://kaiwhakapai.nz/
+dishes:
+  - Katsu chicken burger with chips and aioli
+  - Mushroom, onion jam and walnut pizza
 ---
-Katsu chicken burger with chips and aioli  
-Mushroom, onion jam and walnut pizza  
 
 Kai Whakapai, we need to talk. You've been on this busy corner for 25 years and you've gotten complacent. You were lucky to become an institution, we've seen better establishments than you come and go. Business Andy has fond memories of previous visits here, and we expected better. 
 

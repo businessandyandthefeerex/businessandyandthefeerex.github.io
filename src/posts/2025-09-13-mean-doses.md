@@ -11,10 +11,11 @@ city: Wellington
 suburb: Te Aro
 address: 66 Tory Street, Te Aro, Wellington 6011
 website: https://www.meandoses.co.nz/
+dishes:
+  - Jackfruit burger
+  - Tater tots
+  - Cheesy garlic flatbread
 ---
-Jackfruit burger  
-Tater tots  
-Cheesy garlic flatbread  
 
 While the Mean Doses menu is small, and geared towards the while-you're-having-a-beer-you-might-want-some-food-too crowd, the food was actually pretty good. Surprisingly, the standout was the tots! These are regularly soggy blobs with a cheap tomato sauce, but not tonight. Perfectly crisp, hot and fresh, a spicy sprinkle and a tangy mayo, you can't ask for more and we were lapping them up. 
 

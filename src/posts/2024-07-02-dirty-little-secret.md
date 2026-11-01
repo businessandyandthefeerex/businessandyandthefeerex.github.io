@@ -11,9 +11,10 @@ city: Wellington
 suburb: Te Aro
 address: 54 Taranaki Street, Te Aro, Wellington 6011
 website: https://www.dirtylittlesecret.co.nz
+dishes:
+  - Cauliflower tacos
+  - Chicken burger with chips
 ---
-Cauliflower tacos  
-Chicken burger with chips  
 
 Dirty Little Secret pumps on a Thursday for drag night bingo, but on a Tuesday at 8pm she was pretty deserted. Nevertheless the bar staff were friendly, but using our bingo winnings (first place, what's up) via their app was a huge pain in the ass. 
 

@@ -11,9 +11,10 @@ city: Wellington
 suburb: Strathmore Park
 address: 504 Broadway, Strathmore Park, Wellington 6022
 website: https://muthus.co.nz/
+dishes:
+  - Murtabak
+  - Dosa
 ---
-Murtabak  
-Dosa  
 
 This is becoming a bit of a thing lately. And we appreciate that we sound like old fogeys complaining about change when we say this, but the fully digital, no menu, no table service, no chit chat dining experience is just not that good. Or at least that was our takeaway from Muthus tonight. Yes it's very efficient, and yes there's no paper but how much paper are you really saving here? We know it's actually about staff time, so don't try and tell us different. 
 

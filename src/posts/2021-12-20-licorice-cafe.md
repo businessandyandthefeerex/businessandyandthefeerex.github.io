@@ -11,10 +11,11 @@ city: Motuoapa
 suburb: Motuoapa
 address: 57 State Highway 1, Motuoapa 3382
 website: https://www.facebook.com/pages/category/Cafe/Licorice-CAFE-112651743763985/
+dishes:
+  - Creamy mushrooms on toast
+  - Stuffed kumara
+  - Liquorice slice
 ---
-Creamy mushrooms on toast  
-Stuffed kumara  
-Liquorice slice  
 
 If a place is named  Licorice Cafe, you'd expect a pretty great liquorice slice. As it turns out, the liquorice slice is not the main event here, liquorice is displayed on every wall for sale.
 

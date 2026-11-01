@@ -11,10 +11,11 @@ city: Hokowhitu
 suburb: Hokowhitu
 address: 360 Albert Street, Hokowhitu, Palmerston North 4410
 website: http://www.thefatfarmer.co.nz/
+dishes:
+  - Bruschetta
+  - Beef cheek with waffles
+  - Fried chicken
+  - Flat iron steak with coffee rub
 ---
-Bruschetta  
-Beef cheek with waffles  
-Fried chicken  
-Flat iron steak with coffee rub  
 
 This was the strongest showing from the Fat Farmer thus far, which is saying something given how good their meals have been in the past. Everything that came out of the kitchen was amazing, and yet somehow, the beef cheek still managed to stand out. The cocktails were a bit average but this was an absolutely fabulous meal. Bookings essential. 

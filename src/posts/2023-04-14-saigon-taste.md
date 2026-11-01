@@ -11,9 +11,10 @@ city: Wellington
 suburb: Mount Victoria
 address: 17 Majoribanks Street, Mount Victoria, Wellington 6011
 website: https://www.saigontaste.co.nz/contact
+dishes:
+  - Beef and vegetable stir fry with crispy noodles
+  - Vietnamese pancake with tofu, mung beans, mushrooms, and salad
 ---
-Beef and vegetable stir fry with crispy noodles  
-Vietnamese pancake with tofu, mung beans, mushrooms, and salad  
 
 Saigon Taste? More like Saigon waste-of-our-time, Saigon make-you-wait, Saigon hope-you-weren't-in-a-hurry. If it isn't clear, we were displeased with the wait, which was 15 minutes to order, and then 45 minutes for our food. The table behind us loudly complained that they had been waiting over an hour. Yes, the restaurant was full, and yes, they were doing a fairly steady takeaway trade, but if you're going to make people wait that long, either warn them or just turn some away. 
 

@@ -11,9 +11,10 @@ city: Wellington
 suburb: Island Bay
 address: 163 The Parade, Island Bay, Wellington 6023
 website: https://www.thewalrusbucket.co.nz/
+dishes:
+  - Pork belly burger with chips
+  - Cauliflower steak
 ---
-Pork belly burger with chips  
-Cauliflower steak  
 
 Pop quiz, when one orders a cauliflower steak, do you expect to receive:
 

@@ -11,9 +11,10 @@ city: Auckland City Centre
 suburb: Auckland City Centre
 address: 86 Federal Street, Auckland City, Auckland 1010
 website: https://thefed.co.nz/
+dishes:
+  - Poutine with pastrami
+  - American hot dog
 ---
-Poutine with pastrami  
-American hot dog  
 
 Now that we've eaten at this cool diner twice, we have been accepted into the ranks of the Cool People™. Don't even speak to us if you are one of those unacceptably lame losers who would call Federal Delicatessen by it's full name, sheesh, we'll be referring to it as the Fed Deli from now on.
 

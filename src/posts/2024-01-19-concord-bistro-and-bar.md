@@ -11,11 +11,12 @@ city: Wellington
 suburb: Te Aro
 address: 81 Victoria Street, Te Aro, Wellington 6011
 website: https://www.concordrestaurant.co.nz/
+dishes:
+  - Eye fillet with fries and Cafe de Paris butter
+  - Creamy pasta with parmesan
+  - Mille feuille with strawberries and sunflower cream
+  - Crepes Suzette
 ---
-Eye fillet with fries and Cafe de Paris butter  
-Creamy pasta with parmesan  
-Mille feuille with strawberries and sunflower cream  
-Crepes Suzette  
 
 Concord Bistro is a rip off. They've decided they're fancy, they have cloth napkins and French words on the menu after all, and they've hiked those prices up to high heaven. They had large paper menus, which is okay. But then they left the paper menus intentionally on the table after you order so that you used them as a placemat. What is this, a Pizza Hut (R.I.P. dine in Pizza Hut)? Is there a colouring-in picture and a maze on the back? It was so tacky and incongruent. If I'm paying $52 for a steak and chips, $21 per cocktail and a stunning $28 for a pasta with just cream and parmesan (no meat, no veg, nothing), then please take away your paper tablemat. Perhaps they have shares in the forestry industry, because they also insisted we use paper coasters. Why? 
 

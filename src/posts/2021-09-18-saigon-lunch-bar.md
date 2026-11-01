@@ -11,9 +11,10 @@ city: Palmerston North
 suburb: Palmerston North
 address: 15 Fitzherbert Avenue, Palmerston North Central, Palmerston North 4410
 website: https://www.instagram.com/saigon_garden_nz
+dishes:
+  - Beef lemongrass bahn mi
+  - Beef pho
 ---
-Beef lemongrass bahn mi  
-Beef pho  
 
 You may remember our review of Saigon Restaurant & Bar where most meals came with chips, save that information for later. 
 

@@ -11,9 +11,10 @@ city: Palmerston North
 suburb: Palmerston North
 address: 194/200 Ruapehu Drive, Fitzherbert, Palmerston North 4410
 website: https://www.facebook.com/mekong.feilding/posts/thaifood-palmerstonnorthnz-manawatu_nz-feildingnz/641121915735259/
+dishes:
+  - Khao phad with tofu
+  - Gaeng Panaeng with beef and rice
 ---
-Khao phad with tofu  
-Gaeng Panaeng with beef and rice  
 
 You may have noticed a pattern when Business Andy and The Fee-Rex visit Thai places. The Fee-Rex almost always orders a tofu pad thai, and Business Andy generally orders a Massaman Curry. Tonight we decided to branch out, and we were not rewarded. 
 

@@ -11,10 +11,11 @@ region: Wellington
 city: Wellington
 suburb: Te Aro
 website: https://soulshackhotchicken.co.nz/
----  
-The Sando   
-Fried cauliflower  
-Boneless bone meal  
+dishes:
+  - The Sando   
+  - Fried cauliflower  
+  - Boneless bone meal  
+---
 
 You might think that fried chicken is always going to be delicious. We, and Chickking, are here to tell you that you're wrong. Fried chicken is more often a failure than a success, so it was with trepidation that we walked into Soul Shack. And it is with our hands held high that we walked out. 
 

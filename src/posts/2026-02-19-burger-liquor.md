@@ -11,10 +11,11 @@ city: Wellington
 suburb: Te Aro
 address: 129 Willis Street, Te Aro, Wellington 6011
 website: https://www.burgerliquor.co.nz/
+dishes:
+  - Popcorn chicken
+  - The Smokey
+  - The Schnitz
 ---
-Popcorn chicken    
-The Smokey  
-The Schnitz  
 
 Remaining a 4 is not a small task. And the truth is that we should be paying a lot of attention to any 4 at which we dine again. Perhaps we weren't quite up to the task of re-reviewing Burger Liquor tonight, but we didn't quite leave with the same impression that they have previously had no trouble leaving. 
 

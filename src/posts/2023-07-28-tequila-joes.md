@@ -11,9 +11,10 @@ city: Wellington
 suburb: Te Aro
 address: 43 Vivian Street, Te Aro, Wellington 6011
 website: http://www.tequilajoes.co.nz/
+dishes:
+  - Beef brisket nachos
+  - Fish tacos
 ---
-Beef brisket nachos  
-Fish tacos  
 
 Let's talk in-restaurant movies. We're certainly not against the idea, you'll recall how pleased we were to see Space Jam at Burger Liquor. Tequila Joe's was playing an illegal download of Django Unchained complete with FOR YOUR CONSIDERATION intermittently at the bottom of the screen. That movie is dope and we've seen it multiple times. But for a restaurant? There is gory violence, nudity, and torture. They did play it in black and white which helped tone it down, but still, it was a surprise. At least you couldn't hear the audio. 
 

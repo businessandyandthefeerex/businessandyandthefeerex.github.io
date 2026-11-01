@@ -11,9 +11,10 @@ city: Wellington
 suburb: Te Aro
 address: Best Ugly Bagels, 5 Swan Lane, Te Aro, Wellington 6011
 website: https://www.bestugly.co.nz/
+dishes:
+  - Yodi bagel - pastrami, Swiss cheese, mustard, pickle
+  - Jellytip bagel - chocolate, raspberry jam, whatever that white stuff was
 ---
-Yodi bagel: pastrami, Swiss cheese, mustard, pickle  
-Jellytip bagel: chocolate, raspberry jam, whatever that white stuff was  
 
 While they did their best to emulate the venerable jelly tip ice cream, Best Ugly Bagel fell a bit short here. The chocolate sauce wasn't particularly nice, the jam was too sweet, and the chocolate bagel was a mistake, they should have just gone for a plain bagel here and let the toppings do the talking.
 

@@ -11,11 +11,12 @@ city: Wellington
 suburb: Te Aro
 address: 100 Taranaki Street, Te Aro, Wellington 6011
 website: 
+dishes:
+  - Arancini balls
+  - Fried chicken
+  - Bread with dips
+  - Braised beef in butternut bread
 ---
-Arancini balls  
-Fried chicken  
-Bread with dips  
-Braised beef in butternut bread  
 
 Whistling Sisters serves their meals tapas style - food comes out whenever its ready, and its made for sharing, which we love. We definitely looked down on our neighbouring table who ordered one plate each and absolutely refused to share, even though two of the dudes had bought large charcuterie platters. Weird. 
 

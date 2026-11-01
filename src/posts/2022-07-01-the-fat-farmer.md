@@ -11,14 +11,15 @@ city: Hokowhitu
 suburb: Hokowhitu
 address: 360 Albert Street, Hokowhitu, Palmerston North 4410
 website: http://www.thefatfarmer.co.nz/
+dishes:
+  - Goats cheese with honey and hazlenuts
+  - Polenta crumbed squid rings with mayo
+  - Chicken bao buns
+  - Pork bao buns
+  - Gnocchi with pumpkin, sage and burnt butter
+  - Chicken thigh with Israeli couscous
+  - Tarte tartin with cream and mascarpone
 ---
-Goats cheese with honey and hazlenuts  
-Polenta crumbed squid rings with mayo  
-Chicken bao buns  
-Pork bao buns  
-Gnocchi with pumpkin, sage and burnt butter  
-Chicken thigh with Israeli couscous  
-Tarte tartin with cream and mascarpone  
 
 Fat Farmer, you've done it again. At present, this is our favourite place to eat in Palmy. Tonight we had a few new dishes, and a few we'd had before. The goats cheese continues to be outstanding. We've had both bao buns before, and tonight we reaffirmed that the pork is indeed better than the chicken. 
 

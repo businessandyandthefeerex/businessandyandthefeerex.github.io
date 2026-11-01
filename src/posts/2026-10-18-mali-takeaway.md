@@ -11,9 +11,10 @@ city: Wellington
 suburb: Thorndon
 address: 356 Tinakori Road, Thorndon, Wellington 6011
 website: https://www.facebook.com/share/17pnyCvpB9/?mibextid=wwXIfr
+dishes:
+  - Beef lard na
+  - Tofu choo chee stir fry
 ---
-Beef lard na  
-Tofu choo chee stir fry  
 
 Mali is a little bit underground. Their name says Takeaway, their sign says Takeaway, and they are small, but the dozen Thai and Laotian folks enjoying a meal inside said Dine-in. We felt like we might have snuck into a diamond in the rough. 
 

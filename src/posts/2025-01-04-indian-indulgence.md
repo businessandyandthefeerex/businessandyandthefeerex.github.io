@@ -11,11 +11,12 @@ city: Palmerston North
 suburb: Palmerston North
 address: 63 George Street, Palmerston North Central, Palmerston North 4410
 website: https://indianindulgence.nz/
+dishes:
+  - Malai kofta
+  - Plain naan
+  - Garlic naan
+  - Onion bhaji
 ---
-Malai kofta  
-Plain naan  
-Garlic naan  
-Onion bhaji  
 
 On New Years Day in Palmerston North, dining options were limited. Our first two places we randomised were closed, and we then drove the streets looking for bright lights. We weren't the only people to have found Indian Indulgence, with 5 other tables plus some people getting takeaways. Despite this the service was prompt and friendly.
 

@@ -11,11 +11,12 @@ city: Hahei
 suburb: Hahei
 address: 48 Hahei Beach Road, Hahei 3591
 website: https://littlebluehahei.co.nz/
+dishes:
+  - Vegan burrito
+  - Banana, walnut, and peanut butter bagel
+  - Potato tots with aioli
+  - Banana smoothie
 ---
-Vegan burrito  
-Banana, walnut, and peanut butter bagel  
-Potato tots with aioli  
-Banana smoothie  
 
 Whoa, guys, check out this burrito. Oh my stars. This was the type of simple perfection which has us leaving asking why everybody isn’t serving this. There was nothing fancy going on - potatoes that had been boiled then lightly fried, beans, avocado, tomato, scrambled tofu, spinach. Well constructed in a burrito that wasn’t inclined to fall apart and then toasted to perfection. No cold spots here. No sauce, it doesn’t need it. This kind of dish just drives home, you don’t have to be fancy to get a 4. Anyone can do it, your food just has to be good. 
 

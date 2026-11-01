@@ -11,9 +11,10 @@ city: Wellington
 suburb: Strathmore Park
 address: 3/5 Strathmore Avenue, Strathmore Park, Wellington 6022
 website: https://www.strathmorelocal.co.nz/
+dishes:
+  - Mac & cheese
+  - Bangers & mash
 ---
-Mac & cheese  
-Bangers & mash  
 
 There's just no coming back from that mac & cheese. Completely flavourless, absolutely massive, what an ungodly undertaking. One of the distinguishing features of a 1 is that we can easily list 3 ways to instantly move it to a 2 with next to zero effort. 1 - Put on some frickin salt and pepper. 2 - Grill some cheese on the top (we know what you're thinking, that's minimum standard, and you're right). 3 - Shave at least $4 off the price of this meatless concoction that you make in a vat for less than $5/portion. Would the addition of meat or chicken (for a price) have made it better? Yes. But you shouldn't have to add an extra in order to make a meal edible. 
 

@@ -11,9 +11,10 @@ city: Rotorua
 suburb: Rotorua
 address: 346/352 Te Ngae Road, Lynmore, Rotorua 3010
 website: https://www.nzkebabandpizzahouse.nz/
+dishes:
+  - Paneer iskender
+  - Butter paneer pizza
 ---
-Paneer iskender  
-Butter paneer pizza 
 
 NZ Kebab & Pizza house does Turkish food and pizzas (surprise, surprise), but with an Indian twist. We've never seen paneer iskender before, and were keen to give it a go. Tell you what, it was pretty good. The paneer went well with the sauces, with the sticky rice and with the salads. Halloumi is usually the cheese associated with Turkish food, and we are all for halloumi, but having tried both we'd say the paneer is just as good. 
 

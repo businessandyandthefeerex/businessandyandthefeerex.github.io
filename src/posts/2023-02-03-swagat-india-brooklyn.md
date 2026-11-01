@@ -11,9 +11,10 @@ city: Wellington
 suburb: Brooklyn
 address: 60 Cleveland Street, Brooklyn, Wellington 6021
 website: https://swagatindiabrooklyn.co.nz/
+dishes:
+  - Swagat paneer with rice and plain naan
+  - Chicken pulusu with rice and chilli cheese naan
 ---
-Swagat paneer with rice and plain naan  
-Chicken pulusu with rice and chilli cheese naan  
 
 Complimentary poppadoms - check. Fast service - check. Warm plates - no check. Despite this faux pas, we had a very good meal at Swagat India. The curries were both quite special and were different to what we've had before. They'd even sprinkled a bit of fresh coriander and spring onion on the top for a bit of razzle-dazzle. 
 

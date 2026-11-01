@@ -11,9 +11,10 @@ city: Queenstown
 suburb: Queenstown
 address: 17 Marine Parade, Queenstown 9300
 website: http://www.botswanabutchery.co.nz/
+dishes:
+  - Crispy squid
+  - Saffron and osso buco risotto
 ---
-Crispy squid  
-Saffron and osso buco risotto  
 
 Employing a eat-at-the-first-place-we-see system, we stumbled along Botswana Butchery. It’s a little bit fancy, with prices to match, but you could see and taste where the money had gone and that’s what counts. 
 

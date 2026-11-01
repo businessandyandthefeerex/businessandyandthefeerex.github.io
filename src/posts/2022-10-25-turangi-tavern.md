@@ -11,9 +11,10 @@ city: Tūrangi
 suburb: Tūrangi
 address: 277 Te Rangitautahanga Road, Tūrangi 3334
 website: https://turangitavern.co.nz/
+dishes:
+  - Supreme pizza
+  - Meat lovers pizza
 ---
-Supreme pizza  
-Meat lovers pizza  
 
 Looking for a late night (8pm!) meal in Turangi. Well you're out of luck. Even the supermarket is closed! Valentino's, which says it's open til 10, closed. Burger King is open, but who's that desperate. Enter the hero of the evening, Turangi Tavern, serving meals til 8.30. 
 

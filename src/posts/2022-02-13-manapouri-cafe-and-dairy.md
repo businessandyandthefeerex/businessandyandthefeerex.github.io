@@ -11,9 +11,10 @@ city: Manapouri
 suburb: Manapouri
 address: 29 Waiau Street, Manapouri 9679
 website:
+dishes:
+  - Fish and chips
+  - Beef burger and chips
 ---
-Fish and chips  
-Beef burger and chips  
 
 Manapouri Cafe & Dairy is the closest eatery to the popular Lake Manapouri jetty, so a certain amount of business is always going to come their way, and they know it. Consequently they haven't put an awful lot of effort into their menu or cookery. The cook had a panicked vibe to her, bought us out another tables meals, and then when our meals arrived had forgotten the chips. 
 

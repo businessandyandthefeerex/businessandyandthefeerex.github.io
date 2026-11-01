@@ -11,9 +11,10 @@ city: Lake Tekapo
 suburb: Lake Tekapo
 address: State Highway 8, Lake Tekapo 7999
 website: https://www.reflectionsrestaurant.co.nz/
+dishes:
+  - Oxtail ragu with broccolini and parmesan gnocchi
+  - Breads and dips
 ---
-Oxtail ragu with broccolini and parmesan gnocchi  
-Breads and dips  
 
 Okay first things first, that wasn't a ragu. Second things second, that wasn't broccolini. We weren't born yesterday, you can't sneak regular plain old broccoli past us, and you especially can't if you're also charging swanky place prices. 
 

@@ -11,10 +11,11 @@ city: Margaret River
 suburb: Margaret River
 address: 211 Bussell Hwy, Margaret River WA 6285, Australia
 website: https://www.facebook.com/BetterChoiceMargs/
+dishes:
+  - Chicken and cheese crumbed sausage
+  - Hash brown
+  - Italian panini
 ---
-Chicken and cheese crumbed sausage  
-Hash brown  
-Italian panini  
 
 Better Choice Cafe very proudly, and very clearly describes itself as a dine-in cafe. Those exact words are written in large yellow lettering right across the top of the building. They aren’t willing to let their location (in a petrol station) slow them down in the slightest. But when you’re sitting betwixt the bagged ice, gas bottle swap, and the emergency spill kit, it really feels like you’re just sitting in a petrol station. 
 

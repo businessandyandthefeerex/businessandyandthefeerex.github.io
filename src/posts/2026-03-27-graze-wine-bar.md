@@ -11,13 +11,14 @@ city: Wellington
 suburb: Kelburn
 address: 95 Upland Road, Kelburn, Wellington 6012
 website: http://www.grazewinebar.co.nz/
+dishes:
+  - Sourdough with olive oil
+  - Chilli cheese popcorn
+  - Roast pumpkin with macadamia
+  - Fried oyster mushrooms with smoked ricotta
+  - Rosemary cheesecake with meringue
+  - Hot cross bun with quince
 ---
-Sourdough with olive oil  
-Chilli cheese popcorn  
-Roast pumpkin with macadamia  
-Fried oyster mushrooms with smoked ricotta  
-Rosemary cheesecake with meringue  
-Hot cross bun with quince  
 
 Approaching Graze Wine Bar, we were nervous. Most of the time we eat at a bar it's not good news. Bar snacks tend to be a throwaway affair for drunken diners too tipsy and lazy to go elsewhere. When we saw the menu was only on a chalkboard, our trepidation intensified. How very wrong we were. 
 

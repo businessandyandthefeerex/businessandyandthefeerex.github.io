@@ -11,9 +11,10 @@ city: Margaret River
 suburb: Margaret River
 address: 133 Bussell Hwy, Margaret River WA 6285, Australia
 website: https://goldendragonchinese.com.au/order-now
+dishes:
+  - Chilli fried beef
+  - Mongolian lamb
 ---
-Chilli fried beef  
-Mongolian lamb  
 
 Golden Dragon looks like your typical hole-in-the-wall Chinese joint. Sparsely populated with customers and absolutely heaving with red and gold tasselled decorations. Then, as if to say “you don’t know me”, the music was 100% ballads from the 50s. I’m talking ‘born free as free as the wind blows as free as the grass grows”, proper jams you might hear at your granddad's wake. 
 

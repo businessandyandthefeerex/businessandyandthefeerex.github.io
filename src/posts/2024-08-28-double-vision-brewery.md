@@ -11,9 +11,10 @@ city: Wellington
 suburb: Miramar
 address: 128A Unit E, Park Road, Miramar, Wellington 6022
 website: https://doublevisionbrewing.com/
+dishes:
+  - Vegetarian philly cheese steak
+  - Beef burger
 ---
-Vegetarian philly cheese steak  
-Beef burger  
 
 After a big morning deep cleaning the bathroom, we decided to roll the dice and get lunch at quiz today. While we wouldn't say we were impressed, it was at least a better performance than last time. In terms of the food. Not in terms of their new quiz master, who only gave you about 2 seconds thinking space between questions. We can't remember all seven dwarfs names in that time, be reasonable woman! 
 

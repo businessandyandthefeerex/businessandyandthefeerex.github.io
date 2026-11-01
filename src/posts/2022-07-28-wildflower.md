@@ -11,8 +11,9 @@ city: Perth
 suburb: Perth
 address: COMO The Treasury Level 4, 1 Cathedral Ave, Perth WA 6000, Australia
 website: https://wildflowerperth.com.au/
+dishes:
+  - Six course degustation
 ---
-Six course degustation
 
 This meal pushed the boat out in terms of ingredients, textures, and flavours. While we appreciate innovation, the skill and hard work of the chefs, and love to try something new, not every course was a winner. 
 

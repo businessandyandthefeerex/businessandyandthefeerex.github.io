@@ -11,12 +11,13 @@ city: Wellington
 suburb: Te Aro
 address: 88 Tory Street, Te Aro, Wellington 6011
 website: 
+dishes:
+  - Mushroom broth hot pot
+  - Chicken skewers
+  - Pork skewers
+  - Beef meatballs
+  - Fried dumplings
 ---
-Mushroom broth hot pot  
-Chicken skewers  
-Pork skewers  
-Beef meatballs  
-Fried dumplings  
 
 We are new to Hot Pot dining so Top Kitchen was a bit exciting for us and had an opportunity to set a bar to meet. Turns out, the bar isn't very high. 
 

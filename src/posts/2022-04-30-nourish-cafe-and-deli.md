@@ -11,11 +11,12 @@ city: Palmerston North
 suburb: Palmerston North
 address: 38-60 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 website: http://www.cafenourish.co.nz/
+dishes:
+  - Banana smoothie
+  - Potato rosti with salad
+  - Fried chicken with shoestring fries and salad
+  - Melting moment
 ---
-Banana smoothie  
-Potato rosti with salad  
-Fried chicken with shoestring fries and salad  
-Melting moment  
 
 Being part of the unpopular food court is tough, but Nourish Cafe & Deli isn't doing much to elevate their station. 
 

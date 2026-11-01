@@ -11,10 +11,11 @@ city: Wellington
 suburb: Lyall Bay
 address: 6022/200 Queens Drive, Lyall Bay, Wellington 6022
 website: http://www.queens.co.nz/
+dishes:
+  - Mini pizza with artichoke, tomato, and pesto
+  - Toasted spicy pumpkin, cheese, onion, and spinach sandwich
+  - Passionfruit, lemon, and coconut slice
 ---
-Mini pizza with artichoke, tomato, and pesto  
-Toasted spicy pumpkin, cheese, onion, and spinach sandwich   
-Passionfruit, lemon, and coconut slice  
 
 Queen Sally's is a small, quirky deli with a particular emphasis on vegetarian/vegan food. In fact, we didn't notice any options with meat, although their website says they have two meat options available at a time. Their was certainly plenty of nice looking food on offer, predominantly from the cabinet, and the place was very busy. 
 

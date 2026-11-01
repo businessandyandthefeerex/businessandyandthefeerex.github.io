@@ -11,9 +11,10 @@ city: Wellington
 suburb: Petone
 address: 45 Jackson Street, Petone, Lower Hutt 5012
 website: https://www.facebook.com/spicetraderspetone/
+dishes:
+  - Butter chicken with rice and cheese & garlic naan
+  - Malai kofta with rice and plain naan
 ---
-Butter chicken with rice and cheese & garlic naan
-Malai kofta with rice and plain naan
 
 No lube, in we go. This was the worst curry chicken we have ever had. And that's saying something. It was dry, beyond dry. Arid. How did it get so dry? It had come from a bain-marie, and yeah it had probably been there for hours, but they don't get this dry just from that. It must have been baking for a good 3 days before going into the warmer. 
 

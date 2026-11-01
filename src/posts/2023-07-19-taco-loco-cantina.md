@@ -11,12 +11,13 @@ city: Mount Albert
 suburb: Mount Albert
 address: 179 Mount Albert Road, Mount Albert, Auckland 1025
 website: http://tacoloconz.co.nz/
+dishes:
+  - Deep fried halloumi balls
+  - Jalapeno Popper
+  - Carnitas
+  - Jackfruit quesidilla
+  - Banana empanadas
 ---
-Deep fried halloumi balls  
-Jalapeno Popper  
-Carnitas  
-Jackfruit quesidilla  
-Banana empanadas  
 
 We dig on Mexican food and don't get to have it very often so were excited to head to taco Loco. We were (mostly) not disappointed. 
 

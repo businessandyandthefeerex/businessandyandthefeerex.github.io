@@ -11,9 +11,10 @@ city: Wellington
 suburb: Brooklyn
 address: 55 Cleveland Street, Brooklyn, Wellington 6021
 website: https://www.1852pubandkitchen.co.nz/
+dishes:
+  - Cheese pizza
+  - Beef & caramelised onion pizza
 ---
-Cheese pizza  
-Beef & caramelised onion pizza  
 
 "1841 was the year which this great community of ours was settled by Frank Johnson. 1841 Bar and Restaurant is here to bring good old fashioned local hospitality to Johnsonville and the wider Wellington Community."
 

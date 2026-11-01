@@ -11,10 +11,11 @@ city: Wellington
 suburb: Tawa
 address: Tawa Barber Shop 124 Main Road, Tawa, Wellington 5028
 website: 
+dishes:
+  - Red curry with kumara and pineapple
+  - Drunken noodles with beef
+  - Chicken satay skewers
 ---
-Red curry with kumara and pineapple  
-Drunken noodles with beef  
-Chicken satay skewers  
 
 How many pieces of pineapple would you expect to have in a kumara and pineapple curry? 5? 6? If you answered zero, you are either the proprietors of Thai Country Cafe, or a psychopath. Making matters worse, we're not 100% sure there was any kumara in it either. There was certainly a starchy vegetable, but it was either very pale kumara, or just potato. Either way, damning. 
 

@@ -11,9 +11,10 @@ city: Wellington
 suburb: Te Aro
 address: 122 Courtenay Place, Te Aro, Wellington 6011
 website: https://www.facebook.com/residencewellington/
+dishes:
+  - Beef nachos
+  - Halloumi burger with chips
 ---
-Beef nachos  
-Halloumi burger with chips  
 
 Anywhere that switches songs halfway through the solo in Hotel California had an uphill climb to impress Business Andy and The Fee-Rex. The Residences decidedly unremarkable meals did nothing to sway our opinion. 
 

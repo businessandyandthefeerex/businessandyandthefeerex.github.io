@@ -11,10 +11,11 @@ city: Wellington
 suburb: Lyall Bay
 address: 219 Onepu Road, Lyall Bay, Wellington 6022
 website: https://thebotanistlyallbay.co.nz/
+dishes:
+  - Breakfast halloumi bao bun
+  - Tofu bao bun
+  - Deep fried cauliflower
 ---
-Breakfast halloumi bao bun  
-Tofu bao bun  
-Deep fried cauliflower  
 
 This is our third time dining at The Botanist, and our third time complaining about their service. In fairness, the service was better than the previous outings, but there was a service incident which can not go un-discussed. Get a load of this. 
 

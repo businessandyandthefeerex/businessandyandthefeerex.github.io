@@ -11,9 +11,10 @@ city: Takitumu District
 suburb: Takitumu District
 address: Main Road - Titikaveka, Rarotonga, Cook Islands
 website: https://www.pacificresort.com/little-polynesian/dining/
+dishes:
+  - Pork belly wrap
+  - Sizzling Mongolian beef
 ---
-Pork belly wrap  
-Sizzling Mongolian beef  
 
 That’s more like it Raro! This was easily the best meal we’ve had on the island, and truly a delight. The pork belly was juicy and sweet with great cracking and a nice homemade pawpaw chutney. The Mongolian beef was exactly what you’d expect - boiling hot, sticky, sweet and saucy. It wasn’t reinventing the wheel, but it did the wheel very nicely. 
 

@@ -11,10 +11,11 @@ city: Palmerston North
 suburb: Palmerston North
 address: 68 The Square, Palmerston North Central, Palmerston North 4410
 website: https://www.facebook.com/phonemkiwi/
+dishes:
+  - Tofu and shitake mushrooms with rice
+  - Pork belly with rice
+  - Honey and lemon tea
 ---
-Tofu and shitake mushrooms with rice  
-Pork belly with rice  
-Honey and lemon tea  
 
 If you manage to impress The Fee-Rex with a plate of vegetables, you're doing something right. While the carrot was overcooked, and the onion undercooked, the sauce was dynamite. The tofu and the rice were both good too. 
 

@@ -11,13 +11,14 @@ city: Perth
 suburb: Perth
 address: 1 Canning Rd, Kalamunda WA 6076, Australia
 website: https://www.redrooster.com.au/
+dishes:
+  - Pickle bruger
+  - Chicken tenders
+  - Fried chicken
+  - Potato and gravy
+  - Chips
+  - Pineapple fritter
 ---
-Pickle bruger  
-Chicken tenders  
-Fried chicken  
-Potato and gravy  
-Chips  
-Pineapple fritter  
 
 Driving around Western Australia the last week, we have been marvelling at the apparent fascination this nation, or at least this state, has with fried chicken. While in New Zealand KFC rules the roost unopposed, here KFC faces stiff competition from Chicken Treat and Red Rooster. From our observations, Red Rooster is the most populous. Perhaps this is an indication that it’s the best? After our experience tonight, we feel sorry for the people of Western Australia if that’s the case. 
 

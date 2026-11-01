@@ -11,8 +11,9 @@ city: Wellington
 suburb: Te Aro
 address: 60 Tory Street, Te Aro, Wellington 6011
 website: https://wildfirerestaurant.co.nz/home
+dishes:
+  - Churrascaria Standard
 ---
-Churrascaria Standard  
 
 Save your pennies, the standard churrascaria is more than adequate. When you shell out for premium all you really get for the extra cash is a couple of bonus fancy meats that aren't necessarily better than the standard fare, and a dessert option that you're going to be too full to want.
 

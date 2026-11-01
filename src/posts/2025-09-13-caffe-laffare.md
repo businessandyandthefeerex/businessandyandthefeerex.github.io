@@ -11,9 +11,10 @@ city: Wellington
 suburb: Te Aro
 address: 27 College Street, Te Aro, Wellington 6011
 website: https://www.laffare.co.nz/cafe-wellington/
+dishes:
+  - Pork katsu sandwich
+  - Chorizo bubble & squeak
 ---
-Pork katsu sandwich  
-Chorizo bubble & squeak  
 
 An absolutely triumphant showing today, with barely a foot set wrong. The sando came with a little bowl of sauce, which while nice, was a bit difficult to manage. We tried dipping the sandwich in it, that wasn't quite the move, we tried spreading the sauce on top, but that just gave us sticky fingers. One of the great mysteries of our time. 
 

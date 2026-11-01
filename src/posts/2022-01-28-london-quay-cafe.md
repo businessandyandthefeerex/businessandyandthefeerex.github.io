@@ -11,9 +11,10 @@ city: Picton
 suburb: Picton
 address: 20 London Quay, Picton 7220
 website:
+dishes:
+  - Fresh fruit salad with Greek yoghurt
+  - Mocha
 ---
-Fresh fruit salad with Greek yoghurt  
-Mocha  
 
 The problem with cafe breakfast is that it's all the same, but nowhere is this more true than at London Quay Cafe. We're sure that you could guess every single thing that was on the menu. Take a few wild guesses, we'll wait.
 

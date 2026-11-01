@@ -11,9 +11,10 @@ city: Palmerston North
 suburb: Palmerston North
 address: 4 Botanical Road, Highbury, Palmerston North 4412
 website: https://www.facebook.com/hungryhorse.co.nz/
+dishes:
+  - Smashed avo on toast with a poached egg
+  - Baked potato with mince
 ---
-Smashed avo on toast with a poached egg  
-Baked potato with mince  
 
 We'll talk about these meals in the order that they arrived.
 

@@ -11,10 +11,11 @@ city: Wellington
 suburb: Mount Victoria
 address: 25 Kent Terrace, Mount Victoria, Wellington 6011
 website: https://saffronhaveli.co.nz/
+dishes:
+  - Malai kofta
+  - Butter chicken
+  - Plain naan
 ---
-Malai kofta  
-Butter chicken  
-Plain naan  
 
 The empty restaurant is a place many diners fear. If nobody else is going there, why would you? We eat at a lot of empty or near empty restaurants, and it doesn't normally phase us. But Saffron Haveli did. 
 

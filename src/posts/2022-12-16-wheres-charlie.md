@@ -11,10 +11,11 @@ city: Wellington
 suburb: Pipitea
 address: 186 Thorndon Quay, Thorndon, Wellington 6011
 website: https://wherescharlie.co.nz/
+dishes:
+  - Grilled lemongrass beef with rice and salad
+  - Yellow curry with beef and rice
+  - Iced coffee with condensed milk
 ---
-Grilled lemongrass beef with rice and salad  
-Yellow curry with beef and rice  
-Iced coffee with condensed milk  
 
 Perhaps the best thing that the French have ever done was introduce coffee to Vietnam. We loved the iced coffee, it was deliciously coffee-ey, which was balanced out nicely by the condensed milk. 
 

@@ -11,11 +11,12 @@ city: Wellington
 suburb: Te Aro
 address: 39 Dixon Street, Te Aro, Wellington 6011
 website: theoldquarter.co.nz
+dishes:
+  - Crispy pork spring rolls
+  - Pork pot sticker dumplings
+  - Tempura eggplant bao bun
+  - Vietnamese coffee creme brulee
 ---
-Crispy pork spring rolls  
-Pork pot sticker dumplings  
-Tempura eggplant bao bun  
-Vietnamese coffee creme brulee  
 
 The Old Quarter is Vietnamese fusion dining, and there is something for everybody. Especially if you like cocktails - the menu was diverse, accessible and delicious. Meals wise it was sharing friendly,but if you wanted to just scoff a curry without giving anybody else a bite they were ready to cater to your needs. 
 

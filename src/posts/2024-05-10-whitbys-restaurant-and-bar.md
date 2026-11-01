@@ -11,9 +11,10 @@ city: Wellington
 suburb: 147 The Terrace
 address: 147 The Terrace, Wellington Central, Wellington 6011
 website: https://www.grandchancellorhotels.com/james-cook-hotel-grand-chancellor/restaurants-bars/whitby-s-restaurant-bar
+dishes:
+  - Beef burger and chips
+  - Lamb cutlets with cauliflower puree, beetroot, and broccolini
 ---
-Beef burger and chips  
-Lamb cutlets with cauliflower puree, beetroot, and broccolini  
 
 Dining out is a discretionary expense, and while there are certain intangibles involved that are hard to put a dollar value on, like not having to clean up after yourself, it's generally clear when you are getting good value for money. 
 

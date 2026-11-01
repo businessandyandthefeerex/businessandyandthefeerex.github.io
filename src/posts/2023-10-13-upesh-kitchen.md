@@ -11,12 +11,13 @@ city: Wellington
 suburb: Kelburn
 address: 97B Upland Road, Kelburn, Wellington 6012
 website: https://upeshkitchen.co.nz/
+dishes:
+  - Paneer korma
+  - Cheese dosa
+  - Dhal
+  - Plain roti
+  - Rice
 ---
-Paneer korma  
-Cheese dosa  
-Dhal  
-Plain roti  
-Rice  
 
 While they do technically offer dine in eating, this is really a suburban Indian/Malaysian takeaway joint. We were the only people eating in, in fact we were probably the only people who have eaten in there all year. They don't even offer plates, just the serving dishes that the actual food comes in/on. This is a first for us at an Indian place - we want hot plates, we'll accept cold plates, but no plates?! 
 

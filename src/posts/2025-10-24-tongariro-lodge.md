@@ -11,13 +11,14 @@ city: Tūrangi
 suburb: Tūrangi
 address: 83 Grace Road, RD 2, Tūrangi 3382
 website: https://www.tongarirolodge.co.nz
+dishes:
+  - Bruschetta
+  - Brisket sliders
+  - Beef cheek with polenta
+  - Honeyed roast carrots
+  - Pineapple sticky date pudding with marscapone caramel sauce
+  - Affogato with Frangelico
 ---
-Bruschetta  
-Brisket sliders  
-Beef cheek with polenta  
-Honeyed roast carrots  
-Pineapple sticky date pudding with marscapone caramel sauce  
-Affogato with Frangelico  
 
 The lodge continues to produce delicious food, but is yet to return to its former heights (it was once a 4) or lows (it once served one of the worst dishes we’ve ever had). 
 

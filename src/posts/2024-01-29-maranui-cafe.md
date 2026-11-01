@@ -11,11 +11,12 @@ city: Wellington
 suburb: Lyall Bay
 address: Lvl1, 7A Lyall Parade, Lyall Bay, Wellington 6022
 website: http://www.maranuicafe.co.nz/
+dishes:
+  - Snickers shake
+  - Mocha shake
+  - Potato, brocollini, chorizo, egg, spinach, harissa and hummus bowl
+  - Bagel with halloumi, tomato and pesto
 ---
-Snickers shake  
-Mocha shake  
-Potato, brocollini, chorizo, egg, spinach, harissa and hummus bowl  
-Bagel with halloumi, tomato and pesto  
 
 Located upstairs at the surf lifesaving club, Maranui Cafe has got a pretty good thing going. They are always absolutely heaving with punters but they really know how to mow through a service and the tables turn over very fast. So while the queue going all the way down the stairs and sometimes out onto the street can be alarming at first, it moves at a fair clip.
 

@@ -11,9 +11,10 @@ city: Wellington
 suburb: Te Aro
 address: 3/290 Wakefield Street, Te Aro, Wellington 6011
 website: https://indianalley.co.nz/
+dishes:
+  - Butter chicken with rice and paneer kulcha
+  - Kashmiri malai kofta with rice and garlic naan
 ---
-Butter chicken with rice and paneer kulcha  
-Kashmiri malai kofta with rice and garlic naan  
 
 We aren't in the business of demoting restaurants. We want everybody to succeed, and we go into each experience with the hope of a 4. However, if we revisit you and your standards have slipped, you will be demoted. 
 

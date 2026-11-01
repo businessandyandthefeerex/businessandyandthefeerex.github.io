@@ -11,10 +11,11 @@ city: Palmerston North
 suburb: Palmerston North
 address: 117 Ruahine Street, Roslyn, Palmerston North 4414
 website: https://m.facebook.com/cravingscafenz/
+dishes:
+  - Crispy chicken burger with curly fries
+  - Kumara rosti with haloumi and egg
+  - Banana smoothie
 ---
-Crispy chicken burger with curly fries  
-Kumara rosti with haloumi and egg  
-Banana smoothie  
 
 If you are pregnant, then this is the cafe for you, situated right in the birthing complex, and full of pregnant women. Maybe not full to the brim, but there was definitely an overrepresentation of gravid uteri the day that we were there.
 

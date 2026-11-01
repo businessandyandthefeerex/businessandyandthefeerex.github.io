@@ -11,10 +11,11 @@ city: Waiouru
 suburb: Waiouru
 address: 27 State Highway 1, Waiouru 4825
 website: 
+dishes:
+  - Polenta chips
+  - Chicken burger
+  - Roast vegetable salad
 ---
-Polenta chips  
-Chicken burger  
-Roast vegetable salad  
 
 Rustic Eating House is pretty pleased with itself. They are very excited about being a quality restaurant on the side of SH1 where you wouldn't expect to find such a place. A while they're not bad by any stretch, they aren't quite living up to their own hype. 
 

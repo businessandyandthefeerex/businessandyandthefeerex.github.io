@@ -11,9 +11,10 @@ city: Aorangi
 suburb: Aorangi
 address: Aroa Rd, Arorangi, Cook Islands
 website: https://www.therarotongan.com/dine/captain-andys-beach-bar-grill.html
+dishes:
+  - Bacon cheeseburger with chips
+  - Island fries
 ---
-Bacon cheeseburger with chips  
-Island fries  
 
 Captain Andy, you salty dog, you did it again. On a rainy night, we found ourselves out of other options and forced to dine once more at the Captains table. What a disaster. While the food was better, the overall experience was a red hot mess. 
 

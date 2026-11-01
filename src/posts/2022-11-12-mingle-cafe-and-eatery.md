@@ -11,9 +11,10 @@ city: Wellington
 suburb: Berhampore
 address: 461 Adelaide Road, Berhampore, Wellington 6023
 website: http://www.sprigandfernberhampore.co.nz/
+dishes:
+  - Southern style chicken wrap
+  - Breakfast burger & chips
 ---
-Southern style chicken wrap  
-Breakfast burger & chips  
 
 Not a great showing. Perhaps they were just so busy with a karate ceremony in the back*, and the accompanying afternoon tea that our meals were just an afterthought. It certainly took a long time for the food to come out, especially so when you realise that we were the only people waiting for food. 
 

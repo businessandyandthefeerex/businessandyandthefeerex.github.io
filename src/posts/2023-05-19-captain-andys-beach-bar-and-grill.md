@@ -11,9 +11,10 @@ city: Aorangi
 suburb: Aorangi
 address: Aroa Rd, Arorangi, Cook Islands
 website: https://www.therarotongan.com/dine/captain-andys-beach-bar-grill.html
+dishes:
+  - Thai vegetarian curry and rice
+  - The works burger with chips
 ---
-Thai vegetarian curry and rice  
-The works burger with chips  
 
 Captain Andy has taken us all hostage. If you can’t be bothered leaving the resort to eat somewhere else, and the Captain knows you can’t, you lazy sods, then you’re going to have to eat what the Captain makes. Under no other circumstances could you get away with serving a meal like this. 
 

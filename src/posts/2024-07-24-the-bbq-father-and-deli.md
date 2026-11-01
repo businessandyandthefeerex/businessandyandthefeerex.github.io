@@ -11,9 +11,10 @@ city: Exmouth
 suburb: Exmouth
 address: 1112 Murat Rd, Exmouth WA 6707, Australia
 website: https://thebbqfather.com.au/
+dishes:
+  - Beef brisket, chips and coleslaw
+  - Chicken, salami, gorgonzola, and jalapeno pizza
 ---
-Beef brisket, chips and coleslaw  
-Chicken, salami, gorgonzola, and jalapeno pizza  
 
 While we were impressed by how quickly our meals came out at the BBQ Father & Deli, we were only so-so about the meals themselves. Some parts were really good, like the crisp and seasoned chips, the very thin pizza base, and the smoky sauce on the brisket. Others weren't good at all, like the dry brisket itself, the supermarket-esque coleslaw on the side, and the eyewatering overabundance of jalapeno on the pizza. 
 

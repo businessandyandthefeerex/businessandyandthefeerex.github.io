@@ -11,12 +11,13 @@ city: Tūrangi
 suburb: 
 address: 83 Grace Road, RD 2, Tūrangi 3382
 website: https://www.tongarirolodge.co.nz/?utm_source=local&utm_medium=organic&utm_campaign=GMB
+dishes:
+  - Pork belly with artichoke, apple puree and pomegranate
+  - Mushroom croquettes
+  - Roast potatoes
+  - Sticky date pudding with candied walnuts and ice cream
+  - Almond and orange polenta cake with berry coulis and ice cream
 ---
-Pork belly with artichoke, apple puree and pomegranate  
-Mushroom croquettes  
-Roast potatoes  
-Sticky date pudding with candied walnuts and ice cream  
-Almond and orange polenta cake with berry coulis and ice cream  
 
 Back at Tongariro Lodge on our annual Labour weekend trip to Turangi, this time we decided focus on starters, sides and desserts rather than mains. 
 

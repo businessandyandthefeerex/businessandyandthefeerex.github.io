@@ -11,9 +11,10 @@ city: Tūrangi
 suburb: Tūrangi
 address: 4600 State Highway 1, Tūrangi 3334
 website: https://turangibridgemotel.co.nz/restaurant/
+dishes:
+  - Venison pie with chips
+  - Vegetable stack
 ---
-Venison pie with chips  
-Vegetable stack  
 
 What a venison pie. Excellent pastry, excellent gravy, excellent chips, and two excellent sauces. The meat was a bit dry, but that was the only misstep. 
 

@@ -11,14 +11,15 @@ city: Wellington
 suburb: Te Aro
 address: 41 Dixon Street, Te Aro, Wellington 6011
 website: http://www.mexico.nz/
+dishes:
+  - Guacamole with totopos
+  - Fried chicken
+  - Pulled pork taco
+  - Lamb taco
+  - Smoky beef taco
+  - Fried cauliflower
+  - Chimichangas s'mores
 ---
-Guacamole with totopos
-Fried chicken
-Pulled pork taco
-Lamb taco
-Smoky beef taco
-Fried cauliflower 
-Chimichangas s'mores
 
 Another strong showing from Mexico tonight. Only two items didn't measure up. The lamb taco, which sounded delicious on the menu, was dry and half the ingredients were imperceptible. The chimichangas s'mores sounded outstanding, but were mostly empty space and marshmallow. Also, giving us a spoon wouldn't have killed you, how were we meant to eat the ice cream. 
 

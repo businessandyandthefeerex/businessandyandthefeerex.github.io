@@ -11,11 +11,12 @@ city: Palmerston North
 suburb: Palmerston North Central
 address: 45/47 Princess Street, Palmerston North Central, Palmerston North 4410
 website: http://www.littlesavanna.co.nz/
+dishes:
+  - Biltong
+  - Pork belly flatbread
+  - Walnut, pear, blue cheese and lamb salad
+  - Pumpkin and chicken tagliatelle
 ---
-Biltong  
-Pork belly flatbread  
-Walnut, pear, blue cheese and lamb salad  
-Pumpkin and chicken tagliatelle  
 
 While not quite at a four, Little Savannah continues to excel. And their business shows this, with the place being packed out yet again. We were also impressed by their cocktails, we tried five of their plethora of flavoured espresso martinis, and there wasn’t a clanger in the bunch. 
 

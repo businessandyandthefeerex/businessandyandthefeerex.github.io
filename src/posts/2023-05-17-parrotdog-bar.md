@@ -11,10 +11,11 @@ city: Wellington
 suburb: Lyall Bay
 address: 60/66 Kingsford Smith Street, Rongotai, Wellington 6022
 website: https://parrotdog.co.nz/pages/parrotdog-bar
+dishes:
+  - Cheese platter
+  - Veg burger and chips
+  - Market fish salad
 ---
-Cheese platter  
-Veg burger and chips  
-Market fish salad  
 
 It's becoming a bit of a trend when we eat here, some things are quite good, but something else is just abysmal. Tonight's loser was the market fish salad, which it turns out, was code for cold beans, corn, and capsicum, with some fish and super crispy tortillas, and not enough of an admittedly quite nice sauce. The pickled onion on the top was probably the best thing about this dish. 
 

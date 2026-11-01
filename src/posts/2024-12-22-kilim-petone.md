@@ -11,10 +11,11 @@ city: Wellington
 suburb: Petone
 address: 87 Jackson Street, Petone, Lower Hutt 5012
 website: http://www.kilim.co.nz/
+dishes:
+  - Zucchini and carrot fritter kebab
+  - Chicken on chips
+  - Tiramisu
 ---
-Zucchini and carrot fritter kebab  
-Chicken on chips   
-Tiramisu  
 
 Nearly 3 years later, Kilim is still doing a great job. The zucchini and carrot fritter was really flavourful and went great in the kebab. Also, kudos for the distribution of sauce and lack of a soggy bottom, the end of the kebab was just as nice as the start and middle. 
 

@@ -11,8 +11,9 @@ city: Wellington
 suburb: Te Aro
 address: 60 Tory Street, Te Aro, Wellington 6011
 website: https://wildfirerestaurant.co.nz/home
+dishes:
+  - Churrasco Premium
 ---
-Churrasco Premium  
 
 Wildfire is a Brazilian steakhouse, which is a buffet in the sense that you eat all you want, but they bring it to your table and you take what you like. There's lots of different types of meat served on big long skewers being carried around, along with a variety of sides, and a few sauces. As we've described previously at Gengys, buffets are a rip unless you go totally ham. This felt particularly true at Wildfire where the Churrasco Premium was over $100. The quality was definitely better than Gengys, but for $105 you'd better be swinging for the fences. 
 

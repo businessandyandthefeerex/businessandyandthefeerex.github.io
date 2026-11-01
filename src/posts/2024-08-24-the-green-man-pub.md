@@ -11,10 +11,11 @@ city: Wellington
 suburb: Wellington Central
 address: 25 Victoria Street, Wellington Central, Wellington 6011
 website: https://stargroup.nz/venues/the-green-man-pub
+dishes:
+  - Pork belly bites
+  - Flatbread with hummus
+  - Chicken tenders
 ---
-Pork belly bites  
-Flatbread with hummus  
-Chicken tenders  
 
 The Green Man had a very small menu. Aside from starters, it had only 4 mains, plus the Wellington On A Plate burger. We made the decision when we moved BAATFR to Wellington that during WOAP we would not be reviewing the burgers. Why? Because WOAP is a special item not usually available and is not necessarily representative of the cuisine or quality of the establishment. 
 

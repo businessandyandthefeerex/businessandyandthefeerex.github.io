@@ -11,9 +11,10 @@ city: Cooks Beach
 suburb: Cooks Beach
 address: 37 Captain Cook Road, Cooks Beach 3591
 website: https://www.thevessel.co.nz/
+dishes:
+  - Vegetarian pizza
+  - Vegetarian spring rolls
 ---
-Vegetarian pizza  
-Vegetarian spring rolls  
 
 The Vessel describes itself as a gastropub. And while it’s not reaching any new culinary heights, it’s not phoning it in either. Vegetarian varieties of meals can often be afterthoughts, and especially at a pub, a pizza option they have to slap on to be inclusive. The Vessel had given both the pizza and the spring rolls some effort. 
 

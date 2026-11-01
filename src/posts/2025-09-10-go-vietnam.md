@@ -11,9 +11,10 @@ city: Wellington
 suburb: Wellington Central
 address: 92 Lambton Quay, Wellington Central, Wellington 6011
 website: 
+dishes:
+  - Pork belly bahn mi
+  - Pork wontons
 ---
-Pork belly bahn mi  
-Pork wontons  
 
 As far as a quick bite for lunch goes, Go Vietnam will do. Their banh mi bun was appropriately sized so you don’t have to disarticulate your jaw like an anaconda to eat it, so that was good. But the meat wasn’t worth our time and the whole thing was pretty uninspired
 

@@ -11,14 +11,15 @@ city: Wellington
 suburb: Te Aro
 address: shop 4/100 Tory Street, Te Aro, Wellington 6011
 website: https://www.damascusnz.com/
+dishes:
+  - Pita breads
+  - Roast capsicum, leek, and walnut dip
+  - Yoghurt and cracked wheat dip with cucumber and radish
+  - Lamb shish
+  - Fried potato with harra sauce
+  - Fried cauliflower
+  - Candied pumpkin, orange kishta and walnut
 ---
-Pita breads  
-Roast capsicum, leek, and walnut dip  
-Yoghurt and cracked wheat dip with cucumber and radish  
-Lamb shish  
-Fried potato with harra sauce  
-Fried cauliflower  
-Candied pumpkin, orange kishta and walnut  
 
 Welcome back, Damascus. After a very disappointing performance on platters night (see below), we were nervous to. be back. We wanted them to succeed, reaching the same lofty heights as the lunch when we first fell in love with them. And reach they did. 
 

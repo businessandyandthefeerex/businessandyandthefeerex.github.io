@@ -11,9 +11,10 @@ city: Wellington
 suburb: Te Aro
 address: shop 4/100 Tory Street, Te Aro, Wellington 6011
 website: https://www.damascusnz.com/
+dishes:
+  - Deep fried cauliflower
+  - Roast pumpkin with peas and pomegranate
 ---
-Deep fried cauliflower  
-Roast pumpkin with peas and pomegranate  
 
 It's Saturday lunchtime, and we're looking for somewhere to eat. The first 3 places we see are all completely full. Right next door is lucky number four, Damascus. And it's totally empty. This normally doesn't bode well. But Damascus isn't normal. It's extraordinary. An out-of-nowhere flavour powerhouse, we are huge fans. 
 

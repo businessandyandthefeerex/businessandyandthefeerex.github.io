@@ -11,10 +11,11 @@ city: Wellington
 suburb: Miramar
 address: 32 Miramar Avenue, Miramar, Wellington 6022
 website: https://longthai.co.nz/
+dishes:
+  - Fish burger with chips
+  - Roti with peanut sauce
+  - Beef massaman curry with rice
 ---
-Fish burger with chips  
-Roti with peanut sauce  
-Beef massaman curry with rice  
 
 Driving into Miramar, we're looking for somewhere to eat and spot Long Thai on the right. We park a little further up the road and walk back. Twist - right next to Long Thai is The Cutting Sports Cafe. We are duty bound to eat at the nearest place to us, which is not always the dining establishment we were heading to. We turn into The Cutting. Double twist - the two eateries share an entrance. After entering the main door we can turn left for The Cutting Sports Cafe, right for Long Thai. Left is technically closer to the car, so we turn into The Cutting. TRIPLE TWIST - they are THE SAME RESTAURANT. Two apparently independent businesses sharing one dining area, one kitchen, one set of staff. Totally reeling we decided it was most fair to have a hybrid experience and order off both menus. 
 

@@ -11,8 +11,9 @@ city: Wellington
 suburb: Te Aro
 address: shop 4/100 Tory Street, Te Aro, Wellington 6011
 website: https://www.damascusnz.com/
+dishes:
+  - Vegetarian sharing platter
 ---
-Vegetarian sharing platter  
 
 What a catastrophic fall from grace. When we ate here just a week and a half earlier, this place blew our minds. You can imagine how excited we were to return for the famed platters night, we even invited Business Andy's mum. She cancelled at the last minute and after eating that meal, we're glad she missed it. 
 

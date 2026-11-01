@@ -11,9 +11,10 @@ city: Perth
 suburb: Perth
 address: 51 George St, Kensington WA 6151
 website: http://www.ayhanscafe.com.au/
+dishes:
+  - Spinach and feta gozleme
+  - Lamb pide
 ---
-Spinach and feta gozleme  
-Lamb pide  
 
 Years ago, The Fee-Rex used to live in Perth where she discovered gozleme. It made up of a filling, often spinach and feta, sandwiched in a bready dough and cut into pieces. And it’s bloody delicious. Two years ago, we went to Perth and on our first night excitedly went searching for gozleme. What we got was a soggy disaster, an abomination not worthy of the name gozleme. And it was an awful introduction for Business Andy, who had never had the dish before and was very disappointed after literally years worth of hype. 
 

@@ -11,9 +11,10 @@ city: Bluff
 suburb: Bluff
 address: 86 Gore Street, Bluff 9814
 website: https://www.hayzattheanchorage.com/
+dishes:
+  - Half roast mutton bird with stuffing, blueberry jus, seasonal vegetables, and mash
+  - Ribs with salad and chips
 ---
-Half roast mutton bird with stuffing, blueberry jus, seasonal vegetables, and mash  
-Ribs with salad and chips  
 
 Dining options are limited in Bluff. In fact, unless you want to eat a toastie and chips while being called a Covid Nazi at the local anti-vax hotspot, The Eagle, Hayz at the Anchorage is your only choice. 
 

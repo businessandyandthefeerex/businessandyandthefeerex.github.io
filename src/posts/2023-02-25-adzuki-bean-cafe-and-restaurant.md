@@ -11,10 +11,11 @@ city: Wellington
 suburb: Petone
 address: 164 Jackson Street, Petone, Lower Hutt 5012
 website: https://www.facebook.com/adzukibean64/
+dishes:
+  - Pan fried terakihi with roast potatoes, beans, tomato and mushroom and a creamy sauce
+  - Hash brown stack with poached eggs, hollandaise, bacon, avocado and tomato
+  - Banana smoothie
 ---
-Pan fried terakihi with roast potatoes, beans, tomato and mushroom and a creamy sauce  
-Hash brown stack with poached eggs, hollandaise, bacon, avocado and tomato  
-Banana smoothie  
 
 The adzuki bean is what red bean paste, common in Asian baking, is made of. And just like biting into a bun and finding it full of red bean paste, this Cafe left a bad taste in our mouth. The decor and the generic classical-esque music both needed a refresh, although the service was prompt and friendly. 
 

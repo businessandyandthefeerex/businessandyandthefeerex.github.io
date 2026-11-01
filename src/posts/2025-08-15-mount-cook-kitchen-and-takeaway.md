@@ -11,10 +11,11 @@ city: Wellington
 suburb: Mount Cook
 address:  75 Wallace Street, Mount Cook, Wellington 6021
 website: 
+dishes:
+  - Sweet and sour wontons with fried noodles
+  - Orange beef with rice
+  - Spring rolls
 ---
-Sweet and sour wontons with fried noodles  
-Orange beef with rice  
-Spring rolls  
 
 The owners of Mount Cook Kitchen & Takeaway must have been attending the Dumpling'd School for Customer Repulsion, because their restaurant, with its wide open door in mid August, was cold as all hell. On the other hand, their food was piping hot and fresh out of the kitchen. And their 5 free spring rolls with $35 spend (we spent 50c over the threshold, yusssssss) was a nice touch, although these were sauceless and bland. 
 

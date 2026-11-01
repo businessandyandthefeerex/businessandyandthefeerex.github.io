@@ -11,9 +11,10 @@ city: Kurutau
 suburb: Kurutau
 address: 30 Riverpark Drive, Kuratau 3381
 website: https://www.facebook.com/p/Floating-Rock-Cafe-100063579282410/
+dishes:
+  - Spicy volcano pizza
+  - Garlic cheese and caramelised onion pizza
 ---
-Spicy volcano pizza  
-Garlic cheese and caramelised onion pizza  
 
 Many pizza places try to do a crispy thin crust, but few succeed. Floating Rock Cafe has absolutely nailed it. Super thin, crispy across the entire base, toppings all the way to the edge and none of those unfortunate bubbles you sometimes get with a wood fired job. 
 

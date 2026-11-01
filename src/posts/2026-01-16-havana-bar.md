@@ -11,12 +11,13 @@ city: Wellington
 suburb: Te Aro
 address: 32a/34 Wigan Street, Te Aro, Wellington 6011
 website: http://havanabar.co.nz/
+dishes:
+  - Sourdough with garlic butter
+  - Patatas bravas
+  - Lamb skewers
+  - Pumpkin arancini
+  - Burrata with peach and prosciutto
 ---
-Sourdough with garlic butter  
-Patatas bravas  
-Lamb skewers  
-Pumpkin arancini  
-Burrata with peach and prosciutto  
 
 Havana Bar serve a good variety of tapas in a friendly atmosphere. The service was prompt, and the food came out lickety split - too fast if anything. We would have appreciated if the food had dripped out a bit more, we were overwhelmed by having four of our options on the table at one time, and were sad when we left the lamb for too long so that it wasn't its piping hottest when we got into it. 
 

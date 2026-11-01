@@ -11,11 +11,12 @@ city: Rotorua
 suburb: Rotorua
 address: 1263 Amohia Street, Rotorua 3010
 website: https://therustybros.nz/
+dishes:
+  - Strawberry milkshake
+  - Jackfruit sliders
+  - Polenta chips
+  - Garlic bread
 ---
-Strawberry milkshake  
-Jackfruit sliders  
-Polenta chips  
-Garlic bread  
 
 Let us tell you what we don't appreciate. Lies. Restaurants who claim a quality or nature of ingredients that makes them sound fancy, tricks you into ordering, then doesn't deliver. How would you like to try a strawberry milkshake made with strawberry ganache? Sounds pretty good doesn't it? So you could colour us disappointed when we saw with our own eyes the waiter pumping some kind of bottled syrup into our milkshake. Also, lies on lies, where was the coleslaw and aioli in the sliders? Hanging out with the strawberry ganache in imaginary-land probably! 
 

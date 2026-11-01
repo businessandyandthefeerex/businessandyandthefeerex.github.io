@@ -11,12 +11,13 @@ city: Wellington
 suburb: Newtown
 address: Newtown Countdown 3 John Street, Newtown, Wellington 6021
 website: https://aroy.co.nz/
+dishes:
+  - Vegetable spring rolls
+  - Chive nuggets
+  - Fried plant-based chicken with ginger rice
+  - Beef massaman curry
+  - Fried noodles with plant-based chicken
 ---
-Vegetable spring rolls  
-Chive nuggets  
-Fried plant-based chicken with ginger rice  
-Beef massaman curry  
-Fried noodles with plant-based chicken  
 
 While we've sometimes ordered takeaway from this joint, until tonight we hadn't ever dined in. After all, who actually eats at their Thai takeaway place? We had thought nobody, but there was practically a crowd gathered there tonight. 
 

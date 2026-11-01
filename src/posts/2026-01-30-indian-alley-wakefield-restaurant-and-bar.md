@@ -11,11 +11,12 @@ city: Wellington
 suburb: Te Aro
 address: 3/290 Wakefield Street, Te Aro, Wellington 6011
 website: https://indianalley.co.nz/
+dishes:
+  - Chicken lollipops
+  - Cheese tomato
+  - Keema naan
+  - Peshwari naan
 ---
-Chicken lollipops  
-Cheese tomato  
-Keema naan  
-Peshwari naan  
 
 Most places that fall down into Twosville don't get another look in. But we're glad we gave Indian Alley another shot tonight. We're also glad that we appear to have finally learned our lesson about special spice mixes and cocktails. We were not tricked into riding the liquid fart train this time.  
 

@@ -11,9 +11,10 @@ city: Wellington
 suburb: Miramar
 address: 128A Unit E, Park Road, Miramar, Wellington 6022
 website: https://doublevisionbrewing.com/
+dishes:
+  - Marmite cheeseburger and chips
+  - Vegetarian nachos
 ---
-Marmite cheeseburger and chips  
-Vegetarian nachos  
 
 DVB, we need to talk. You run a bad quiz. It's inconsistent, there are always multiple questions with ambiguous or incorrect answers, and you don't give the answers after every round but instead save them up for some reason. You also run a bad kitchen. We weren't impressed last time, when we gave you a 2, but today was even worse. 
 

@@ -11,9 +11,10 @@ city: Picton
 suburb: Picton
 address: 10 London Quay, Picton 7220
 website: http://www.toastielords.co.nz/
+dishes:
+  - Ivan toastie - pastrami, sauerkraut, pickles, cheese
+  - Custard filled donut
 ---
-Ivan toastie: pastrami, sauerkraut, pickles, cheese  
-Custard filled donut  
 
 After our misadventures earlier that morning at London Quay Cafe, you'll not be surprised to hear that we were still in the market for breakfast. We spied a little toastie place two doors down and boy are we glad that we did. 
 

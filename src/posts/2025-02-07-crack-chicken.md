@@ -11,10 +11,11 @@ city: Wellington
 suburb: Wellington Central
 address: 1 Willis Street, Wellington, New Zealand
 website: https://namugroup.co.nz/crackwellington/
+dishes:
+  - Classic fried chicken bowl
+  - Single beef burger
+  - Waffle fries with gochujang mayo
 ---
-Classic fried chicken bowl  
-Single beef burger  
-Waffle fries with gochujang mayo  
 
 Billed as an innovative, mouthwatering cross between Nashville-style and Korean-style fried chicken, the reality is that it's just a middling fast food joint in an underground food court. While the chicken itself was actually quite good, everything else in the bowl was just a huge slog. And it was all made worse, or at least much harder to eat by the awful wooden fork.
 

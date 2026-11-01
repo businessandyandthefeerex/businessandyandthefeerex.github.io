@@ -11,7 +11,7 @@ city: Wellington
 suburb: Te Aro
 address: 3/290 Wakefield Street, Te Aro, Wellington 6011
 website: https://indianalley.co.nz/
----  
+---
 Gol gappa  
 Chicken kastoori kebabs  
 Amritsari paneer bhurji  

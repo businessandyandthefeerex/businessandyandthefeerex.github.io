@@ -11,9 +11,10 @@ city: Taupō
 suburb: Taupō
 address: 640 Wairakei Drive, Tourist Park, Wairakei, Taupō 3384
 website: https://www.wairakei.co.nz/food-drink/
+dishes:
+  - Lamb burger and chips
+  - Mushroom soup
 ---
-Lamb burger and chips  
-Mushroom soup  
 
 The soup wasn't great, it was a bit oily, a bit salty, and a bit peppery. And it wasn't very mushroomey. Mushroom soup doesn't have to be super creamy to be good, but it does have to be at least a little mushroomey. The bread on the side was nice though.
 
