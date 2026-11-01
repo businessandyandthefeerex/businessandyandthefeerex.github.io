@@ -29,6 +29,7 @@ for (const file of fs.readdirSync(dir).filter((f) => f.endsWith(".md"))) {
   console.log(`${apply ? "UPDATE" : "WOULD  "}  ${file}: ${lines.join(" | ")}`);
 
   if (apply) {
+    const tidy = (s) => s.replace(/:\s+/g, " - ").replace(/:$/, "");
     // Quote a dish only when plain YAML would misread it.
     const needsQuotes = (s) =>
       /^[\s\-?:,\[\]{}#&*!|>'"%@`]/.test(s) || // starts with a special character
@@ -38,6 +39,7 @@ for (const file of fs.readdirSync(dir).filter((f) => f.endsWith(".md"))) {
       /^[-+]?[\d.,_:]+$/.test(s);              // looks like a number
 
     const list = lines
+      .map(tidy)
       .map((l) => `  - ${needsQuotes(l) ? JSON.stringify(l) : l}`)
       .join("\n");
 
