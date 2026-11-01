@@ -58,6 +58,14 @@ layout: base.njk
     <p>We ate here in {{ monthYearLinks | safe }}.</p>
     {% endif %}
 
+    {% if dishes and dishes.length %}
+      <ul class="dishes">
+      {% for dish in dishes %}
+      <li>{{ dish }}</li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+
     {{ content | safe }}
 
     {% set related = collections.reviews | relatedReviews(page.url, title, country, region) %}
