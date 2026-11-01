@@ -68,6 +68,9 @@ module.exports = function (eleventyConfig) {
   // Eleventy does not watch imported Sass directories by default.
   eleventyConfig.addWatchTarget("src/_sass");
 
+  // add a passthrough copy for the CNAME file so that it is copied to the output directory
+  eleventyConfig.addPassthroughCopy({ "CNAME": "CNAME" });
+
   // ------------------------------------------------------------            // Static asset copying
   // ------------------------------------------------------------
 
@@ -549,13 +552,7 @@ module.exports = function (eleventyConfig) {
   // Eleventy writes generated files separately to _site-eleventy so the existing
   // Jekyll output remains untouched during migration.
   return {
-    dir: {
-      input: "src",
-      includes: "_includes",
-      layouts: "_layouts",
-      data: "_data",
-      output: "_site",
-    },
+    dir: { input: "src"},
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
   };

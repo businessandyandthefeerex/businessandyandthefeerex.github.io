@@ -1,3 +1,5 @@
+# need to migrate this to a node script fot he pre commit hook
+
 require 'yaml'
 require 'date'
 require 'fileutils'
