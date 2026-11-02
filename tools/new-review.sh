@@ -53,6 +53,31 @@ dishes:
   -
 ---
 
+<!-- BEFORE PUBLISHING THIS REVIEW
+
+1. Fill in the front matter above:
+   - title: restaurant name
+   - rating: 1-4
+   - meal: usually breakfast, lunch or dinner
+   - region, city, suburb and address: restaurant location details
+   - website: restaurant website, or leave blank if unavailable
+
+2. Add the dishes eaten, one per line. Start each dish with two spaces, a dash, and a space; the first one is already started for you. For example:
+     - Fish and chips
+     - Roast chicken
+
+   Put quote marks around a dish if it contains the characters ": " or starts with a special character such as - or ?. For example:
+     - "Chef's special: fish"
+   A dash inside a normal dish does not need quotes, for example "Fish - chips".
+
+3. To link to a previous review, use this format:
+   [Restaurant name](/posts/yyyy-mm-dd-restaurant-name/)
+
+4. Write the review below this instruction block.
+
+5. Delete this instruction block when the review is ready.
+-->
+
 EOF
 
 sed -i "s/PLACEHOLDER_DATE/$DATE/" "$POSTS_DIR/$POST_NAME"

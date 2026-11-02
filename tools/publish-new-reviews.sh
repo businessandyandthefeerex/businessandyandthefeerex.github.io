@@ -84,6 +84,11 @@ for POST_FILE in "${POST_FILES[@]}"; do
     continue
   fi
 
+  if grep -Fq '<!-- BEFORE PUBLISHING THIS REVIEW' "$POST_FILE"; then
+    VALIDATION_ERRORS+=("$(basename "$POST_FILE") still contains the writing instructions")
+    continue
+  fi
+
   TITLE="$(ruby -ryaml -rdate -e '
     parts = File.read(ARGV[0]).split(/^---\s*$/, 3)
     print((YAML.safe_load(parts[1], permitted_classes: [Date, Time]) || {})["title"])
