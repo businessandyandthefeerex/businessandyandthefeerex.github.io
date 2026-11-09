@@ -3,23 +3,45 @@ layout: page.njk
 title: Search
 permalink: /search/
 ---
-Search through every review for a keyword, some suggestions:
-
-<ul>
-  <li>Rating: 1  </li>
-  <li>Dumpster fire</li>
-  <li>Palmerston North</li>
-</ul>
-
-<div class="form form--search">
-  <form id="search-form" action="">
-    <label class="label" for="search">Search term:</label>
-    <input class="input" id="search" type="search" name="search" placeholder="e.g. buffet" autocomplete="off" />
-
-    <ul class="list list--results" id="list">
-      <!-- results go here -->
-    </ul>
+<div class="search-explorer">
+  <form class="search-explorer__filters" id="search-form">
+    <div class="search-explorer__field search-explorer__field--query">
+      <label for="search">Search reviews</label>
+      <input id="search" type="search" name="search" placeholder="Name, dish, address, or review text" autocomplete="off" />
+    </div>
+    <div class="search-explorer__field">
+      <label for="filter-country">Country</label>
+      <select id="filter-country" data-filter="country"><option value="">All countries</option></select>
+    </div>
+    <div class="search-explorer__field">
+      <label for="filter-region">Region</label>
+      <select id="filter-region" data-filter="region"><option value="">All regions</option></select>
+    </div>
+    <div class="search-explorer__field">
+      <label for="filter-city">City</label>
+      <select id="filter-city" data-filter="city"><option value="">All cities</option></select>
+    </div>
+    <div class="search-explorer__field">
+      <label for="filter-suburb">Suburb</label>
+      <select id="filter-suburb" data-filter="suburb"><option value="">All suburbs</option></select>
+    </div>
+    <div class="search-explorer__field">
+      <label for="filter-meal">Meal</label>
+      <select id="filter-meal" data-filter="meal"><option value="">All meals</option></select>
+    </div>
+    <div class="search-explorer__field">
+      <label for="filter-rating">Rating</label>
+      <select id="filter-rating" data-filter="rating"><option value="">All ratings</option></select>
+    </div>
+    <div class="search-explorer__actions">
+      <button type="reset">Clear filters</button>
+    </div>
   </form>
+
+  <p class="search-explorer__status" id="search-status" role="status" aria-live="polite">Loading reviews...</p>
+  <ul class="search-explorer__results" id="search-results">
+    <li>Loading reviews...</li>
+  </ul>
 </div>
 
 <script src="/assets/scripts/search.js"></script>
