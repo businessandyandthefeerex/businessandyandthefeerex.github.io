@@ -41,6 +41,9 @@ module.exports = class {
           city: String(review.data.city ?? ""),
           suburb: String(review.data.suburb ?? ""),
           address: String(review.data.address ?? ""),
+          dishes: Array.isArray(review.data.dishes)
+            ? review.data.dishes.map(String)
+            : [],
           rating: rating ? `Rating: ${rating}` : "",
           meal: meal ? `Meal: ${meal}` : "",
           month,
