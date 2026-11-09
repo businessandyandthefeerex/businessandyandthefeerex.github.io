@@ -13,6 +13,10 @@ permalink: /assets/styles.css
 .article ol {
   padding-left: 1.5em;
 }
+.article ul li,
+.article ol li {
+  margin-left: 0;
+}
 .search-explorer__filters {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr));
