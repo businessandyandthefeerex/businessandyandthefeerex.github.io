@@ -26,6 +26,10 @@ permalink: /assets/styles.css
 .search-explorer__field--query {
   grid-column: 1 / -1;
 }
+.search-explorer__filter-intro {
+  grid-column: 1 / -1;
+  margin: .5rem 0 0;
+}
 .search-explorer__actions button {
   margin-bottom: .6rem;
 }
