@@ -189,6 +189,15 @@ body {
     overflow: hidden;
     margin-top: var(--listHeight, 0);
   }
+  &--nav-collapsible {
+    display: none;
+    &.list--nav-open {
+      display: block;
+    }
+    @include mixins.breakpoint(break-1) {
+      display: block;
+    }
+  }
   .item--post,
   .item--result,
   .item--category {
