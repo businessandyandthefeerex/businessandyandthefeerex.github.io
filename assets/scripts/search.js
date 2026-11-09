@@ -69,13 +69,14 @@
   function matchesSearch(item, term) {
     if (!term) return true;
 
+    const terms = term.split(/\s+/).filter(Boolean);
     const searchable = [
       item.title, item.content, item.country, item.region, item.city,
       item.suburb, item.address, item.rating, item.meal, item.month,
       item.year, item.month_year, ...(Array.isArray(item.dishes) ? item.dishes : []),
     ].join(" ").toLocaleLowerCase();
 
-    return searchable.includes(term);
+    return terms.every((word) => searchable.includes(word));
   }
 
   function renderResults() {
