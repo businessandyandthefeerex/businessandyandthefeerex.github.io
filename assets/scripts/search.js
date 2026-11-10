@@ -12,12 +12,6 @@
     meal: "meals",
     rating: "ratings",
   };
-  const locationDescendants = {
-    country: ["region", "city", "suburb"],
-    region: ["city", "suburb"],
-    city: ["suburb"],
-    suburb: [],
-  };
   let pages = [];
 
   const escapeHtml = (text) =>
@@ -105,11 +99,7 @@
     renderResults();
   }
 
-  function handleFilterChange(event) {
-    const changedField = event.target.dataset.filter;
-    for (const descendant of locationDescendants[changedField] || []) {
-      searchForm.querySelector(`[data-filter="${descendant}"]`).value = "";
-    }
+  function handleFilterChange() {
     refresh();
   }
 
