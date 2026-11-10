@@ -3,7 +3,7 @@ module.exports = {
   title: "BAATFR",
   description: "Restaurant reviews",
   url: "https://www.businessandyandthefeerex.co.nz",
-  logo: "/assets/logos/logo.png",
+  logo: "/assets/logos/logo_vector.svg",
   manifestThemeColor: "#242e2b",
   navigationHeader: [
     { title: "Home", url: "/" },

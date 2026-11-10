@@ -41,7 +41,8 @@ body {
 }
 
 .header > .container {
-  min-height: 7rem;
+  min-height: 4rem;
+  padding: 0;
 }
 
 .header .nav {
@@ -74,8 +75,20 @@ body {
   @include flex.flexbox;
   @include flex.align-items(center);
   img {
-    height: 5rem;
+    height: 4rem;
     width: auto;
+  }
+}
+
+.header .logo {
+  width: 4rem;
+  height: 4rem;
+  flex: 0 0 4rem;
+  justify-content: left;
+
+  img {
+    width: 1.8em;
+    height: 1.8em;
   }
 }
 
@@ -347,9 +360,13 @@ button,
 }
 
 .button--nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background: none;
   color: settings.$linkColour;
   margin-bottom: 0;
+  padding: 0;
   min-height: 4rem;
   min-width: 4rem;
 
