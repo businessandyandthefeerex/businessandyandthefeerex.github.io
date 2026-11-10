@@ -49,8 +49,7 @@
     for (const field of filterFields) {
       const select = searchForm.querySelector(`[data-filter="${field}"]`);
       const selected = select.value;
-      const ignored = [field, ...(locationDescendants[field] || [])];
-      const values = [...new Set(getMatches(ignored).map((item) => filterValue(item, field)).filter(Boolean))];
+      const values = [...new Set(getMatches([field]).map((item) => filterValue(item, field)).filter(Boolean))];
 
       if (selected && !values.includes(selected)) values.push(selected);
       values.sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
