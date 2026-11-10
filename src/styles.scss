@@ -9,6 +9,9 @@ permalink: /assets/styles.css
 .article .plain-link:hover {
   text-decoration: underline;
 }
+.article .plain-heading {
+  color: inherit;
+}
 .article ul,
 .article ol {
   padding-left: 1.5em;
@@ -44,7 +47,8 @@ permalink: /assets/styles.css
 .reviews-archive h3 a {
   color: inherit;
 }
-.archive-month-heading a {
+.archive-month-heading a,
+.archive-day-heading a {
   color: inherit;
 }
 .location-suburb-heading a {

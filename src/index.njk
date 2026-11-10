@@ -40,8 +40,8 @@ templateEngineOverride: njk
       <li>
         <a href="{{ review.url }}">{{ review.data.title }}</a>
         <span style="font-style: italic; color: #666; font-size: 0.9em;">
-          {{ review.data.date | formatReviewDate }},
-          Rating: {{ review.data.rating }}
+          {{ review.data.date | formatReviewFullDate }},
+          {% if review.data.rating %}Rating: {{ review.data.rating }}{% endif %}
         </span>
       </li>
     {% endif %}

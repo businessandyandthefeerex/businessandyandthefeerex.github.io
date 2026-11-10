@@ -13,8 +13,7 @@ eleventyComputed:
   <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="/country/">All countries</a> &rsaquo;
   <span aria-current="page">{{ country.name }}</span>
-  </nav>  
-
+  </nav>
   <h3>Regions</h3>
   <ul>
   {% for region in country.regions %}
@@ -27,8 +26,10 @@ eleventyComputed:
   </ul>
 {% else %}
   <nav class="breadcrumb" aria-label="Breadcrumb">
-    <span aria-current="page">All countries</span>
+    <a href="/regions/">All regions</a>
+    <span aria-current="page">{{ country.name }}</span>
   </nav>
+  <h3>Countries</h3>
   <ul>
   {% for countryItem in country.regions %}
     <li>

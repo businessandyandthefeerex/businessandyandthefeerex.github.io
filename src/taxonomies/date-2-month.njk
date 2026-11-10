@@ -1,0 +1,30 @@
+---
+layout: page.njk
+pagination:
+  data: collections.dateMonths
+  size: 1
+  alias: monthArchive
+permalink: "{{ monthArchive.path }}"
+eleventyExcludeFromCollections: true
+eleventyComputed:
+  title: "{{ monthArchive.title }}"
+---
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  <a href="/year/">All years</a> &rsaquo;
+  <a href="/year/{{ monthArchive.year }}/">{{ monthArchive.year }}</a> &rsaquo;
+  <span aria-current="page">{{ monthArchive.monthName }}</span>
+</nav>
+
+<h3 class="archive-day-heading"> {{ monthArchive.monthName }} <a href="/year/{{ monthArchive.year }}/">{{ monthArchive.year }}</a> </h3>
+{% for day in monthArchive.days %}
+  <h6 class="archive-day-heading"><a href="{{ day.path }}">{{ day.day }} {{ day.monthName }} {{ day.year }}</a></h6>
+  <ul>
+    {% for review in day.reviews %}
+      <li>
+        <a href="{{ review.url }}">{{ review.data.title }}</a>
+        <span style="font-style: italic; color: #666; font-size: 0.9em;">{% if review.data.region %}{{ review.data.region }}{% if review.data.rating %}, {% endif %}{% endif %}{% if review.data.rating %}Rating: {{ review.data.rating }}{% endif %}</span>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}

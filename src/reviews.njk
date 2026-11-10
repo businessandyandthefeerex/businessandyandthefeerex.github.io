@@ -5,16 +5,19 @@ permalink: /reviews/
 ---
 
 <div class="reviews-archive">
-  {% for yearGroup in collections.reviews | groupByYearMonth %}
+  {% for yearGroup in collections.dateHierarchy %}
     <h2><a href="{{ yearGroup.path }}">{{ yearGroup.year }}</a></h2>
 
     {% for monthGroup in yearGroup.months %}
-      <h3><a href="{{ monthGroup.path }}">{{ monthGroup.name }}</a></h3>
+      <h3><a href="{{ monthGroup.path }}">{{ monthGroup.monthName }}</a></h3>
       <ul>
-        {% for review in monthGroup.reviews %}
-          <li>
-            <a href="{{ review.url }}">{{ review.data.title }}</a>
-          </li>
+        {% for dayGroup in monthGroup.days %}
+          {% for review in dayGroup.reviews %}
+            <li>
+              <a href="{{ review.url }}">{{ review.data.title }}</a>
+              <span style="font-style: italic; color: #666; font-size: 0.9em;">{% if review.data.region %}{{ review.data.region }}{% if review.data.rating %}, {% endif %}{% endif %}{% if review.data.rating %}Rating: {{ review.data.rating }}{% endif %}</span>
+            </li>
+          {% endfor %}
         {% endfor %}
       </ul>
     {% endfor %}

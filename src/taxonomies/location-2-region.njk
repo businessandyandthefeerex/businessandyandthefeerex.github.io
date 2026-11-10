@@ -11,14 +11,14 @@ eleventyComputed:
 
 {% set countryUrl = "/country/" + (region.country | slugify) + "/" %}
 <nav class="breadcrumb" aria-label="Breadcrumb">
-<a href="/country/">All countries</a> &rsaquo;
-<a href="{{ countryUrl }}">{{ region.country }}</a> &rsaquo;
-<span aria-current="page">{{ region.name }}</span>
+  <a href="/country/">All countries</a> &rsaquo;
+  <a href="{{ countryUrl }}">{{ region.country }}</a> &rsaquo;
+  <span aria-current="page">{{ region.name }}</span>
 </nav>
 
 <h3>Cities</h3>
 <ul>
-{% for city in region.cities %}
-  <li><a href="/country/{{ region.country | slugify }}/region/{{ region.name | slugify }}/city/{{ city.name | slugify }}/">{{ city.name }}</a></li>
-{% endfor %}
+  {% for city in region.cities %}
+    <li><a href="/country/{{ region.country | slugify }}/region/{{ region.name | slugify }}/city/{{ city.name | slugify }}/">{{ city.name }}</a></li>
+  {% endfor %}
 </ul>

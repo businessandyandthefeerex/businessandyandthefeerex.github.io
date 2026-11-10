@@ -1,7 +1,7 @@
 ---
 category: Reviews
 layout: post
-title: Little Savannah 
+title: Little Savanna
 date: 2025-10-23
 rating: 3
 meal: dinner

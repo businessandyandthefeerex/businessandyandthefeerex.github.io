@@ -56,7 +56,14 @@
   }
 
   function getResults() {
-    return getMatches().sort((a, b) => new Date(b.date) - new Date(a.date));
+    return getMatches().sort((a, b) => {
+      const titleOrder = String(a.title || "").localeCompare(
+        String(b.title || ""),
+        undefined,
+        { numeric: true, sensitivity: "base" }
+      );
+      return titleOrder || new Date(b.date) - new Date(a.date);
+    });
   }
 
   function matchesSearch(item, term) {
@@ -83,14 +90,17 @@
 
     resultsBody.innerHTML = results.map((item) => {
       const date = new Date(item.date).toLocaleDateString("en-NZ", {
-        month: "long", year: "numeric", timeZone: "UTC",
+        day: "numeric", month: "long", year: "numeric", timeZone: "UTC",
       });
       const rating = filterValue(item, "rating");
 
-      return `<li>
-        <a href="${escapeHtml(item.url)}">${escapeHtml(item.title)}</a>
-        ${escapeHtml(date)}${rating ? `, Rating: ${escapeHtml(rating)}` : ""}
-      </li>`;
+      return `
+          <li>
+            <a href="${escapeHtml(item.url)}">${escapeHtml(item.title)}</a>
+            <span style="font-style: italic; color: #666; font-size: 0.9em;">
+              ${escapeHtml(date)}${rating ? `, Rating: ${escapeHtml(rating)}` : ""}
+            </span>
+            </li>`;
     }).join("");
   }
 

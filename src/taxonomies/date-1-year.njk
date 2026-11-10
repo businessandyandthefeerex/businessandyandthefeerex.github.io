@@ -1,0 +1,43 @@
+---
+layout: page.njk
+pagination:
+  data: collections.dateYears
+  size: 1
+  alias: yearArchive
+permalink: "{{ yearArchive.path }}"
+eleventyExcludeFromCollections: true
+eleventyComputed:
+  title: "{% if yearArchive.year %}{{ yearArchive.year }}{% else %}All years{% endif %}"
+---
+
+{% if yearArchive.year %}
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/year/">All years</a> &rsaquo;
+    <span aria-current="page">{{ yearArchive.year }}</span>
+  </nav>
+  {% for month in yearArchive.months %}
+    <h3 class="archive-month-heading"><a href="{{ month.path }}">{{ month.monthName }}</a></h3>
+    <ul>
+      {% for day in month.days %}
+        {% for review in day.reviews %}
+          <li>
+            <a href="{{ review.url }}">{{ review.data.title }}</a>
+            <span style="font-style: italic; color: #666; font-size: 0.9em;">{% if review.data.region %}{{ review.data.region }}{% if review.data.rating %}, {% endif %}{% endif %}{% if review.data.rating %}Rating: {{ review.data.rating }}{% endif %}</span>
+          </li>
+        {% endfor %}
+      {% endfor %}
+    </ul>
+  {% endfor %}
+{% else %}
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/reviews/">All Reviews</a>
+    <span aria-current="page">{{ yearArchive.year }}</span>
+  </nav>
+
+  <h3>Years</h3>
+  <ul>
+    {% for year in yearArchive.years %}
+      <li><a href="{{ year.path }}">{{ year.year }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}

@@ -24,12 +24,19 @@ eleventyComputed:
     <h3 class="location-suburb-heading"><a href="/country/{{ city.country | slugify }}/region/{{ city.region | slugify }}/city/{{ city.name | slugify }}/suburb/{{ suburb.name | slugify }}/">{{ suburb.name }}</a></h3>
   {% elif city.suburbs.length > 1 %}
     <h3>Other</h3>
+  {% else %}
+    <h3>No suburbs</h3>
   {% endif %}
   {% for rating in suburb.ratings %}
-    <h3>Rating: {{ rating.name }}</h3>
+    <h6>Rating: {{ rating.name }}</h6>
     <ul>
     {% for review in rating.reviews %}
-      <li><a href="{{ review.url }}">{{ review.data.title }}</a></li>
+      <li>
+        <a href="{{ review.url }}">{{ review.data.title }}</a>
+        <span style="font-style: italic; color: #666; font-size: 0.9em;">
+          {{ review.data.date | formatReviewFullDate }}
+        </span>
+      </li>
     {% endfor %}
     </ul>
   {% endfor %}

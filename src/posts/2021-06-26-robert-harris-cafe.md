@@ -6,7 +6,7 @@ date: 2021-06-26
 rating: 3
 meal: lunch
 country: New Zealand
-region: Palmerston North
+region: Manawatu
 city: Palmerston North
 suburb: Palmerston North Central
 address: 73 The Square, Palmerston North Central, Palmerston North 4410

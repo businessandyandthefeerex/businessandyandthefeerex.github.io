@@ -129,6 +129,7 @@ To do:
  - make fix post filename script work as part of the after_reset script in the _plugin folder
  - make the generate geocoded locaitons script work from the cloud, save the api key as a github secret, also make it only work for missing locations, and then make the generate leaflet markers script also work incrementally and work in github's build action
  - work out how to do links and add the link to the chow review
+ - search results should probably be sorted a-z, then date descending
 
 Links to be added:
 

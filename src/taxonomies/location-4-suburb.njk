@@ -16,16 +16,21 @@ eleventyComputed:
 <a href="/country/">All countries</a> &rsaquo;
 <a href="{{ countryUrl }}">{{ suburb.country }}</a> &rsaquo;
 <a href="{{ regionUrl }}">{{ suburb.region }}</a> &rsaquo;
-<a href="{{ cityUrl }}">{{ suburb.city }}</a> &rsaquo;
-<span aria-current="page">{{ suburb.name }}</span>
+<a href="{{ cityUrl }}">{{ suburb.city }}</a>
 </nav>
 
+<h3 class="location-suburb-heading">{{ suburb.name }}</h3>
 {% for rating in suburb.ratings %}
   <section>
-    <h3>Rating: {{ rating.name }}</h3>
+    <h6>Rating: {{ rating.name }}</h6>
     <ul>
       {% for review in rating.reviews %}
-        <li><a href="{{ review.url }}">{{ review.data.title }}</a></li>
+        <li>
+          <a href="{{ review.url }}">{{ review.data.title }}</a>
+          <span style="font-style: italic; color: #666; font-size: 0.9em;">
+            {{ review.data.date | formatReviewFullDate }}
+          </span>
+        </li>
       {% endfor %}
     </ul>
   </section>

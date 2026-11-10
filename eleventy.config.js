@@ -276,6 +276,16 @@ module.exports = function (eleventyConfig) {
   // ------------------------------------------------------------            // City pagination and review grouping data
   // ------------------------------------------------------------
 
+  const sortReviewsByTitleAndDate = (reviews) =>
+    [...reviews].sort((a, b) => {
+      const titleOrder = String(a.data.title || "").localeCompare(
+        String(b.data.title || ""),
+        undefined,
+        { numeric: true, sensitivity: "base" }
+      );
+      return titleOrder || b.date - a.date;
+    });
+
   eleventyConfig.addCollection("locationCities", (collectionApi) => {
     const slugify = eleventyConfig.getFilter("slugify");
     const cities = new Map();
@@ -316,7 +326,7 @@ module.exports = function (eleventyConfig) {
           b.localeCompare(a, undefined, { numeric: true })
         ).map(([rating, reviews]) => ({
           name: rating,
-          reviews,
+          reviews: sortReviewsByTitleAndDate(reviews),
         })),
       })),
     })).filter((city, index, cities) => {
@@ -341,9 +351,7 @@ module.exports = function (eleventyConfig) {
     const slugify = eleventyConfig.getFilter("slugify");
     const suburbs = new Map();
 
-    const reviews = collectionApi
-      .getFilteredByGlob("src/posts/**/*.md")
-      .sort((a, b) => b.date - a.date);
+    const reviews = collectionApi.getFilteredByGlob("src/posts/**/*.md");
 
     for (const review of reviews) {
       const country = String(review.data.country || "").trim();
@@ -374,7 +382,10 @@ module.exports = function (eleventyConfig) {
         ...suburb,
         ratings: [...suburb.ratings.entries()]
           .sort(([a], [b]) => b.localeCompare(a, undefined, { numeric: true }))
-          .map(([name, reviews]) => ({ name, reviews })),
+          .map(([name, reviews]) => ({
+            name,
+            reviews: sortReviewsByTitleAndDate(reviews),
+          })),
       }));
   });
 
@@ -427,120 +438,94 @@ module.exports = function (eleventyConfig) {
     };
   });
 
-  // Groups reviews into years, each containing months, each containing reviews.
-  // Everything is sorted newest first, and each year and month carries the URL of
-  // its archive page.
-  eleventyConfig.addFilter("groupByYearMonth", (reviews) => {
+  // Build the canonical date tree: years contain months, months contain days,
+  // and day leaves contain reviews sorted newest first.
+  const buildDateHierarchy = (reviews) => {
+    const pad = (value) => String(value).padStart(2, "0");
     const monthFormatter = new Intl.DateTimeFormat("en-NZ", {
       month: "long",
       timeZone: "UTC",
     });
-    const sorted = [...reviews].sort((a, b) => b.date - a.date);
-    const years = [];
+    const years = new Map();
+    const sortedReviews = [...reviews].sort((a, b) => b.date - a.date);
 
-    for (const review of sorted) {
-      const d = review.date;
-      const year = String(d.getUTCFullYear());
-      const month = String(d.getUTCMonth() + 1).padStart(2, "0");
+    for (const review of sortedReviews) {
+      const date = review.date;
+      const year = String(date.getUTCFullYear());
+      const month = pad(date.getUTCMonth() + 1);
+      const day = pad(date.getUTCDate());
+      const dayNumber = String(date.getUTCDate());
+      const monthName = monthFormatter.format(date);
+      const dayKey = `${year}-${month}-${day}`;
 
-      let yearGroup = years[years.length - 1];
-      if (!yearGroup || yearGroup.year !== year) {
-        yearGroup = { year, path: `/reviews/${year}/`, months: [] };
-        years.push(yearGroup);
+      if (!years.has(year)) {
+        years.set(year, {
+          key: year,
+          year,
+          path: `/year/${year}/`,
+          months: new Map(),
+        });
       }
+      const yearNode = years.get(year);
 
-      let monthGroup = yearGroup.months[yearGroup.months.length - 1];
-      if (!monthGroup || monthGroup.month !== month) {
-        monthGroup = {
-          month,
-          name: monthFormatter.format(d),
-          path: `/reviews/${year}/${month}/`,
-          reviews: [],
-        };
-        yearGroup.months.push(monthGroup);
-      }
-
-      monthGroup.reviews.push(review);
-    }
-
-    return years;
-  });
-
-  // Groups reviews (already sorted newest first) into consecutive month buckets,
-  // each with a heading name and a link to that month's archive page.
-  eleventyConfig.addFilter("groupByMonth", (reviews) => {
-    const formatter = new Intl.DateTimeFormat("en-NZ", {
-      month: "long",
-      timeZone: "UTC",
-    });
-    const groups = [];
-
-    for (const review of reviews) {
-      const d = review.date;
-      const name = formatter.format(d);
-      const month = String(d.getUTCMonth() + 1).padStart(2, "0");
-      let group = groups[groups.length - 1];
-
-      if (!group || group.name !== name) {
-        group = {
-          name,
-          path: `/reviews/${d.getUTCFullYear()}/${month}/`,
-          reviews: [],
-        };
-        groups.push(group);
-      }
-      group.reviews.push(review);
-    }
-
-    return groups;
-  });
-
-  // One entry per year, month and day that contains reviews. Each entry carries
-  // its URL path, a display title and its reviews (newest first), so date.njk can
-  // render every level of archive page.
-  eleventyConfig.addCollection("dateArchives", (collectionApi) => {
-    const pad = (n) => String(n).padStart(2, "0");
-    const monthFormatter = new Intl.DateTimeFormat("en-NZ", {
-      month: "long",
-      timeZone: "UTC",
-    });
-    const archives = new Map();
-
-    const reviews = collectionApi
-      .getFilteredByGlob("src/posts/**/*.md")
-      .sort((a, b) => b.date - a.date);
-
-    for (const review of reviews) {
-      const d = review.date;
-      const year = String(d.getUTCFullYear());
-      const month = pad(d.getUTCMonth() + 1);
-      const day = pad(d.getUTCDate());
-      const monthName = monthFormatter.format(d);
-
-      const levels = [
-        { key: year, path: `/reviews/${year}/`, title: year },
-        {
+      if (!yearNode.months.has(month)) {
+        yearNode.months.set(month, {
           key: `${year}-${month}`,
-          path: `/reviews/${year}/${month}/`,
+          year,
+          month,
+          monthName,
           title: `${monthName} ${year}`,
-        },
-        {
-          key: `${year}-${month}-${day}`,
-          path: `/reviews/${year}/${month}/${day}/`,
-          title: `${Number(day)} ${monthName} ${year}`,
-        },
-      ];
-
-      for (const level of levels) {
-        if (!archives.has(level.key)) {
-          archives.set(level.key, { ...level, reviews: [] });
-        }
-        archives.get(level.key).reviews.push(review);
+          path: `/year/${year}/month/${month}/`,
+          days: new Map(),
+        });
       }
+      const monthNode = yearNode.months.get(month);
+
+      if (!monthNode.days.has(day)) {
+        monthNode.days.set(day, {
+          key: dayKey,
+          year,
+          month,
+          monthName,
+          day: dayNumber,
+          dayPadded: day,
+          title: `${dayNumber} ${monthName} ${year}`,
+          path: `/year/${year}/month/${month}/day/${day}/`,
+          reviews: [],
+        });
+      }
+      monthNode.days.get(day).reviews.push(review);
     }
 
-    return [...archives.values()].sort((a, b) => b.key.localeCompare(a.key));
+    return [...years.values()]
+      .sort((a, b) => b.key.localeCompare(a.key))
+      .map((year) => ({
+        ...year,
+        months: [...year.months.values()]
+          .sort((a, b) => b.key.localeCompare(a.key))
+          .map((month) => ({
+            ...month,
+            days: [...month.days.values()].sort((a, b) => b.key.localeCompare(a.key)),
+          })),
+      }));
+  };
+
+  const getDateHierarchy = (collectionApi) =>
+    buildDateHierarchy(collectionApi.getFilteredByGlob("src/posts/**/*.md"));
+
+  eleventyConfig.addCollection("dateHierarchy", getDateHierarchy);
+  eleventyConfig.addCollection("dateYears", (collectionApi) => {
+    const years = getDateHierarchy(collectionApi);
+    return [{ year: null, path: "/year/", years }, ...years];
   });
+  eleventyConfig.addCollection("dateMonths", (collectionApi) =>
+    getDateHierarchy(collectionApi).flatMap((year) => year.months)
+  );
+  eleventyConfig.addCollection("dateDays", (collectionApi) =>
+    getDateHierarchy(collectionApi).flatMap((year) =>
+      year.months.flatMap((month) => month.days)
+    )
+  );
 
   // ------------------------------------------------------------            // Compare taxonomy values without treating YAML numbers and strings differently.
   eleventyConfig.addFilter("sameValue", (left, right) =>
