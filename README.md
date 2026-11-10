@@ -68,6 +68,7 @@ Notes:
 - `suburb` is optional. Leave it out for small towns, or if it would just repeat the city.
 - Posts are filed automatically by date, rating, meal, category and location. The Browse by Region pages, date archives and the map all update from the front matter, so there are no index pages to maintain by hand.
 - A new region or country gets its pages automatically, because they are generated from the posts by collections in `eleventy.config.js`.
+- inserting a link to a post inline is as simple as this: [The Botanist](/posts/2026-08-01-the-botanist/)
 
 ## The map
 
