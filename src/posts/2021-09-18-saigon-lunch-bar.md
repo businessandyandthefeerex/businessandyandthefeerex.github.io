@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North Cenrtral
+suburb: Palmerston North Central
 address: 15 Fitzherbert Avenue, Palmerston North Central, Palmerston North 4410
 website: https://www.instagram.com/saigon_garden_nz
 dishes:

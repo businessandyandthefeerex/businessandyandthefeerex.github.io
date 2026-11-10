@@ -7,7 +7,7 @@ rating: 3
 meal: lunch
 country: New Zealand
 region: Waikato
-city: Taupo
+city: Taupō
 suburb: Town Centre
 address: 30 Tamamutu Street, Town Centre, Taupō 3330
 website: https://www.doughbros.co.nz/
