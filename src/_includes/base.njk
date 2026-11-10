@@ -9,7 +9,7 @@
     {% endif %}
 
     {% set pageTitle = title or site.title %}
-    <title>{{ pageTitle }}{% if title and title != site.title %} - {{ site.title }}{% endif %}</title>
+    <title>{{ pageTitle }}{% if title and title != site.title %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ description or site.description }}">
     <meta property="og:title" content="{{ pageTitle }}">
     <meta property="og:description" content="{{ description or site.description }}">

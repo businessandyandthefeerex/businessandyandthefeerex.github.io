@@ -8,8 +8,8 @@ module.exports = {
   navigationHeader: [
     { title: "Home", url: "/" },
     { title: "Reviews", url: "/reviews/" },
-    { title: "Browse by Region", url: "/regions/" },
-    { title: "Browse the Map", url: "/map/" },
+    { title: "Regions", url: "/regions/" },
+    { title: "Map", url: "/map/" },
     { title: "Search", url: "/search/" },
     { title: "Subscribe", url: "/subscribe/" },
   ],

@@ -16,7 +16,7 @@ eleventyComputed:
     <span aria-current="page">{{ yearArchive.year }}</span>
   </nav>
   {% for month in yearArchive.months %}
-    <h3 class="archive-month-heading"><a href="{{ month.path }}">{{ month.monthName }}</a></h3>
+    <h3><a  class="plain-link" href="{{ month.path }}">{{ month.monthName }}</a></h3>
     <ul>
       {% for day in month.days %}
         {% for review in day.reviews %}
@@ -30,10 +30,9 @@ eleventyComputed:
   {% endfor %}
 {% else %}
   <nav class="breadcrumb" aria-label="Breadcrumb">
-    <a href="/reviews/">All Reviews</a>
+    All years
     <span aria-current="page">{{ yearArchive.year }}</span>
   </nav>
-
   <h3>Years</h3>
   <ul>
     {% for year in yearArchive.years %}

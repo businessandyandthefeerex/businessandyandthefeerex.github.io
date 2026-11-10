@@ -6,10 +6,10 @@ permalink: /reviews/
 
 <div class="reviews-archive">
   {% for yearGroup in collections.dateHierarchy %}
-    <h2><a href="{{ yearGroup.path }}">{{ yearGroup.year }}</a></h2>
+    <h2><a class="plain-link" href="{{ yearGroup.path }}">{{ yearGroup.year }}</a></h2>
 
     {% for monthGroup in yearGroup.months %}
-      <h3><a href="{{ monthGroup.path }}">{{ monthGroup.monthName }}</a></h3>
+      <h3><a class="plain-link" href="{{ monthGroup.path }}">{{ monthGroup.monthName }}</a></h3>
       <ul>
         {% for dayGroup in monthGroup.days %}
           {% for review in dayGroup.reviews %}

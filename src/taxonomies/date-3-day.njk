@@ -17,8 +17,7 @@ eleventyComputed:
   <span aria-current="page">{{ dayArchive.day }}</span>
 </nav>
 
-<h3 class="archive-day-heading"> {{ dayArchive.day }} {{ dayArchive.monthName }} {{ dayArchive.year }} </h3>
-<h6 class="archive-day-heading">{{ dayArchive.title }}</h6>
+<h3 class="archive-day-heading"> {{ dayArchive.day }} <a class="plain-link" href="/year/{{ dayArchive.year }}/month/{{ dayArchive.month }}/">{{ dayArchive.monthName }} <a class="plain-link" href="/year/{{ dayArchive.year }}/">{{ dayArchive.year }}</a> </h3>
 <ul>
   {% for review in dayArchive.reviews %}
     <li>

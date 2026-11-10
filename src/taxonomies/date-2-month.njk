@@ -16,15 +16,14 @@ eleventyComputed:
   <span aria-current="page">{{ monthArchive.monthName }}</span>
 </nav>
 
-<h3 class="archive-day-heading"> {{ monthArchive.monthName }} <a href="/year/{{ monthArchive.year }}/">{{ monthArchive.year }}</a> </h3>
-{% for day in monthArchive.days %}
-  <h6 class="archive-day-heading"><a href="{{ day.path }}">{{ day.day }} {{ day.monthName }} {{ day.year }}</a></h6>
-  <ul>
+<h3 class="archive-day-heading"> {{ monthArchive.monthName }} <a class="plain-link" href="/year/{{ monthArchive.year }}/">{{ monthArchive.year }}</a> </h3>
+<ul>
+  {% for day in monthArchive.days %}
     {% for review in day.reviews %}
       <li>
         <a href="{{ review.url }}">{{ review.data.title }}</a>
         <span style="font-style: italic; color: #666; font-size: 0.9em;">{% if review.data.region %}{{ review.data.region }}{% if review.data.rating %}, {% endif %}{% endif %}{% if review.data.rating %}Rating: {{ review.data.rating }}{% endif %}</span>
       </li>
     {% endfor %}
-  </ul>
-{% endfor %}
+  {% endfor %}
+</ul>

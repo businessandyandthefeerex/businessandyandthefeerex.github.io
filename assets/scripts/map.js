@@ -1,5 +1,8 @@
 (function () {
-  var map = L.map("map").setView([-41.3, 174.8], 6); // 6 shows most of NZ; use 13 for a close Wellington view
+  // 5 shows all of NZ; use 13 for a close Wellington view
+  // geographical centroid of nz is at 41° 30′ S, 172° 50′ E
+  // i've moved this over slightly so that it looks a little more centred in the map viewport
+  var map = L.map("map").setView([-40.8, 172.8], 5);
 
   L.tileLayer("https://api.maptiler.com/maps/streets-v2/256/{z}/{x}/{y}.png?key=TBMEHjpwUqAgqKJFiXYL", {
     attribution: '<a href="https://www.openstreetmap.org">OpenStreetMap</a> | <a href="https://www.maptiler.com">MapTiler</a>',
