@@ -6,8 +6,8 @@ date: 2020-12-13
 rating: 2
 meal: lunch
 country: New Zealand
-region: Palmerston North
-city: Palmerston North Central
+region: Manawatu
+city: Palmerston North
 suburb: Palmerston North Central
 address: 67 George Street, Palmerston North Central, Palmerston North 4410
 website: https://www.facebook.com/moxiescafe.pn/

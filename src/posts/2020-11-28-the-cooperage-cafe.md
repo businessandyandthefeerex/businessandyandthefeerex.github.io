@@ -6,8 +6,8 @@ date: 2020-11-28
 rating: 1
 meal: lunch
 country: New Zealand
-region: Palmerston North
-city: Palmerston North Central
+region: Manawatu
+city: Palmerston North
 suburb: Palmerston North Central
 address: 723 Main Street, Palmerston North Central, Palmerston North 4414
 website: https://www.thecooperage.co.nz/

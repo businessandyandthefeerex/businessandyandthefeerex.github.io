@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Manawatu
 city: Feilding
-suburb: Feilding
+suburb:
 address: 8 Stafford Street, Feilding 4702
 website: https://www.facebook.com/empirefeilding
 dishes:

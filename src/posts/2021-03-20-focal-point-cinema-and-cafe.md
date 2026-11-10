@@ -6,9 +6,9 @@ date: 2021-03-20
 rating: 2
 meal: lunch
 country: New Zealand
-region: Manwatu
+region: Manawatu
 city: Feilding
-suburb: Feilding
+suburb:
 address: 81 Manchester Street, Feilding 4702
 website: https://www.focalpointcinema.co.nz/
 dishes:

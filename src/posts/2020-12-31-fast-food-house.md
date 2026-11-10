@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Feilding
-suburb: Feilding
+suburb:
 address: 70-72 Kimbolton Road, Feilding 4702
 website: https://feilding.co.nz/address/business-directory/fast-food-house.html
 dishes:

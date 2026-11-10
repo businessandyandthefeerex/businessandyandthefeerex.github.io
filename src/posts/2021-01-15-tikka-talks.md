@@ -6,8 +6,8 @@ date: 2021-01-15
 rating: 3
 meal: dinner
 country: New Zealand
-region: Palmerston North
-city: Palmerston North Central
+region: Manawatu
+city: Palmerston North
 suburb: Palmerston North Central
 address: 126 King Street, Palmerston North Central, Palmerston North 4410
 website: https://tikkatalkspalmerstonnorth.co.nz

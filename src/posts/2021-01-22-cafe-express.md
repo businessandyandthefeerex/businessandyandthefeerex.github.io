@@ -6,8 +6,8 @@ date: 2021-01-22
 rating: 1
 meal: dinner
 country: New Zealand
-region: Palmerston North
-city: Palmerston North Central
+region: Manawatu
+city: Palmerston North
 suburb: Palmerston North Central
 address: The Grand Building, 41 The Square, Palmerston North 4410
 website: http://www.cafeexpress.net.nz/

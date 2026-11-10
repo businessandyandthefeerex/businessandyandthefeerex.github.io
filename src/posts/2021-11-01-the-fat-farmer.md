@@ -6,8 +6,8 @@ date: 2021-11-01
 rating: 4
 meal: dinner
 country: New Zealand
-region: Palmerston North
-city: Hokowhitu
+region: Manawatu
+city: Palmerston North
 suburb: Hokowhitu
 address: 360 Albert Street, Hokowhitu, Palmerston North 4410
 website: http://www.thefatfarmer.co.nz/

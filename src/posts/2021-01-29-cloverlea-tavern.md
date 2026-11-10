@@ -6,9 +6,9 @@ date: 2021-01-29
 rating: 1
 meal: dinner
 country: New Zealand
-region: Palmerston North
-city: Highburh
-suburb: Highburh
+region: Manawatu
+city: Palmerston North
+suburb: Highbury
 address: 01 Tremaine Avenue, Highbury, Palmerston North 4412
 website: https://www.facebook.com/cloverleatavern2017/
 dishes:

@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Manawatu
 city: Feilding
-suburb: Feilding
+suburb:
 address: 46 Manchester Street, Feilding 4702
 website: https://essencecafefeilding.co.nz/
 dishes:

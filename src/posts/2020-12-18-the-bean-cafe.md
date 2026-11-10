@@ -6,8 +6,8 @@ date: 2020-12-18
 rating: 1
 meal: dinner
 country: New Zealand
-region: Palmerston North
-city: Palmerston North Central
+region: Manawatu
+city: Palmerston North
 suburb: Palmerston North Central
 address: 92 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 website: https://www.facebook.com/beancafe/

@@ -6,8 +6,8 @@ date: 2020-11-14
 rating: 3
 meal: lunch
 country: New Zealand
-region: Palmerston North
-city: Palmerston North Central
+region: Manawatu
+city: Palmerston North
 suburb: Palmerston North Central
 address: 5 Grey Street, Palmerston North Central, Palmerston North 4410
 website: https://www.instagram.com/popular/fresh-bowl-palmerston-north/

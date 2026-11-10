@@ -6,8 +6,8 @@ date: 2026-01-22
 rating: 2
 meal: dinner
 country: New Zealand
-region: Palmerston North
-city: Palmerston North Central
+region: Manawatu
+city: Palmerston North
 suburb: Palmerston North Central
 address: 327 Broadway Avenue, Palmerston North Central, Palmerston North 4414
 website: http://www.saigon.nz/

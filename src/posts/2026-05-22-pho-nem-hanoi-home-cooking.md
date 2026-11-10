@@ -5,11 +5,11 @@ title: Pho Nem Hanoi Home Cooking
 date: 2026-05-22
 rating: 1
 meal: dinner
-address: 68 The Square, Palmerston North Central, Palmerston North 4410
 country: New Zealand
-region: Palmerston North
+region: Manawatu
 city: Palmerston North
 suburb: Palmerston North Central
+address: 68 The Square, Palmerston North Central, Palmerston North 4410
 website: https://www.facebook.com/phonemkiwi/
 dishes:
   - Vegetable spring rolls

@@ -7,7 +7,7 @@ rating: 2
 meal: lunch
 address: 6 Ballance Street, Shannon 4821
 country: New Zealand
-region: Manwatu
+region: Manawatu
 city: Shannon
 suburb: Shannon
 website: 

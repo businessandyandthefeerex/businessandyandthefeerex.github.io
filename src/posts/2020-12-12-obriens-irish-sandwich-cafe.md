@@ -6,8 +6,8 @@ date: 2020-12-12
 rating: 3
 meal: lunch
 country: New Zealand
-region: Palmerston North
-city: Palmerston North Central
+region: Manawatu
+city: Palmerston North
 suburb: Palmerston North Central
 address: 44 Broadway Avenue, Palmerston North Central, Palmerston North 4410
 website: https://www.obriens.co.nz/

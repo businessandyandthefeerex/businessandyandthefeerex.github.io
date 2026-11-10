@@ -6,8 +6,8 @@ date: 2020-12-28
 rating: 1
 meal: lunch
 country: New Zealand
-region: Palmerston North
-city: West End
+region: Manawatu
+city: Palmerston North
 suburb: West End
 address: 6 Manawaroa Street, West End, Palmerston North 4410
 website: https://www.facebook.com/MasterBakeryPN

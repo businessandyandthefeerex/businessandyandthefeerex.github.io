@@ -9,7 +9,7 @@ address: 205 Ohiro Road, Brooklyn, Wellington 6021
 country: New Zealand
 region: Wellington
 city: Wellington
-suburb: Brookyn
+suburb: Brooklyn
 website: https://www.penthousecinema.co.nz/
 dishes:
   - Mince & cheese pie

@@ -6,7 +6,7 @@ date: 2022-10-21
 rating: 2
 meal: lunch
 country: New Zealand
-region: Manwatu
+region: Manawatu
 city: Sanson
 suburb: Sanson
 address: 9 Dundas Road, Sanson 4817

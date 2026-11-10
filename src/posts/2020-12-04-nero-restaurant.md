@@ -6,8 +6,8 @@ date: 2020-12-04
 rating: 3
 meal: dinner
 country: New Zealand
-region: Palmerston North
-city: Palmerston North Central
+region: Manawatu
+city: Palmerston North
 suburb: Palmerston North Central
 address: 36 Amesbury Street, Palmerston North Central, Palmerston North 4410
 website: http://www.nerorestaurant.co.nz/

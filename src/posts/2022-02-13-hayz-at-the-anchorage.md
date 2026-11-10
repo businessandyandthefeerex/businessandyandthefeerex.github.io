@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Southland
 city: Bluff
-suburb: Bluff
+suburb:
 address: 86 Gore Street, Bluff 9814
 website: https://www.hayzattheanchorage.com/
 dishes:

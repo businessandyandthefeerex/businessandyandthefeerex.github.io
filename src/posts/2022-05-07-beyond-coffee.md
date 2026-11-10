@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Feilding
-suburb: Feilding
+suburb:
 address: 32 Manchester Square, Feilding 4702
 website: https://beyond3.odoo.com/
 dishes:

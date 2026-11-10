@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Waiouru
-suburb: Waiouru
+suburb:
 address: 16, State Highway 1, Waiouru 4825
 website: https://restaurantguru.com/Fast-Lane-Restaurant-Waiouru
 dishes:

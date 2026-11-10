@@ -6,7 +6,7 @@ date: 2022-06-03
 rating: 1
 meal: dinner
 country: New Zealand
-region: Manwatu
+region: Manawatu
 city: Palmerston North
 suburb: Palmerston North
 address: 194/200 Ruapehu Drive, Fitzherbert, Palmerston North 4410

@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Feilding
-suburb: Feilding
+suburb:
 address: 78/80 Fergusson Street, Feilding 4702
 website: https://murraysirishbar.com/
 dishes:

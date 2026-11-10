@@ -7,8 +7,8 @@ rating: 2
 meal: dinner
 country: New Zealand
 region: Manawatu
-city: Feliding
-suburb: Feliding
+city: Feilding
+suburb:
 address: 1469 Kimbolton Road, Feilding 4777
 website: http://www.cheltenhamhotel.co.nz/
 dishes:
