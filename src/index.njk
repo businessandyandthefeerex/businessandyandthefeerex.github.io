@@ -39,8 +39,10 @@ templateEngineOverride: njk
     {% if loop.index <= 5 %}
       <li>
         <a href="{{ review.url }}">{{ review.data.title }}</a>
-        {{ review.data.date | formatReviewDate }},
-        Rating: {{ review.data.rating }}
+        <span style="font-style: italic; color: #666; font-size: 0.9em;">
+          {{ review.data.date | formatReviewDate }},
+          Rating: {{ review.data.rating }}
+        </span>
       </li>
     {% endif %}
   {% endfor %}

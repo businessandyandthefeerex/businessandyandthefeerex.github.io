@@ -19,19 +19,19 @@ eleventyComputed:
 </nav>
 
 {% for suburb in city.suburbs %}
-    <section>
-    {% if suburb.name != "Unlisted suburb" %}
-    <h3><a href="/country/{{ city.country | slugify }}/region/{{ city.region | slugify }}/city/{{ city.name | slugify }}/suburb/{{ suburb.name | slugify }}/">{{ suburb.name }}</a></h3>
-    {% elif city.suburbs.length > 1 %}
+  <section>
+  {% if suburb.name != "Unlisted suburb" %}
+    <h3 class="location-suburb-heading"><a href="/country/{{ city.country | slugify }}/region/{{ city.region | slugify }}/city/{{ city.name | slugify }}/suburb/{{ suburb.name | slugify }}/">{{ suburb.name }}</a></h3>
+  {% elif city.suburbs.length > 1 %}
     <h3>Other</h3>
-    {% endif %}
-    {% for rating in suburb.ratings %}
+  {% endif %}
+  {% for rating in suburb.ratings %}
     <h3>Rating: {{ rating.name }}</h3>
     <ul>
     {% for review in rating.reviews %}
-    <li><a href="{{ review.url }}">{{ review.data.title }}</a></li>
+      <li><a href="{{ review.url }}">{{ review.data.title }}</a></li>
     {% endfor %}
     </ul>
-    {% endfor %}
-    </section>
+  {% endfor %}
+  </section>
 {% endfor %}
