@@ -7,8 +7,8 @@ rating: 3
 meal: dinner
 country: New Zealand
 region: Manawatu
-city: 64 George Street
-suburb: 64 George Street
+city: Palmerston North
+suburb: Palmerston North Central
 address: 64 George Street, Palmerston North Central, Palmerston North 4410
 website: https://kapadokyamediteraneanturkish.co.nz/
 dishes:

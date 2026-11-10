@@ -7,8 +7,8 @@ rating: 4
 meal: dinner
 country: New Zealand
 region: Manawatu
-city: 3 Campbell Street
-suburb: 3 Campbell Street
+city: Palmerston North
+suburb: Palmerston North Central
 address: 3 Campbell Street, Palmerston North Central, Palmerston North 4410
 website: https://www.beaverandbear.co.nz/
 dishes:

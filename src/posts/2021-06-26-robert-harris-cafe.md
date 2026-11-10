@@ -7,8 +7,8 @@ rating: 3
 meal: lunch
 country: New Zealand
 region: Palmerston North
-city: 3 Vernon Drive
-suburb: 3 Vernon Drive
+city: Palmerston North
+suburb: Palmerston North Central
 address: 73 The Square, Palmerston North Central, Palmerston North 4410
 website: https://robertharris.co.nz/
 dishes:

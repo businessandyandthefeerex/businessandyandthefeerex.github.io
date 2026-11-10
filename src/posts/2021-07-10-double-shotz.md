@@ -7,8 +7,8 @@ rating: 3
 meal: lunch
 country: New Zealand
 region: Manawatu
-city: 138 The Square
-suburb: 138 The Square
+city: Palmerston North
+suburb: Palmerston North Central
 address: 138 The Square, Palmerston North Central, Palmerston North 4410
 website: https://www.doubleshotzcafe.com/
 dishes:

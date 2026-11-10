@@ -7,8 +7,8 @@ rating: 2
 meal: dinner
 country: New Zealand
 region: Manawatu
-city: 61 The Square
-suburb: 61 The Square
+city: Palmerston North
+suburb: Palmerston North Central
 address: 61 The Square, Palmerston North Central, Palmerston North 4410
 website: https://namastebharat.co.nz/
 dishes:

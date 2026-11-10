@@ -3679,5 +3679,23 @@
     "lon": "174.7811345",
     "title": "Chow",
     "rating": 3
+  },
+  {
+    "file": "2026-11-06-deliciosa.md",
+    "address": "21 Napier Road, Havelock North 4130",
+    "country": "New Zealand",
+    "lat": "-39.6685142",
+    "lon": "176.8785769",
+    "title": "Deliciosa",
+    "rating": 4
+  },
+  {
+    "file": "2026-11-07-the-george-cafe.md",
+    "address": "Speldhurst Country Estate 100 Speldhurst Parade, Levin 5510",
+    "country": "New Zealand",
+    "lat": "-40.655876",
+    "lon": "175.271061",
+    "title": "The George Cafe",
+    "rating": 2
   }
 ]

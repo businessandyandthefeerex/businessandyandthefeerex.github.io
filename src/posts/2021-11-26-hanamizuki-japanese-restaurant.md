@@ -7,8 +7,8 @@ rating: 3
 meal: dinner
 country: New Zealand
 region: Manawatu
-city: 161 The Square
-suburb: 161 The Square
+city: Palmerston North
+suburb: Palmerston North Central
 address: 161 The Square, Palmerston North Central, Palmerston North 4410
 website: http://www.hanamizuki.co.nz/
 dishes:

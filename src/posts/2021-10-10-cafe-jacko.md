@@ -7,8 +7,8 @@ rating: 3
 meal: lunch
 country: New Zealand
 region: Manawatu
-city: 8 George Street
-suburb: 8 George Street
+city: Palmerston North
+suburb: Palmerston North Central
 address: 8 George Street, Palmerston North Central, Palmerston North 4410
 website: 
 dishes:

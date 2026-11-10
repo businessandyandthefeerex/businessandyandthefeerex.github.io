@@ -3270,5 +3270,21 @@
     "address": "45 Tory Street, Te Aro, Wellington 6011, New Zealand",
     "rating": "3",
     "link": "/posts/2026-10-31-chow/"
+  },
+  {
+    "lat": -39.6685142,
+    "lon": 176.8785769,
+    "title": "Deliciosa",
+    "address": "21 Napier Road, Havelock North 4130, New Zealand",
+    "rating": "4",
+    "link": "/posts/2026-11-06-deliciosa/"
+  },
+  {
+    "lat": -40.655876,
+    "lon": 175.271061,
+    "title": "The George Cafe",
+    "address": "Speldhurst Country Estate 100 Speldhurst Parade, Levin 5510, New Zealand",
+    "rating": "2",
+    "link": "/posts/2026-11-07-the-george-cafe/"
   }
 ]

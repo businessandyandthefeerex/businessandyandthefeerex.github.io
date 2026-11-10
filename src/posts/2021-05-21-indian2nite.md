@@ -7,8 +7,8 @@ rating: 1
 meal: dinner
 country: New Zealand
 region: Manawatu
-city: 22 George Street
-suburb: 22 George Street
+city: Palmerston North
+suburb: Palmerston North Central
 address: 22 George Street, Palmerston North Central, Palmerston North 4410
 website: https://www.indian2niterestaurant.co.nz/
 dishes:

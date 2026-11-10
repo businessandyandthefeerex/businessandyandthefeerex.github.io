@@ -7,8 +7,8 @@ rating: 1
 meal: lunch
 country: New Zealand
 region: Manawatu
-city: 84 Fitzherbert Avenue
-suburb: 84 Fitzherbert Avenue
+city: Palmerston North
+suburb: Palmerston North Central
 address: 84 Fitzherbert Avenue, Palmerston North Central, Palmerston North 4410
 website: http://www.facebook.com/binghousePN
 dishes:

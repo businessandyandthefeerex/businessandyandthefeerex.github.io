@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Wellington
 city: Wellington
-suburb: 147 The Terrace
+suburb: Wellington Central
 address: 147 The Terrace, Wellington Central, Wellington 6011
 website: https://www.grandchancellorhotels.com/james-cook-hotel-grand-chancellor/restaurants-bars/whitby-s-restaurant-bar
 dishes:
