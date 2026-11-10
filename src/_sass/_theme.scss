@@ -19,7 +19,6 @@ body {
   margin: 0 auto;
 }
 
-
 // Header, feature and footer
 .header,
 .footer {
@@ -33,6 +32,7 @@ body {
     @include flex.flexbox;
     @include flex.flex-direction(row);
     @include flex.justify-content(space-between);
+    @include flex.align-items(flex-start);
     padding: 1rem 0;
     @include mixins.breakpoint(break-1) {
       @include flex.align-items(center);
@@ -84,7 +84,10 @@ body {
   width: 4rem;
   height: 4rem;
   flex: 0 0 4rem;
-  justify-content: left;
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
 
   img {
     width: 1.6em;
@@ -193,7 +196,6 @@ body {
 .section {
   margin: 0;
 }
-
 
 // Lists
 .list {
