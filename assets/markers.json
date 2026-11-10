@@ -632,14 +632,6 @@
     "link": "/posts/2024-07-19-Ayhan’s-Turkish-Cafe/"
   },
   {
-    "lat": -33.939759,
-    "lon": 151.147771,
-    "title": "Embers Woodfired Pizza Restaurant",
-    "address": "State Highway 1, Rosehill, Auckland 2113, Australia",
-    "rating": "4",
-    "link": "/posts/2024-07-21-Embers-Woodfired-Pizza-Restaurant/"
-  },
-  {
     "lat": -31.8450796,
     "lon": 116.007327,
     "title": "Oakover Grounds",
@@ -2656,14 +2648,6 @@
     "link": "/posts/2022-10-21-vivs-kitchen/"
   },
   {
-    "lat": 33.122035,
-    "lon": -107.264685,
-    "title": "The Mess Tent",
-    "address": "Military museum, Waiouru 4861, New Zealand",
-    "rating": "2",
-    "link": "/posts/2022-10-24-the-mess-tent/"
-  },
-  {
     "lat": -41.2742893,
     "lon": 174.7790562,
     "title": "Wholly Bagels & Pizza",
@@ -3310,5 +3294,13 @@
     "address": "1 Princes Street, Dunedin Central, Dunedin 9016, New Zealand",
     "rating": "2",
     "link": "/posts/2021-08-01-dunedin-social-club/"
+  },
+  {
+    "lat": -36.931411,
+    "lon": 174.87087,
+    "title": "The Mess Tent",
+    "address": "Military museum, Waiouru 4861, New Zealand, New Zealand",
+    "rating": "2",
+    "link": "/posts/2022-10-24-the-mess-tent/"
   }
 ]

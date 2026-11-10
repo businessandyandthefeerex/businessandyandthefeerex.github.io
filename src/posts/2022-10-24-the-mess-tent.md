@@ -9,7 +9,7 @@ country: New Zealand
 region: Manawatu
 city: Waiouru
 suburb:
-address: Military museum, Waiouru 4861
+address: Military museum, Waiouru 4861, New Zealand
 website: https://www.armymuseum.co.nz/visit/the-mess-tent-cafe/
 dishes:
   - Beef nachos

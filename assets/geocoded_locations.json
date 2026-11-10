@@ -711,15 +711,6 @@
     "rating": 3
   },
   {
-    "file": "2024-07-21-Embers-Woodfired-Pizza-Restaurant.md",
-    "address": "State Highway 1, Rosehill, Auckland 2113",
-    "country": "Australia",
-    "lat": "-33.939759",
-    "lon": "151.147771",
-    "title": "Embers Woodfired Pizza Restaurant",
-    "rating": 4
-  },
-  {
     "file": "2024-07-21-Oakover-Grounds.md",
     "address": "80 Yukich Cl, Middle Swan WA 6056, Australia",
     "country": "Australia",
@@ -2988,15 +2979,6 @@
     "rating": 2
   },
   {
-    "file": "2022-10-24-the-mess-tent.md",
-    "address": "Military museum, Waiouru 4861",
-    "country": "New Zealand",
-    "lat": "33.122035",
-    "lon": "-107.264685",
-    "title": "The Mess Tent",
-    "rating": 2
-  },
-  {
     "file": "2022-12-02-wholly-bagels-and-pizza.md",
     "address": "39 Murphy Street, Thorndon, Wellington 6001",
     "country": "New Zealand",
@@ -3769,5 +3751,14 @@
     "lon": "175.611041",
     "title": "Cafe Royale",
     "rating": 1
+  },
+  {
+    "file": "2022-10-24-the-mess-tent.md",
+    "address": "Military museum, Waiouru 4861, New Zealand",
+    "country": "New Zealand",
+    "lat": "-36.931411",
+    "lon": "174.87087",
+    "title": "The Mess Tent",
+    "rating": 2
   }
 ]
