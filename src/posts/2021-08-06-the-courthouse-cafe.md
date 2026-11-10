@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Otago
 city: Alexandra
-suburb: Alexandra
+suburb:
 address: 8 Centennial Avenue, Alexandra 9320
 website: https://www.facebook.com/pages/category/Cafe/The-Courthouse-Cafe-144456498934437/
 dishes:

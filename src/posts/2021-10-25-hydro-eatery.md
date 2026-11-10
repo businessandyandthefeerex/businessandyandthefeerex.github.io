@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Waikato
 city: Tūrangi
-suburb: Tūrangi
+suburb:
 address: 277 Te Rangitautahanga Road, Tūrangi 3334
 website: https://www.facebook.com/Hydroeatery/
 dishes:

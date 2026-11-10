@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Southland
 city: Owaka
-suburb: Owaka
+suburb:
 address: 21 Ryley Street, Owaka 9535
 website: http://www.clt-trust.co.nz/catlins-inn---owaka.html
 dishes:

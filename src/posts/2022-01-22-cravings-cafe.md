@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: Roslyn
 address: 117 Ruahine Street, Roslyn, Palmerston North 4414
 website: https://m.facebook.com/cravingscafenz/
 dishes:

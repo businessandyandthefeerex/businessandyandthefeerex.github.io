@@ -8,7 +8,7 @@ meal: lunch
 country: Cook Islands
 region: Rarotonga
 city: Takitumu District
-suburb: Takitumu District
+suburb:
 address: Main Road - Titikaveka, Rarotonga, Cook Islands
 website: https://www.pacificresort.com/little-polynesian/dining/
 dishes:

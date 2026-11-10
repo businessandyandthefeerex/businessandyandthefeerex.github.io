@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Waikato
 city: Kurutau
-suburb: Kurutau
+suburb:
 address: 30 Riverpark Drive, Kuratau 3381
 website: https://www.facebook.com/p/Floating-Rock-Cafe-100063579282410/
 dishes:

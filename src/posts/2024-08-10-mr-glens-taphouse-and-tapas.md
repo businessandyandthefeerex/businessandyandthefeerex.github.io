@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Otago
 city: Glenorchy
-suburb: Glenorchy
+suburb:
 address: 25 Argyle Street, Glenorchy 9372
 website: https://www.facebook.com/p/Mr-and-Mrs-Glens-GY-100091710540543/
 dishes:

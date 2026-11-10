@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Otago
 city: Glenorchy
-suburb: Glenorchy
+suburb:
 address: 42 Oban Street, Glenorchy 9372
 website: https://theheadwatersecolodge.com/dining
 dishes:

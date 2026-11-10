@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Hawkes Bay
 city: Wallingford
-suburb: Wallingford
+suburb:
 address: 2914 Porangahau Road, Wallingford 4284
 website: https://www.wallingford.co.nz/restaurant-wallingford
 dishes:

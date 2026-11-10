@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Waikato
 city: Taupō
-suburb: Taupō
+suburb:
 address: 7 Tūwharetoa Street, Taupō 3330
 website: https://www.tejanocantina.com/home
 dishes:

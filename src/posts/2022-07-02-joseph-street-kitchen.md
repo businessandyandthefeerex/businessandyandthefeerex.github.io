@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: West End
 address: 55A Joseph Street, West End, Palmerston North 4412
 website: https://www.instagram.com/josephstreetkitchen/
 dishes:

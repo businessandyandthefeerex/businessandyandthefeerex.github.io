@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Bay of Plenty
 city: Mount Maunganui
-suburb: Mount Maunganui
+suburb:
 address: 1 Marine Parade, Mount Maunganui 3116
 website: https://www.thecoffeeclub.co.nz/
 dishes:

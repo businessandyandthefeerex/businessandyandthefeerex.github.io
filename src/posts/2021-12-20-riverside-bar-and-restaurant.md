@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Waikato
 city: Tūrangi
-suburb: Tūrangi
+suburb:
 address: 25 Te Arahori Street, Tūrangi 3334
 website: https://parklandsmotorlodge.co.nz/restaurant
 dishes:

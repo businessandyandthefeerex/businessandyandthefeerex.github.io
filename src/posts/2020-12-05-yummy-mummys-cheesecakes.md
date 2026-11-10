@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Woodville
-suburb: Woodville
+suburb:
 address: 67 Vogel Street, Woodville 4920
 website: https://www.facebook.com/yummymummyscheesecakes/
 dishes:

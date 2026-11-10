@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Otago
 city: Tarras
-suburb: Tarras
+suburb:
 address: 2792 Tarras-Cromwell Road, Tarras 9383
 website: https://www.facebook.com/tarrascountrycafe/
 dishes:

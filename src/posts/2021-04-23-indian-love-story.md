@@ -7,7 +7,7 @@ rating: 2
 meal: dinner
 country: New Zealand
 region: Manawatu
-city: Hokowhitu
+city: Palmerston North
 suburb: Hokowhitu
 address: 7A/358 Albert Street, Hokowhitu, Palmerston North 4410
 website: http://www.indianlovestory.nz/

@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Stewart Island
 city: Oban
-suburb: Oban
+suburb:
 address: 26 Elgin Terrace, Oban 9846
 website: http://www.southseahotel.co.nz/restaurant--pub.html
 dishes:

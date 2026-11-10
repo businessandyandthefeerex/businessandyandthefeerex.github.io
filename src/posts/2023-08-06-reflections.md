@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Canterbury
 city: Lake Tekapo
-suburb: Lake Tekapo
+suburb:
 address: State Highway 8, Lake Tekapo 7999
 website: https://www.reflectionsrestaurant.co.nz/
 dishes:

@@ -7,7 +7,7 @@ rating: 3
 meal: dinner
 country: New Zealand
 region: Auckland
-city: Kingsland
+city: Auckland
 suburb: Kingsland
 address: 492 New North Road, Kingsland, Auckland 1021
 website: https://nannyseatery.com/

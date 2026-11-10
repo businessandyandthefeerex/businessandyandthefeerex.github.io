@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Marlborough
 city: Picton
-suburb: Picton
+suburb:
 address: 58 Auckland Street, Marlborough, Picton 7220
 website: https://m.facebook.com/thai.panda.picton/
 dishes:

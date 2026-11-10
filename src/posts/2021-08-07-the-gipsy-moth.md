@@ -7,7 +7,7 @@ rating: 2
 meal: lunch
 country: New Zealand
 region: Auckland
-city: Māngere
+city: Auckland
 suburb: Māngere
 address: Domestic Terminal, Auckland Airport, Auckland 2022
 website: https://joylab.co.nz/the-gipsy-moth

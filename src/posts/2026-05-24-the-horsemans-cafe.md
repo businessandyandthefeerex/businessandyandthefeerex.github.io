@@ -9,7 +9,7 @@ address: 80 Plimmer Terrace, Shannon 4821
 country: New Zealand
 region: Manawatu
 city: Shannon
-suburb: Shannon
+suburb:
 website: https://www.facebook.com/CafeHorsemans/
 dishes:
   - Banana smoothie

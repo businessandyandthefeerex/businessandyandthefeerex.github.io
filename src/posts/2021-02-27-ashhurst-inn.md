@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Manawatu
 city: Ashhurst
-suburb: Ashhurst
+suburb:
 address: 81 York Street, Ashhurst 4810
 website: https://www.facebook.com/TheAshhurstInn/
 dishes:

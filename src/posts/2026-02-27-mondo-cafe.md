@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Hawkes Bay
 city: Hastings
-suburb: Hastings
+suburb:
 address: 400 Heretaunga Street East, Hastings 4122
 website: http://mondo-cafe.edan.io/
 dishes:

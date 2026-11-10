@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Waikato
 city: Tūrangi
-suburb: Tūrangi
+suburb:
 address: Tūrangi 3334
 website: https://www.facebook.com/ettoreandkarena1/
 dishes:

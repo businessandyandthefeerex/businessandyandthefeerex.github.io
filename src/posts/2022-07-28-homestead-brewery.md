@@ -8,7 +8,7 @@ meal: lunch
 country: Australia
 region: Western Australia
 city: Perth
-suburb: Perth
+suburb: Caversham
 address: 10 Harris Rd, Caversham WA 6055, Australia
 website: https://mandoonestate.com.au/eat-drink/homestead-brewery
 dishes:

@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Waikato
 city: Tūrangi
-suburb: Tūrangi
+suburb:
 address: 83 Grace Road, RD 2, Tūrangi 3382
 website: https://www.tongarirolodge.co.nz/
 dishes:

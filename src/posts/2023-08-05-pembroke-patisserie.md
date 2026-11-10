@@ -8,7 +8,7 @@ meal: breakfast
 country: New Zealand
 region: Otago
 city: Albert Town
-suburb: Albert Town
+suburb:
 address: 20 Alison Avenue, Albert Town 9382
 website: https://www.pembrokepatisserie.co.nz/
 dishes:

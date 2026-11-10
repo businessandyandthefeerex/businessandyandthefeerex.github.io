@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: Palmerston North Central
 address: 81 Broadway Avenue, Palmerston North Central, Palmerston North 5301
 website: http://www.chadathai.co.nz/
 dishes:

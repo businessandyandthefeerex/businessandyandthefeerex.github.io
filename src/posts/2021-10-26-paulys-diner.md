@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Waikato
 city: Taupō
-suburb: Taupō
+suburb:
 address: 3 Pāora Hapi Street, Taupō 3330
 website: https://www.paulysdiner.co.nz/
 dishes:

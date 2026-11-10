@@ -8,7 +8,7 @@ meal: dinner
 country: Australia
 region: Western Australia
 city: Margaret River
-suburb: Margaret River
+suburb:
 address: 133 Bussell Hwy, Margaret River WA 6285, Australia
 website: https://goldendragonchinese.com.au/order-now
 dishes:

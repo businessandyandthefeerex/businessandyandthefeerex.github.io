@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: Palmerston North Central
 address: 287 Main Street, Palmerston North Central, Palmerston North 4410
 website: https://bangkokthaipalmy.co.nz/order-now
 dishes:

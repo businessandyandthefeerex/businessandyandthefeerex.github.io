@@ -3706,5 +3706,68 @@
     "lon": "175.613176",
     "title": "King Cafe",
     "rating": 2
+  },
+  {
+    "file": "2021-05-07-viva-cafe-and-bar.md",
+    "address": "21 Rangitikei Street, City Centre, Palmerston North 4410",
+    "country": "New Zealand",
+    "lat": "-40.354766",
+    "lon": "175.6098",
+    "title": "Viva Cafe & Bar",
+    "rating": 2
+  },
+  {
+    "file": "2021-05-29-kabbaba.md",
+    "address": "Kabbaba, Food Court, Plaza Shopping Centre, 84 The Square, City Centre, Palmerston North 4410",
+    "country": "New Zealand",
+    "lat": "-40.356902",
+    "lon": "175.613266",
+    "title": "Kabbaba",
+    "rating": 2
+  },
+  {
+    "file": "2021-07-30-indian-flavours.md",
+    "address": "529 Main Street, Palmerston North Central, Palmerston North 4410",
+    "country": "New Zealand",
+    "lat": "-40.3541850",
+    "lon": "175.6150865",
+    "title": "Indian Flavours",
+    "rating": 2
+  },
+  {
+    "file": "2021-07-31-the-black-dog-kitchen-and-bar.md",
+    "address": "109 Princes Street, Dunedin Central, Dunedin 9016",
+    "country": "New Zealand",
+    "lat": "-45.8759881",
+    "lon": "170.5027507",
+    "title": "The Black Dog Kitchen & Bar",
+    "rating": 3
+  },
+  {
+    "file": "2021-08-01-dunedin-social-club.md",
+    "address": "1 Princes Street, Dunedin Central, Dunedin 9016",
+    "country": "New Zealand",
+    "lat": "-45.8747312",
+    "lon": "170.5034657",
+    "title": "Dunedin Social Club",
+    "rating": 2
+  },
+  {
+    "file": "2021-10-16-the-daily-grind.md",
+    "address": "79-81 Ruahine Street, Palmerston North Central, Palmerston North, New Zealand",
+    "country": "New Zealand",
+    "lat": "-40.3395937",
+    "lon": "175.6220284",
+    "title": "The Daily Grind",
+    "rating": 1
+  },
+  {
+    "file": "2022-02-12-cafe-royale.md",
+    "address": "Square Edge, 47 The Square, Palmerston North Central, Palmerston North 4410",
+    "country": "New Zealand",
+    "lat": "-40.357898",
+    "lon": "175.611041",
+    "title": "Cafe Royale",
+    "rating": 1
   }
 ]

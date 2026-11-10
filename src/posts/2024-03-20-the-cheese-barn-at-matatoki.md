@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Coromandel
 city: Matatoki
-suburb: Matatoki
+suburb:
 address: 4 Wainui Road, Matatoki 3578
 website: https://thecheesebarn.co.nz/
 dishes:

@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: City Centre
 address: 157 Broadway Avenue, City Centre, Palmerston North 4410
 website: https://www.littleindia.co.nz/palmerston-north/
 dishes:

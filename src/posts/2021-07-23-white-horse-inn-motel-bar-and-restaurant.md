@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Manawatu
 city: Longburn
-suburb: Longburn
+suburb:
 address: 2180 State Highway 56, Longburn 4412
 website: http://www.whitehorseinn.co.nz/
 dishes:

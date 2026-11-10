@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Otago
 city: Wānaka
-suburb: Wānaka
+suburb:
 address: 43 Helwick Street, Wānaka 9305
 website: http://spiceroom.co.nz/
 dishes:

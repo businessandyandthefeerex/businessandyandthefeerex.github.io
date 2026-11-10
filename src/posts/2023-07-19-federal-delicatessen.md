@@ -7,7 +7,7 @@ rating: 3
 meal: breakfast
 country: New Zealand
 region: Auckland
-city: Auckland City Centre
+city: Auckland
 suburb: Auckland City Centre
 address: 86 Federal Street, Auckland City, Auckland 1010
 website: https://thefed.co.nz/

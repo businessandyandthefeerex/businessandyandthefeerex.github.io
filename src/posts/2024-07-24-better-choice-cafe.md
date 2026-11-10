@@ -8,7 +8,7 @@ meal: lunch
 country: Australia
 region: Western Australia
 city: Margaret River
-suburb: Margaret River
+suburb:
 address: 211 Bussell Hwy, Margaret River WA 6285, Australia
 website: https://www.facebook.com/BetterChoiceMargs/
 dishes:

@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: Fitzherbert
 address: 70 Broadway Avenue, Fitzherbert, Palmerston North 4410
 website: https://www.facebook.com/thaihouseexpresspalmy/
 dishes:

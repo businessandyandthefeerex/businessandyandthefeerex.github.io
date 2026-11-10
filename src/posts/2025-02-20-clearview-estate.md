@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Hawkes Bay
 city: Te Awanga
-suburb: Te Awanga
+suburb:
 address: 194 Clifton Road, Te Awanga 4180
 website: https://www.clearviewestate.co.nz/
 dishes:

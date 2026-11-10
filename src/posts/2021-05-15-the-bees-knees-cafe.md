@@ -7,7 +7,7 @@ rating: 1
 meal: lunch
 country: New Zealand
 region: Manawatu
-city: Hokowhitu
+city: Palmerston North
 suburb: Hokowhitu
 address: 352 Albert Street, Hokowhitu, Palmerston North 4410
 website: https://www.facebook.com/profile.php?id=61578904977716&mibextid=rS40aB7S9Ucbxw6v

@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Waikato
 city: Tūrangi
-suburb: Tūrangi
+suburb:
 address: 19 Ohuanga Road, Tūrangi 3334
 website: http://www.instagram.com/rawbalancenz
 dishes:

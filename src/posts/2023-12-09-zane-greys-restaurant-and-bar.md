@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Northland
 city: Paihia
-suburb: Paihia
+suburb:
 address: 69 Marsden Road, Paihia 0200
 website: N/A
 dishes:

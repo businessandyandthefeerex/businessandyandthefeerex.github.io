@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Marlborough
 city: Queen Charlotte Sound
-suburb: Queen Charlotte Sound
+suburb:
 address: Queen Charlotte Sound, Private Bag 382, Picton 7250
 website: http://www.bayofmanycoves.co.nz/
 dishes:

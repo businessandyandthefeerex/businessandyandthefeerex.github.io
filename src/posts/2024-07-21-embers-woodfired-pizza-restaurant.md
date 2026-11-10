@@ -8,7 +8,7 @@ meal: dinner
 country: Australia
 region: Western Australia
 city: Perth
-suburb: Perth
+suburb: Rosehill
 address: State Highway 1, Rosehill, Auckland 2113
 website: https://www.emberswoodfired.com.au/
 dishes:

@@ -7,7 +7,7 @@ rating: 3
 meal: dinner
 country: New Zealand
 region: Auckland
-city: Mount Albert
+city: Auckland
 suburb: Mount Albert
 address: 179 Mount Albert Road, Mount Albert, Auckland 1025
 website: http://tacoloconz.co.nz/

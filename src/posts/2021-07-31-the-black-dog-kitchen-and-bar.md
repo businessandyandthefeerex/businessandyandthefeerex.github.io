@@ -8,8 +8,8 @@ meal: dinner
 country: New Zealand
 region: Otago
 city: Dunedin
-suburb: Dunedin
-address: 109 Princes Street, Dunedin 9016
+suburb: Dunedin Central
+address: 109 Princes Street, Dunedin Central, Dunedin 9016
 website: https://blackdogdunedin.nz/
 dishes:
   - Black dog burger with chips

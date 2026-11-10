@@ -8,7 +8,7 @@ meal: dinner
 country: Australia
 region: Western Australia
 city: Perth
-suburb: Perth
+suburb: Kensington
 address: 51 George St, Kensington WA 6151
 website: http://www.ayhanscafe.com.au/
 dishes:

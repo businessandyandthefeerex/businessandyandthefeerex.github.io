@@ -9,7 +9,7 @@ address: 6 Elgin Street, Sydenham, Christchurch 8023
 country: New Zealand
 region: Canterbury
 city: Christchurch
-suburb: Christchurch
+suburb: Sydenham
 website: https://www.hellosunday.co.nz/
 dishes:
   - Mushrooms on toast

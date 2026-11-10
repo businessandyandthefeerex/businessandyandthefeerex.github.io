@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Bay of Plenty
 city: Rotorua
-suburb: Rotorua
+suburb:
 address: 178 Fairy Springs Road, Fairy Springs, Rotorua 3015
 website: https://rotorua.skyline.co.nz/things-to-do/stratosfare-restaurant-rotorua/?utm_source=gmb_listing&utm_medium=organic
 dishes:

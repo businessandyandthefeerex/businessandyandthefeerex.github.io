@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Coromandel
 city: Cooks Beach
-suburb: Cooks Beach
+suburb:
 address: 37 Captain Cook Road, Cooks Beach 3591
 website: https://www.thevessel.co.nz/
 dishes:

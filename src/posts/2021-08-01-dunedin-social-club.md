@@ -8,8 +8,8 @@ meal: lunch
 country: New Zealand
 region: Otago
 city: Dunedin
-suburb: Dunedin
-address: 1 Princes Street, Central Dunedin, Dunedin 9016
+suburb: Dunedin Central
+address: 1 Princes Street, Dunedin Central, Dunedin 9016
 website: https://www.dunedinsocialclub.co.nz/
 dishes:
   - Mushroom & spring onion arancini

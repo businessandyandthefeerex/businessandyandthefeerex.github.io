@@ -8,7 +8,7 @@ meal: dinner
 country: Cook Islands
 region: Rarotonga
 city: Aorangi
-suburb: Aorangi
+suburb:
 address: Aroa Rd, Arorangi, Cook Islands
 website: https://www.therarotongan.com/dine/captain-andys-beach-bar-grill.html
 dishes:

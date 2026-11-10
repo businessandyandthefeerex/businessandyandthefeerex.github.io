@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Fiordland
 city: Manapouri
-suburb: Manapouri
+suburb:
 address: 29 Waiau Street, Manapouri 9679
 website:
 dishes:

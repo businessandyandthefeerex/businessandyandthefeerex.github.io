@@ -8,7 +8,7 @@ meal: dinner
 country: Australia
 region: Western Australia
 city: Exmouth
-suburb: Exmouth
+suburb:
 address: 1112 Murat Rd, Exmouth WA 6707, Australia
 website: https://thebbqfather.com.au/
 dishes:

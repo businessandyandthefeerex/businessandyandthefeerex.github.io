@@ -7,7 +7,7 @@ rating: 1
 meal: lunch
 country: New Zealand
 region: Auckland
-city: Rosehill
+city: Auckland
 suburb: Rosehill
 address: State Highway 1, Rosehill, Auckland 2113
 website: http://www.autobahncafe.co.nz/

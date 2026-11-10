@@ -8,8 +8,8 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
-address: Square Edge, 47 The Square, Palmerston North 4410
+suburb: Palmerston North Central
+address: Square Edge, 47 The Square, Palmerston North Central, Palmerston North 4410
 website: 
 dishes:
   - Big breakfast

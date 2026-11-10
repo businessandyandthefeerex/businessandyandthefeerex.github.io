@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Bay of Plenty
 city: Tauranga
-suburb: Tauranga
+suburb: CBD
 address: 120 Devonport Road, CBD, Tauranga 3110
 website:
 dishes:

@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Waikato
 city: Tūrangi
-suburb: Tūrangi
+suburb:
 address: 4600 State Highway 1, Tūrangi 3334
 website: https://turangibridgemotel.co.nz/restaurant/
 dishes:

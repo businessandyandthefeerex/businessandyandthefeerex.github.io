@@ -7,7 +7,7 @@ rating: 2
 meal: lunch
 country: New Zealand
 region: Auckland
-city: Manukau City Centre
+city: Manukau
 suburb: Manukau City Centre
 address: 2 Clist Crescent, Manukau City Centre, Auckland 2104
 website: https://rainbowsend.co.nz/rainbow-playlab/cafe

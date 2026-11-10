@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Waikato
 city: Taupō
-suburb: Taupō
+suburb:
 address: 19 Tamamutu Street, Taupō 3330
 website: https://suncourtindian.co.nz/
 dishes:

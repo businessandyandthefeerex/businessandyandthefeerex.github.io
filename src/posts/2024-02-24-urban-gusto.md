@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Bay of Plenty
 city: Rotorua
-suburb: Rotorua
+suburb:
 address: 1122 Tutanekai Street, Rotorua 3010
 website: https://urbangusto.co.nz/
 dishes:

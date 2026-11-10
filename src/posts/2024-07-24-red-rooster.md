@@ -8,7 +8,7 @@ meal: dinner
 country: Australia
 region: Western Australia
 city: Perth
-suburb: Perth
+suburb: Kalamunda
 address: 1 Canning Rd, Kalamunda WA 6076, Australia
 website: https://www.redrooster.com.au/
 dishes:

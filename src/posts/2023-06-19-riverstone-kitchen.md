@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Otago
 city: Oamaru
-suburb: Oamaru
+suburb:
 address: 1431 Glenavy-Hilderthorpe Road, Waitaki Bridge 9493
 website: https://www.riverstonekitchen.co.nz/
 dishes:

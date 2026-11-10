@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Bay of Plenty
 city: Mount Maunganui
-suburb: Mount Maunganui
+suburb:
 address: 181 Maunganui Road, Mount Maunganui 3116
 website: https://latitude37restaurant.co.nz/
 dishes:

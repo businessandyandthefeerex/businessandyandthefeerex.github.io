@@ -8,7 +8,7 @@ meal: breakfast
 country: New Zealand
 region: Bay of Plenty
 city: Ōhope
-suburb: Ōhope
+suburb:
 address: 22 Pohutukawa Avenue, Ōhope 3121
 website:
 dishes:

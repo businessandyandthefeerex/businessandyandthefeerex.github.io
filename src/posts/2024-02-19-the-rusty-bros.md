@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Bay of Plenty
 city: Rotorua
-suburb: Rotorua
+suburb:
 address: 1263 Amohia Street, Rotorua 3010
 website: https://therustybros.nz/
 dishes:

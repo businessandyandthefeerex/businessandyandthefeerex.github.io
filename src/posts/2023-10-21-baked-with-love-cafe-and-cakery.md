@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Waikato
 city: Taupō
-suburb: Taupō
+suburb:
 address: 11 Gascoigne Street, Taupō 3330
 website: https://bakedwithlove.co.nz/
 dishes:

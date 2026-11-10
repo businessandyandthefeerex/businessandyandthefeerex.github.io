@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Sanson
-suburb: Sanson
+suburb:
 address: 9 Dundas Road, Sanson 4817
 website: http://vivskitchen.co.nz/
 dishes:

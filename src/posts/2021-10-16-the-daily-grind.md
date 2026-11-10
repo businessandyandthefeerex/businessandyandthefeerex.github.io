@@ -8,8 +8,8 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
-address: 79-81 Ruahine Street, Palmerston North, New Zealand
+suburb: Palmerston North Central
+address: 79-81 Ruahine Street, Palmerston North Central, Palmerston North, New Zealand
 website: https://www.facebook.com/thedailygrindpalmy/
 dishes:
   - Beef burger with chips

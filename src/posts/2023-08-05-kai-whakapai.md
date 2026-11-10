@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Otago
 city: Wānaka
-suburb: Wānaka
+suburb:
 address: 121 Ardmore Street, Wānaka 9305
 website: https://kaiwhakapai.nz/
 dishes:

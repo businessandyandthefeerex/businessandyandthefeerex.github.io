@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Southland
 city: Invercargill
-suburb: Invercargill
+suburb: Richmond
 address: 356 Tay Street, Richmond, Invercargill 9810
 website: http://www.currygurumalabar.co.nz/
 dishes:

@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Coromandel
 city: Whitianga
-suburb: Whitianga
+suburb:
 address: 29 Pye Place Hot Water Beach, Whitianga 3591
 website: https://www.hottieseatery.co.nz/
 dishes:

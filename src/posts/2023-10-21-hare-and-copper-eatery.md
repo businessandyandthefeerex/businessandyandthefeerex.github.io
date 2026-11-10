@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Waikato
 city: Tūrangi
-suburb: Tūrangi
+suburb:
 address: 2/134 Grace Road, Tūrangi 3382
 website: https://www.hareandcopper.co.nz/
 dishes:

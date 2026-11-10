@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Canterbury
 city: Christchurch
-suburb: Christchurch
+suburb: Christchurch Central City
 address: 158 Cashel Street, Christchurch Central City, Christchurch 8011
 website: https://coffeeculture.co.nz/
 dishes:

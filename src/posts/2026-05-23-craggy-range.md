@@ -9,7 +9,7 @@ address: 253 Waimarama Road, Havelock North 4230
 country: New Zealand
 region: Hawkes Bay
 city: Havelock North
-suburb: Havelock North
+suburb:
 website: http://www.craggyrange.com/
 dishes:
   - Bread with apple cider butter and honey

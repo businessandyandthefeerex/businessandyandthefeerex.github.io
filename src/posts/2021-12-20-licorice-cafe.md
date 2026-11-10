@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Waikato
 city: Motuoapa
-suburb: Motuoapa
+suburb:
 address: 57 State Highway 1, Motuoapa 3382
 website: https://www.facebook.com/pages/category/Cafe/Licorice-CAFE-112651743763985/
 dishes:

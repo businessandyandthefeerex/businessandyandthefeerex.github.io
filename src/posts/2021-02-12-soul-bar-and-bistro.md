@@ -7,7 +7,7 @@ rating: 4
 meal: dinner
 country: New Zealand
 region: Auckland
-city: Auckland City Centre
+city: Auckland
 suburb: Auckland City Centre
 address: Corner of Lower Hobson Street, Customs Street West, Auckland 1010
 website: https://www.soulbar.co.nz/

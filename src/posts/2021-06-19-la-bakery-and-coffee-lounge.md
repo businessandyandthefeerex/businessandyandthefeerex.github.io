@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: Palmerston North Central
 address: 325 Broadway Avenue, Palmerston North Central, Palmerston North 4414
 website: 
 dishes:

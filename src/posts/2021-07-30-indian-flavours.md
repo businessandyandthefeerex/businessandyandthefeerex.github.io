@@ -8,8 +8,8 @@ meal: dinner
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
-address: 529 Main Street, Central, Palmerston North 4410
+suburb: Palmerston North Central
+address: 529 Main Street, Palmerston North Central, Palmerston North 4410
 website: https://indianflavours.co.nz/
 dishes:
   - Malai kofta with rice

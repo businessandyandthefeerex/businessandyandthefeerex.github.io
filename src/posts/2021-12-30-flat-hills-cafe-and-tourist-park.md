@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Ōhingaiti
-suburb: Ōhingaiti
+suburb:
 address: 5733 State Highway 1, Ōhingaiti 4774
 website: http://www.flathills.co.nz/
 dishes:

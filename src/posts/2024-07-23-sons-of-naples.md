@@ -8,7 +8,7 @@ meal: dinner
 country: Australia
 region: Western Australia
 city: Margaret River
-suburb: Margaret River
+suburb:
 address: 5/2 Andrews Way, Margaret River WA 6285, Australia
 website: https://www.facebook.com/SonsofNaplesmr/
 dishes:

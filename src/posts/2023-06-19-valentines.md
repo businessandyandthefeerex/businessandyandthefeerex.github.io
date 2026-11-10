@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Canterbury
 city: Christchurch
-suburb: Christchurch
+suburb: Hornby
 address: 7/11 Chalmers Street, Hornby, Christchurch 8042
 website: https://valentines.co.nz/
 dishes:

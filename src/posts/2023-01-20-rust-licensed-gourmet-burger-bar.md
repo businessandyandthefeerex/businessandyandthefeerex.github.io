@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Waikato
 city: Tūrangi
-suburb: Tūrangi
+suburb:
 address: shop 6, Tūrangi 3353
 website: https://rust-licensed-gourmet-burger-bar.business.site/
 dishes:

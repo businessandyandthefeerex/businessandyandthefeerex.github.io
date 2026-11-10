@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: Palmerston North Central
 address: 313 Rangitikei Street, Palmerston North Central, Palmerston North 4410
 website: http://www.wendys.co.nz/
 dishes:

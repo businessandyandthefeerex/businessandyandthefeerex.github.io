@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: Palmerston North Central
 address: 163 The Square, Palmerston North Central, Palmerston North 4410
 website: http://www.pompeii.co.nz/
 dishes:

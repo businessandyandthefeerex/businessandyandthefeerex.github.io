@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: West End
 address: 110 Fitzherbert Avenue, West End, Palmerston North 4410
 website: https://www.millenniumhotels.com/en/auckland/copthorne-hotel-auckland-city/jimmy-cooks-kiwi-kitchen-and-bar/?cid=gplace-jimmy-cooks-kiwi-kitchen-copthorne-auckland-city
 dishes:

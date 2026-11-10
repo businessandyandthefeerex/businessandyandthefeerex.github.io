@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Waikato
 city: Otorohanga
-suburb: Otorohanga
+suburb:
 address: 585 Waitomo Caves Road, Otorohanga 3977
 website: 
 dishes:

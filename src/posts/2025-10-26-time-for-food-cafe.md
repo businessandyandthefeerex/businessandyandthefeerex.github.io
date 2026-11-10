@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Waikato
 city: Tūrangi
-suburb: Tūrangi
+suburb:
 address: 35 Turangi Town Centre, Tūrangi 3334
 website: https://www.facebook.com/p/Time-4-food-cafe-100069685270473/
 dishes:

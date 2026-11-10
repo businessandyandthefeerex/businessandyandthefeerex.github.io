@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: Palmerston North Central
 address: 700 Main Street, Palmerston North Central, Palmerston North 4414
 website: https://www.facebook.com/tastyPN?mibextid=LQQJ4d
 dishes:

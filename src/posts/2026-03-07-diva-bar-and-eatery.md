@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Hawkes Bay
 city: Havelock North
-suburb: Havelock North
+suburb:
 address: Shop 2/10 Napier Road, Havelock North 4130
 website: https://www.divabar.co.nz/
 dishes:

@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Whanganui
 city: Whanganui
-suburb: Whanganui
+suburb:
 address: 313 State Highway 3, Whanganui 4574
 website: http://www.windermerefarms.co.nz/
 dishes:

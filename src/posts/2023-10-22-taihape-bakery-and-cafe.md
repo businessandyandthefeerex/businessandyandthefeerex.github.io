@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Taihape
-suburb: Taihape
+suburb:
 address: 79 Hautapu Street, Taihape 4720
 website: 
 dishes:

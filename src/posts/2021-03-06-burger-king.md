@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: West End
 address: 100 Fitzherbert Avenue, West End, Palmerston North 4410
 website: http://www.burgerking.co.nz/
 dishes:

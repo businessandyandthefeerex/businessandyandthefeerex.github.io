@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Waikato
 city: Taupō
-suburb: Taupō
+suburb:
 address: 650 Lake Terrace, Wharewaka, Taupō 3330
 website: http://cafelacus.co.nz/
 dishes:

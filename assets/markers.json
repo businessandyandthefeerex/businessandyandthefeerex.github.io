@@ -3286,5 +3286,29 @@
     "address": "Speldhurst Country Estate 100 Speldhurst Parade, Levin 5510, New Zealand",
     "rating": "2",
     "link": "/posts/2026-11-07-the-george-cafe/"
+  },
+  {
+    "lat": -40.356902,
+    "lon": 175.613266,
+    "title": "Kabbaba",
+    "address": "Kabbaba, Food Court, Plaza Shopping Centre, 84 The Square, City Centre, Palmerston North 4410, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-05-29-kabbaba/"
+  },
+  {
+    "lat": -45.8759881,
+    "lon": 170.5027507,
+    "title": "The Black Dog Kitchen & Bar",
+    "address": "109 Princes Street, Dunedin Central, Dunedin 9016, New Zealand",
+    "rating": "3",
+    "link": "/posts/2021-07-31-the-black-dog-kitchen-and-bar/"
+  },
+  {
+    "lat": -45.8747312,
+    "lon": 170.5034657,
+    "title": "Dunedin Social Club",
+    "address": "1 Princes Street, Dunedin Central, Dunedin 9016, New Zealand",
+    "rating": "2",
+    "link": "/posts/2021-08-01-dunedin-social-club/"
   }
 ]

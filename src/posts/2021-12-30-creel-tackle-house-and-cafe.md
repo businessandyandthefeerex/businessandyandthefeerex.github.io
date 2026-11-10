@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Waikato
 city: Tūrangi
-suburb: Tūrangi
+suburb:
 address: 189 Taupahi Road, Tūrangi 3334
 website: https://creel-tackle-house-cafe.business.site/
 dishes:

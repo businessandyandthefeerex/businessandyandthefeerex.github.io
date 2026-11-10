@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: Palmerston North Central
 address: Plaza Shopping Centre, Church Street, Palmerston North Central, Palmerston North 4412
 website: http://www.philandjoscafe.co.nz/
 dishes:

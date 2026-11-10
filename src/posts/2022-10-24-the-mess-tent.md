@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Waiouru
-suburb: Waiouru
+suburb:
 address: Military museum, Waiouru 4861
 website: https://www.armymuseum.co.nz/visit/the-mess-tent-cafe/
 dishes:

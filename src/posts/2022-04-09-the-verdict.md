@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: Palmerston North Central
 address: 32a The Square, Palmerston North Central, Palmerston North 4410
 website: https://www.theverdictcafe.com/
 dishes:

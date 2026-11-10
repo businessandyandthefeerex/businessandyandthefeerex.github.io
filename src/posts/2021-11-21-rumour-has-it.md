@@ -7,7 +7,7 @@ rating: 1
 meal: lunch
 country: New Zealand
 region: Manawatu
-city: Takaro
+city: Palmerston North
 suburb: Takaro
 address: 305 Rangitikei Street, Takaro, Palmerston North 4410
 website: https://www.order.store/store/rumour-has-it-cafe/_E6--pwMR5KFQxGW-e0hSA

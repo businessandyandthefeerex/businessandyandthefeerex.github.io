@@ -7,9 +7,9 @@ rating: 2
 meal: dinner
 country: New Zealand
 region: Manawatu
-city: City Center
-suburb: City Center
-address: 21 Rangitikei Street, City Center, Palmerston North 4410
+city: Palmerston North
+suburb: City Centre
+address: 21 Rangitikei Street, City Centre, Palmerston North 4410
 website: http://www.vivacafeandbar.co.nz/
 dishes:
   - Lamb moussaka with salad, rice, and Turkish bread  

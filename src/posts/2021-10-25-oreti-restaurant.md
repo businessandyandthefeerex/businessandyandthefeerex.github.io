@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Waikato
 city: Oreti
-suburb: Oreti
+suburb:
 address: Oreti Village 88 Pūkawa Road, Pukawa 3381
 website: https://www.oretivillage.com/restaurant/
 dishes:

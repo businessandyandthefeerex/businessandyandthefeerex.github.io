@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Hawkes Bay
 city: Napier
-suburb: Napier
+suburb: Poraiti
 address: 198 Church Road, Poraiti, Napier 4112
 website: https://missionestate.co.nz/restaurant/
 dishes:

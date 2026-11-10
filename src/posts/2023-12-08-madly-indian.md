@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Northland
 city: Kerikeri
-suburb: Kerikeri
+suburb:
 address: 342 Kerikeri Road, Kerikeri 0230
 website: https://madlyindian.co.nz/
 dishes:

@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: Highbury
 address: 4 Botanical Road, Highbury, Palmerston North 4412
 website: https://www.facebook.com/hungryhorse.co.nz/
 dishes:

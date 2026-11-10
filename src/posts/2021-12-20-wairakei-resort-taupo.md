@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Waikato
 city: Taupō
-suburb: Taupō
+suburb:
 address: 640 Wairakei Drive, Tourist Park, Wairakei, Taupō 3384
 website: https://www.wairakei.co.nz/food-drink/
 dishes:

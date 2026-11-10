@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Southland
 city: Invercargill
-suburb: Invercargill
+suburb: City Centre
 address: 7 Clyde Street, City Centre, Invercargill 9810
 website: https://pinchofspicetakeaway.co.nz/
 dishes:

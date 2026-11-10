@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Coromandel
 city: Hahei
-suburb: Hahei
+suburb:
 address: 48 Hahei Beach Road, Hahei 3591
 website: https://littlebluehahei.co.nz/
 dishes:

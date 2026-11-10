@@ -7,7 +7,7 @@ rating: 3
 meal: dinner
 country: New Zealand
 region: Auckland
-city: Newmarket
+city: Auckland
 suburb: Newmarket
 address: 309 Broadway, Newmarket Rooftop on Braodway, Westfield Newmarket, Auckland 1023
 website: https://www.newyorkgrill.co.nz/

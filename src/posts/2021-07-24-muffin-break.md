@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: Palmerston North Central
 address: The Plaza Shopping Centre 100 The Square, Palmerston North Central, Palmerston North 4410
 website: https://muffinbreak.co.nz/
 dishes:

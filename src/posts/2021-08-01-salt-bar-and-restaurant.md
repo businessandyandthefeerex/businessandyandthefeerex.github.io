@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Otago
 city: Dunedin
-suburb: Dunedin
+suburb: St Clair
 address: 240 Forbury Road, St Clair, Dunedin 9012
 website: https://saltbar.co.nz/
 dishes:

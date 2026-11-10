@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: Takaro
 address: 156 Cuba Street, Takaro, Palmerston North 4410
 website: https://www.chinatownrestaurant.co.nz/
 dishes:

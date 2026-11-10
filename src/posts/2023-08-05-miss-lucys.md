@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Otago
 city: Queenstown
-suburb: Queenstown
+suburb:
 address: Rooftop/47 Camp Street, Queenstown 9300
 website: https://www.misslucys.co.nz/queenstown/
 dishes:

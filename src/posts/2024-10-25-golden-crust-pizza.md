@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Waikato
 city: Tūrangi
-suburb: Tūrangi
+suburb:
 address: 22 Ngawaka Place, Tūrangi 3334
 website: https://goldencrust.co.nz/index.html
 dishes:

@@ -8,7 +8,7 @@ meal: dinner
 country: Cook Islands
 region: Rarotonga
 city: Takitumu District
-suburb: Takitumu District
+suburb:
 address: Ara Tapu, Takitumu District, Cook Islands
 website: http://www.vaimarestaurant.com/
 dishes:

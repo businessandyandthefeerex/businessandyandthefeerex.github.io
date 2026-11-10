@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Otago
 city: Dunedin
-suburb: Dunedin
+suburb: Dunedin North
 address: 354 Great King Street, Dunedin North, Dunedin 9016
 website: https://www.sals.co.nz/
 dishes:

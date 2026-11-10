@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Manawatu
 city: Dannevirke
-suburb: Dannevirke
+suburb:
 address: 25 High Street, Dannevirke 4930
 website: http://www.thepizzacastle.co.nz/
 dishes:

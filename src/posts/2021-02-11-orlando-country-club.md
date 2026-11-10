@@ -7,7 +7,7 @@ rating: 3
 meal: lunch
 country: New Zealand
 region: Manawatu
-city: Newbury
+city: Palmerston North
 suburb: Newbury
 address: 748 Rangitikei Line, Newbury, Palmerston North 4475
 website: https://www.orlandocountry.co/

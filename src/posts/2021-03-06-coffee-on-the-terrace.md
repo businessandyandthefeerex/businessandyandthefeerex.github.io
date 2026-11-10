@@ -7,7 +7,7 @@ rating: 1
 meal: lunch
 country: New Zealand
 region: Manawatu
-city: Roslyn
+city: Palmerston North
 suburb: Roslyn
 address: 361 Broadway Avenue, Terrace End, Roslyn, Palmerston North 4414
 website: 

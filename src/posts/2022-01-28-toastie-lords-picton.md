@@ -8,7 +8,7 @@ meal: breakfast
 country: New Zealand
 region: Marlborough
 city: Picton
-suburb: Picton
+suburb:
 address: 10 London Quay, Picton 7220
 website: http://www.toastielords.co.nz/
 dishes:

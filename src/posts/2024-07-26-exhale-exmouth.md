@@ -8,7 +8,7 @@ meal: dinner
 country: Australia
 region: Western Australia
 city: Exmouth
-suburb: Exmouth
+suburb:
 address: 1 Thew St, Exmouth WA 6707, Australia
 website: https://www.exhalexmouth.com.au/
 dishes:

@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: Palmerston North Central
 address: 117 Princess Street, Palmerston North Central, Palmerston North 4412
 website: https://www.mcdonalds.com/nz/en-nz.html
 dishes:

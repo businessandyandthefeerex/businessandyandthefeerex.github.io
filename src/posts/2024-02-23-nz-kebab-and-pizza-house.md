@@ -8,7 +8,7 @@ meal: dinner
 country: New Zealand
 region: Bay of Plenty
 city: Rotorua
-suburb: Rotorua
+suburb: Lynmore
 address: 346/352 Te Ngae Road, Lynmore, Rotorua 3010
 website: https://www.nzkebabandpizzahouse.nz/
 dishes:

@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Taihape
-suburb: Taihape
+suburb:
 address: 21 Mataroa Road, Taihape 4720
 website: https://www.facebook.com/rusticsteakhouse/
 dishes:

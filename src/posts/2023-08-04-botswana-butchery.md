@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Otago
 city: Queenstown
-suburb: Queenstown
+suburb:
 address: 17 Marine Parade, Queenstown 9300
 website: http://www.botswanabutchery.co.nz/
 dishes:

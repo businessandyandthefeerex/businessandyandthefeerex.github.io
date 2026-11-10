@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Northland
 city: Pukenui
-suburb: Pukenui
+suburb:
 address: 4 Lamb Road, Pukenui 0484
 website: https://m.facebook.com/profile.php?id=100093796000232
 dishes:

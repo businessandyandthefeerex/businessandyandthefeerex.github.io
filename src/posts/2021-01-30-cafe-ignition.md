@@ -8,7 +8,7 @@ meal: lunch
 country: New Zealand
 region: Manawatu
 city: Palmerston North
-suburb: Palmerston North
+suburb: Milson
 address: Milson, Palmerston North 4414
 website: https://www.facebook.com/p/Cafe-Ignition-100057349634564/
 dishes:

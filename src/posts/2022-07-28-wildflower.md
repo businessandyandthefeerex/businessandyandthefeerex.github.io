@@ -8,7 +8,7 @@ meal: dinner
 country: Australia
 region: Western Australia
 city: Perth
-suburb: Perth
+suburb: Cathedral Square
 address: COMO The Treasury Level 4, 1 Cathedral Ave, Perth WA 6000, Australia
 website: https://wildflowerperth.com.au/
 dishes:
