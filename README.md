@@ -140,3 +140,5 @@ Links to be added:
 
 test commit for afg on xq
 test commit for afg on y700
+test commit for the workstation
+
