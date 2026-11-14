@@ -3760,5 +3760,14 @@
     "lon": "174.87087",
     "title": "The Mess Tent",
     "rating": 2
+  },
+  {
+    "file": "2026-11-14-the-offering.md",
+    "address": "65 Main Street, Greytown 5712",
+    "country": "New Zealand",
+    "lat": "-41.0789366",
+    "lon": "175.4623355",
+    "title": "The Offering",
+    "rating": 2
   }
 ]
