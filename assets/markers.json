@@ -3310,5 +3310,13 @@
     "address": "65 Main Street, Greytown 5712, New Zealand",
     "rating": "2",
     "link": "/posts/2026-11-14-the-offering/"
+  },
+  {
+    "lat": -41.294339,
+    "lon": 174.7753028,
+    "title": "Loretta",
+    "address": "181 Cuba Street, Te Aro, Wellington 6011, New Zealand",
+    "rating": "4",
+    "link": "/posts/2026-11-14-loretta/"
   }
 ]

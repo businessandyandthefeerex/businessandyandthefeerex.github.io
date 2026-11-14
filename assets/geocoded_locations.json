@@ -3769,5 +3769,14 @@
     "lon": "175.4623355",
     "title": "The Offering",
     "rating": 2
+  },
+  {
+    "file": "2026-11-14-loretta.md",
+    "address": "181 Cuba Street, Te Aro, Wellington 6011",
+    "country": "New Zealand",
+    "lat": "-41.2943390",
+    "lon": "174.7753028",
+    "title": "Loretta",
+    "rating": 4
   }
 ]
