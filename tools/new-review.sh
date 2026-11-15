@@ -39,17 +39,17 @@ cat > "$POSTS_DIR/$POST_NAME" <<'EOF'
 ---
 category: Reviews
 layout: post
-title:
+title: 
 date: PLACEHOLDER_DATE
-rating:
-meal:
+rating: 
+meal: 
 country: New Zealand
-region:
-city:
-suburb:
-address:
-website:
-dishes:
+region: 
+city: 
+suburb: 
+address: 
+website: 
+dishes: 
   -
 ---
 
@@ -63,6 +63,7 @@ dishes:
    - website: restaurant website, or leave blank if unavailable
 
 2. Add the dishes eaten, one per line. Start each dish with two spaces, a dash, and a space; the first one is already started for you. For example:
+  dishes:
      - Fish and chips
      - Roast chicken
 
