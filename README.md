@@ -131,6 +131,10 @@ To do:
  - make the generate geocoded locaitons script work from the cloud, save the api key as a github secret, also make it only work for missing locations, and then make the generate leaflet markers script also work incrementally and work in github's build action
  - work out how to do links and add the link to the chow review
  - search results should probably be sorted a-z, then date descending
+ - do a double check pass over any reviews that have more than one review
+ - fix the post new reviews script
+ - make the instructions block more clear with the dishes section
+ - add spaces after each of the front matter fields in the new review script
 
 Links to be added:
 
