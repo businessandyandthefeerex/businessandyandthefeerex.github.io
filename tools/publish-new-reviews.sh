@@ -1,11 +1,17 @@
 #!/usr/bin/env bash
 
-# Stage and publish a review, then push it to its current Git branch.
+# Validate, commit and push new or changed reviews in src/posts.
+# Safe to run from a file manager or a terminal.
+
+in_terminal() {
+  [[ -t 0 && -t 1 ]]
+}
+
 fail() {
   local message="${1:-Publishing failed}"
   printf '%s\n' "$message" >&2
 
-  if [[ ! -t 0 || ! -t 1 ]]; then
+  if ! in_terminal; then
     if command -v kdialog >/dev/null 2>&1; then
       kdialog --error "$message" --title "Publish review" >/dev/null 2>&1
     elif command -v zenity >/dev/null 2>&1; then
@@ -17,12 +23,32 @@ fail() {
 
 notify() {
   local message="$1"
-  if [[ ! -t 0 || ! -t 1 ]] && command -v kdialog >/dev/null 2>&1; then
+  if ! in_terminal && command -v kdialog >/dev/null 2>&1; then
     kdialog --msgbox "$message" --title "Publish review" >/dev/null 2>&1
-  elif [[ ! -t 0 || ! -t 1 ]] && command -v zenity >/dev/null 2>&1; then
+  elif ! in_terminal && command -v zenity >/dev/null 2>&1; then
     zenity --info --title="Publish review" --text="$message" >/dev/null 2>&1
   elif command -v notify-send >/dev/null 2>&1; then
     notify-send "Publish review" "$message" >/dev/null 2>&1
+  fi
+}
+
+# Asks whether to carry on. Succeeds if the answer is yes. When there is no
+# terminal and no dialog tool to ask with, it carries on, since the warnings
+# have already been printed.
+confirm() {
+  local message="$1"
+  printf '%s\n' "$message" >&2
+
+  if in_terminal; then
+    local answer
+    read -r -p "Publish anyway? [y/N] " answer
+    [[ "$answer" =~ ^[Yy] ]]
+  elif command -v kdialog >/dev/null 2>&1; then
+    kdialog --warningyesno "$message"$'\n\nPublish anyway?' --title "Publish review" >/dev/null 2>&1
+  elif command -v zenity >/dev/null 2>&1; then
+    zenity --question --title="Publish review" --text="$message"$'\n\nPublish anyway?' >/dev/null 2>&1
+  else
+    return 0
   fi
 }
 
@@ -45,6 +71,10 @@ fi
 
 cd "$REPO_DIR" || fail "Could not open the repository: $REPO_DIR"
 
+VALIDATOR="$REPO_DIR/tools/validate-review.js"
+[[ -f "$VALIDATOR" ]] || fail "Could not find the review checker: $VALIDATOR"
+command -v node >/dev/null 2>&1 || fail "Node.js was not found, so the review can't be checked. If Node comes from nvm, a script launched from a file manager may not see it; try running this from a terminal."
+
 POST_FILES=()
 if [[ $# -gt 0 ]]; then
   for POST_FILE in "$@"; do
@@ -52,57 +82,52 @@ if [[ $# -gt 0 ]]; then
     POST_FILES+=("$POST_FILE")
   done
 else
+  # Edited, staged and brand new posts. Deleted posts are left out.
   while IFS= read -r POST_FILE; do
     [[ -n "$POST_FILE" ]] && POST_FILES+=("$REPO_DIR/$POST_FILE")
-  done < <({ git diff --name-only -- src/posts; git ls-files --others --exclude-standard -- src/posts; } | sort -u)
+  done < <({
+    git diff --name-only --diff-filter=d -- src/posts
+    git diff --cached --name-only --diff-filter=d -- src/posts
+    git ls-files --others --exclude-standard -- src/posts
+  } | sort -u)
 fi
 
 if [[ ${#POST_FILES[@]} -eq 0 ]]; then
   fail "No changed review files found in src/posts."
 fi
 
+# The checker prints one tab-separated line per result: OK, WARN or ERROR,
+# then the file name, then the title or message.
+VALIDATION_OUTPUT="$(node "$VALIDATOR" "${POST_FILES[@]}" 2>&1)"
+VALIDATION_STATUS=$?
+
 TITLES=()
-VALID_VALIDATIONS=()
-VALIDATION_ERRORS=()
-for POST_FILE in "${POST_FILES[@]}"; do
-  if [[ ! -f "$POST_FILE" ]]; then
-    VALIDATION_ERRORS+=("$(basename "$POST_FILE") is missing from disk")
-    continue
-  fi
+ERRORS=()
+WARNINGS=()
+while IFS=$'\t' read -r KIND FILE_NAME MESSAGE; do
+  case "$KIND" in
+    OK)    TITLES+=("$MESSAGE") ;;
+    ERROR) ERRORS+=("$FILE_NAME: $MESSAGE") ;;
+    WARN)  WARNINGS+=("$FILE_NAME: $MESSAGE") ;;
+  esac
+done <<< "$VALIDATION_OUTPUT"
 
-  VALIDATION_OUTPUT="$(ruby -ryaml -rdate -e '
-    path = ARGV[0]
-    parts = File.read(path).split(/^---\s*$/, 3)
-    abort "Missing front matter in #{path}" unless parts.length >= 3
-    data = YAML.safe_load(parts[1], permitted_classes: [Date, Time]) || {}
-    required = %w[category layout title date rating meal address]
-    missing = required.reject { |key| !data[key].nil? && !data[key].to_s.strip.empty? }
-    abort "#{File.basename(path)} is missing front matter: #{missing.join(", ")}"
-' "$POST_FILE" 2>&1)"
-  if [[ $? -ne 0 ]]; then
-    VALIDATION_ERRORS+=("$VALIDATION_OUTPUT")
-    continue
-  fi
-
-  if grep -Fq '<!-- BEFORE PUBLISHING THIS REVIEW' "$POST_FILE"; then
-    VALIDATION_ERRORS+=("$(basename "$POST_FILE") still contains the writing instructions")
-    continue
-  fi
-
-  TITLE="$(ruby -ryaml -rdate -e '
-    parts = File.read(ARGV[0]).split(/^---\s*$/, 3)
-    print((YAML.safe_load(parts[1], permitted_classes: [Date, Time]) || {})["title"])
-  ' "$POST_FILE")"
-  TITLES+=("$TITLE")
-  VALID_VALIDATIONS+=("$POST_FILE")
-done
-
-if [[ ${#VALIDATION_ERRORS[@]} -gt 0 ]]; then
-  printf -v COMBINED_VALIDATION_ERRORS '%s\n' "${VALIDATION_ERRORS[@]}"
-  fail "Front matter needs attention before publishing:${COMBINED_VALIDATION_ERRORS:+$'\n'}${COMBINED_VALIDATION_ERRORS%$'\n'}"
+if [[ ${#ERRORS[@]} -gt 0 ]]; then
+  printf -v COMBINED_ERRORS '%s\n' "${ERRORS[@]}"
+  fail "Reviews need attention before publishing:"$'\n'"${COMBINED_ERRORS%$'\n'}"
+elif [[ $VALIDATION_STATUS -ne 0 ]]; then
+  fail "The review checker failed:"$'\n'"$VALIDATION_OUTPUT"
 fi
 
-for POST_FILE in "${VALID_VALIDATIONS[@]}"; do
+if [[ ${#WARNINGS[@]} -gt 0 ]]; then
+  printf -v COMBINED_WARNINGS '%s\n' "${WARNINGS[@]}"
+  if ! confirm "Please check these before publishing:"$'\n'"${COMBINED_WARNINGS%$'\n'}"; then
+    printf 'Publishing cancelled. Nothing was committed.\n'
+    exit 1
+  fi
+fi
+
+for POST_FILE in "${POST_FILES[@]}"; do
   git add -- "$POST_FILE" || fail "Git could not stage $(basename "$POST_FILE")."
 done
 
@@ -110,23 +135,23 @@ if git diff --cached --quiet -- src/posts; then
   fail "There are no review changes to publish."
 fi
 
+# The pre-commit hook runs here. It renames the draft to match its date and
+# title, looks up any new address, and refreshes the map files.
 if [[ ${#POST_FILES[@]} -eq 1 ]]; then
+  SUMMARY="${TITLES[0]}"
   COMMIT_MESSAGE="Publish ${TITLES[0]}"
 else
+  SUMMARY="${#POST_FILES[@]} reviews"
   COMMIT_MESSAGE="Publish ${#POST_FILES[@]} reviews"
 fi
 COMMIT_OUTPUT="$(git commit -m "$COMMIT_MESSAGE" 2>&1)" || fail "$COMMIT_OUTPUT"
+
 BRANCH="$(git branch --show-current)"
 if [[ -z "$BRANCH" ]]; then
-  fail "Cannot push: HEAD is not on a branch."
+  fail "The review was committed, but it can't be pushed because HEAD is not on a branch."
 fi
 
-PUSH_OUTPUT="$(git push origin "$BRANCH" 2>&1)" || fail "$PUSH_OUTPUT"
+PUSH_OUTPUT="$(git push origin "$BRANCH" 2>&1)" || fail "The review was committed locally but the push failed:"$'\n'"$PUSH_OUTPUT"
 printf '%s\n' "$PUSH_OUTPUT"
-if [[ ${#POST_FILES[@]} -eq 1 ]]; then
-  SUMMARY="${TITLES[0]}"
-else
-  SUMMARY="${#POST_FILES[@]} reviews"
-fi
 printf 'Published %s to %s.\n' "$SUMMARY" "$BRANCH"
 notify "Published $SUMMARY to $BRANCH."
