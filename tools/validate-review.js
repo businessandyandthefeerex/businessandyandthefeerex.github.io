@@ -14,6 +14,8 @@ const path = require("path");
 const matter = require("gray-matter");
 
 const POSTS_DIR = path.join(__dirname, "..", "src", "posts");
+const SITE_ORIGIN = "https://businessandyandthefeerex.co.nz";
+const SITE_HOSTNAME = new URL(SITE_ORIGIN).hostname;
 
 const REQUIRED = [
   "category", "layout", "title", "date", "rating",
@@ -55,7 +57,101 @@ function loadKnownValues(skip) {
   return known;
 }
 
-function check(file, known) {
+function loadReviewSlugs() {
+  if (!fs.existsSync(POSTS_DIR)) return new Set();
+  return new Set(
+    fs.readdirSync(POSTS_DIR)
+      .filter((name) => name.endsWith(".md"))
+      .map((name) => name.slice(0, -3))
+  );
+}
+
+function checkLinks(content, reviewSlugs) {
+  const errors = [];
+  let inFence = false;
+  let lineNumber = 0;
+
+  for (const line of content.split(/\r?\n/)) {
+    lineNumber += 1;
+    const fence = line.match(/^\s*(```+|~~~+)/);
+    if (fence) {
+      inFence = !inFence;
+      continue;
+    }
+    if (inFence) continue;
+
+    for (let index = 0; index < line.length; index += 1) {
+      if (line[index] !== "[" || (index > 0 && line[index - 1] === "\\")) continue;
+
+      const labelEnd = line.indexOf("]", index + 1);
+      if (labelEnd === -1 || line[labelEnd + 1] !== "(") continue;
+
+      let end = labelEnd + 2;
+      let depth = 1;
+      for (; end < line.length && depth > 0; end += 1) {
+        if (line[end] === "\\" && end + 1 < line.length) {
+          end += 1;
+        } else if (line[end] === "(") {
+          depth += 1;
+        } else if (line[end] === ")") {
+          depth -= 1;
+        }
+      }
+
+      const fail = (reason) => errors.push(`link on line ${lineNumber} ${reason}`);
+      if (depth !== 0) {
+        fail("is missing a closing \")\"");
+        continue;
+      }
+
+      const targetAndTitle = line.slice(labelEnd + 2, end - 1).trim();
+      const targetMatch = targetAndTitle.match(
+        /^(?:<([^<>]*)>|(\S+))(?:\s+(?:"[^"]*"|'[^']*'|\([^)]*\)))?$/
+      );
+      if (!targetMatch) {
+        fail("has an empty or malformed destination");
+        continue;
+      }
+
+      const destination = targetMatch[1] ?? targetMatch[2];
+      if (/\s/.test(destination)) {
+        fail(`has whitespace in its destination "${destination}"`);
+        continue;
+      }
+
+      try {
+        const url = new URL(destination, SITE_ORIGIN);
+        if (!["http:", "https:", "mailto:", "tel:"].includes(url.protocol)) {
+          fail(`uses an unsupported URL scheme "${url.protocol}"`);
+        } else if (
+          url.pathname.startsWith("/posts/") &&
+          (destination.startsWith("/") ||
+            (/^https?:\/\//i.test(destination) && url.hostname === SITE_HOSTNAME))
+        ) {
+          const reviewPath = url.pathname.match(/^\/posts\/([^/]+)\/?$/);
+          let slug = "";
+          try {
+            slug = reviewPath ? decodeURIComponent(reviewPath[1]) : "";
+          } catch {
+            fail(`has an invalid review URL "${destination}"`);
+            index = end - 1;
+            continue;
+          }
+          if (!slug || !reviewSlugs.has(slug)) {
+            fail(`points to a review that does not exist "${destination}"`);
+          }
+        }
+      } catch {
+        fail(`has an invalid destination "${destination}"`);
+      }
+      index = end - 1;
+    }
+  }
+
+  return errors;
+}
+
+function check(file, known, reviewSlugs) {
   const errors = [];
   const warnings = [];
   
@@ -149,6 +245,7 @@ function check(file, known) {
   } else if (content.trim().length < MIN_BODY_LENGTH) {
     errors.push("the review text is empty or very short");
   }
+  errors.push(...checkLinks(content, reviewSlugs));
   
   return { errors, warnings, title: text(data.title) };
 }
@@ -160,12 +257,13 @@ if (files.length === 0) {
 }
 
 const known = loadKnownValues(new Set(files));
+const reviewSlugs = loadReviewSlugs();
 const line = (kind, file, message) =>
   console.log([kind, path.basename(file), String(message).replace(/\s+/g, " ")].join("\t"));
 
 let failed = false;
 for (const file of files) {
-  const { errors, warnings, title } = check(file, known);
+  const { errors, warnings, title } = check(file, known, reviewSlugs);
   errors.forEach((message) => line("ERROR", file, message));
   warnings.forEach((message) => line("WARN", file, message));
   if (errors.length) failed = true;
