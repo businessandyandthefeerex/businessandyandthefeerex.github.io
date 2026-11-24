@@ -66,10 +66,10 @@ function loadReviewSlugs() {
   );
 }
 
-function checkLinks(content, reviewSlugs) {
+function checkLinks(content, reviewSlugs, firstLineNumber) {
   const errors = [];
   let inFence = false;
-  let lineNumber = 0;
+  let lineNumber = firstLineNumber - 1;
 
   for (const line of content.split(/\r?\n/)) {
     lineNumber += 1;
@@ -98,7 +98,7 @@ function checkLinks(content, reviewSlugs) {
         }
       }
 
-      const fail = (reason) => errors.push(`link on line ${lineNumber} ${reason}`);
+      const fail = (reason) => errors.push(`line ${lineNumber}: link ${reason}`);
       if (depth !== 0) {
         fail("is missing a closing \")\"");
         continue;
@@ -160,21 +160,38 @@ function check(file, known, reviewSlugs) {
   }
   
   const raw = fs.readFileSync(file, "utf8");
+  const rawLines = raw.split(/\r?\n/);
   if (!/^---[ \t]*\r?\n/.test(raw)) {
     return {
-      errors: ["missing front matter (the file must start with a --- line)"],
+      errors: ["line 1: missing front matter (the file must start with a --- line)"],
       warnings,
       title: "",
     };
   }
+
+  const closingFrontMatterIndex = rawLines.findIndex(
+    (line, index) => index > 0 && /^---[ \t]*$/.test(line)
+  );
+  const frontMatterEndLine = closingFrontMatterIndex === -1
+    ? rawLines.length
+    : closingFrontMatterIndex + 1;
+  const bodyStartLine = frontMatterEndLine + 1;
+  const lineForField = (field) => {
+    const index = rawLines.findIndex((line, lineIndex) =>
+      lineIndex > 0 && lineIndex < frontMatterEndLine &&
+      new RegExp(`^\\s*${field}\\s*:`).test(line)
+    );
+    return index === -1 ? frontMatterEndLine : index + 1;
+  };
+  const atLine = (line, message) => `line ${line}: ${message}`;
   
   let parsed;
   try {
     parsed = matter(raw);
   } catch (error) {
-    const line = error.mark ? ` near line ${error.mark.line + 2}` : "";
+    const line = error.mark ? error.mark.line + 1 : 1;
     return {
-      errors: [`front matter is not valid YAML${line}: ${error.reason || error.message}`],
+      errors: [atLine(line, `front matter is not valid YAML: ${error.reason || error.message}`)],
       warnings,
       title: "",
     };
@@ -183,11 +200,19 @@ function check(file, known, reviewSlugs) {
   
   // Required fields
   const missing = REQUIRED.filter((key) => !text(data[key]));
-  if (missing.length) errors.push(`missing front matter: ${missing.join(", ")}`);
+  if (missing.length) {
+    errors.push(atLine(
+      frontMatterEndLine,
+      `add these missing details above this line: ${missing.join(", ")}`
+    ));
+  }
   
   // The title has to be text, because it becomes the filename and the page title.
   if (text(data.title) && typeof data.title !== "string") {
-    errors.push(`title "${data.title}" is read as a number or date, so put quote marks around it`);
+    errors.push(atLine(
+      lineForField("title"),
+      `title "${data.title}" is read as a number or date, so put quote marks around it`
+    ));
   }
   
   // Date
@@ -195,9 +220,15 @@ function check(file, known, reviewSlugs) {
     const date = data.date instanceof Date ? data.date : new Date(text(data.date));
     const looksRight = data.date instanceof Date || /^\d{4}-\d{2}-\d{2}/.test(text(data.date));
     if (!looksRight || Number.isNaN(date.getTime())) {
-      errors.push(`date "${text(data.date)}" is not a valid yyyy-mm-dd date`);
+      errors.push(atLine(
+        lineForField("date"),
+        `date "${text(data.date)}" is not a valid yyyy-mm-dd date`
+      ));
     } else if (date.getTime() > Date.now() + 2 * 24 * 60 * 60 * 1000) {
-      warnings.push(`date ${date.toISOString().slice(0, 10)} is in the future`);
+      warnings.push(atLine(
+        lineForField("date"),
+        `date ${date.toISOString().slice(0, 10)} is in the future`
+      ));
     }
   }
   
@@ -205,23 +236,40 @@ function check(file, known, reviewSlugs) {
   if (text(data.rating)) {
     const rating = Number(data.rating);
     if (!Number.isInteger(rating) || rating < RATING_MIN || rating > RATING_MAX) {
-      errors.push(`rating "${text(data.rating)}" should be a whole number from ${RATING_MIN} to ${RATING_MAX}`);
+      errors.push(atLine(
+        lineForField("rating"),
+        `rating "${text(data.rating)}" should be a whole number from ${RATING_MIN} to ${RATING_MAX}`
+      ));
     }
   }
   
   // Website: the site silently shows "has no website" for anything that isn't http(s)
   const website = text(data.website);
   if (website && !/^https?:\/\//i.test(website)) {
-    errors.push(`website "${website}" must start with http:// or https://`);
+    errors.push(atLine(
+      lineForField("website"),
+      `website "${website}" must start with http:// or https://`
+    ));
   }
   
   // Dishes
   if (typeof data.dishes === "string" && data.dishes.trim()) {
-    errors.push("dishes must be a list, with one \"- dish\" per line");
+    errors.push(atLine(
+      lineForField("dishes"),
+      "dishes must be a list, with one \"- dish\" per line"
+    ));
   } else if (!Array.isArray(data.dishes) || data.dishes.length === 0) {
-    errors.push("dishes list is empty");
+    errors.push(atLine(lineForField("dishes"), "dishes list is empty"));
   } else if (data.dishes.some((dish) => !text(dish))) {
-    errors.push("dishes has an empty entry (a lone \"-\" line)");
+    const emptyDishIndex = rawLines.findIndex((line, index) =>
+      index + 1 >= lineForField("dishes") &&
+      index + 1 < frontMatterEndLine &&
+      /^\s*-\s*$/.test(line)
+    );
+    errors.push(atLine(
+      emptyDishIndex === -1 ? lineForField("dishes") : emptyDishIndex + 1,
+      "dishes has an empty entry (a lone \"-\" line)"
+    ));
   }
   
   // Location and meal values compared with the existing posts
@@ -233,19 +281,27 @@ function check(file, known, reviewSlugs) {
       (existing) => existing.toLowerCase() === value.toLowerCase()
     );
     if (sameLetters) {
-      errors.push(`${field} "${value}" differs only in capitalisation from the existing "${sameLetters}"`);
+      errors.push(atLine(
+        lineForField(field),
+        `${field} "${value}" differs only in capitalisation from the existing "${sameLetters}"`
+      ));
     } else {
-      warnings.push(`${field} "${value}" hasn't been used in any other review, check the spelling`);
+      warnings.push(atLine(
+        lineForField(field),
+        `${field} "${value}" hasn't been used in any other review, check the spelling`
+      ));
     }
   }
   
   // Body
   if (content.includes(INSTRUCTIONS_MARKER)) {
-    errors.push("still contains the writing instructions");
+    const instructionsLine = content.split(/\r?\n/)
+      .findIndex((line) => line.includes(INSTRUCTIONS_MARKER));
+    errors.push(atLine(bodyStartLine + instructionsLine, "still contains the writing instructions"));
   } else if (content.trim().length < MIN_BODY_LENGTH) {
-    errors.push("the review text is empty or very short");
+    errors.push(atLine(bodyStartLine, "the review text is empty or very short"));
   }
-  errors.push(...checkLinks(content, reviewSlugs));
+  errors.push(...checkLinks(content, reviewSlugs, bodyStartLine));
   
   return { errors, warnings, title: text(data.title) };
 }
