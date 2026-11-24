@@ -50,33 +50,42 @@ suburb:
 address: 
 website: 
 dishes: 
-  -
+  - 
 ---
+<!-- END OF FRONT MATTER - REVIEW TEXT GOES BELOW HERE -->
+
+
 
 <!-- BEFORE PUBLISHING THIS REVIEW
 
-1. Fill in the front matter above:
-   - title: restaurant name
-   - rating: 1-4
-   - meal: usually breakfast, lunch or dinner
-   - region, city, suburb and address: restaurant location details
-   - website: restaurant website, or leave blank if unavailable
+1. The dishes go in a list under the dishes heading in the front 
+matter, each dish goes on its own line, starting with two spaces, 
+a dash and a space. For example:
 
-2. Add the dishes eaten, one per line. Start each dish with two spaces, a dash, and a space; the first one is already started for you. For example:
-  dishes:
-     - Fish and chips
-     - Roast chicken
+dishes:
+  - Fish and chips
+  - Roast chicken
 
-   Put quote marks around a dish if it contains the characters ": " or starts with a special character such as - or ?. For example:
-     - "Chef's special: fish"
-   A dash inside a normal dish does not need quotes, for example "Fish - chips".
+Put quote marks around a dish if it contains special characters 
+such as : or starts with a special character such as - or ?. For 
+example:
+  - "Chef's special: fish"
 
-3. To link to a previous review, use this format:
-   [Restaurant name](/posts/yyyy-mm-dd-restaurant-name/)
+2. Fill in the rest of the front matter above:
+  - title: restaurant name
+  - rating: 1-4
+  - meal: usually breakfast, lunch or dinner
+  - region, city, suburb and address: restaurant location details
+  - website: restaurant website, or leave blank if unavailable
 
-4. Write the review below this instruction block.
+3. Write the actual review in the blank space indicated above
 
-5. Delete this instruction block when the review is ready.
+4. To link to a previous review, use this format:
+[Restaurant name](/posts/yyyy-mm-dd-restaurant-name)
+just fill in the actual values for the date and name of the URL that 
+you are linking, and don't add a .md at the end of the link.
+
+5. You can delete this instruction block when the review is ready.
 -->
 
 EOF
