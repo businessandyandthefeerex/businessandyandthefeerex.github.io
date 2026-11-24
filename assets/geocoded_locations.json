@@ -3778,5 +3778,14 @@
     "lon": "174.7753028",
     "title": "Loretta",
     "rating": 4
+  },
+  {
+    "file": "2026-11-24-forage-kitchen--bar.md",
+    "address": "345 The Terrace, Te Aro, Wellington",
+    "country": "New Zealand",
+    "lat": "-41.2938015",
+    "lon": "174.7697464",
+    "title": "Forage Kitchen + Bar",
+    "rating": 2
   }
 ]
