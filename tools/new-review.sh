@@ -49,7 +49,7 @@ city:
 suburb: 
 address: 
 website: 
-dishes: 
+dishes: <!-- EACH DISH NEEDS TWO SPACES, A DASH AND A SPACE BEFORE IT, SEE BELOW -->
   - 
 ---
 <!-- END OF FRONT MATTER - REVIEW TEXT GOES BELOW HERE -->
